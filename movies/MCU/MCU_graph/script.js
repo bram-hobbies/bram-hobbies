@@ -393,6 +393,13 @@ var nodes = {
     // Moon Knight
     "Moon_Knight": {source: "Marc Spector - Moon Knight", icon: "./pics/moonknight/Marc_Spector.jpeg"},
 
+
+    // What If
+    //     Starring Cast
+    "Watcher": {source: "Uatu, The Watcher", icon: "./pics/whatif/Uatu_the_Watcher.png"},
+    "Captain_Carter": {source: "Peggy Carter - Captain Carter", icon: "./pics/whatif/Captain_Carter.jpeg"},
+
+
 };
 
 
@@ -944,7 +951,11 @@ var links = [
 
 
     // What if.....
+    {source: "Watcher", target: "WhatIf_Series"},
+    {source: "Captain_Carter", target: "WhatIf_Series"},
 
+    {source: "Watcher", target: "WhatIf2_Series"},
+    {source: "Captain_Carter", target: "WhatIf2_Series"},
 
     // Shang-Chi
 // "Shang_Chi_Movie": { name: "Shang-Chi & the Legend of the Ten Rings", icon: "./pics/movies/Shang_Chi.jpeg"},
@@ -1088,6 +1099,8 @@ var links = [
     {source: "WarMachine", target: "ArmorWars_Series"},
 
 
+    // I am Groot
+    {source: "Groot", target: "IamGroot_Series"},
 
 ];
 
