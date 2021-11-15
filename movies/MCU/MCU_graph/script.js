@@ -9,41 +9,67 @@ var avatar = "./pics/default.png";
 var nodes = {
 
     // The movies:
+
+    // Phase 1:
     "IronMan_Movie": {name: "Iron Man", icon: "./pics/movies/Iron_Man.jpeg"},
-    "IronMan2_Movie": {name: "Iron Man 2", icon: "./pics/movies/Iron_Man_2.jpeg"},
-    "IronMan3_Movie": {name: "Iron Man 3", icon: "./pics/movies/Iron_Man_3.jpeg"},
-    "Thor_Movie": { name: "Thor", icon: "./pics/movies/Thor.jpeg"},
     "Hulk_Movie": { name: "The Incredible Hulk", icon: "./pics/movies/TheIncredibleHulk.jpeg"},
+    "IronMan2_Movie": {name: "Iron Man 2", icon: "./pics/movies/Iron_Man_2.jpeg"},
+    "Thor_Movie": { name: "Thor", icon: "./pics/movies/Thor.jpeg"},
     "CaptainAmerica_Movie": { name: "Captain America: The First Avenger", icon: "./pics/movies/CaptainAmerica.jpeg"},
     "Avengers_Movie": { name: "The Avengers", icon: "./pics/movies/Avengers.jpeg"},
+
+    // Phase 2:
+    "IronMan3_Movie": {name: "Iron Man 3", icon: "./pics/movies/Iron_Man_3.jpeg"},
     "Thor2_Movie": { name: "Thor: The Dark World", icon: "./pics/movies/Thor_2.jpeg"},
     "CaptainAmerica2_Movie": { name: "Captain America: The Winter Soldier", icon: "./pics/movies/Captain_America_2.jpeg"},
     "Guardians_ot_Galaxy_Movie": { name: "Guardians of the Galaxy", icon: "./pics/movies/Guardians_ot_Galaxy.jpeg"},
     "Avengers2_Movie": { name: "Avengers: Age of Ultron", icon: "./pics/movies/Avengers_2.jpeg"},
     "AntMan_Movie": { name: "Ant-Man", icon: "./pics/movies/AntMan.png"},
+
+    // Phase 3:
     "CaptainAmerica3_Movie": { name: "Captain America: Civil War", icon: "./pics/movies/Captain_America_3.jpeg"},
-    "SpiderMan_Movie": { name: "Spider-Man: Homecoming", icon: "./pics/movies/Spider_Man.jpeg"},
-    "BlackPanther_Movie": { name: "Black Panther", icon: "./pics/movies/Black_Panther.jpeg"},
     "DoctorStrange_Movie": { name: "Doctor Strange", icon: "./pics/movies/DoctorStrange.jpeg"},
     "Guardians_ot_Galaxy2_Movie": { name: "Guardians of the Galaxy Vol. 2", icon: "./pics/movies/Guardians_ot_Galaxy_2.jpeg"},
+    "SpiderMan_Movie": { name: "Spider-Man: Homecoming", icon: "./pics/movies/Spider_Man.jpeg"},
     "Thor3_Movie": { name: "Thor: Ragnarok", icon: "./pics/movies/Thor_3.jpeg"},
+    "BlackPanther_Movie": { name: "Black Panther", icon: "./pics/movies/Black_Panther.jpeg"},
     "Avengers3_Movie": { name: "Avengers: Infinity War", icon: "./pics/movies/Avengers_3.jpeg"},
     "AntMan2_Movie": { name: "Ant-Man and the Wasp", icon: "./pics/movies/AntMan_2.jpeg"},
     "CaptainMarvel_Movie": { name: "Captain Marvel", icon: "./pics/movies/CaptainMarvel.jpeg"},
     "Avengers4_Movie": { name: "Avengers: Endgame", icon: "./pics/movies/Avengers_4.jpeg"},
     "SpiderMan2_Movie": { name: "Spider-Man: Far From Home", icon: "./pics/movies/Spider_Man_2.jpeg"},
+
+    // Phase 4:
     "WandaVision_Series": { name: "WandaVision", icon: "./pics/series/WandaVision.jpg"},
-    "FalconWinterSoldier_Series": { name: "The Falcon & The Winter Soldier", icon: "./pics/series/Falcon_and_the_Winter_Soldier.png"},
+    "FalconWinterSoldier_Series": { name: "The Falcon & The Winter Soldier", icon: "./pics/series/Falcon_and_the_Winter_Soldier.jpeg"},
     "Loki_Series": { name: "Loki", icon: "./pics/series/Loki.jpeg"},
     "BlackWidow_Movie": { name: "Black Widow", icon: "./pics/movies/Black_Widow.png"},
-    "Shang_Chi_Movie": { name: "Shang-Chi & the Legend of the Ten Rings", icon: "./pics/movies/Shang_Chi.jpeg"},
+    "WhatIf_Series": { name: "What if...", icon: "./pics/series/whatif_S1.jpeg"},
+    "Shang_Chi_Movie": { name: "Shang-Chi & the Legend of the Ten Rings", icon: "./pics/movies/Shang-Chi_movie.jpeg"},
     "Eternals_Movie": { name: "Eternals", icon: "./pics/movies/Eternals.jpeg"},
+
+    Unreleased:
+    "Hawkeye_Series": { name: "Hawkeye", icon: "./pics/series/hawkeye.jpeg"},
+    "Spider_Man_3_Movie": { name: "Spider-Man: No Way Home", icon: "./pics/movies/Spider_Man_3.jpeg"},
     "DoctorStrange_2_Movie": { name: "Doctor Strange in the Multiverse of Madness", icon: "./pics/movies/DoctorStrange_2.jpeg"},
+    "Thor_4_Movie": { name: "Thor: Love & Thunder", icon: "./pics/movies/Thor_4.jpeg"},
+    "Moonknight_Series": { name: "Moon Knight", icon: "./pics/series/moonknight.jpeg"},
+    "SheHulk_Series": { name: "She-Hulk", icon: "./pics/series/she-hulk.jpeg"},
+    "SecretInvasion_Series": { name: "Secret Invasion", icon: "./pics/series/secret_invasion.jpeg"},
+    "MsMarvel_Series": { name: "Ms. Marvel", icon: "./pics/series/msmarvel.jpeg"},
+
+    "IamGroot_Series": { name: "I am Groot", icon: "./pics/series/IamGroot.jpeg"},
+    "Ironheart_Series": { name: "Ironheart", icon: "./pics/series/ironheart.jpeg"},
+    "ArmorWars_Series": { name: "Armor Wars", icon: "./pics/series/Armor_Wars.jpeg"},
+
+    "Agatha_Series": { name: "Agatha, House of Harkness", icon: "./pics/series/agatha.jpeg"},
+    "Echo_Series": { name: "Echo", icon: "./pics/series/echo.jpeg"},
+    "Marvel_Zombies_Series": { name: "Marvel Zombies", icon: "./pics/series/marvel_zombies.jpeg"},
+    "WhatIf2_Series": { name: "What if... S2", icon: "./pics/series/whatif_S2.jpeg"},
+
     "BlackPanther_2_Movie": { name: "Black Panther: Wakanda Forever", icon: "./pics/movies/Black_Panther_2.jpeg"},
     "AntMan_3_Movie": { name: "Ant-Man & The Wasp: Quantumania", icon: "./pics/movies/AntMan_3.jpeg"},
-    "Spider_Man_3_Movie": { name: "Spider-Man: No Way Home", icon: "./pics/movies/Spider_Man_3.png"},
     "The_Marvels_Movie": { name: "The Marvels", icon: "./pics/movies/The_Marvels.jpeg"},
-    "Thor_4_Movie": { name: "Thor: Love & Thunder", icon: "./pics/movies/Thor_4.jpeg"},
     // "_Movie": { name: "", icon: "./pics/movies/"},
     // "_Movie": { name: "", icon: "./pics/movies/"},
     // "_Movie": { name: "", icon: "./pics/movies/"},
@@ -104,7 +130,6 @@ var nodes = {
     "Falcon": {name: "Sam Wilson - Falcon", icon: "./pics/captain_america/Falcon.png"},
     "Crossbones": {name: "Brock Rumlow - Crossbones", icon: "./pics/captain_america/Crossbones.jpeg"},
     "SharonCarter": {name: "Sharon Carter", icon: "./pics/falcon_winter/Sharon_Carter.png"},
-    // "SharonCarter": {name: "Sharon Carter", icon: "./pics/captain_america/SharonCarter.png"},
     "JackRollins": {name: "Jack Rollins", icon: "./pics/captain_america/JackRollins.png"},
     "Hawley": {name: "Hawley", icon: "./pics/captain_america/Hawley.png"},
     "Stern": {name: "Stern", icon: "./pics/iron_man/Stern.png"},
@@ -113,9 +138,6 @@ var nodes = {
     "Zemo": {name: "Helmut Zemo", icon: "./pics/falcon_winter/Baron_Zemo.png"},
     "MariaStarke": {name: "MariaStarke", icon: "./pics/iron_man/MariaStarke.png"},
     "EverettRoss": {name: "Everett Ross", icon: "./pics/captain_america/EverettRoss.jpeg"},
-    // "": {name: "", icon: "./pics/captain_america/.jpeg"},
-    // "": {name: "", icon: "./pics/captain_america/.jpeg"},
-    // "": {name: "", icon: "./pics/captain_america/.jpeg"},
     "Quicksilver": {name: "Pietro Maximoff - Quicksilver", icon: "./pics/Quicksilver.jpeg"},
     "ScarletWitch": {name: "Wanda Maximoff - Scarlet Witch", icon: "./pics/ScarletWitch.jpeg"},
 
@@ -243,7 +265,6 @@ var nodes = {
     "Zuri": {name: "Zuri", icon: "./pics/black_panther/Zuri.jpeg"},
     "NJobu": {name: "N'Jobu", icon: "./pics/black_panther/NJobu.png"},
     "Ayo": {name: "Ayo", icon: "./pics/falcon_winter/Ayo.jpeg"},
-    // "Ayo": {name: "Ayo", icon: "./pics/black_panther/Ayo.jpeg"},
     "TChaka": {name: "T'Chaka", icon: "./pics/black_panther/TChaka.png"},
     "Yama": {name: "Yama", icon: "./pics/black_panther/Yama.png"},
     "Nomble": {name: "Nomble", icon: "./pics/black_panther/Nomble.png"},
@@ -276,33 +297,13 @@ var nodes = {
     "Soren": {name: "Soren", icon: "./pics/captain_marvel/Soren.png"},
     "Goose": {name: "Goose", icon: "./pics/captain_marvel/Goose.jpeg"},
 
-
-
-
     "MorganStark": {name: "MorganStark", icon: "./pics/avengers/MorganStark.png"},
     "EdwinJarvis": {name: "Edwin Jarvis", icon: "./pics/avengers/EdwinJarvis.png"},
 
 
     // WandaVision
-    //     Teyonah Parris as Monica Rambeau/"Geraldine"
-    // Evan Peters as Ralph Bohner/"Pietro Maximoff"
-    // Randall Park as Jimmy Woo
-    // Kat Dennings as Darcy Lewis
     "Agnes": {name: "Agatha Harkness \/ Agnes", icon: "./pics/wandavision/Agatha_Harkness.jpeg"},
     "TylerHayward": {name: "Tyler Hayward", icon: "./pics/wandavision/Tyler_Hayward.png"},
-
-    // Debra Jo Rupp as Sharon Davis/"Mrs. Hart"
-    // Fred Melamed as Todd Davis/"Arthur Hart"
-    // Asif Ali as Abilash Tandon/"Norm"
-    // David Lengel as Harold Proctor/"Phil Jones"
-    // Amos Glick as "Dennis"
-    // Emma Caulfield Ford as Sarah Proctor/"Dottie Jones"
-    // Jolene Purdy as Isabel Matsueda/"Beverly"
-    // David Payton as John Collins/"Herb"
-    // Selena Anduze as Agent Rodriguez
-    // Alan Heckner as Agent Monti
-    // Julian Hilliard as Billy Maximoff
-    // Jett Klyne as Tommy Maximoff
 
 
     // Falcon & The Winter Soldier
@@ -374,7 +375,23 @@ var nodes = {
     "Sandman": {source: "Flint Marko - Sandman", icon: "./pics/spiderman/Sandman.jpeg"},
     "Electro": {source: "Max Dillon - Electro", icon: "./pics/spiderman/Electro.jpeg"},
 
+    // Hawkeye
+    "Kate_Bishop": {source: "Kate Bishop", icon: "./pics/hawkeye/KateBishop.jpeg"},
+    "Eleanor_Bishop": {source: "Eleanor Bishop", icon: "./pics/hawkeye/Eleanor_Bishop.png"},
+    "Echo": {source: "Maya Lopez - Echo", icon: "./pics/hawkeye/Echo.png"},
 
+    // She-Hulk
+    "She_Hulk": {source: "Jennifer Walters - She-Hulk", icon: "./pics/shehulk/shehulk.png"},
+
+
+    // Ms Marvel
+    "Ms_Marvel": {source: "Kamala Khan - Ms. Marvel", icon: "./pics/msmarvel/Kamala.jpeg"},
+
+    // Agatha, House of Harkness
+
+
+    // Moon Knight
+    "Moon_Knight": {source: "Marc Spector - Moon Knight", icon: "./pics/moonknight/Marc_Spector.jpeg"},
 
 };
 
@@ -879,10 +896,6 @@ var links = [
     {source: "TylerHayward", target: "WandaVision_Series"},
     {source: "MonicaRambeau", target: "WandaVision_Series"},
 
-
-
-
-// TODO:
     // Falcon & The Winter Soldier
     {source: "Falcon", target: "FalconWinterSoldier_Series"},
     {source: "WinterSoldier", target: "FalconWinterSoldier_Series"},
@@ -963,6 +976,16 @@ var links = [
     {source: "Karun", target: "Eternals_Movie"},
     {source: "General_Kro", target: "Eternals_Movie"},
 
+    // Hawkeye
+    {source: "Hawkeye", target: "Hawkeye_Series"},
+    {source: "Kate_Bishop", target: "Hawkeye_Series"},
+    {source: "Eleanor_Bishop", target: "Hawkeye_Series"},
+    {source: "Echo", target: "Hawkeye_Series"},
+    {source: "YelenaBelova", target: "Hawkeye_Series"},
+    {source: "LauraBarton", target: "Hawkeye_Series"},
+    {source: "LilaBarton", target: "Hawkeye_Series"},
+    {source: "CooperBarton", target: "Hawkeye_Series"},
+    {source: "NathanielBarton", target: "Hawkeye_Series"},
 
 
 // "DoctorStrange_2_Movie": { name: "Doctor Strange in the Multiverse of Madness", icon: "./pics/movies/DoctorStrange_2.jpeg"},
@@ -1013,11 +1036,19 @@ var links = [
     {source: "Green_Goblin", target: "Spider_Man_3_Movie"},
     {source: "Wong", target: "Spider_Man_3_Movie"},
 
+    // She-Hulk Series
+    {source: "She_Hulk", target: "SheHulk_Series"},
+    {source: "Hulk", target: "SheHulk_Series"},
+    {source: "Abomination", target: "SheHulk_Series"},
 
+    // Ms. Marvel
+    {source: "Ms_Marvel", target: "MsMarvel_Series"},
 
 
 // "The_Marvels_Movie": { name: "The Marvels", icon: "./pics/movies/The_Marvels.jpeg"},
     {source: "CaptainMarvel", target: "The_Marvels_Movie"},
+    {source: "Ms_Marvel", target: "The_Marvels_Movie"},
+    {source: "MonicaRambeau", target: "The_Marvels_Movie"},
 
 
 
@@ -1038,6 +1069,24 @@ var links = [
     {source: "Miek", target: "Thor_4_Movie"},
     // {source: "Gorr", target: "Thor_4_Movie"},
     // {source: "Zeus", target: "Thor_4_Movie"},
+
+
+    // Agatha_Series
+    {source: "Agnes", target: "Agatha_Series"},
+
+    // Echo_Series
+    {source: "Echo", target: "Echo_Series"},
+
+
+    // Secret Invasion
+    {source: "NickFury", target: "SecretInvasion_Series"},
+
+    // Moonknight
+    {source: "Moon_Knight", target: "Moonknight_Series"},
+
+    // Armor Wars
+    {source: "WarMachine", target: "ArmorWars_Series"},
+
 
 
 ];
