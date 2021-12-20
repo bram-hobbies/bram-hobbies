@@ -378,7 +378,22 @@ var nodes = {
     // Hawkeye
     "Kate_Bishop": {source: "Kate Bishop", icon: "./pics/hawkeye/KateBishop.jpeg"},
     "Eleanor_Bishop": {source: "Eleanor Bishop", icon: "./pics/hawkeye/Eleanor_Bishop.png"},
-    "Echo": {source: "Maya Lopez - Echo", icon: "./pics/hawkeye/Echo.png"},
+    "Derek_Bishop": {source: "Derek Bishop", icon: "./pics/hawkeye/Derek_Bishop.png"},
+    "Echo": {source: "Maya Lopez - Echo", icon: "./pics/hawkeye/Echo.jpeg"},
+    "Jack_Duquesne": {source: "Jack Duquesne", icon: "./pics/hawkeye/Jack_Duquesne.jpeg"},
+    "Armand_Duquesne": {source: "Armand Duquesne III", icon: "./pics/hawkeye/Armand_Duquesne.png"},
+    "Kazi": {source: "Kazimierz Kazimierczak - Clown", icon: "./pics/hawkeye/Clown.jpeg"},
+    "Kingpin": {source: "Wilson Fisk - Kingpin", icon: "./pics/hawkeye/Kingpin.jpeg"},
+    "Ivan_Banionis": {source: "Ivan Banionis", icon: "./pics/hawkeye/Ivan_Banionis.png"},
+    "Tomas": {source: "Tomas", icon: "./pics/hawkeye/Tomas.png"},
+    "William_Lopez": {source: "William Lopez", icon: "./pics/hawkeye/William_Lopez.png"},
+    "Enrique": {source: "Enrique", icon: "./pics/hawkeye/Enrique.png"},
+    "Grills": {source: "Grills", icon: "./pics/hawkeye/Grills.png"},
+
+
+
+
+
 
     // She-Hulk
     "She_Hulk": {source: "Jennifer Walters - She-Hulk", icon: "./pics/shehulk/shehulk.png"},
@@ -398,6 +413,37 @@ var nodes = {
     //     Starring Cast
     "Watcher": {source: "Uatu, The Watcher", icon: "./pics/whatif/Uatu_the_Watcher.png"},
     "Captain_Carter": {source: "Peggy Carter - Captain Carter", icon: "./pics/whatif/Captain_Carter.jpeg"},
+
+
+    // Netflix
+
+    // Daredevil
+    "Daredevil_Series": {source: "Daredevil", icon: "./pics/netflix/series/Daredevil.png"},
+    "Daredevil": {source: "Matt Murdock - Daredevil", icon: "./pics/netflix/daredevil/Daredevil.jpeg"},
+    "Punisher": {source: "Frank Castle - Punisher", icon: "./pics/netflix/daredevil/Punisher.jpeg"},
+    "Claire_Temple": {source: "Claire Temple", icon: "./pics/netflix/daredevil/Claire_Temple.png"},
+    "Karen_Page": {source: "Karen Page", icon: "./pics/netflix/daredevil/Karen_Page.png"},
+
+    // Jessica Jones
+    "Jessica_Jones_Series": {source: "Jessica Jones", icon: "./pics/netflix/series/Jessica_Jones.png"},
+    "Jessica_Jones": {source: "Jessica Jones", icon: "./pics/netflix/jessica_jones/Jessica_Jones.png"},
+    "Kilgrave": {source: "Kilgrave", icon: "./pics/netflix/jessica_jones/Kilgrave.jpeg"},
+    "Malcolm_Ducasse": {source: "Malcolm Ducasse", icon: "./pics/netflix/jessica_jones/Malcolm_Ducasse.jpeg"},
+
+
+    "Luke_Cage_Series": {source: "Luke Cage", icon: "./pics/netflix/series/Luke_Cage.jpeg"},
+    "Luke_Cage": {source: "Luke Cage", icon: "./pics/netflix/luke_cage/Luke_cage.png"},
+    "Cottonmouth": {source: "Cottonmouth", icon: "./pics/netflix/luke_cage/Cottonmouth.jpeg"},
+    "Misty_Knight": {source: "Misty Knight", icon: "./pics/netflix/luke_cage/Misty_knight.png"},
+    "Shades": {source: "Shades", icon: "./pics/netflix/luke_cage/Shades.png"},
+    "Black_Mariah": {source: "Black Mariah", icon: "./pics/netflix/luke_cage/Black_Mariah.png"},
+
+    "Iron_Fist_Series": {source: "Danny Rand - Iron Fist", icon: "./pics/netflix/series/Iron_Fist.jpeg"},
+    "Iron_Fist": {source: "Danny Rand - Iron Fist", icon: "./pics/netflix/iron_fist/Iron_Fist.jpeg"},
+    "Colleen_Wing": {source: "Colleen Wing", icon: "./pics/netflix/iron_fist/Colleen_Wing.jpeg"},
+
+    "Punisher_Series": {source: "Punisher", icon: "./pics/netflix/series/Punisher.png"},
+    "Defenders_Series": {source: "Defenders", icon: "./pics/netflix/series/Defenders.jpeg"},
 
 
 };
@@ -997,7 +1043,35 @@ var links = [
     {source: "LilaBarton", target: "Hawkeye_Series"},
     {source: "CooperBarton", target: "Hawkeye_Series"},
     {source: "NathanielBarton", target: "Hawkeye_Series"},
+    {source: "Derek_Bishop", target: "Hawkeye_Series"},
+    {source: "Jack_Duquesne", target: "Hawkeye_Series"},
+    {source: "Armand_Duquesne", target: "Hawkeye_Series"},
+    {source: "Kazi", target: "Hawkeye_Series"},
+    {source: "Kingpin", target: "Hawkeye_Series"},
+    {source: "Ivan_Banionis", target: "Hawkeye_Series"},
+    {source: "Tomas", target: "Hawkeye_Series"},
+    {source: "William_Lopez", target: "Hawkeye_Series"},
+    {source: "Enrique", target: "Hawkeye_Series"},
+    {source: "Grills", target: "Hawkeye_Series"},
 
+// "Spider_Man_3_Movie": { name: "Spider-Man: No Way Home", icon: "./pics/movies/Spider_Man_3.png"},
+    {source: "SpiderMan", target: "Spider_Man_3_Movie"},
+    {source: "MichelleJones", target: "Spider_Man_3_Movie"},
+    {source: "DoctorStrange", target: "Spider_Man_3_Movie"},
+    {source: "HappyHogan", target: "Spider_Man_3_Movie"},
+    {source: "NedLeeds", target: "Spider_Man_3_Movie"},
+    {source: "MayParker", target: "Spider_Man_3_Movie"},
+    {source: "FlashThompson", target: "Spider_Man_3_Movie"},
+    {source: "BettyBrant", target: "Spider_Man_3_Movie"},
+    {source: "AndreWilson", target: "Spider_Man_3_Movie"},
+    {source: "RogerHarrington", target: "Spider_Man_3_Movie"},
+    {source: "JJonahJameson", target: "Spider_Man_3_Movie"},
+    {source: "JuliusDell", target: "Spider_Man_3_Movie"},
+    {source: "Electro", target: "Spider_Man_3_Movie"},
+    {source: "Doctor_Octopus", target: "Spider_Man_3_Movie"},
+    {source: "Sandman", target: "Spider_Man_3_Movie"},
+    {source: "Green_Goblin", target: "Spider_Man_3_Movie"},
+    {source: "Wong", target: "Spider_Man_3_Movie"},
 
 // "DoctorStrange_2_Movie": { name: "Doctor Strange in the Multiverse of Madness", icon: "./pics/movies/DoctorStrange_2.jpeg"},
     {source: "DoctorStrange", target: "DoctorStrange_2_Movie"},
@@ -1028,24 +1102,6 @@ var links = [
     {source: "JimPaxton", target: "AntMan_3_Movie"},
     {source: "Kang", target: "AntMan_3_Movie"},
 
-// "Spider_Man_3_Movie": { name: "Spider-Man: No Way Home", icon: "./pics/movies/Spider_Man_3.png"},
-    {source: "SpiderMan", target: "Spider_Man_3_Movie"},
-    {source: "MichelleJones", target: "Spider_Man_3_Movie"},
-    {source: "DoctorStrange", target: "Spider_Man_3_Movie"},
-    {source: "HappyHogan", target: "Spider_Man_3_Movie"},
-    {source: "NedLeeds", target: "Spider_Man_3_Movie"},
-    {source: "MayParker", target: "Spider_Man_3_Movie"},
-    {source: "FlashThompson", target: "Spider_Man_3_Movie"},
-    {source: "BettyBrant", target: "Spider_Man_3_Movie"},
-    {source: "AndreWilson", target: "Spider_Man_3_Movie"},
-    {source: "RogerHarrington", target: "Spider_Man_3_Movie"},
-    {source: "JJonahJameson", target: "Spider_Man_3_Movie"},
-    {source: "JuliusDell", target: "Spider_Man_3_Movie"},
-    {source: "Electro", target: "Spider_Man_3_Movie"},
-    {source: "Doctor_Octopus", target: "Spider_Man_3_Movie"},
-    {source: "Sandman", target: "Spider_Man_3_Movie"},
-    {source: "Green_Goblin", target: "Spider_Man_3_Movie"},
-    {source: "Wong", target: "Spider_Man_3_Movie"},
 
     // She-Hulk Series
     {source: "She_Hulk", target: "SheHulk_Series"},
@@ -1101,6 +1157,53 @@ var links = [
 
     // I am Groot
     {source: "Groot", target: "IamGroot_Series"},
+
+
+    // Netflix
+    // Daredevil
+    {source: "Daredevil", target: "Daredevil_Series"},
+    {source: "Karen_Page", target: "Daredevil_Series"},
+    {source: "Punisher", target: "Daredevil_Series"},
+    {source: "Kingpin", target: "Daredevil_Series"},
+    {source: "Claire_Temple", target: "Daredevil_Series"},
+
+    // Jessica Jones
+    {source: "Jessica_Jones", target: "Jessica_Jones_Series"},
+    {source: "Luke_Cage", target: "Jessica_Jones_Series"},
+    {source: "Claire_Temple", target: "Jessica_Jones_Series"},
+    {source: "Kilgrave", target: "Jessica_Jones_Series"},
+    {source: "Malcolm_Ducasse", target: "Jessica_Jones_Series"},
+
+    // Luke Cage
+    {source: "Luke_Cage", target: "Luke_Cage_Series"},
+    {source: "Claire_Temple", target: "Luke_Cage_Series"},
+    {source: "Cottonmouth", target: "Luke_Cage_Series"},
+    {source: "Misty_Knight", target: "Luke_Cage_Series"},
+    {source: "Shades", target: "Luke_Cage_Series"},
+    {source: "Black_Mariah", target: "Luke_Cage_Series"},
+    {source: "Iron_Fist", target: "Luke_Cage_Series"},
+    {source: "Colleen_Wing", target: "Luke_Cage_Series"},
+
+    // Iron Fist
+    {source: "Iron_Fist", target: "Iron_Fist_Series"},
+    {source: "Claire_Temple", target: "Iron_Fist_Series"},
+    {source: "Misty_Knight", target: "Iron_Fist_Series"},
+    {source: "Colleen_Wing", target: "Iron_Fist_Series"},
+
+    // Punisher
+    {source: "Punisher", target: "Punisher_Series"},
+    {source: "Karen_Page", target: "Punisher_Series"},
+
+    // The Defenders
+    {source: "Daredevil", target: "Defenders_Series"},
+    {source: "Luke_Cage", target: "Defenders_Series"},
+    {source: "Iron_Fist", target: "Defenders_Series"},
+    {source: "Colleen_Wing", target: "Defenders_Series"},
+    {source: "Karen_Page", target: "Defenders_Series"},
+    {source: "Malcolm_Ducasse", target: "Defenders_Series"},
+    {source: "Claire_Temple", target: "Defenders_Series"},
+    {source: "Misty_Knight", target: "Defenders_Series"},
+
 
 ];
 
