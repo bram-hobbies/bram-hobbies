@@ -1,4 +1,5 @@
 
+
 var avatar = "./pics/default.png";
 
 // var iron_man =
@@ -11,384 +12,379 @@ var nodes = {
     // The movies:
 
     // Phase 1:
-    "IronMan_Movie": {name: "Iron Man", icon: "./pics/movies/Iron_Man.jpeg"},
-    "Hulk_Movie": { name: "The Incredible Hulk", icon: "./pics/movies/TheIncredibleHulk.jpeg"},
-    "IronMan2_Movie": {name: "Iron Man 2", icon: "./pics/movies/Iron_Man_2.jpeg"},
-    "Thor_Movie": { name: "Thor", icon: "./pics/movies/Thor.jpeg"},
-    "CaptainAmerica_Movie": { name: "Captain America: The First Avenger", icon: "./pics/movies/CaptainAmerica.jpeg"},
-    "Avengers_Movie": { name: "The Avengers", icon: "./pics/movies/Avengers.jpeg"},
+    "IronMan_Movie": {name: "Iron Man", icon: "./pics/movies/Iron_Man.jpeg", universe: "mcu"},
+    "Hulk_Movie": { name: "The Incredible Hulk", icon: "./pics/movies/TheIncredibleHulk.jpeg", universe: "mcu"},
+    "IronMan2_Movie": {name: "Iron Man 2", icon: "./pics/movies/Iron_Man_2.jpeg", universe: "mcu"},
+    "Thor_Movie": { name: "Thor", icon: "./pics/movies/Thor.jpeg", universe: "mcu"},
+    "CaptainAmerica_Movie": { name: "Captain America: The First Avenger", icon: "./pics/movies/CaptainAmerica.jpeg", universe: "mcu"},
+    "Avengers_Movie": { name: "The Avengers", icon: "./pics/movies/Avengers.jpeg", universe: "mcu"},
 
     // Phase 2:
-    "IronMan3_Movie": {name: "Iron Man 3", icon: "./pics/movies/Iron_Man_3.jpeg"},
-    "Thor2_Movie": { name: "Thor: The Dark World", icon: "./pics/movies/Thor_2.jpeg"},
-    "CaptainAmerica2_Movie": { name: "Captain America: The Winter Soldier", icon: "./pics/movies/Captain_America_2.jpeg"},
-    "Guardians_ot_Galaxy_Movie": { name: "Guardians of the Galaxy", icon: "./pics/movies/Guardians_ot_Galaxy.jpeg"},
-    "Avengers2_Movie": { name: "Avengers: Age of Ultron", icon: "./pics/movies/Avengers_2.jpeg"},
-    "AntMan_Movie": { name: "Ant-Man", icon: "./pics/movies/AntMan.png"},
+    "IronMan3_Movie": {name: "Iron Man 3", icon: "./pics/movies/Iron_Man_3.jpeg", universe: "mcu"},
+    "Thor2_Movie": { name: "Thor: The Dark World", icon: "./pics/movies/Thor_2.jpeg", universe: "mcu"},
+    "CaptainAmerica2_Movie": { name: "Captain America: The Winter Soldier", icon: "./pics/movies/Captain_America_2.jpeg", universe: "mcu"},
+    "Guardians_ot_Galaxy_Movie": { name: "Guardians of the Galaxy", icon: "./pics/movies/Guardians_ot_Galaxy.jpeg", universe: "mcu"},
+    "Avengers2_Movie": { name: "Avengers: Age of Ultron", icon: "./pics/movies/Avengers_2.jpeg", universe: "mcu"},
+    "AntMan_Movie": { name: "Ant-Man", icon: "./pics/movies/AntMan.png", universe: "mcu"},
 
     // Phase 3:
-    "CaptainAmerica3_Movie": { name: "Captain America: Civil War", icon: "./pics/movies/Captain_America_3.jpeg"},
-    "DoctorStrange_Movie": { name: "Doctor Strange", icon: "./pics/movies/DoctorStrange.jpeg"},
-    "Guardians_ot_Galaxy2_Movie": { name: "Guardians of the Galaxy Vol. 2", icon: "./pics/movies/Guardians_ot_Galaxy_2.jpeg"},
-    "SpiderMan_Movie": { name: "Spider-Man: Homecoming", icon: "./pics/movies/Spider_Man.jpeg"},
-    "Thor3_Movie": { name: "Thor: Ragnarok", icon: "./pics/movies/Thor_3.jpeg"},
-    "BlackPanther_Movie": { name: "Black Panther", icon: "./pics/movies/Black_Panther.jpeg"},
-    "Avengers3_Movie": { name: "Avengers: Infinity War", icon: "./pics/movies/Avengers_3.jpeg"},
-    "AntMan2_Movie": { name: "Ant-Man and the Wasp", icon: "./pics/movies/AntMan_2.jpeg"},
-    "CaptainMarvel_Movie": { name: "Captain Marvel", icon: "./pics/movies/CaptainMarvel.jpeg"},
-    "Avengers4_Movie": { name: "Avengers: Endgame", icon: "./pics/movies/Avengers_4.jpeg"},
-    "SpiderMan2_Movie": { name: "Spider-Man: Far From Home", icon: "./pics/movies/Spider_Man_2.jpeg"},
+    "CaptainAmerica3_Movie": { name: "Captain America: Civil War", icon: "./pics/movies/Captain_America_3.jpeg", universe: "mcu"},
+    "DoctorStrange_Movie": { name: "Doctor Strange", icon: "./pics/movies/DoctorStrange.jpeg", universe: "mcu"},
+    "Guardians_ot_Galaxy2_Movie": { name: "Guardians of the Galaxy Vol. 2", icon: "./pics/movies/Guardians_ot_Galaxy_2.jpeg", universe: "mcu"},
+    "SpiderMan_Movie": { name: "Spider-Man: Homecoming", icon: "./pics/movies/Spider_Man.jpeg", universe: "mcu"},
+    "Thor3_Movie": { name: "Thor: Ragnarok", icon: "./pics/movies/Thor_3.jpeg", universe: "mcu"},
+    "BlackPanther_Movie": { name: "Black Panther", icon: "./pics/movies/Black_Panther.jpeg", universe: "mcu"},
+    "Avengers3_Movie": { name: "Avengers: Infinity War", icon: "./pics/movies/Avengers_3.jpeg", universe: "mcu"},
+    "AntMan2_Movie": { name: "Ant-Man and the Wasp", icon: "./pics/movies/AntMan_2.jpeg", universe: "mcu"},
+    "CaptainMarvel_Movie": { name: "Captain Marvel", icon: "./pics/movies/CaptainMarvel.jpeg", universe: "mcu"},
+    "Avengers4_Movie": { name: "Avengers: Endgame", icon: "./pics/movies/Avengers_4.jpeg", universe: "mcu"},
+    "SpiderMan2_Movie": { name: "Spider-Man: Far From Home", icon: "./pics/movies/Spider_Man_2.jpeg", universe: "mcu"},
 
     // Phase 4:
-    "WandaVision_Series": { name: "WandaVision", icon: "./pics/series/WandaVision.jpg"},
-    "FalconWinterSoldier_Series": { name: "The Falcon & The Winter Soldier", icon: "./pics/series/Falcon_and_the_Winter_Soldier.jpeg"},
-    "Loki_Series": { name: "Loki", icon: "./pics/series/Loki.jpeg"},
-    "BlackWidow_Movie": { name: "Black Widow", icon: "./pics/movies/Black_Widow.png"},
-    "WhatIf_Series": { name: "What if...", icon: "./pics/series/whatif_S1.jpeg"},
-    "Shang_Chi_Movie": { name: "Shang-Chi & the Legend of the Ten Rings", icon: "./pics/movies/Shang-Chi_movie.jpeg"},
-    "Eternals_Movie": { name: "Eternals", icon: "./pics/movies/Eternals.jpeg"},
+    "WandaVision_Series": { name: "WandaVision", icon: "./pics/series/WandaVision.jpg", universe: "mcu"},
+    "FalconWinterSoldier_Series": { name: "The Falcon & The Winter Soldier", icon: "./pics/series/Falcon_and_the_Winter_Soldier.jpeg", universe: "mcu"},
+    "Loki_Series": { name: "Loki", icon: "./pics/series/Loki.jpeg", universe: "mcu"},
+    "BlackWidow_Movie": { name: "Black Widow", icon: "./pics/movies/Black_Widow.png", universe: "mcu"},
+    "WhatIf_Series": { name: "What if...", icon: "./pics/series/whatif_S1.jpeg", universe: "mcu"},
+    "Shang_Chi_Movie": { name: "Shang-Chi & the Legend of the Ten Rings", icon: "./pics/movies/Shang-Chi_movie.jpeg", universe: "mcu"},
+    "Eternals_Movie": { name: "Eternals", icon: "./pics/movies/Eternals.jpeg", universe: "mcu"},
 
     // Unreleased:
-    "Hawkeye_Series": { name: "Hawkeye", icon: "./pics/series/hawkeye.jpeg"},
-    "Spider_Man_3_Movie": { name: "Spider-Man: No Way Home", icon: "./pics/movies/Spider_Man_3.jpeg"},
-    "DoctorStrange_2_Movie": { name: "Doctor Strange in the Multiverse of Madness", icon: "./pics/movies/DoctorStrange_2.jpeg"},
-    "Thor_4_Movie": { name: "Thor: Love & Thunder", icon: "./pics/movies/Thor_4.jpeg"},
-    "Moonknight_Series": { name: "Moon Knight", icon: "./pics/series/moonknight.jpeg"},
-    "SheHulk_Series": { name: "She-Hulk", icon: "./pics/series/she-hulk.jpeg"},
-    "SecretInvasion_Series": { name: "Secret Invasion", icon: "./pics/series/secret_invasion.jpeg"},
-    "MsMarvel_Series": { name: "Ms. Marvel", icon: "./pics/series/msmarvel.jpeg"},
+    "Hawkeye_Series": { name: "Hawkeye", icon: "./pics/series/hawkeye.jpeg", universe: "mcu"},
+    "Spider_Man_3_Movie": { name: "Spider-Man: No Way Home", icon: "./pics/movies/Spider_Man_3.jpeg", universe: "mcu"},
+    "DoctorStrange_2_Movie": { name: "Doctor Strange in the Multiverse of Madness", icon: "./pics/movies/DoctorStrange_2.jpeg", universe: "mcu"},
+    "Thor_4_Movie": { name: "Thor: Love & Thunder", icon: "./pics/movies/Thor_4.jpeg", universe: "mcu"},
+    "Moonknight_Series": { name: "Moon Knight", icon: "./pics/series/moonknight.jpeg", universe: "mcu"},
+    "SheHulk_Series": { name: "She-Hulk", icon: "./pics/series/she-hulk.jpeg", universe: "mcu"},
+    "SecretInvasion_Series": { name: "Secret Invasion", icon: "./pics/series/secret_invasion.jpeg", universe: "mcu"},
+    "MsMarvel_Series": { name: "Ms. Marvel", icon: "./pics/series/msmarvel.jpeg", universe: "mcu"},
 
-    "IamGroot_Series": { name: "I am Groot", icon: "./pics/series/IamGroot.jpeg"},
-    "Ironheart_Series": { name: "Ironheart", icon: "./pics/series/ironheart.jpeg"},
-    "ArmorWars_Series": { name: "Armor Wars", icon: "./pics/series/Armor_Wars.jpeg"},
+    "IamGroot_Series": { name: "I am Groot", icon: "./pics/series/IamGroot.jpeg", universe: "mcu"},
+    "Ironheart_Series": { name: "Ironheart", icon: "./pics/series/ironheart.jpeg", universe: "mcu"},
+    "ArmorWars_Series": { name: "Armor Wars", icon: "./pics/series/Armor_Wars.jpeg", universe: "mcu"},
 
-    "Agatha_Series": { name: "Agatha, House of Harkness", icon: "./pics/series/agatha.jpeg"},
-    "Echo_Series": { name: "Echo", icon: "./pics/series/echo.jpeg"},
-    "Marvel_Zombies_Series": { name: "Marvel Zombies", icon: "./pics/series/marvel_zombies.jpeg"},
-    "WhatIf2_Series": { name: "What if... S2", icon: "./pics/series/whatif_S2.jpeg"},
+    "Agatha_Series": { name: "Agatha, House of Harkness", icon: "./pics/series/agatha.jpeg", universe: "mcu"},
+    "Echo_Series": { name: "Echo", icon: "./pics/series/echo.jpeg", universe: "mcu"},
+    "Marvel_Zombies_Series": { name: "Marvel Zombies", icon: "./pics/series/marvel_zombies.jpeg", universe: "mcu"},
+    "WhatIf2_Series": { name: "What if... S2", icon: "./pics/series/whatif_S2.jpeg", universe: "mcu"},
 
-    "BlackPanther_2_Movie": { name: "Black Panther: Wakanda Forever", icon: "./pics/movies/Black_Panther_2.jpeg"},
-    "AntMan_3_Movie": { name: "Ant-Man & The Wasp: Quantumania", icon: "./pics/movies/AntMan_3.jpeg"},
-    "The_Marvels_Movie": { name: "The Marvels", icon: "./pics/movies/The_Marvels.jpeg"},
-    // "_Movie": { name: "", icon: "./pics/movies/"},
-    // "_Movie": { name: "", icon: "./pics/movies/"},
-    // "_Movie": { name: "", icon: "./pics/movies/"},
+    "BlackPanther_2_Movie": { name: "Black Panther: Wakanda Forever", icon: "./pics/movies/Black_Panther_2.jpeg", universe: "mcu"},
+    "AntMan_3_Movie": { name: "Ant-Man & The Wasp: Quantumania", icon: "./pics/movies/AntMan_3.jpeg", universe: "mcu"},
+    "The_Marvels_Movie": { name: "The Marvels", icon: "./pics/movies/The_Marvels.jpeg", universe: "mcu"},
+    // "_Movie": { name: "", icon: "./pics/movies/", universe: "mcu"},
+    // "_Movie": { name: "", icon: "./pics/movies/", universe: "mcu"},
+    // "_Movie": { name: "", icon: "./pics/movies/", universe: "mcu"},
 
     // Iron Man characters:
-    "IronMan": {name: "Tony Stark - Iron Man", icon: "./pics/iron_man/IronMan.jpeg"},
-    "WarMachine": {name: "James Rhodes - War Machine", icon: "./pics/iron_man/WarMachine.jpeg"},
-    "IronMonger": {name: "Obadiah Stane - Iron Monger", icon: "./pics/iron_man/IronMonger.jpeg"},
-    "PepperPotts": {name: "Pepper Potts", icon: "./pics/iron_man/PepperPotts.jpeg"},
-    "PhilCoulson": {name: "Agent Phil Coulson", icon: "./pics/shield/PhilCoulson.jpeg"},
-    "JARVIS": {name: "J.A.R.V.I.S.", icon: "./pics/iron_man/JARVIS.png"},
-    "HappyHogan": {name: "Happy Hogan", icon: "./pics/iron_man/HappyHogan.jpeg"},
-    "HowardStark": {name: "Howard Stark", icon: "./pics/iron_man/HowardStark.png"},
-    "NickFury": {name: "Nick Fury", icon: "./pics/shield/NickFury.jpeg"},
-    "BlackWidow": {name: "Natasha Romanoff - Black Widow", icon: "./pics/black_widow/BlackWidow.jpeg"},
-    "JustinHammer": {name: "Justin Hammer", icon: "./pics/iron_man/JustinHammer.jpeg"},
-    "Whiplash": {name: "Ivan Vanko/Whiplash", icon: "./pics/iron_man/Whiplash.png"},
-    "AntonVanko": {name: "Anton Vanko", icon: "./pics/iron_man/AntonVanko.png"},
-    "AldrichKillian": {name: "Aldrich Killian", icon: "./pics/iron_man/AldrichKillian.jpeg"},
-    "TrevorSlattery": {name: "Trevor Slattery", icon: "./pics/iron_man/TrevorSlattery.jpeg"},
+    "IronMan": {name: "Tony Stark - Iron Man", icon: "./pics/iron_man/IronMan.jpeg", universe: "mcu"},
+    "WarMachine": {name: "James Rhodes - War Machine", icon: "./pics/iron_man/WarMachine.jpeg", universe: "mcu"},
+    "IronMonger": {name: "Obadiah Stane - Iron Monger", icon: "./pics/iron_man/IronMonger.jpeg", universe: "mcu"},
+    "PepperPotts": {name: "Pepper Potts", icon: "./pics/iron_man/PepperPotts.jpeg", universe: "mcu"},
+    "PhilCoulson": {name: "Agent Phil Coulson", icon: "./pics/shield/PhilCoulson.jpeg", universe: "mcu"},
+    "JARVIS": {name: "J.A.R.V.I.S.", icon: "./pics/iron_man/JARVIS.png", universe: "mcu"},
+    "HappyHogan": {name: "Happy Hogan", icon: "./pics/iron_man/HappyHogan.jpeg", universe: "mcu"},
+    "HowardStark": {name: "Howard Stark", icon: "./pics/iron_man/HowardStark.png", universe: "mcu"},
+    "NickFury": {name: "Nick Fury", icon: "./pics/shield/NickFury.jpeg", universe: "mcu"},
+    "BlackWidow": {name: "Natasha Romanoff - Black Widow", icon: "./pics/black_widow/BlackWidow.jpeg", universe: "mcu"},
+    "JustinHammer": {name: "Justin Hammer", icon: "./pics/iron_man/JustinHammer.jpeg", universe: "mcu"},
+    "Whiplash": {name: "Ivan Vanko/Whiplash", icon: "./pics/iron_man/Whiplash.png", universe: "mcu"},
+    "AntonVanko": {name: "Anton Vanko", icon: "./pics/iron_man/AntonVanko.png", universe: "mcu"},
+    "AldrichKillian": {name: "Aldrich Killian", icon: "./pics/iron_man/AldrichKillian.jpeg", universe: "mcu"},
+    "TrevorSlattery": {name: "Trevor Slattery", icon: "./pics/iron_man/TrevorSlattery.jpeg", universe: "mcu"},
 
     // Hulk Characters
-    "Hulk": {name: "Bruce Banner - Hulk", icon: "./pics/hulk/Hulk.jpeg"},
-    "ThaddeusRoss": {name: "Thaddeus Ross", icon: "./pics/hulk/ThaddeusRoss.png"},
-    "Abomination": {name: "Blonsky - Abomination", icon: "./pics/hulk/Abomination.jpeg"},
+    "Hulk": {name: "Bruce Banner - Hulk", icon: "./pics/hulk/Hulk.jpeg", universe: "mcu"},
+    "ThaddeusRoss": {name: "Thaddeus Ross", icon: "./pics/hulk/ThaddeusRoss.png", universe: "mcu"},
+    "Abomination": {name: "Blonsky - Abomination", icon: "./pics/hulk/Abomination.jpeg", universe: "mcu"},
 
     // Thor Characters
-    "Thor": {name: "Thor", icon: "./pics/thor/Thor.jpeg"},
-    "JaneFoster": {name: "Jane Foster", icon: "./pics/thor/JaneFoster.jpeg"},
-    "Loki": {name: "Loki", icon: "./pics/thor/Loki.jpeg"},
-    "Odin": {name: "Odin", icon: "./pics/thor/Odin.jpeg"},
-    "ErikSelvig": {name: "Erik Selvig", icon: "./pics/thor/ErikSelvig.jpeg"},
-    "DarcyLewis": {name: "Darcy Lewis", icon: "./pics/thor/DarcyLewis.jpeg"},
-    "Heimdall": {name: "Heimdall", icon: "./pics/thor/Heimdall.jpeg"},
-    "Volstagg": {name: "Volstagg", icon: "./pics/thor/Volstagg.jpeg"},
-    "Hogun": {name: "Hogun", icon: "./pics/thor/Hogun.jpeg"},
-    "Fandral": {name: "Fandral", icon: "./pics/thor/Fandral.jpeg"},
-    "Sif": {name: "Sif", icon: "./pics/thor/Sif.jpeg"},
-    "Frigga": {name: "Frigga", icon: "./pics/thor/Frigga.png"},
-    "Laufey": {name: "Laufey", icon: "./pics/thor/Laufey.jpeg"},
-    "JasperSitwell": {name: "Jasper Sitwell", icon: "./pics/captain_america/JasperSitwell.jpeg"},
-    "Hawkeye": {name: "Clint Barton - Hawkeye", icon: "./pics/hawkeye/Hawkeye.jpeg"},
-    "Malekith": {name: "Malekith", icon: "./pics/thor/Malekith.jpeg"},
+    "Thor": {name: "Thor", icon: "./pics/thor/Thor.jpeg", universe: "mcu"},
+    "JaneFoster": {name: "Jane Foster", icon: "./pics/thor/JaneFoster.jpeg", universe: "mcu"},
+    "Loki": {name: "Loki", icon: "./pics/thor/Loki.jpeg", universe: "mcu"},
+    "Odin": {name: "Odin", icon: "./pics/thor/Odin.jpeg", universe: "mcu"},
+    "ErikSelvig": {name: "Erik Selvig", icon: "./pics/thor/ErikSelvig.jpeg", universe: "mcu"},
+    "DarcyLewis": {name: "Darcy Lewis", icon: "./pics/thor/DarcyLewis.jpeg", universe: "mcu"},
+    "Heimdall": {name: "Heimdall", icon: "./pics/thor/Heimdall.jpeg", universe: "mcu"},
+    "Volstagg": {name: "Volstagg", icon: "./pics/thor/Volstagg.jpeg", universe: "mcu"},
+    "Hogun": {name: "Hogun", icon: "./pics/thor/Hogun.jpeg", universe: "mcu"},
+    "Fandral": {name: "Fandral", icon: "./pics/thor/Fandral.jpeg", universe: "mcu"},
+    "Sif": {name: "Sif", icon: "./pics/thor/Sif.jpeg", universe: "mcu"},
+    "Frigga": {name: "Frigga", icon: "./pics/thor/Frigga.png", universe: "mcu"},
+    "Laufey": {name: "Laufey", icon: "./pics/thor/Laufey.jpeg", universe: "mcu"},
+    "JasperSitwell": {name: "Jasper Sitwell", icon: "./pics/captain_america/JasperSitwell.jpeg", universe: "mcu"},
+    "Hawkeye": {name: "Clint Barton - Hawkeye", icon: "./pics/hawkeye/Hawkeye.jpeg", universe: "mcu"},
+    "Malekith": {name: "Malekith", icon: "./pics/thor/Malekith.jpeg", universe: "mcu"},
 
     // Captain America Characters
-    "CaptainAmerica": {name: "Steve Rogers - Captain America", icon: "./pics/captain_america/CaptainAmerica.jpeg"},
-    "PeggyCarter": {name: "Peggy Carter", icon: "./pics/captain_america/PeggyCarter.jpeg"},
-    "WinterSoldier": {name: "Bucky Barnes - Winter Soldier", icon: "./pics/captain_america/WinterSoldier.png"},
-    "ChesterPhillips": {name: "Chester Phillips", icon: "./pics/captain_america/ChesterPhillips.png"},
-    "RedSkull": {name: "Red Skull", icon: "./pics/captain_america/RedSkull.png"},
-    "AbrahamErskine": {name: "Abraham Erskine", icon: "./pics/captain_america/AbrahamErskine.png"},
-    "ArnimZola": {name: "Arnim Zola", icon: "./pics/captain_america/ArnimZola.png"},
-    "DumDumDugan": {name: "Dum Dum Dugan", icon: "./pics/captain_america/DumDumDugan.png"},
+    "CaptainAmerica": {name: "Steve Rogers - Captain America", icon: "./pics/captain_america/CaptainAmerica.jpeg", universe: "mcu"},
+    "PeggyCarter": {name: "Peggy Carter", icon: "./pics/captain_america/PeggyCarter.jpeg", universe: "mcu"},
+    "WinterSoldier": {name: "Bucky Barnes - Winter Soldier", icon: "./pics/captain_america/WinterSoldier.png", universe: "mcu"},
+    "ChesterPhillips": {name: "Chester Phillips", icon: "./pics/captain_america/ChesterPhillips.png", universe: "mcu"},
+    "RedSkull": {name: "Red Skull", icon: "./pics/captain_america/RedSkull.png", universe: "mcu"},
+    "AbrahamErskine": {name: "Abraham Erskine", icon: "./pics/captain_america/AbrahamErskine.png", universe: "mcu"},
+    "ArnimZola": {name: "Arnim Zola", icon: "./pics/captain_america/ArnimZola.png", universe: "mcu"},
+    "DumDumDugan": {name: "Dum Dum Dugan", icon: "./pics/captain_america/DumDumDugan.png", universe: "mcu"},
 
-    "MariaHill": {name: "Maria Hill", icon: "./pics/shield/MariaHill.jpeg"},
+    "MariaHill": {name: "Maria Hill", icon: "./pics/shield/MariaHill.jpeg", universe: "mcu"},
 
-    "AlexanderPierce": {name: "Alexander Pierce", icon: "./pics/captain_america/AlexanderPierce.png"},
-    "Falcon": {name: "Sam Wilson - Falcon", icon: "./pics/captain_america/Falcon.png"},
-    "Crossbones": {name: "Brock Rumlow - Crossbones", icon: "./pics/captain_america/Crossbones.jpeg"},
-    "SharonCarter": {name: "Sharon Carter", icon: "./pics/falcon_winter/Sharon_Carter.png"},
-    "JackRollins": {name: "Jack Rollins", icon: "./pics/captain_america/JackRollins.png"},
-    "Hawley": {name: "Hawley", icon: "./pics/captain_america/Hawley.png"},
-    "Stern": {name: "Stern", icon: "./pics/iron_man/Stern.png"},
-    "GeorgesBatroc": {name: "Georges Batroc", icon: "./pics/captain_america/GeorgesBatroc.jpeg"},
-    "WolfgangVonStrucker": {name: "Wolfgang von Strucker", icon: "./pics/captain_america/WolfgangVonStrucker.jpeg"},
-    "Zemo": {name: "Helmut Zemo", icon: "./pics/falcon_winter/Baron_Zemo.png"},
-    "MariaStarke": {name: "MariaStarke", icon: "./pics/iron_man/MariaStarke.png"},
-    "EverettRoss": {name: "Everett Ross", icon: "./pics/captain_america/EverettRoss.jpeg"},
-    "Quicksilver": {name: "Pietro Maximoff - Quicksilver", icon: "./pics/Quicksilver.jpeg"},
-    "ScarletWitch": {name: "Wanda Maximoff - Scarlet Witch", icon: "./pics/ScarletWitch.jpeg"},
+    "AlexanderPierce": {name: "Alexander Pierce", icon: "./pics/captain_america/AlexanderPierce.png", universe: "mcu"},
+    "Falcon": {name: "Sam Wilson - Falcon", icon: "./pics/captain_america/Falcon.png", universe: "mcu"},
+    "Crossbones": {name: "Brock Rumlow - Crossbones", icon: "./pics/captain_america/Crossbones.jpeg", universe: "mcu"},
+    "SharonCarter": {name: "Sharon Carter", icon: "./pics/falcon_winter/Sharon_Carter.png", universe: "mcu"},
+    "JackRollins": {name: "Jack Rollins", icon: "./pics/captain_america/JackRollins.png", universe: "mcu"},
+    "Hawley": {name: "Hawley", icon: "./pics/captain_america/Hawley.png", universe: "mcu"},
+    "Stern": {name: "Stern", icon: "./pics/iron_man/Stern.png", universe: "mcu"},
+    "GeorgesBatroc": {name: "Georges Batroc", icon: "./pics/captain_america/GeorgesBatroc.jpeg", universe: "mcu"},
+    "WolfgangVonStrucker": {name: "Wolfgang von Strucker", icon: "./pics/captain_america/WolfgangVonStrucker.jpeg", universe: "mcu"},
+    "Zemo": {name: "Helmut Zemo", icon: "./pics/falcon_winter/Baron_Zemo.png", universe: "mcu"},
+    "MariaStarke": {name: "MariaStarke", icon: "./pics/iron_man/MariaStarke.png", universe: "mcu"},
+    "EverettRoss": {name: "Everett Ross", icon: "./pics/captain_america/EverettRoss.jpeg", universe: "mcu"},
+    "Quicksilver": {name: "Pietro Maximoff - Quicksilver", icon: "./pics/Quicksilver.jpeg", universe: "mcu"},
+    "ScarletWitch": {name: "Wanda Maximoff - Scarlet Witch", icon: "./pics/ScarletWitch.jpeg", universe: "mcu"},
 
 
-    "TheOther": {name: "The Other", icon: "./pics/thor/TheOther.jpeg"},
-    "Thanos": {name: "Thanos", icon: "./pics/guardians_ot_galaxy/Thanos.png"},
+    "TheOther": {name: "The Other", icon: "./pics/thor/TheOther.jpeg", universe: "mcu"},
+    "Thanos": {name: "Thanos", icon: "./pics/guardians_ot_galaxy/Thanos.png", universe: "mcu"},
 
     // Guardians of the Galaxy characters
-    "TivanTheCollector": {name: "Tivan, the Collector", icon: "./pics/guardians_ot_galaxy/TivanTheCollector.jpeg"},
-    "Carina": {name: "Carina", icon: "./pics/guardians_ot_galaxy/Carina.png"},
+    "TivanTheCollector": {name: "Tivan, the Collector", icon: "./pics/guardians_ot_galaxy/TivanTheCollector.jpeg", universe: "mcu"},
+    "Carina": {name: "Carina", icon: "./pics/guardians_ot_galaxy/Carina.png", universe: "mcu"},
 
 
-    "StarLord": {name: "Peter Quill - Star-Lord", icon: "./pics/guardians_ot_galaxy/StarLord.jpeg"},
-    "Gamora": {name: "Gamora", icon: "./pics/guardians_ot_galaxy/Gamora.jpeg"},
-    "Drax": {name: "Drax, the Destroyer", icon: "./pics/guardians_ot_galaxy/Drax.jpeg"},
-    "Groot": {name: "Groot", icon: "./pics/guardians_ot_galaxy/Groot.jpeg"},
-    "RocketRaccoon": {name: "Rocket Raccoon", icon: "./pics/guardians_ot_galaxy/RocketRacoon.jpeg"},
-    "RonanTheAccuser": {name: "Ronan, the Accuser", icon: "./pics/guardians_ot_galaxy/RonanTheAccuser.jpeg"},
-    "YonduUdonta": {name: "Yondu Udonta", icon: "./pics/guardians_ot_galaxy/YonduUdonta.png"},
-    "Nebula": {name: "Nebula", icon: "./pics/guardians_ot_galaxy/Nebula.jpeg"},
-    "KorathThePursuer": {name: "Korath the Pursuer", icon: "./pics/guardians_ot_galaxy/KorathThePursuer.jpeg"},
-    "MeredithQuill": {name: "Meredith Quill", icon: "./pics/guardians_ot_galaxy/MeredithQuill.png"},
-    "KraglinObfonteri": {name: "Kraglin Obfonteri", icon: "./pics/guardians_ot_galaxy/KraglinObfonteri.jpeg"},
-    "MrQuill": {name: "Peter Quill's Grandfather", icon: "./pics/guardians_ot_galaxy/MrQuill.png"},
-    "Vorker": {name: "Vorker", icon: "./pics/guardians_ot_galaxy/Vorker.jpeg"},
-    "HowardTheDuck": {name: "Howard the Duck", icon: "./pics/guardians_ot_galaxy/HowardTheDuck.png"},
+    "StarLord": {name: "Peter Quill - Star-Lord", icon: "./pics/guardians_ot_galaxy/StarLord.jpeg", universe: "mcu"},
+    "Gamora": {name: "Gamora", icon: "./pics/guardians_ot_galaxy/Gamora.jpeg", universe: "mcu"},
+    "Drax": {name: "Drax, the Destroyer", icon: "./pics/guardians_ot_galaxy/Drax.jpeg", universe: "mcu"},
+    "Groot": {name: "Groot", icon: "./pics/guardians_ot_galaxy/Groot.jpeg", universe: "mcu"},
+    "RocketRaccoon": {name: "Rocket Raccoon", icon: "./pics/guardians_ot_galaxy/RocketRacoon.jpeg", universe: "mcu"},
+    "RonanTheAccuser": {name: "Ronan, the Accuser", icon: "./pics/guardians_ot_galaxy/RonanTheAccuser.jpeg", universe: "mcu"},
+    "YonduUdonta": {name: "Yondu Udonta", icon: "./pics/guardians_ot_galaxy/YonduUdonta.png", universe: "mcu"},
+    "Nebula": {name: "Nebula", icon: "./pics/guardians_ot_galaxy/Nebula.jpeg", universe: "mcu"},
+    "KorathThePursuer": {name: "Korath the Pursuer", icon: "./pics/guardians_ot_galaxy/KorathThePursuer.jpeg", universe: "mcu"},
+    "MeredithQuill": {name: "Meredith Quill", icon: "./pics/guardians_ot_galaxy/MeredithQuill.png", universe: "mcu"},
+    "KraglinObfonteri": {name: "Kraglin Obfonteri", icon: "./pics/guardians_ot_galaxy/KraglinObfonteri.jpeg", universe: "mcu"},
+    "MrQuill": {name: "Peter Quill's Grandfather", icon: "./pics/guardians_ot_galaxy/MrQuill.png", universe: "mcu"},
+    "Vorker": {name: "Vorker", icon: "./pics/guardians_ot_galaxy/Vorker.jpeg", universe: "mcu"},
+    "HowardTheDuck": {name: "Howard the Duck", icon: "./pics/guardians_ot_galaxy/HowardTheDuck.png", universe: "mcu"},
 
-    "LauraBarton": {name: "Laura Barton", icon: "./pics/hawkeye/LauraBarton.png"},
-    "Ultron": {name: "Ultron", icon: "./pics/Ultron.jpeg"},
-    "UlyssesKlaue": {name: "Ulysses Klaue", icon: "./pics/black_panther/UlyssesKlaue.jpeg"},
-    "CooperBarton": {name: "Cooper Barton", icon: "./pics/hawkeye/CooperBarton.png"},
-    "LilaBarton": {name: "Lila Barton", icon: "./pics/hawkeye/LilaBarton.jpeg"},
-    "CameronKlein": {name: "Cameron Klein", icon: "./pics/captain_america/CameronKlein.png"},
-    "FRIDAY": {name: "F.R.I.D.A.Y.", icon: "./pics/iron_man/FRIDAY.png"},
-    "NathanielBarton": {name: "Nathaniel Barton", icon: "./pics/hawkeye/NathanielBarton.png"},
-    "Vision": {name: "Vision", icon: "./pics/Vision.jpeg"},
+    "LauraBarton": {name: "Laura Barton", icon: "./pics/hawkeye/LauraBarton.png", universe: "mcu"},
+    "Ultron": {name: "Ultron", icon: "./pics/Ultron.jpeg", universe: "mcu"},
+    "UlyssesKlaue": {name: "Ulysses Klaue", icon: "./pics/black_panther/UlyssesKlaue.jpeg", universe: "mcu"},
+    "CooperBarton": {name: "Cooper Barton", icon: "./pics/hawkeye/CooperBarton.png", universe: "mcu"},
+    "LilaBarton": {name: "Lila Barton", icon: "./pics/hawkeye/LilaBarton.jpeg", universe: "mcu"},
+    "CameronKlein": {name: "Cameron Klein", icon: "./pics/captain_america/CameronKlein.png", universe: "mcu"},
+    "FRIDAY": {name: "F.R.I.D.A.Y.", icon: "./pics/iron_man/FRIDAY.png", universe: "mcu"},
+    "NathanielBarton": {name: "Nathaniel Barton", icon: "./pics/hawkeye/NathanielBarton.png", universe: "mcu"},
+    "Vision": {name: "Vision", icon: "./pics/Vision.jpeg", universe: "mcu"},
 
-    "AntMan": {name: "Scott Lang - Ant-Man", icon: "./pics/ant_man/AntMan.jpeg"},
-    "HankPym": {name: "Doctor Hank Pym", icon: "./pics/ant_man/HankPym.jpeg"},
-    "TheWasp": {name: "Hope van Dyne, The Wasp", icon: "./pics/ant_man/TheWasp.jpeg"},
-    "YellowJacket": {name: "Darren Cross - Yellow Jacket", icon: "./pics/ant_man/YellowJacket.jpeg"},
-    "JimPaxton": {name: "Jim Paxton", icon: "./pics/ant_man/JimPaxton.png"},
-    "Luis": {name: "Luis", icon: "./pics/ant_man/Luis.jpeg"},
-    "Dave": {name: "Dave", icon: "./pics/ant_man/Dave.jpeg"},
-    "MaggieLang": {name: "Maggie Lang", icon: "./pics/ant_man/MaggieLang.png"},
-    "CassieLang": {name: "Cassie Lang", icon: "./pics/ant_man/CassieLang.png"},
-    "Kurt": {name: "Kurt", icon: "./pics/ant_man/Kurt.jpeg"},
-    "JanetVanDyne": {name: "Janet van Dyne/Wasp", icon: "./pics/ant_man/JanetVanDyne.jpeg"},
+    "AntMan": {name: "Scott Lang - Ant-Man", icon: "./pics/ant_man/AntMan.jpeg", universe: "mcu"},
+    "HankPym": {name: "Doctor Hank Pym", icon: "./pics/ant_man/HankPym.jpeg", universe: "mcu"},
+    "TheWasp": {name: "Hope van Dyne, The Wasp", icon: "./pics/ant_man/TheWasp.jpeg", universe: "mcu"},
+    "YellowJacket": {name: "Darren Cross - Yellow Jacket", icon: "./pics/ant_man/YellowJacket.jpeg", universe: "mcu"},
+    "JimPaxton": {name: "Jim Paxton", icon: "./pics/ant_man/JimPaxton.png", universe: "mcu"},
+    "Luis": {name: "Luis", icon: "./pics/ant_man/Luis.jpeg", universe: "mcu"},
+    "Dave": {name: "Dave", icon: "./pics/ant_man/Dave.jpeg", universe: "mcu"},
+    "MaggieLang": {name: "Maggie Lang", icon: "./pics/ant_man/MaggieLang.png", universe: "mcu"},
+    "CassieLang": {name: "Cassie Lang", icon: "./pics/ant_man/CassieLang.png", universe: "mcu"},
+    "Kurt": {name: "Kurt", icon: "./pics/ant_man/Kurt.jpeg", universe: "mcu"},
+    "JanetVanDyne": {name: "Janet van Dyne/Wasp", icon: "./pics/ant_man/JanetVanDyne.jpeg", universe: "mcu"},
 
-    "DoctorStrange": {name: "Stephen Strange - Doctor Strange", icon: "./pics/doctor_strange/DoctorStrange.jpeg"},
-    "Dormammu": {name: "Dormammu", icon: "./pics/doctor_strange/Dormammu.png"},
-    "KarlMordo": {name: "Karl Mordo", icon: "./pics/doctor_strange/KarlMordo.png"},
-    "ChristinePalmer": {name: "Christine Palmer", icon: "./pics/doctor_strange/ChristinePalmer.png"},
-    "Wong": {name: "Wong", icon: "./pics/doctor_strange/Wong.jpeg"},
-    "Kaecilius": {name: "Kaecilius", icon: "./pics/doctor_strange/Kaecilius.png"},
-    "AncientOne": {name: "Ancient One", icon: "./pics/doctor_strange/AncientOne.png"},
+    "DoctorStrange": {name: "Stephen Strange - Doctor Strange", icon: "./pics/doctor_strange/DoctorStrange.jpeg", universe: "mcu"},
+    "Dormammu": {name: "Dormammu", icon: "./pics/doctor_strange/Dormammu.png", universe: "mcu"},
+    "KarlMordo": {name: "Karl Mordo", icon: "./pics/doctor_strange/KarlMordo.png", universe: "mcu"},
+    "ChristinePalmer": {name: "Christine Palmer", icon: "./pics/doctor_strange/ChristinePalmer.png", universe: "mcu"},
+    "Wong": {name: "Wong", icon: "./pics/doctor_strange/Wong.jpeg", universe: "mcu"},
+    "Kaecilius": {name: "Kaecilius", icon: "./pics/doctor_strange/Kaecilius.png", universe: "mcu"},
+    "AncientOne": {name: "Ancient One", icon: "./pics/doctor_strange/AncientOne.png", universe: "mcu"},
 
-    "Mantis": {name: "Mantis", icon: "./pics/guardians_ot_galaxy/Mantis.jpeg"},
-    "Ego": {name: "Ego", icon: "./pics/guardians_ot_galaxy/Ego.png"},
-    "Ayesha": {name: "Ayesha", icon: "./pics/guardians_ot_galaxy/Ayesha.png"},
-    "Zylak": {name: "Zylak", icon: "./pics/guardians_ot_galaxy/Zylak.png"},
-    "Taserface": {name: "Taserface", icon: "./pics/guardians_ot_galaxy/Taserface.jpg"},
-    "Gef": {name: "Gef", icon: "./pics/guardians_ot_galaxy/Gef.png"},
-    "Tullk": {name: "Tullk", icon: "./pics/guardians_ot_galaxy/Tullk.png"},
-    "Retch": {name: "Retch", icon: "./pics/guardians_ot_galaxy/Retch.png"},
-    "StakarOgord": {name: "Stakar Ogord", icon: "./pics/guardians_ot_galaxy/StakarOgord.jpeg"},
-    "Charlie27": {name: "Charlie-27", icon: "./pics/guardians_ot_galaxy/Charlie27.jpeg"},
-    "AletaOgord": {name: "Aleta Ogord", icon: "./pics/guardians_ot_galaxy/AletaOgord.jpeg"},
-    "Martinex": {name: "Martinex", icon: "./pics/guardians_ot_galaxy/Martinex.jpeg"},
-    "Krugarr": {name: "Krugarr", icon: "./pics/guardians_ot_galaxy/Krugarr.jpeg"},
-    "Grandmaster": {name: "Grandmaster", icon: "./pics/thor/Grandmaster.jpeg"},
+    "Mantis": {name: "Mantis", icon: "./pics/guardians_ot_galaxy/Mantis.jpeg", universe: "mcu"},
+    "Ego": {name: "Ego", icon: "./pics/guardians_ot_galaxy/Ego.png", universe: "mcu"},
+    "Ayesha": {name: "Ayesha", icon: "./pics/guardians_ot_galaxy/Ayesha.png", universe: "mcu"},
+    "Zylak": {name: "Zylak", icon: "./pics/guardians_ot_galaxy/Zylak.png", universe: "mcu"},
+    "Taserface": {name: "Taserface", icon: "./pics/guardians_ot_galaxy/Taserface.jpg", universe: "mcu"},
+    "Gef": {name: "Gef", icon: "./pics/guardians_ot_galaxy/Gef.png", universe: "mcu"},
+    "Tullk": {name: "Tullk", icon: "./pics/guardians_ot_galaxy/Tullk.png", universe: "mcu"},
+    "Retch": {name: "Retch", icon: "./pics/guardians_ot_galaxy/Retch.png", universe: "mcu"},
+    "StakarOgord": {name: "Stakar Ogord", icon: "./pics/guardians_ot_galaxy/StakarOgord.jpeg", universe: "mcu"},
+    "Charlie27": {name: "Charlie-27", icon: "./pics/guardians_ot_galaxy/Charlie27.jpeg", universe: "mcu"},
+    "AletaOgord": {name: "Aleta Ogord", icon: "./pics/guardians_ot_galaxy/AletaOgord.jpeg", universe: "mcu"},
+    "Martinex": {name: "Martinex", icon: "./pics/guardians_ot_galaxy/Martinex.jpeg", universe: "mcu"},
+    "Krugarr": {name: "Krugarr", icon: "./pics/guardians_ot_galaxy/Krugarr.jpeg", universe: "mcu"},
+    "Grandmaster": {name: "Grandmaster", icon: "./pics/thor/Grandmaster.jpeg", universe: "mcu"},
 
-    "Executioner": {name: "Skurge - Executioner", icon: "./pics/thor/Executioner.png"},
-    "Topaz": {name: "Topaz", icon: "./pics/thor/Topaz.jpeg"},
-    "Hela": {name: "Hela", icon: "./pics/thor/Hela.jpeg"},
-    "Korg": {name: "Korg", icon: "./pics/thor/Korg.jpeg"},
-    "Miek": {name: "Miek", icon: "./pics/thor/Miek.png"},
-    "Surtur": {name: "Surtur", icon: "./pics/thor/Surtur.png"},
-    "Valkyrie": {name: "Valkyrie", icon: "./pics/thor/Valkyrie.jpeg"},
+    "Executioner": {name: "Skurge - Executioner", icon: "./pics/thor/Executioner.png", universe: "mcu"},
+    "Topaz": {name: "Topaz", icon: "./pics/thor/Topaz.jpeg", universe: "mcu"},
+    "Hela": {name: "Hela", icon: "./pics/thor/Hela.jpeg", universe: "mcu"},
+    "Korg": {name: "Korg", icon: "./pics/thor/Korg.jpeg", universe: "mcu"},
+    "Miek": {name: "Miek", icon: "./pics/thor/Miek.png", universe: "mcu"},
+    "Surtur": {name: "Surtur", icon: "./pics/thor/Surtur.png", universe: "mcu"},
+    "Valkyrie": {name: "Valkyrie", icon: "./pics/thor/Valkyrie.jpeg", universe: "mcu"},
 
 
     // Spider-Man characters
-    "SpiderMan": {name: "Peter Parker - Spider-Man", icon: "./pics/spiderman/SpiderMan.jpeg"},
+    "SpiderMan": {name: "Peter Parker - Spider-Man", icon: "./pics/spiderman/SpiderMan.jpeg", universe: "mcu"},
 
-    "BradDavis": {name: "Brad Davis", icon: "./pics/spiderman/Brad_Davis.png"},
-    "MayParker": {name: "May Parker", icon: "./pics/spiderman/MayParker.png"},
-    "Vulture": {name: "Adrian Toomes - Vulture", icon: "./pics/spiderman/Vulture.jpeg"},
-    "MichelleJones": {name: "Michelle Jones", icon: "./pics/spiderman/MichelleJones.jpeg"},
-    "Prowler": {name: "Aaron Davis - Prowler", icon: "./pics/spiderman/Prowler.png"},
-    "RogerHarrington": {name: "Roger Harrington", icon: "./pics/spiderman/RogerHarrington.png"},
-    "Tinkerer": {name: "Phineas Mason - Tinkerer", icon: "./pics/spiderman/Tinkerer.jpeg"},
-    "NedLeeds": {name: "Ned Leeds", icon: "./pics/spiderman/NedLeeds.jpeg"},
-    "LizToomes": {name: "Liz Toomes", icon: "./pics/spiderman/LizToomes.png"},
-    "FlashThompson": {name: "Flash Thompson", icon: "./pics/spiderman/FlashThompson.png"},
-    "Shocker": {name: "Herman Schultz - Shocker", icon: "./pics/spiderman/Shocker.jpeg"},
-    "CindyMoon": {name: "Cindy Moon", icon: "./pics/spiderman/CindyMoon.png"},
-    "AndreWilson": {name: "Andre Wilson", icon: "./pics/spiderman/AndreWilson.png"},
-    "BettyBrant": {name: "Betty Brant", icon: "./pics/spiderman/BettyBrant.png"},
-    "CharlesMurphy": {name: "Charles Murphy", icon: "./pics/spiderman/CharlesMurphy.png"},
-    "Delmar": {name: "Delmar", icon: "./pics/spiderman/Delmar.png"},
-    "JasonIonello": {name: "Jason Ionello", icon: "./pics/spiderman/JasonIonello.png"},
-    "SallyAvrill": {name: "Sally Avrill", icon: "./pics/spiderman/SallyAvrill.png"},
-    "TinyMcKeever": {name: "Tiny McKeever", icon: "./pics/spiderman/TinyMcKeever.png"},
-    "Mysterio": {name: "Quentin Beck - Mysterio", icon: "./pics/spiderman/Mysterio.png"},
-    "BradDavis": {name: "Brad Davis", icon: "./pics/spiderman/Brad_Davis.png"},
-    "JuliusDell": {name: "Julius Dell", icon: "./pics/spiderman/Julius_Dell.png"},
-    "PatKiernan": {source: "Pat Kiernan", icon: "./pics/spiderman/Patkiernan.jpeg"},
-    "JJonahJameson": {source: "J. Jonah Jameson", icon: "./pics/spiderman/J._Jonah_Jameson.png"},
-    "WilliamGinterRiva": {source: "William Ginter Riva", icon: "./pics/spiderman/William_Ginter_Riva.png"},
-    "Seamstress": {source: "Seamstress", icon: "./pics/spiderman/Seamstress.png"},
-    "Soren": {source: "Soren", icon: "./pics/spiderman/Soren.png"},
-
-
+    "BradDavis": {name: "Brad Davis", icon: "./pics/spiderman/Brad_Davis.png", universe: "mcu"},
+    "MayParker": {name: "May Parker", icon: "./pics/spiderman/MayParker.png", universe: "mcu"},
+    "Vulture": {name: "Adrian Toomes - Vulture", icon: "./pics/spiderman/Vulture.jpeg", universe: "mcu"},
+    "MichelleJones": {name: "Michelle Jones", icon: "./pics/spiderman/MichelleJones.jpeg", universe: "mcu"},
+    "Prowler": {name: "Aaron Davis - Prowler", icon: "./pics/spiderman/Prowler.png", universe: "mcu"},
+    "RogerHarrington": {name: "Roger Harrington", icon: "./pics/spiderman/RogerHarrington.png", universe: "mcu"},
+    "Tinkerer": {name: "Phineas Mason - Tinkerer", icon: "./pics/spiderman/Tinkerer.jpeg", universe: "mcu"},
+    "NedLeeds": {name: "Ned Leeds", icon: "./pics/spiderman/NedLeeds.jpeg", universe: "mcu"},
+    "LizToomes": {name: "Liz Toomes", icon: "./pics/spiderman/LizToomes.png", universe: "mcu"},
+    "FlashThompson": {name: "Flash Thompson", icon: "./pics/spiderman/FlashThompson.png", universe: "mcu"},
+    "Shocker": {name: "Herman Schultz - Shocker", icon: "./pics/spiderman/Shocker.jpeg", universe: "mcu"},
+    "CindyMoon": {name: "Cindy Moon", icon: "./pics/spiderman/CindyMoon.png", universe: "mcu"},
+    "AndreWilson": {name: "Andre Wilson", icon: "./pics/spiderman/AndreWilson.png", universe: "mcu"},
+    "BettyBrant": {name: "Betty Brant", icon: "./pics/spiderman/BettyBrant.png", universe: "mcu"},
+    "CharlesMurphy": {name: "Charles Murphy", icon: "./pics/spiderman/CharlesMurphy.png", universe: "mcu"},
+    "Delmar": {name: "Delmar", icon: "./pics/spiderman/Delmar.png", universe: "mcu"},
+    "JasonIonello": {name: "Jason Ionello", icon: "./pics/spiderman/JasonIonello.png", universe: "mcu"},
+    "SallyAvrill": {name: "Sally Avrill", icon: "./pics/spiderman/SallyAvrill.png", universe: "mcu"},
+    "TinyMcKeever": {name: "Tiny McKeever", icon: "./pics/spiderman/TinyMcKeever.png", universe: "mcu"},
+    "Mysterio": {name: "Quentin Beck - Mysterio", icon: "./pics/spiderman/Mysterio.png", universe: "mcu"},
+    "BradDavis": {name: "Brad Davis", icon: "./pics/spiderman/Brad_Davis.png", universe: "mcu"},
+    "JuliusDell": {name: "Julius Dell", icon: "./pics/spiderman/Julius_Dell.png", universe: "mcu"},
+    "PatKiernan": {source: "Pat Kiernan", icon: "./pics/spiderman/Patkiernan.jpeg", universe: "mcu"},
+    "JJonahJameson": {source: "J. Jonah Jameson", icon: "./pics/spiderman/J._Jonah_Jameson.png", universe: "mcu"},
+    "WilliamGinterRiva": {source: "William Ginter Riva", icon: "./pics/spiderman/William_Ginter_Riva.png", universe: "mcu"},
+    "Seamstress": {source: "Seamstress", icon: "./pics/spiderman/Seamstress.png", universe: "mcu"},
+    "Soren": {source: "Soren", icon: "./pics/spiderman/Soren.png", universe: "mcu"},
 
 
 
-    "BlackPanther": {name: "T'Challa - Black Panther", icon: "./pics/black_panther/BlackPanther.jpeg"},
-    "Killmonger": {name: "N'Jadaka - Erik Stevens - Killmonger", icon: "./pics/black_panther/Killmonger.jpeg"},
-    "Nakia": {name: "Nakia", icon: "./pics/black_panther/Nakia.jpeg"},
-    "Okoye": {name: "Okoye", icon: "./pics/black_panther/Okoye.jpeg"},
-    "WKabi": {name: "W'Kabi", icon: "./pics/black_panther/WKabi.jpeg"},
-    "Shuri": {name: "Shuri", icon: "./pics/black_panther/Shuri.jpeg"},
-    "MBaku": {name: "M'Baku", icon: "./pics/black_panther/MBaku.jpeg"},
-    "Ramonda": {name: "Ramonda", icon: "./pics/black_panther/Ramonda.jpeg"},
-    "Zuri": {name: "Zuri", icon: "./pics/black_panther/Zuri.jpeg"},
-    "NJobu": {name: "N'Jobu", icon: "./pics/black_panther/NJobu.png"},
-    "Ayo": {name: "Ayo", icon: "./pics/falcon_winter/Ayo.jpeg"},
-    "TChaka": {name: "T'Chaka", icon: "./pics/black_panther/TChaka.png"},
-    "Yama": {name: "Yama", icon: "./pics/black_panther/Yama.png"},
-    "Nomble": {name: "Nomble", icon: "./pics/black_panther/Nomble.png"},
 
 
-    "Eitri": {name: "Eitri", icon: "./pics/avengers/Eitri.png"},
-    "EbonyMaw": {name: "Ebony Maw", icon: "./pics/avengers/EbonyMaw.jpeg"},
-    "ProximaMidnight": {name: "Proxima Midnight", icon: "./pics/avengers/ProximaMidnight.jpeg"},
-    "CorvusGlaive": {name: "Corvus Glaive", icon: "./pics/avengers/CorvusGlaive.png"},
-    "CullObsidian": {name: "Cull Obsidian", icon: "./pics/avengers/CullObsidian.jpg"},
-    // "": {name: "", icon: "./pics/avengers/.png"},
+    "BlackPanther": {name: "T'Challa - Black Panther", icon: "./pics/black_panther/BlackPanther.jpeg", universe: "mcu"},
+    "Killmonger": {name: "N'Jadaka - Erik Stevens - Killmonger", icon: "./pics/black_panther/Killmonger.jpeg", universe: "mcu"},
+    "Nakia": {name: "Nakia", icon: "./pics/black_panther/Nakia.jpeg", universe: "mcu"},
+    "Okoye": {name: "Okoye", icon: "./pics/black_panther/Okoye.jpeg", universe: "mcu"},
+    "WKabi": {name: "W'Kabi", icon: "./pics/black_panther/WKabi.jpeg", universe: "mcu"},
+    "Shuri": {name: "Shuri", icon: "./pics/black_panther/Shuri.jpeg", universe: "mcu"},
+    "MBaku": {name: "M'Baku", icon: "./pics/black_panther/MBaku.jpeg", universe: "mcu"},
+    "Ramonda": {name: "Ramonda", icon: "./pics/black_panther/Ramonda.jpeg", universe: "mcu"},
+    "Zuri": {name: "Zuri", icon: "./pics/black_panther/Zuri.jpeg", universe: "mcu"},
+    "NJobu": {name: "N'Jobu", icon: "./pics/black_panther/NJobu.png", universe: "mcu"},
+    "Ayo": {name: "Ayo", icon: "./pics/falcon_winter/Ayo.jpeg", universe: "mcu"},
+    "TChaka": {name: "T'Chaka", icon: "./pics/black_panther/TChaka.png", universe: "mcu"},
+    "Yama": {name: "Yama", icon: "./pics/black_panther/Yama.png", universe: "mcu"},
+    "Nomble": {name: "Nomble", icon: "./pics/black_panther/Nomble.png", universe: "mcu"},
 
 
-    "BillFoster": {name: "Bill Foster", icon: "./pics/ant_man/BillFoster.png"},
-    "Ghost": {name: "Ava Starr - Ghost", icon: "./pics/ant_man/Ghost.jpg"},
-    "JimmyWoo": {name: "Agent Jimmy Woo", icon: "./pics/ant_man/JimmyWoo.jpeg"},
-    "SonnyBurch": {name: "Sonny Burch", icon: "./pics/ant_man/SonnyBurch.jpeg"},
+    "Eitri": {name: "Eitri", icon: "./pics/avengers/Eitri.png", universe: "mcu"},
+    "EbonyMaw": {name: "Ebony Maw", icon: "./pics/avengers/EbonyMaw.jpeg", universe: "mcu"},
+    "ProximaMidnight": {name: "Proxima Midnight", icon: "./pics/avengers/ProximaMidnight.jpeg", universe: "mcu"},
+    "CorvusGlaive": {name: "Corvus Glaive", icon: "./pics/avengers/CorvusGlaive.png", universe: "mcu"},
+    "CullObsidian": {name: "Cull Obsidian", icon: "./pics/avengers/CullObsidian.jpg", universe: "mcu"},
+    // "": {name: "", icon: "./pics/avengers/.png", universe: "mcu"},
 
 
-    "CaptainMarvel": {name: "Carol Danvers - Captain Marvel", icon: "./pics/captain_marvel/CaptainMarvel.jpeg"},
-    "Talos": {name: "Talos / Director Keller", icon: "./pics/captain_marvel/Talos.jpeg"},
-    "MariaRambeau": {name: "Maria Rambeau", icon: "./pics/captain_marvel/MariaRambeau.jpeg"},
-    "MonicaRambeau": {name: "Monica Rambeau", icon: "./pics/captain_marvel/MonicaRambeau.jpeg"},
-    "AttLass": {name: "Att-Lass", icon: "./pics/captain_marvel/AttLass.jpeg"},
-    "YonRogg": {name: "Yon-Rogg", icon: "./pics/captain_marvel/YonRogg.jpeg"},
-    "MarVell": {name: "Mar-Vell", icon: "./pics/captain_marvel/MarVell.jpeg"},
-    "SupremeIntelligence": {name: "Supreme Intelligence", icon: "./pics/captain_marvel/SupremeIntelligence.png"},
-    "MinnErva": {name: "Minn-Erva", icon: "./pics/captain_marvel/MinnErva.jpeg"},
-    "BronChar": {name: "Bron-Char", icon: "./pics/captain_marvel/BronChar.jpeg"},
-    "Soren": {name: "Soren", icon: "./pics/captain_marvel/Soren.png"},
-    "Goose": {name: "Goose", icon: "./pics/captain_marvel/Goose.jpeg"},
+    "BillFoster": {name: "Bill Foster", icon: "./pics/ant_man/BillFoster.png", universe: "mcu"},
+    "Ghost": {name: "Ava Starr - Ghost", icon: "./pics/ant_man/Ghost.jpg", universe: "mcu"},
+    "JimmyWoo": {name: "Agent Jimmy Woo", icon: "./pics/ant_man/JimmyWoo.jpeg", universe: "mcu"},
+    "SonnyBurch": {name: "Sonny Burch", icon: "./pics/ant_man/SonnyBurch.jpeg", universe: "mcu"},
 
-    "MorganStark": {name: "MorganStark", icon: "./pics/avengers/MorganStark.png"},
-    "EdwinJarvis": {name: "Edwin Jarvis", icon: "./pics/avengers/EdwinJarvis.png"},
+
+    "CaptainMarvel": {name: "Carol Danvers - Captain Marvel", icon: "./pics/captain_marvel/CaptainMarvel.jpeg", universe: "mcu"},
+    "Talos": {name: "Talos / Director Keller", icon: "./pics/captain_marvel/Talos.jpeg", universe: "mcu"},
+    "MariaRambeau": {name: "Maria Rambeau", icon: "./pics/captain_marvel/MariaRambeau.jpeg", universe: "mcu"},
+    "MonicaRambeau": {name: "Monica Rambeau", icon: "./pics/captain_marvel/MonicaRambeau.jpeg", universe: "mcu"},
+    "AttLass": {name: "Att-Lass", icon: "./pics/captain_marvel/AttLass.jpeg", universe: "mcu"},
+    "YonRogg": {name: "Yon-Rogg", icon: "./pics/captain_marvel/YonRogg.jpeg", universe: "mcu"},
+    "MarVell": {name: "Mar-Vell", icon: "./pics/captain_marvel/MarVell.jpeg", universe: "mcu"},
+    "SupremeIntelligence": {name: "Supreme Intelligence", icon: "./pics/captain_marvel/SupremeIntelligence.png", universe: "mcu"},
+    "MinnErva": {name: "Minn-Erva", icon: "./pics/captain_marvel/MinnErva.jpeg", universe: "mcu"},
+    "BronChar": {name: "Bron-Char", icon: "./pics/captain_marvel/BronChar.jpeg", universe: "mcu"},
+    "Soren": {name: "Soren", icon: "./pics/captain_marvel/Soren.png", universe: "mcu"},
+    "Goose": {name: "Goose", icon: "./pics/captain_marvel/Goose.jpeg", universe: "mcu"},
+
+    "MorganStark": {name: "MorganStark", icon: "./pics/avengers/MorganStark.png", universe: "mcu"},
+    "EdwinJarvis": {name: "Edwin Jarvis", icon: "./pics/avengers/EdwinJarvis.png", universe: "mcu"},
 
 
     // WandaVision
-    "Agnes": {name: "Agatha Harkness \/ Agnes", icon: "./pics/wandavision/Agatha_Harkness.jpeg"},
-    "TylerHayward": {name: "Tyler Hayward", icon: "./pics/wandavision/Tyler_Hayward.png"},
+    "Agnes": {name: "Agatha Harkness \/ Agnes", icon: "./pics/wandavision/Agatha_Harkness.jpeg", universe: "mcu"},
+    "TylerHayward": {name: "Tyler Hayward", icon: "./pics/wandavision/Tyler_Hayward.png", universe: "mcu"},
 
 
     // Falcon & The Winter Soldier
-    "US_Agent": {name: "John Walker - U.S. Agent", icon: "./pics/falcon_winter/US_Agent.jpeg"},
-    "Karli": {name: "Karli Morgenthau", icon: "./pics/falcon_winter/Karli.jpeg"},
-    "Joaquin_Torres": {name: "Joaquin Torres", icon: "./pics/falcon_winter/Joaquin_Torres.png"},
-    "Battlestar": {name: "Lemar Hoskins - Battlestar", icon: "./pics/falcon_winter/Battlestar.png"},
-    "Isaiah_Bradley": {name: "Isaiah Bradley", icon: "./pics/falcon_winter/Isaiah_Bradley.png"},
+    "US_Agent": {name: "John Walker - U.S. Agent", icon: "./pics/falcon_winter/US_Agent.jpeg", universe: "mcu"},
+    "Karli": {name: "Karli Morgenthau", icon: "./pics/falcon_winter/Karli.jpeg", universe: "mcu"},
+    "Joaquin_Torres": {name: "Joaquin Torres", icon: "./pics/falcon_winter/Joaquin_Torres.png", universe: "mcu"},
+    "Battlestar": {name: "Lemar Hoskins - Battlestar", icon: "./pics/falcon_winter/Battlestar.png", universe: "mcu"},
+    "Isaiah_Bradley": {name: "Isaiah Bradley", icon: "./pics/falcon_winter/Isaiah_Bradley.png", universe: "mcu"},
 
     // Loki
-    "Mobius": {name: "Mobius", icon: "./pics/loki/Mobius_M._Mobius.png"},
-    "PresidentLoki": {name: "President Loki", icon: "./pics/loki/President_Loki.jpeg"},
-    "SylvieLaufeydottir": {name: "Sylvie Laufeydottir", icon: "./pics/loki/Sylvie.png"},
-    "RavonnaRenslayer": {name: "Ravonna Renslayer", icon: "./pics/loki/Judge_Renslayer.png"},
-    "HunterB-15": {name: "Hunter B-15", icon: "./pics/loki/Hunter_B15.png"},
-    "HunterK-5E": {name: "Casey - Hunter K-5E", icon: "./pics/loki/Casey.png"},
-    "HunterC-20": {name: "Hunter C-20", icon: "./pics/loki/Hunter_C-20.jpeg"},
-    "KidLoki": {name: "Kid Loki", icon: "./pics/loki/Kid_Loki.jpeg"},
-    "BoastfulLoki": {name: "Boastful Loki", icon: "./pics/loki/Boastful_Loki.jpeg"},
-    "MissMinutes": {name: "Miss Minutes", icon: "./pics/loki/Miss_Minutes.png"},
-    "ClassicLoki": {name: "ClassicLoki", icon: "./pics/loki/Classic_Loki.jpeg"},
-    "HunterD-90": {name: "HunterD-90", icon: "./pics/loki/Hunter_D-90.png"},
-    "Kang": {name: "Kang", icon: "./pics/loki/Kang.jpeg"},
+    "Mobius": {name: "Mobius", icon: "./pics/loki/Mobius_M._Mobius.png", universe: "mcu"},
+    "PresidentLoki": {name: "President Loki", icon: "./pics/loki/President_Loki.jpeg", universe: "mcu"},
+    "SylvieLaufeydottir": {name: "Sylvie Laufeydottir", icon: "./pics/loki/Sylvie.png", universe: "mcu"},
+    "RavonnaRenslayer": {name: "Ravonna Renslayer", icon: "./pics/loki/Judge_Renslayer.png", universe: "mcu"},
+    "HunterB-15": {name: "Hunter B-15", icon: "./pics/loki/Hunter_B15.png", universe: "mcu"},
+    "HunterK-5E": {name: "Casey - Hunter K-5E", icon: "./pics/loki/Casey.png", universe: "mcu"},
+    "HunterC-20": {name: "Hunter C-20", icon: "./pics/loki/Hunter_C-20.jpeg", universe: "mcu"},
+    "KidLoki": {name: "Kid Loki", icon: "./pics/loki/Kid_Loki.jpeg", universe: "mcu"},
+    "BoastfulLoki": {name: "Boastful Loki", icon: "./pics/loki/Boastful_Loki.jpeg", universe: "mcu"},
+    "MissMinutes": {name: "Miss Minutes", icon: "./pics/loki/Miss_Minutes.png", universe: "mcu"},
+    "ClassicLoki": {name: "ClassicLoki", icon: "./pics/loki/Classic_Loki.jpeg", universe: "mcu"},
+    "HunterD-90": {name: "HunterD-90", icon: "./pics/loki/Hunter_D-90.png", universe: "mcu"},
+    "Kang": {name: "Kang", icon: "./pics/loki/Kang.jpeg", universe: "mcu"},
 
 
     // Black Widow
-    "YelenaBelova": {name: "Yelena Belova", icon: "./pics/black_widow/YelenaBelova.jpeg"},
-    "MelinaVostokoff": {name: "Melina Vostokoff", icon: "./pics/black_widow/MelinaVostokoff.jpeg"},
-    "RedGuardian": {name: "Alexei Shostakov - Red Guardian", icon: "./pics/black_widow/RedGuardian.jpeg"},
-    "Dreykov": {name: "Dreykov", icon: "./pics/black_widow/Dreykov.png"},
-    "Rick_Mason": {name: "Rick Mason", icon: "./pics/black_widow/Rick_Mason.jpeg"},
-    "Task_Master": {name: "Task Master", icon: "./pics/black_widow/Task_Master.jpeg"},
-    // "Lerato": {name: "Lerato", icon: "./pics/black_widow/Lerato.png"},
-    // "Oksana": {name: "Oksana", icon: "./pics/black_widow/Oksana.png"},
-    "Val": {name: "Contessa Valentina Allegra de Fontaine", icon: "./pics/black_widow/Val.png"},
+    "YelenaBelova": {name: "Yelena Belova", icon: "./pics/black_widow/YelenaBelova.jpeg", universe: "mcu"},
+    "MelinaVostokoff": {name: "Melina Vostokoff", icon: "./pics/black_widow/MelinaVostokoff.jpeg", universe: "mcu"},
+    "RedGuardian": {name: "Alexei Shostakov - Red Guardian", icon: "./pics/black_widow/RedGuardian.jpeg", universe: "mcu"},
+    "Dreykov": {name: "Dreykov", icon: "./pics/black_widow/Dreykov.png", universe: "mcu"},
+    "Rick_Mason": {name: "Rick Mason", icon: "./pics/black_widow/Rick_Mason.jpeg", universe: "mcu"},
+    "Task_Master": {name: "Task Master", icon: "./pics/black_widow/Task_Master.jpeg", universe: "mcu"},
+    // "Lerato": {name: "Lerato", icon: "./pics/black_widow/Lerato.png", universe: "mcu"},
+    // "Oksana": {name: "Oksana", icon: "./pics/black_widow/Oksana.png", universe: "mcu"},
+    "Val": {name: "Contessa Valentina Allegra de Fontaine", icon: "./pics/black_widow/Val.png", universe: "mcu"},
 
 
     // Shang-Chi
-    "ShangChi": {name: "Shang-Chi - Shaun", icon: "./pics/shang_chi/Shang-Chi.jpeg"},
-    "KatyChen": {name: "Katy Chen", icon: "./pics/shang_chi/Katy.jpeg"},
-    "Xialing": {name: "Xialing", icon: "./pics/shang_chi/Xialing.jpeg"},
-    "YingLi": {name: "Ying Li", icon: "./pics/shang_chi/Jiang_Li.jpeg"},
-    "RazorFist": {name: "Razor Fist", icon: "./pics/shang_chi/Razor_Fist.jpeg"},
-    "YingNan": {name: "Ying Nan", icon: "./pics/shang_chi/Jiang_Nan.jpeg"},
-    "Mandarin": {name: "Wenwu - Mandarin", icon: "./pics/shang_chi/Wenwu.jpeg"},
-    "JonJon": {name: "Jon Jon", icon: "./pics/shang_chi/Jon_Jon.png"},
-    "DeathDealer": {name: "Death Dealer", icon: "./pics/shang_chi/Death_Dealer.jpeg"},
+    "ShangChi": {name: "Shang-Chi - Shaun", icon: "./pics/shang_chi/Shang-Chi.jpeg", universe: "mcu"},
+    "KatyChen": {name: "Katy Chen", icon: "./pics/shang_chi/Katy.jpeg", universe: "mcu"},
+    "Xialing": {name: "Xialing", icon: "./pics/shang_chi/Xialing.jpeg", universe: "mcu"},
+    "YingLi": {name: "Ying Li", icon: "./pics/shang_chi/Jiang_Li.jpeg", universe: "mcu"},
+    "RazorFist": {name: "Razor Fist", icon: "./pics/shang_chi/Razor_Fist.jpeg", universe: "mcu"},
+    "YingNan": {name: "Ying Nan", icon: "./pics/shang_chi/Jiang_Nan.jpeg", universe: "mcu"},
+    "Mandarin": {name: "Wenwu - Mandarin", icon: "./pics/shang_chi/Wenwu.jpeg", universe: "mcu"},
+    "JonJon": {name: "Jon Jon", icon: "./pics/shang_chi/Jon_Jon.png", universe: "mcu"},
+    "DeathDealer": {name: "Death Dealer", icon: "./pics/shang_chi/Death_Dealer.jpeg", universe: "mcu"},
 
 
     // Eternals
-    "Sersi": {name: "Sersi", icon: "./pics/eternals/Sersi.jpeg"},
-    "Ikaris": {name: "Ikaris", icon: "./pics/eternals/Ikaris.jpeg"},
-    "Kingo": {name: "Kingo", icon: "./pics/eternals/Kingo.jpeg"},
-    "Sprite": {name: "Sprite", icon: "./pics/eternals/Sprite.jpeg"},
-    "Phastos": {name: "Phastos", icon: "./pics/eternals/Phastos.jpeg"},
-    "Makkari": {name: "Makkari", icon: "./pics/eternals/Makkari.jpeg"},
-    "Druig": {name: "Druig", icon: "./pics/eternals/Druig.jpeg"},
-    "Gilgamesh": {name: "Gilgamesh", icon: "./pics/eternals/Gilgamesh.jpeg"},
-    "Black_Knight": {name: "Dane Whitman - Black Knight", icon: "./pics/eternals/Black_Knight.png"},
-    "Ajak": {name: "Ajak", icon: "./pics/eternals/Ajak.jpeg"},
-    "Thena": {name: "Thena", icon: "./pics/eternals/Thena.jpeg"},
-    "Karun": {name: "Karun", icon: "./pics/eternals/Karun.png"},
-    "General_Kro": {name: "General Kro", icon: "./pics/eternals/Kro.png"},
-
+    "Sersi": {name: "Sersi", icon: "./pics/eternals/Sersi.jpeg", universe: "mcu"},
+    "Ikaris": {name: "Ikaris", icon: "./pics/eternals/Ikaris.jpeg", universe: "mcu"},
+    "Kingo": {name: "Kingo", icon: "./pics/eternals/Kingo.jpeg", universe: "mcu"},
+    "Sprite": {name: "Sprite", icon: "./pics/eternals/Sprite.jpeg", universe: "mcu"},
+    "Phastos": {name: "Phastos", icon: "./pics/eternals/Phastos.jpeg", universe: "mcu"},
+    "Makkari": {name: "Makkari", icon: "./pics/eternals/Makkari.jpeg", universe: "mcu"},
+    "Druig": {name: "Druig", icon: "./pics/eternals/Druig.jpeg", universe: "mcu"},
+    "Gilgamesh": {name: "Gilgamesh", icon: "./pics/eternals/Gilgamesh.jpeg", universe: "mcu"},
+    "Black_Knight": {name: "Dane Whitman - Black Knight", icon: "./pics/eternals/Black_Knight.png", universe: "mcu"},
+    "Ajak": {name: "Ajak", icon: "./pics/eternals/Ajak.jpeg", universe: "mcu"},
+    "Thena": {name: "Thena", icon: "./pics/eternals/Thena.jpeg", universe: "mcu"},
+    "Karun": {name: "Karun", icon: "./pics/eternals/Karun.png", universe: "mcu"},
+    "General_Kro": {name: "General Kro", icon: "./pics/eternals/Kro.png", universe: "mcu"},
 
     // Spider-Man 3: No way home
-    "Doctor_Octopus": {source: "Otto Octavius - Doctor Octopus", icon: "./pics/spiderman/Doctor_Octopus.png"},
-    "Green_Goblin": {source: "Norman Osborn/Green Goblin", icon: "./pics/spiderman/Green_Goblin.jpeg"},
-    "Sandman": {source: "Flint Marko - Sandman", icon: "./pics/spiderman/Sandman.jpeg"},
-    "Electro": {source: "Max Dillon - Electro", icon: "./pics/spiderman/Electro.jpeg"},
 
     // Hawkeye
-    "Kate_Bishop": {source: "Kate Bishop", icon: "./pics/hawkeye/KateBishop.jpeg"},
-    "Eleanor_Bishop": {source: "Eleanor Bishop", icon: "./pics/hawkeye/Eleanor_Bishop.png"},
-    "Derek_Bishop": {source: "Derek Bishop", icon: "./pics/hawkeye/Derek_Bishop.png"},
-    "Echo": {source: "Maya Lopez - Echo", icon: "./pics/hawkeye/Echo.jpeg"},
-    "Jack_Duquesne": {source: "Jack Duquesne", icon: "./pics/hawkeye/Jack_Duquesne.jpeg"},
-    "Armand_Duquesne": {source: "Armand Duquesne III", icon: "./pics/hawkeye/Armand_Duquesne.png"},
-    "Kazi": {source: "Kazimierz Kazimierczak - Clown", icon: "./pics/hawkeye/Clown.jpeg"},
-    "Kingpin": {source: "Wilson Fisk - Kingpin", icon: "./pics/hawkeye/Kingpin.jpeg"},
-    "Ivan_Banionis": {source: "Ivan Banionis", icon: "./pics/hawkeye/Ivan_Banionis.png"},
-    "Tomas": {source: "Tomas", icon: "./pics/hawkeye/Tomas.png"},
-    "William_Lopez": {source: "William Lopez", icon: "./pics/hawkeye/William_Lopez.png"},
-    "Enrique": {source: "Enrique", icon: "./pics/hawkeye/Enrique.png"},
-    "Grills": {source: "Grills", icon: "./pics/hawkeye/Grills.png"},
+    "Kate_Bishop": {name: "Kate Bishop", icon: "./pics/hawkeye/KateBishop.jpeg", universe: "mcu"},
+    "Eleanor_Bishop": {name: "Eleanor Bishop", icon: "./pics/hawkeye/Eleanor_Bishop.png", universe: "mcu"},
+    "Derek_Bishop": {name: "Derek Bishop", icon: "./pics/hawkeye/Derek_Bishop.png", universe: "mcu"},
+    "Echo": {name: "Maya Lopez - Echo", icon: "./pics/hawkeye/Echo.jpeg", universe: "mcu"},
+    "Jack_Duquesne": {name: "Jack Duquesne", icon: "./pics/hawkeye/Jack_Duquesne.jpeg", universe: "mcu"},
+    "Armand_Duquesne": {name: "Armand Duquesne III", icon: "./pics/hawkeye/Armand_Duquesne.png", universe: "mcu"},
+    "Kazi": {name: "Kazimierz Kazimierczak - Clown", icon: "./pics/hawkeye/Clown.jpeg", universe: "mcu"},
+    "Ivan_Banionis": {name: "Ivan Banionis", icon: "./pics/hawkeye/Ivan_Banionis.png", universe: "mcu"},
+    "Tomas": {name: "Tomas", icon: "./pics/hawkeye/Tomas.png", universe: "mcu"},
+    "William_Lopez": {name: "William Lopez", icon: "./pics/hawkeye/William_Lopez.png", universe: "mcu"},
+    "Enrique": {name: "Enrique", icon: "./pics/hawkeye/Enrique.png", universe: "mcu"},
+    "Grills": {name: "Grills", icon: "./pics/hawkeye/Grills.png", universe: "mcu"},
+    "Kingpin": {name: "Wilson Fisk - Kingpin", icon: "./pics/hawkeye/Kingpin.jpeg", universe: "netflix"},
 
 
 
@@ -396,54 +392,72 @@ var nodes = {
 
 
     // She-Hulk
-    "She_Hulk": {source: "Jennifer Walters - She-Hulk", icon: "./pics/shehulk/shehulk.png"},
+    "She_Hulk": {name: "Jennifer Walters - She-Hulk", icon: "./pics/shehulk/shehulk.png", universe: "mcu"},
 
 
     // Ms Marvel
-    "Ms_Marvel": {source: "Kamala Khan - Ms. Marvel", icon: "./pics/msmarvel/Kamala.jpeg"},
+    "Ms_Marvel": {name: "Kamala Khan - Ms. Marvel", icon: "./pics/msmarvel/Kamala.jpeg", universe: "mcu"},
 
     // Agatha, House of Harkness
 
 
     // Moon Knight
-    "Moon_Knight": {source: "Marc Spector - Moon Knight", icon: "./pics/moonknight/Marc_Spector.jpeg"},
+    "Moon_Knight": {name: "Marc Spector - Moon Knight", icon: "./pics/moonknight/Marc_Spector.jpeg", universe: "mcu"},
 
 
     // What If
     //     Starring Cast
-    "Watcher": {source: "Uatu, The Watcher", icon: "./pics/whatif/Uatu_the_Watcher.png"},
-    "Captain_Carter": {source: "Peggy Carter - Captain Carter", icon: "./pics/whatif/Captain_Carter.jpeg"},
+    "Watcher": {name: "Uatu, The Watcher", icon: "./pics/whatif/Uatu_the_Watcher.png", universe: "mcu"},
+    "Captain_Carter": {name: "Peggy Carter - Captain Carter", icon: "./pics/whatif/Captain_Carter.jpeg", universe: "mcu"},
 
 
     // Netflix
 
     // Daredevil
-    "Daredevil_Series": {source: "Daredevil", icon: "./pics/netflix/series/Daredevil.png"},
-    "Daredevil": {source: "Matt Murdock - Daredevil", icon: "./pics/netflix/daredevil/Daredevil.jpeg"},
-    "Punisher": {source: "Frank Castle - Punisher", icon: "./pics/netflix/daredevil/Punisher.jpeg"},
-    "Claire_Temple": {source: "Claire Temple", icon: "./pics/netflix/daredevil/Claire_Temple.png"},
-    "Karen_Page": {source: "Karen Page", icon: "./pics/netflix/daredevil/Karen_Page.png"},
+    "Daredevil_Series": {name: "Daredevil", icon: "./pics/netflix/series/Daredevil.png", universe: "netflix"},
+    "Daredevil": {name: "Matt Murdock - Daredevil", icon: "./pics/netflix/daredevil/Daredevil.jpeg", universe: "netflix"},
+    "Punisher": {name: "Frank Castle - Punisher", icon: "./pics/netflix/daredevil/Punisher.jpeg", universe: "netflix"},
+    "Claire_Temple": {name: "Claire Temple", icon: "./pics/netflix/daredevil/Claire_Temple.png", universe: "netflix"},
+    "Karen_Page": {name: "Karen Page", icon: "./pics/netflix/daredevil/Karen_Page.png", universe: "netflix"},
 
     // Jessica Jones
-    "Jessica_Jones_Series": {source: "Jessica Jones", icon: "./pics/netflix/series/Jessica_Jones.png"},
-    "Jessica_Jones": {source: "Jessica Jones", icon: "./pics/netflix/jessica_jones/Jessica_Jones.png"},
-    "Kilgrave": {source: "Kilgrave", icon: "./pics/netflix/jessica_jones/Kilgrave.jpeg"},
-    "Malcolm_Ducasse": {source: "Malcolm Ducasse", icon: "./pics/netflix/jessica_jones/Malcolm_Ducasse.jpeg"},
+    "Jessica_Jones_Series": {name: "Jessica Jones", icon: "./pics/netflix/series/Jessica_Jones.png", universe: "netflix"},
+    "Jessica_Jones": {name: "Jessica Jones", icon: "./pics/netflix/jessica_jones/Jessica_Jones.png", universe: "netflix"},
+    "Kilgrave": {name: "Kilgrave", icon: "./pics/netflix/jessica_jones/Kilgrave.jpeg", universe: "netflix"},
+    "Malcolm_Ducasse": {name: "Malcolm Ducasse", icon: "./pics/netflix/jessica_jones/Malcolm_Ducasse.jpeg", universe: "netflix"},
 
 
-    "Luke_Cage_Series": {source: "Luke Cage", icon: "./pics/netflix/series/Luke_Cage.jpeg"},
-    "Luke_Cage": {source: "Luke Cage", icon: "./pics/netflix/luke_cage/Luke_cage.png"},
-    "Cottonmouth": {source: "Cottonmouth", icon: "./pics/netflix/luke_cage/Cottonmouth.jpeg"},
-    "Misty_Knight": {source: "Misty Knight", icon: "./pics/netflix/luke_cage/Misty_knight.png"},
-    "Shades": {source: "Shades", icon: "./pics/netflix/luke_cage/Shades.png"},
-    "Black_Mariah": {source: "Black Mariah", icon: "./pics/netflix/luke_cage/Black_Mariah.png"},
+    "Luke_Cage_Series": {name: "Luke Cage", icon: "./pics/netflix/series/Luke_Cage.jpeg", universe: "netflix"},
+    "Luke_Cage": {name: "Luke Cage", icon: "./pics/netflix/luke_cage/Luke_cage.png", universe: "netflix"},
+    "Cottonmouth": {name: "Cottonmouth", icon: "./pics/netflix/luke_cage/Cottonmouth.jpeg", universe: "netflix"},
+    "Misty_Knight": {name: "Misty Knight", icon: "./pics/netflix/luke_cage/Misty_knight.png", universe: "netflix"},
+    "Shades": {name: "Shades", icon: "./pics/netflix/luke_cage/Shades.png", universe: "netflix"},
+    "Black_Mariah": {name: "Black Mariah", icon: "./pics/netflix/luke_cage/Black_Mariah.png", universe: "netflix"},
 
-    "Iron_Fist_Series": {source: "Danny Rand - Iron Fist", icon: "./pics/netflix/series/Iron_Fist.jpeg"},
-    "Iron_Fist": {source: "Danny Rand - Iron Fist", icon: "./pics/netflix/iron_fist/Iron_Fist.jpeg"},
-    "Colleen_Wing": {source: "Colleen Wing", icon: "./pics/netflix/iron_fist/Colleen_Wing.jpeg"},
+    "Iron_Fist_Series": {name: "Danny Rand - Iron Fist", icon: "./pics/netflix/series/Iron_Fist.jpeg", universe: "netflix"},
+    "Iron_Fist": {name: "Danny Rand - Iron Fist", icon: "./pics/netflix/iron_fist/Iron_Fist.jpeg", universe: "netflix"},
+    "Colleen_Wing": {name: "Colleen Wing", icon: "./pics/netflix/iron_fist/Colleen_Wing.jpeg", universe: "netflix"},
 
-    "Punisher_Series": {source: "Punisher", icon: "./pics/netflix/series/Punisher.png"},
-    "Defenders_Series": {source: "Defenders", icon: "./pics/netflix/series/Defenders.jpeg"},
+    "Punisher_Series": {name: "Punisher", icon: "./pics/netflix/series/Punisher.png", universe: "netflix"},
+    "Defenders_Series": {name: "Defenders", icon: "./pics/netflix/series/Defenders.jpeg", universe: "netflix"},
+
+
+    // Sam Raimi Spider-verse
+
+    "Spider-Man_2002": {name: "Spider-Man (2002)", icon: "./pics/raimi/Spider-Man_2002.jpeg", universe: "raimi"},
+    "Spider-Man_2_2004": {name: "Spider-Man 2 (2004)", icon: "./pics/raimi/Spider-Man_2_2004.jpeg", universe: "raimi"},
+    "Spider-Man_3_2007": {name: "Spider-Man 3 (2007)", icon: "./pics/raimi/Spider-Man_3_2007.jpeg", universe: "raimi"},
+    "Spider-Man_Tobey": {name: "Spider-Man (Tobey)", icon: "./pics/raimi/Spider-Man_Tobey.png", universe: "raimi"},
+    "Doctor_Octopus": {name: "Otto Octavius - Doctor Octopus", icon: "./pics/raimi/Doctor_Octopus.png", universe: "raimi"},
+    "Green_Goblin": {name: "Norman Osborn/Green Goblin", icon: "./pics/raimi/Green_Goblin.jpeg", universe: "raimi"},
+    "Sandman": {name: "Flint Marko - Sandman", icon: "./pics/raimi/Sandman.jpeg", universe: "raimi"},
+
+    // Marv Webb Spider-Verse
+    "Amazing_Spider-Man_2012": {name: "The Amazing Spider-Man (2012)", icon: "./pics/webb/The_Amazing_Spider-Man.jpeg", universe: "webb"},
+    "Amazing_Spider-Man_2_2014": {name: "The Amazing Spider-Man 2 (2014)", icon: "./pics/webb/The_Amazing_Spiderman_2.jpeg", universe: "webb"},
+    "Spider-Man_Andrew": {name: "Spider-Man (Andrew)", icon: "./pics/webb/Spider-Man_Andrew.png", universe: "webb"},
+    "Electro": {name: "Max Dillon - Electro", icon: "./pics/webb/Electro.jpeg", universe: "webb"},
+    "Lizard": {name: "Dr. Curt Connors - Lizard", icon: "./pics/webb/Lizard.png", universe: "webb"},
 
 
 };
@@ -1071,7 +1085,13 @@ var links = [
     {source: "Doctor_Octopus", target: "Spider_Man_3_Movie"},
     {source: "Sandman", target: "Spider_Man_3_Movie"},
     {source: "Green_Goblin", target: "Spider_Man_3_Movie"},
+    {source: "Lizard", target: "Spider_Man_3_Movie"},
     {source: "Wong", target: "Spider_Man_3_Movie"},
+    {source: "Spider-Man_Andrew", target: "Spider_Man_3_Movie"},
+    {source: "Spider-Man_Tobey", target: "Spider_Man_3_Movie"},
+    {source: "Daredevil", target: "Spider_Man_3_Movie"},
+
+
 
 // "DoctorStrange_2_Movie": { name: "Doctor Strange in the Multiverse of Madness", icon: "./pics/movies/DoctorStrange_2.jpeg"},
     {source: "DoctorStrange", target: "DoctorStrange_2_Movie"},
@@ -1205,12 +1225,27 @@ var links = [
     {source: "Misty_Knight", target: "Defenders_Series"},
 
 
+    {source: "Spider-Man_Tobey", target: "Spider-Man_2002"},
+    {source: "Green_Goblin", target: "Spider-Man_2002"},
+
+    {source: "Spider-Man_Tobey", target: "Spider-Man_2_2004"},
+    {source: "Doctor_Octopus", target: "Spider-Man_2_2004"},
+
+    {source: "Spider-Man_Tobey", target: "Spider-Man_3_2007"},
+    {source: "Sandman", target: "Spider-Man_3_2007"},
+
+    {source: "Spider-Man_Andrew", target: "Amazing_Spider-Man_2012"},
+    {source: "Lizard", target: "Amazing_Spider-Man_2012"},
+
+    {source: "Spider-Man_Andrew", target: "Amazing_Spider-Man_2_2014"},
+    {source: "Electro", target: "Amazing_Spider-Man_2_2014"},
+
 ];
 
 
 
-var width = 6500,
-    height = 6500;
+var width = 5500,
+    height = 5500;
 
 // Compute the distinct nodes from the links.
 links.forEach(function(link) {
@@ -1254,29 +1289,20 @@ var node = svg.selectAll(".node")
     .on("mouseout", mouseout)
     .call(force.drag);
 
-node.append("circle")
-    .attr("r", 2)
+var rect = node.append("rect")
+    .attr("r", 42)
+    .attr("class", function(d) { return "container " + d.universe; })
 ;
 
 node.append("image")
     .attr("xlink:href", function(d) { return d.icon; })
-    .attr("x", "-24px")
-    .attr("y", "-24px")
-    .attr("width", "60px")
-    .attr("height", "80px");
+    .attr("class", function(d) { return d.universe; })
+    .attr("border", "55px red");
 
-node.append("a")
-    .attr("xlink:href", function(d) {return "http://somelink.com/link.php?id="})
-    .append("circle")
-    .attr("cx", 4 )
-    .attr("cy", 55 )
-    .attr("r", 1)
-    .style("fill", "blue")
-    .style("opacity", 0.5);
 
 node.append("text")
-    // .attr("x", "-40px")
-    .attr("y", "60px")
+    .attr("x", "-20px")
+    .attr("y", "40px")
     .attr("dy", ".35em")
     .attr("text-align", "center")
     .attr("width", "80px")
@@ -1302,5 +1328,5 @@ function mouseover() {
 function mouseout() {
     d3.select(this).select("circle").transition()
         .duration(750)
-        .attr("r", 8);
+        .attr("r", 42);
 }

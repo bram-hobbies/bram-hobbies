@@ -19,17 +19,44 @@ body { background: rgb(204,204,204); /* Old browsers */
     stroke-width: 1.5px;
 }
 
+
 .node image {
-    width: 60px;
+    width: 38px;
+    height: 58px;
+    x: -19;
+    y: -29;
+    border: 110px solid #ddd;
+    /*border-radius: 20px;*/
+    /*padding: 5px;*/
 }
 
-.node circle {
-    fill: #ccc;
-    stroke: #fff;
+.node rect.container {
+    width: 40px;
+    height: 60px;
+    x: -20;
+    y: -30;
+    /*fill: #ccc;*/
     stroke-width: 1.5px;
 }
 
+.node rect.raimi {
+    fill: #0f0;
+}
+
+.node rect.webb {
+    fill: #00f;
+}
+
+.node rect.netflix {
+    fill: #f00;
+}
+
+.node rect.mcu {
+    fill: #ccc;
+}
+
+
 text {
-    font: 10px sans-serif;
+    font: 8px sans-serif;
     pointer-events: none;
 }
