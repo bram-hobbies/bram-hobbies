@@ -32,12 +32,18 @@
 - [ ] 7194: Yoda
 - [ ] 10018: Darth Maul
 - [ ] 75227: Limited edition Darth Vader Bust
-- [x] 75274: Tie Fighter Pilot Helmet
-- [x] 75276: Storm Trooper Helmet
-- [x] 75277: Boba Fett Helmet
-- [x] 75304: Darth Vader Helmet
-- [x] 75305: Scout Trooper Helm
-- [x] 75306: Imperial Probe Droid
+- [x] 75274: Tie Fighter Pilot
+- [x] 75276: Storm Trooper
+- [x] [75277](https://www.lego.com/nl-nl/product/boba-fett-helmet-75277): Boba Fett
+- [x] [75304](https://www.lego.com/nl-nl/product/darth-vader-helmet-75304): Darth Vader
+- [x] [75305](https://www.lego.com/nl-nl/product/scout-trooper-helmet-75305): Scout Trooper
+- [ ] [75327](https://www.lego.com/nl-nl/product/luke-skywalker-red-five-helmet-75327): Luke Skywalker Red5
+- [ ] [75328](https://www.lego.com/nl-nl/product/the-mandalorian-helmet-75328): The Mandalorian
+- [ ] [75343](https://www.lego.com/nl-nl/product/dark-trooper-helmet-75343): Dark Trooper
+
+### Other sets in this line
+- [x] [75306](https://www.lego.com/nl-nl/product/imperial-probe-droid-75306): Imperial Probe Droid
+- [ ] [75296](https://www.lego.com/nl-nl/product/darth-vader-meditation-chamber-75296): Darth Vader Meditation Chamber
 
 ## Lightsabers
 - [ ] Yoda's Lightsaber
