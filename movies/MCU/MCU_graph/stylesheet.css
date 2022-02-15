@@ -55,6 +55,9 @@ body { background: rgb(204,204,204); /* Old browsers */
     fill: #ccc;
 }
 
+.node rect.whatif {
+    fill: #94f;
+}
 
 text {
     font: 8px sans-serif;
