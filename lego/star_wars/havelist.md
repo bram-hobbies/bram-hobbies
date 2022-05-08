@@ -6,7 +6,7 @@
 - [x] 7191: X-Wing Fighter
 - [x] 10019: Rebel Blockade Runner
 - [x] 10030: Imperial Star Destroyer
-- [ ] 10129: Rebel Snowspeeder
+- [x] 10129: Rebel Snowspeeder
 - [x] 10134: Y-Wing Attack Starfighter
 - [x] 10143: Death Star II
 - [x] 10174: Imperial AT-ST
