@@ -27,6 +27,7 @@
 - [x] 75275: A-Wing Starfighter
 - [x] 75309: Republic Gunship
 - [x] 75313: AT-AT
+- [x] 75341: Luke Skywalker's Landspeeder
 
 ## Helmets & Busts
 - [ ] 7194: Yoda
@@ -37,9 +38,9 @@
 - [x] [75277](https://www.lego.com/nl-nl/product/boba-fett-helmet-75277): Boba Fett
 - [x] [75304](https://www.lego.com/nl-nl/product/darth-vader-helmet-75304): Darth Vader
 - [x] [75305](https://www.lego.com/nl-nl/product/scout-trooper-helmet-75305): Scout Trooper
-- [ ] [75327](https://www.lego.com/nl-nl/product/luke-skywalker-red-five-helmet-75327): Luke Skywalker Red5
-- [ ] [75328](https://www.lego.com/nl-nl/product/the-mandalorian-helmet-75328): The Mandalorian
-- [ ] [75343](https://www.lego.com/nl-nl/product/dark-trooper-helmet-75343): Dark Trooper
+- [x] [75327](https://www.lego.com/nl-nl/product/luke-skywalker-red-five-helmet-75327): Luke Skywalker Red5
+- [x] [75328](https://www.lego.com/nl-nl/product/the-mandalorian-helmet-75328): The Mandalorian
+- [x] [75343](https://www.lego.com/nl-nl/product/dark-trooper-helmet-75343): Dark Trooper
 
 ### Other sets in this line
 - [x] [75306](https://www.lego.com/nl-nl/product/imperial-probe-droid-75306): Imperial Probe Droid
@@ -57,6 +58,7 @@
 - [x] 75278: D-O
 - [x] 75318: Baby Yoda
 - [x] 75308: R2-D2
+- [ ] 75335: BD-1
 
 
 ## Not considered UCS
@@ -87,6 +89,7 @@
 - [x] : 2019
 - [x] : 2020
 - [x] : 2021
+- [ ] : 2022
 
 
 
