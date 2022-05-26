@@ -426,23 +426,26 @@ var nodes = {
 
     // Moon Knight
     "Moon_Knight": {name: "Marc Spector - Moon Knight", icon: "./pics/moon_knight/Moon_Knight.png", universe: "mcu" },
+    "Khonshu": { name: "Khonshu", icon: "./pics/moon_knight/khonshu.png", universe: "mcu" },
+    "Layla": { name: "Layla El-Faouly - Scarlet Scarab", icon: "./pics/moon_knight/Layla_El_Faouly.jpeg", universe: "mcu" },
     "Arthur_Harrow": {name: "Arthur Harrow", icon: "./pics/moon_knight/Arthur_Harrow.png", universe: "mcu" },
-    "Donna": {name: "Marc Spector - Moon Knight", icon: "./pics/moon_knight/Donna.png", universe: "mcu" },
-    "Layla": { name: "Layla", icon: "./pics/moon_knight/Layla.jpeg", universe: "mcu" },
-    "Midnight_Man": { name: "Anthon Mogart - Midnight Man", icon: "./pics/moon_knight/Midnight_Man.jpeg", universe: "mcu" },
-    "Konshu": { name: "Konshu", icon: "./pics/moon_knight/Konshu.jpg", universe: "mcu" },
+    "Tawaret": {name: "Tawaret", icon: "./pics/moon_knight/Tawaret.png", universe: "mcu" },
+    "Donna": {name: "Donna", icon: "./pics/moon_knight/Donna.png", universe: "mcu" },
+    "Anthon_Mogart": { name: "Anthon Mogart", icon: "./pics/moon_knight/Midnight_Man.jpeg", universe: "mcu" },
 
 
-    // Doctor Strange and the Mutliverse of Madness
+    // Doctor Strange and the Multiverse of Madness
     "America_Chavez": { name: "America Chavez", icon: "./pics/doctor_strange/America_Chavez.png", universe: "mcu" },
     "Gargantos": { name: "Gargantos", icon: "./pics/doctor_strange/Gargantos.png", universe: "mcu" },
     "Hamir": { name: "Hamir", icon: "./pics/doctor_strange/Hamir.png", universe: "mcu" },
     "Rintrah": { name: "Rintrah", icon: "./pics/doctor_strange/Rintrah.png", universe: "mcu" },
-    "Zombie_Strange": { name: "Zombie Strange", icon: "./pics/doctor_strange/Zombie_Strange.png", universe: "mcu" },
-    "Zombie_Wanda": { name: "Zombie Wanda", icon: "./pics/doctor_strange/Zombie_Wanda.png", universe: "mcu" },
+    "BaronMordo": { name: "Baron Mordo", icon: "./pics/doctor_strange/baron_mordo.png", universe: "mcu" },
     "Defender_Strange": { name: "Defender Strange", icon: "./pics/doctor_strange/Defender_Strange.png", universe: "mcu" },
     "Strange_Supreme": { name: "Strange Supreme", icon: "./pics/doctor_strange/Strange_Supreme.png", universe: "mcu" },
     "Professor_X": { name: "Professor X", icon: "./pics/doctor_strange/Professor_X.png", universe: "fox" },
+    "Reed_Richards": { name: "Reed Richards - Mister Fantastic", icon: "./pics/doctor_strange/Reed_Richards.png", universe: "" },
+    "Black_Bolt": { name: "Blackagar Boltagon - Black Bolt", icon: "./pics/doctor_strange/black_bolt.png", universe: "" },
+    "Captain_Marvel_Rambeau": { name: "Maria Rambeau - Captain Marvel", icon: "./pics/doctor_strange/Maria_Rambeau_Captain_Marvel.png", universe: "" },
 
 
     // Ms Marvel
@@ -508,6 +511,38 @@ var nodes = {
     "Electro": {name: "Max Dillon - Electro", icon: "./pics/webb/Electro.jpeg", universe: "webb" },
     "Lizard": {name: "Dr. Curt Connors - Lizard", icon: "./pics/webb/Lizard.png", universe: "webb" },
 
+
+    // Fox X-Men Universe
+    "XMen": { name: "X-Men", icon: "./pics/fox/movies/XMen.jpeg", universe: "fox" },
+    "X2": { name: "X2: X-Men United", icon: "./pics/fox/movies/X2.jpeg", universe: "fox" },
+    "XMen3_Last_Stand": { name: "X-Men: Last Stand", icon: "./pics/fox/movies/XMen_Last_Stand.jpeg", universe: "fox" },
+    "XMen_Wolverine": { name: "X-Men: Wolverine", icon: "./pics/fox/movies/XMen_Wolverine.jpeg", universe: "fox" },
+    "The_Wolverine": { name: "The Wolverine", icon: "./pics/fox/movies/The_Wolverine.jpeg", universe: "fox" },
+    "Logan": { name: "Logan", icon: "./pics/fox/movies/Logan.jpeg", universe: "fox" },
+    "XMen_First_Class": { name: "X-Men: First Class", icon: "./pics/fox/movies/XMen_First_Class.jpeg", universe: "fox" },
+    "XMen_Days_of_Future_Past": { name: "X-Men: Days of Future Past", icon: "./pics/fox/movies/XMen_Days_of_Future_Past.jpeg", universe: "fox" },
+    "XMen_Apocalypse": { name: "X-Men: Apocalypse", icon: "./pics/fox/movies/XMen_Apocalypse.jpeg", universe: "fox" },
+    "XMen_Dark_Phoenix": { name: "X-Men: Dark Phoenix", icon: "./pics/fox/movies/XMen_Dark_Phoenix.png", universe: "fox" },
+    "Deadpool": { name: "Deadpool", icon: "./pics/fox/movies/Deadpool.png", universe: "fox" },
+    "Deadpool_2": { name: "Deadpool 2", icon: "./pics/fox/movies/Deadpool_2.jpeg", universe: "fox" },
+    "The_New_Mutants": { name: "The New Mutants", icon: "./pics/fox/movies/The_New_Mutants.jpeg", universe: "fox" },
+
+    "Wolverine": { name: "Logan - Wolverine", icon: "./pics/fox/wolverine.jpeg", universe: "fox" },
+    "Young_Prof_X": { name: "Young Professor X", icon: "./pics/fox/Young_Prof_X.jpeg", universe: "fox" },
+    "Magneto": { name: "Magneto", icon: "./pics/fox/magneto.jpg", universe: "fox" },
+    "Jean_Grey_Famke_Janssen": { name: "Jean Grey - Phoenix", icon: "./pics/fox/jean_grey.jpg", universe: "fox" },
+    "Jean_Grey_Sophie_Turner": { name: "Jean Grey - Dark Phoenix", icon: "./pics/fox/DarkPhoenix.jpeg", universe: "fox" },
+    "Cyclops_James_Marsden": { name: "Scott Summers - Cyclops", icon: "./pics/fox/cyclops_James_Marsden.jpeg", universe: "fox" },
+    "Cyclops_TimPocock": { name: "Scott Summers - Cyclops", icon: "./pics/fox/cyclops_Tim_Pocock.jpeg", universe: "fox" },
+    "Cyclops_Tye_Sheridan": { name: "Scott Summers - Cyclops", icon: "./pics/fox/cyclops_tye_sheridan.jpeg", universe: "fox" },
+    "Storm": { name: "Ororo Munroe - Storm", icon: "./pics/fox/storm.png", universe: "fox" },
+    "Rogue": { name: "Marie - Rogue", icon: "./pics/fox/rogue.png", universe: "fox" },
+    "Sabretooth_Tyler_Mane": { name: "Victor Creed - Sabretooth", icon: "./pics/fox/sabretooth_tyler_mane.jpeg", universe: "fox" },
+    "Sabretooth_Liev_Schreiber": { name: "Victor Creed - Sabretooth", icon: "./pics/fox/sabretooth_liev_schreiber.jpeg", universe: "fox" },
+    "Toad_Ray_Park": { name: "Toad", icon: "./pics/fox/Toad_Ray_Park.jpeg", universe: "fox" },
+    "Toad_Evan_Jonigkeit": { name: "Toad", icon: "./pics/fox/toad_evan_jonigkeit.jpg", universe: "fox" },
+    "Mystique_Rebecca_Romijn_Stamos": { name: "Raven Darkholme - Mystique", icon: "./pics/fox/Mystique_Rebecca_Romijn_Stamos.jpeg", universe: "fox" },
+    "Mystique_Jennifer_Lawrence": { name: "Raven Darkholme - Mystique", icon: "./pics/fox/mystique_jennifer_lawrence.png", universe: "fox" },
 
 };
 
@@ -734,6 +769,7 @@ var links = [
     { source: "AncientOne", target: "DoctorStrange_Movie" },
     { source: "Thor", target: "DoctorStrange_Movie" },
     { source: "PatKiernan", target: "DoctorStrange_Movie" },
+    { source: "Hamir", target: "DoctorStrange_Movie" },
 
 
     { source: "StarLord", target: "Guardians_ot_Galaxy2_Movie" },
@@ -1060,44 +1096,43 @@ var links = [
 
 
     // What if.....
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E1" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E2" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E3" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E4" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E5" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E6" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E7" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E8" },
-    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E9" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E1" },
     { source: "Watcher", target: "WhatIf_Series_S1E1" },
     { source: "Captain_Carter", target: "WhatIf_Series_S1E1" },
     { source: "Bucky_Barns_WI", target: "WhatIf_Series_S1E1" },
     { source: "Zola_WI", target: "WhatIf_Series_S1E1" },
     { source: "Hydra_Stomper", target: "WhatIf_Series_S1E1" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E2" },
     { source: "Watcher", target: "WhatIf_Series_S1E2" },
     { source: "TChalla_Starlord", target: "WhatIf_Series_S1E2" },
     { source: "Yondu_Udonta_WI", target: "WhatIf_Series_S1E2" },
     { source: "Thanos_WI", target: "WhatIf_Series_S1E2" },
     { source: "Zola_WI", target: "WhatIf_Series_S1E2" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E3" },
     { source: "Watcher", target: "WhatIf_Series_S1E3" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E4" },
     { source: "Watcher", target: "WhatIf_Series_S1E4" },
     { source: "Strange_Supreme", target: "WhatIf_Series_S1E4" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E5" },
     { source: "Watcher", target: "WhatIf_Series_S1E5" },
     { source: "Zombie_Thanos", target: "WhatIf_Series_S1E5" },
     { source: "Zombie_Wanda", target: "WhatIf_Series_S1E5" },
     { source: "Zombie_Strange", target: "WhatIf_Series_S1E5" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E6" },
     { source: "Watcher", target: "WhatIf_Series_S1E6" },
     { source: "Killmonger_WI", target: "WhatIf_Series_S1E6" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E7" },
     { source: "Watcher", target: "WhatIf_Series_S1E7" },
     { source: "Party_Thor", target: "WhatIf_Series_S1E7" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E8" },
     { source: "Watcher", target: "WhatIf_Series_S1E8" },
     { source: "UltraVision", target: "WhatIf_Series_S1E8" },
     { source: "Zola_WI", target: "WhatIf_Series_S1E8" },
@@ -1106,6 +1141,7 @@ var links = [
     { source: "Captain_Marvel_WI", target: "WhatIf_Series_S1E8" },
     { source: "Strange_Supreme", target: "WhatIf_Series_S1E8" },
 
+    // { source: "WhatIf_Series", target: "WhatIf_Series_S1E9" },
     { source: "Watcher", target: "WhatIf_Series_S1E9" },
     { source: "UltraVision", target: "WhatIf_Series_S1E9" },
     { source: "Strange_Supreme", target: "WhatIf_Series_S1E9" },
@@ -1125,20 +1161,12 @@ var links = [
     { source: "Watcher", target: "WhatIf2_Series" },
     { source: "Captain_Carter", target: "WhatIf2_Series" },
 
-
-
-
-
-
     // Marvel Zombies
     { source: "Zombie_Strange", target: "Marvel_Zombies_Series" },
     { source: "Zombie_Wanda", target: "Marvel_Zombies_Series" },
 
 
-
-
     // Shang-Chi
-// "Shang_Chi_Movie": { name: "Shang-Chi & the Legend of the Ten Rings", icon: "./pics/movies/Shang_Chi.jpeg" },
     { source: "KatyChen", target: "Shang_Chi_Movie" },
     { source: "Xialing", target: "Shang_Chi_Movie" },
     { source: "YingLi", target: "Shang_Chi_Movie" },
@@ -1218,9 +1246,29 @@ var links = [
     { source: "Donna", target: "Moonknight_Series" },
     { source: "Arthur_Harrow", target: "Moonknight_Series" },
     { source: "Layla", target: "Moonknight_Series" },
-    { source: "Midnight_Man", target: "Moonknight_Series" },
-    { source: "Konshu", target: "Moonknight_Series" },
-    // { source: "Moon_Knight", target: "Moonknight_Series" },
+    { source: "Anthon_Mogart", target: "Moonknight_Series" },
+    { source: "Khonshu", target: "Moonknight_Series" },
+    { source: "Tawaret", target: "Moonknight_Series" },
+
+
+    // "DoctorStrange 2 Movie":
+    { source: "DoctorStrange", target: "DoctorStrange_2_Movie" },
+    { source: "ScarletWitch", target: "DoctorStrange_2_Movie" },
+    { source: "Wong", target: "DoctorStrange_2_Movie" },
+    { source: "ChristinePalmer", target: "DoctorStrange_2_Movie" },
+    { source: "BaronMordo", target: "DoctorStrange_2_Movie" },
+    { source: "America_Chavez", target: "DoctorStrange_2_Movie" },
+    { source: "Rintrah", target: "DoctorStrange_2_Movie" },
+    { source: "Strange_Supreme", target: "DoctorStrange_2_Movie" },
+    { source: "Defender_Strange", target: "DoctorStrange_2_Movie" },
+    { source: "Professor_X", target: "DoctorStrange_2_Movie" },
+    { source: "Captain_Carter", target: "DoctorStrange_2_Movie" },
+    { source: "Reed_Richards", target: "DoctorStrange_2_Movie" },
+    { source: "Black_Bolt", target: "DoctorStrange_2_Movie" },
+    { source: "Captain_Marvel_Rambeau", target: "DoctorStrange_2_Movie" },
+    { source: "Hamir", target: "DoctorStrange_2_Movie" },
+    { source: "Gargantos", target: "DoctorStrange_2_Movie" },
+
 
 
 
@@ -1231,34 +1279,6 @@ var links = [
     { source: "Hawkeye", target: "SecretInvasion_Series" },
     { source: "Falcon", target: "SecretInvasion_Series" },
 
-
-
-// "DoctorStrange_2_Movie": { name: "Doctor Strange in the Multiverse of Madness", icon: "./pics/movies/DoctorStrange_2.jpeg" },
-    { source: "DoctorStrange", target: "DoctorStrange_2_Movie" },
-    { source: "ScarletWitch", target: "DoctorStrange_2_Movie" },
-    { source: "Wong", target: "DoctorStrange_2_Movie" },
-    { source: "ChristinePalmer", target: "DoctorStrange_2_Movie" },
-    { source: "KarlMordo", target: "DoctorStrange_2_Movie" },
-    { source: "America_Chavez", target: "DoctorStrange_2_Movie" },
-    { source: "Rintrah", target: "DoctorStrange_2_Movie" },
-    { source: "Loki", target: "DoctorStrange_2_Movie", class: "rumored"  },
-    { source: "SylvieLaufeydottir", target: "DoctorStrange_2_Movie", class: "rumored"  },
-    { source: "Mobius", target: "DoctorStrange_2_Movie", class: "rumored"  },
-
-
-
-    { source: "Defender_Strange", target: "DoctorStrange_2_Movie", class: "rumored"  },
-    { source: "Strange_Supreme", target: "DoctorStrange_2_Movie", class: "rumored"  },
-    { source: "Zombie_Strange", target: "DoctorStrange_2_Movie" },
-    { source: "Defender_Strange", target: "DoctorStrange_2_Movie" },
-    { source: "Zombie_Wanda", target: "DoctorStrange_2_Movie" },
-    { source: "Professor_X", target: "DoctorStrange_2_Movie", class: "rumored" },
-    { source: "Captain_Carter", target: "DoctorStrange_2_Movie", class: "rumored"  },
-
-
-    { source: "Hamir", target: "DoctorStrange_2_Movie" },
-    { source: "Hamir", target: "DoctorStrange_Movie" },
-    { source: "Gargantos", target: "DoctorStrange_2_Movie" },
 
 
 // "BlackPanther_2_Movie": { name: "Black Panther: Wakanda Forever", icon: "./pics/movies/Black_Panther_2.jpeg" },
@@ -1387,6 +1407,95 @@ var links = [
 
     { source: "Spider-Man_Andrew", target: "Amazing_Spider-Man_2_2014" },
     { source: "Electro", target: "Amazing_Spider-Man_2_2014" },
+
+
+    // Fox X-Men
+
+
+
+    // X-Men
+    { source: "Wolverine", target: "XMen"},
+    { source: "Professor_X", target: "XMen"},
+    { source: "Magneto", target: "XMen"},
+    { source: "Jean_Grey_Famke_Janssen", target: "XMen"},
+    { source: "Cyclops_James_Marsden", target: "XMen"},
+    { source: "Storm", target: "XMen"},
+    { source: "Rogue", target: "XMen"},
+    { source: "Sabretooth_Liev_Schreiber", target: "XMen"},
+    { source: "Toad_Ray_Park", target: "XMen"},
+    { source: "Mystique_Rebecca_Romijn_Stamos", target: "XMen"},
+
+    // X-Men 2
+    { source: "Wolverine", target: "X2"},
+    { source: "Professor_X", target: "X2"},
+    { source: "Magneto", target: "X2"},
+    { source: "Jean_Grey_Famke_Janssen", target: "X2"},
+    { source: "Cyclops_James_Marsden", target: "X2"},
+    { source: "Storm", target: "X2"},
+    { source: "Rogue", target: "X2"},
+    { source: "Mystique_Rebecca_Romijn_Stamos", target: "X2"},
+
+    // X-men Last stand
+    { source: "Wolverine", target: "XMen3_Last_Stand"},
+    { source: "Professor_X", target: "XMen3_Last_Stand"},
+    { source: "Magneto", target: "XMen3_Last_Stand"},
+    { source: "Jean_Grey_Famke_Janssen", target: "XMen3_Last_Stand"},
+    { source: "Cyclops_James_Marsden", target: "XMen3_Last_Stand"},
+    { source: "Storm", target: "XMen3_Last_Stand"},
+    { source: "Rogue", target: "XMen3_Last_Stand"},
+    { source: "Mystique_Rebecca_Romijn_Stamos", target: "XMen3_Last_Stand"},
+
+    // X-Men First Class
+    { source: "Wolverine", target: "XMen_First_Class"},
+    { source: "Young_Prof_X", target: "XMen_First_Class"},
+    { source: "Storm", target: "XMen_First_Class"},
+    { source: "Mystique_Jennifer_Lawrence", target: "XMen_First_Class"},
+
+    // X-Men Days of Future Past
+    { source: "Wolverine", target: "XMen_Days_of_Future_Past"},
+    { source: "Professor_X", target: "XMen_Days_of_Future_Past"},
+    { source: "Young_Prof_X", target: "XMen_Days_of_Future_Past"},
+    { source: "Magneto", target: "XMen_Days_of_Future_Past"},
+    { source: "Jean_Grey_Famke_Janssen", target: "XMen_Days_of_Future_Past"},
+    { source: "Storm", target: "XMen_Days_of_Future_Past"},
+    { source: "Rogue", target: "XMen_Days_of_Future_Past"},
+    { source: "Toad_Evan_Jonigkeit", target: "XMen_Days_of_Future_Past"},
+    { source: "Mystique_Jennifer_Lawrence", target: "XMen_Days_of_Future_Past"},
+
+    // X-Men Apocalypse
+    { source: "Wolverine", target: "XMen_Apocalypse"},
+    { source: "Young_Prof_X", target: "XMen_Apocalypse"},
+    { source: "Jean_Grey_Sophie_Turner", target: "XMen_Apocalypse"},
+    { source: "Cyclops_Tye_Sheridan", target: "XMen_Apocalypse"},
+    { source: "Mystique_Jennifer_Lawrence", target: "XMen_Apocalypse"},
+
+    // X-Men Dark Phoenix
+    { source: "Wolverine", target: "XMen_Dark_Phoenix"},
+    { source: "Young_Prof_X", target: "XMen_Dark_Phoenix"},
+    { source: "Jean_Grey_Sophie_Turner", target: "XMen_Dark_Phoenix"},
+    { source: "Cyclops_Tye_Sheridan", target: "XMen_Dark_Phoenix"},
+    { source: "Mystique_Jennifer_Lawrence", target: "XMen_Dark_Phoenix"},
+
+    // Wolverine
+    { source: "Wolverine", target: "XMen_Wolverine"},
+    { source: "Professor_X", target: "XMen_Wolverine"},
+    { source: "Cyclops_TimPocock", target: "XMen_Wolverine"},
+    { source: "Sabretooth_Tyler_Mane", target: "XMen_Wolverine"},
+
+    // Wolverine 2
+    { source: "Wolverine", target: "The_Wolverine"},
+    { source: "Professor_X", target: "The_Wolverine"},
+    { source: "Jean_Grey_Famke_Janssen", target: "The_Wolverine"},
+    { source: "Storm", target: "The_Wolverine"},
+
+    // Logan
+    { source: "Wolverine", target: "Logan"},
+    { source: "Professor_X", target: "Logan"},
+    { source: "Storm", target: "Logan"},
+
+    // Deadpool
+    { source: "Wolverine", target: "Deadpool"},
+    { source: "Wolverine", target: "Deadpool_2"},
 
 
 
