@@ -439,13 +439,15 @@ var nodes = {
     "Gargantos": { name: "Gargantos", icon: "./pics/doctor_strange/Gargantos.png", universe: "mcu" },
     "Hamir": { name: "Hamir", icon: "./pics/doctor_strange/Hamir.png", universe: "mcu" },
     "Rintrah": { name: "Rintrah", icon: "./pics/doctor_strange/Rintrah.png", universe: "mcu" },
-    "BaronMordo": { name: "Baron Mordo", icon: "./pics/doctor_strange/baron_mordo.png", universe: "mcu" },
     "Defender_Strange": { name: "Defender Strange", icon: "./pics/doctor_strange/Defender_Strange.png", universe: "mcu" },
     "Strange_Supreme": { name: "Strange Supreme", icon: "./pics/doctor_strange/Strange_Supreme.png", universe: "mcu" },
     "Professor_X": { name: "Professor X", icon: "./pics/doctor_strange/Professor_X.png", universe: "fox" },
-    "Reed_Richards": { name: "Reed Richards - Mister Fantastic", icon: "./pics/doctor_strange/Reed_Richards.png", universe: "" },
-    "Black_Bolt": { name: "Blackagar Boltagon - Black Bolt", icon: "./pics/doctor_strange/black_bolt.png", universe: "" },
-    "Captain_Marvel_Rambeau": { name: "Maria Rambeau - Captain Marvel", icon: "./pics/doctor_strange/Maria_Rambeau_Captain_Marvel.png", universe: "" },
+    "BaronMordo": { name: "Baron Mordo", icon: "./pics/doctor_strange/baron_mordo.png", universe: "_838" },
+    "Reed_Richards": { name: "Reed Richards - Mister Fantastic", icon: "./pics/doctor_strange/Reed_Richards.png", universe: "_838" },
+    "Black_Bolt": { name: "Blackagar Boltagon - Black Bolt", icon: "./pics/doctor_strange/black_bolt.png", universe: "_838" },
+    "Captain_Marvel_Rambeau": { name: "Maria Rambeau - Captain Marvel", icon: "./pics/doctor_strange/Maria_Rambeau_Captain_Marvel.png", universe: "_838" },
+    "838_Palmer": { name: "Doctor Palmer (838)", icon: "./pics/doctor_strange/838_Palmer.png", universe: "_838" },
+    "838_Wanda": { name: "Wanda Maximov (838)", icon: "./pics/doctor_strange/838_Wanda.jpg", universe: "_838" },
 
 
     // Ms Marvel
@@ -1285,6 +1287,8 @@ var links = [
     { source: "Captain_Marvel_Rambeau", target: "DoctorStrange_2_Movie" },
     { source: "Hamir", target: "DoctorStrange_2_Movie" },
     { source: "Gargantos", target: "DoctorStrange_2_Movie" },
+    { source: "838_Palmer", target: "DoctorStrange_2_Movie" },
+    { source: "838_Wanda", target: "DoctorStrange_2_Movie" },
 
 
     // "Thor_4_Movie": { name: "Thor: Love & Thunder", icon: "./pics/movies/Thor_4.jpeg" },

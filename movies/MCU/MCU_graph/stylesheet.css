@@ -58,8 +58,13 @@ body { background: rgb(204,204,204); /* Old browsers */
 .node rect.whatif {
     fill: #94f;
 }
+
 .node rect.fox {
     fill: #cc0;
+}
+
+.node rect._838 {
+    fill: #c0c;
 }
 
 text {
