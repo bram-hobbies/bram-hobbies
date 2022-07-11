@@ -1290,11 +1290,28 @@ var links = [
     { source: "838_Palmer", target: "DoctorStrange_2_Movie" },
     { source: "838_Wanda", target: "DoctorStrange_2_Movie" },
 
+    // Ms. Marvel
+    { source: "Ms_Marvel", target: "MsMarvel_Series" },
+    { source: "Bruno_Carrelli", target: "MsMarvel_Series" },
+    { source: "Nakia_Bahadir", target: "MsMarvel_Series" },
+    { source: "Muneeba_Khan", target: "MsMarvel_Series" },
+    { source: "Yusuf_Khan", target: "MsMarvel_Series" },
+    { source: "Aamir_Khan", target: "MsMarvel_Series" },
+    { source: "Zoe_Zimmer", target: "MsMarvel_Series" },
+    { source: "Kamran", target: "MsMarvel_Series" },
+    { source: "Agent_Cleary", target: "MsMarvel_Series" },
+    { source: "Agent_Cleary", target: "Spider_Man_3_Movie" },
+    { source: "Sadie_Deever", target: "MsMarvel_Series" },
+    { source: "Najma", target: "MsMarvel_Series" },
+    { source: "Tyesha_Hillman", target: "MsMarvel_Series" },
 
-    // "Thor_4_Movie": { name: "Thor: Love & Thunder", icon: "./pics/movies/Thor_4.jpeg" },
+
+    // "Thor_4_Movie":
     { source: "Thor", target: "Thor_4_Movie" },
     { source: "JaneFoster", target: "Thor_4_Movie" },
     { source: "Valkyrie", target: "Thor_4_Movie" },
+    { source: "DarcyLewis", target: "Thor_4_Movie" },
+    { source: "ErikSelvig", target: "Thor_4_Movie" },
     { source: "Sif", target: "Thor_4_Movie" },
     { source: "StarLord", target: "Thor_4_Movie" },
     { source: "Drax", target: "Thor_4_Movie" },
@@ -1304,7 +1321,6 @@ var links = [
     { source: "RocketRaccoon", target: "Thor_4_Movie" },
     { source: "Groot", target: "Thor_4_Movie" },
     { source: "Korg", target: "Thor_4_Movie" },
-    { source: "Grandmaster", target: "Thor_4_Movie" },
     { source: "Miek", target: "Thor_4_Movie" },
     { source: "Gorr", target: "Thor_4_Movie" },
     { source: "Zeus", target: "Thor_4_Movie" },
@@ -1339,21 +1355,6 @@ var links = [
     { source: "She_Hulk", target: "SheHulk_Series" },
     { source: "Hulk", target: "SheHulk_Series" },
     { source: "Abomination", target: "SheHulk_Series" },
-
-    // Ms. Marvel
-    { source: "Ms_Marvel", target: "MsMarvel_Series" },
-    { source: "Bruno_Carrelli", target: "MsMarvel_Series" },
-    { source: "Nakia_Bahadir", target: "MsMarvel_Series" },
-    { source: "Muneeba_Khan", target: "MsMarvel_Series" },
-    { source: "Yusuf_Khan", target: "MsMarvel_Series" },
-    { source: "Aamir_Khan", target: "MsMarvel_Series" },
-    { source: "Zoe_Zimmer", target: "MsMarvel_Series" },
-    { source: "Kamran", target: "MsMarvel_Series" },
-    { source: "Agent_Cleary", target: "MsMarvel_Series" },
-    { source: "Agent_Cleary", target: "Spider_Man_3_Movie" },
-    { source: "Sadie_Deever", target: "MsMarvel_Series" },
-    { source: "Najma", target: "MsMarvel_Series" },
-    { source: "Tyesha_Hillman", target: "MsMarvel_Series" },
 
 // "The_Marvels_Movie": { name: "The Marvels", icon: "./pics/movies/The_Marvels.jpeg" },
     { source: "CaptainMarvel", target: "The_Marvels_Movie" },
@@ -1532,8 +1533,8 @@ var links = [
 
 
 
-var width = 7500,
-    height = 7500;
+var width = 3000,
+    height = 4000;
 
 // Compute the distinct nodes from the links.
 links.forEach(function(link) {
@@ -1546,13 +1547,13 @@ var force = d3.layout.force()
     .nodes(d3.values(nodes))
     .links(links)
     .size([width, height])
-    .linkDistance(180)
+    .linkDistance(220)
     // .charge(-300)
     // .charge(function(d, i) { return i==0 ? -10000 : -500; })
     .charge(function(d, i) {
-        if (i == 0) return -10000;
-        if (i < 23) return -5000;
-        return -2500;
+        if (i == 0) return -1000;
+        if (i < 23) return -500;
+        return -650;
     })
     .on("tick", tick)
     .start();
@@ -1578,7 +1579,7 @@ var node = svg.selectAll(".node")
     .call(force.drag);
 
 var rect = node.append("rect")
-    .attr("r", 42)
+    .attr("r", 62)
     .attr("class", function(d) { return "container " + d.universe; })
 ;
 
