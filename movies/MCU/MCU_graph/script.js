@@ -80,7 +80,7 @@ var nodes = {
     "Ironheart_Series": { name: "Ironheart", icon: "./pics/series/Ironheart.jpeg", universe: "mcu" },
     "Agatha_Series": { name: "Agatha, Coven of Chaos", icon: "./pics/series/agatha.jpeg", universe: "mcu" },
     "DareDevil_Born_Again_Series": { name: "DareDevil: Born Again", icon: "./pics/series/DareDevil_Born_Again.jpg", universe: "mcu" },
-    "Captain_America_New_world_Order_Movie": { name: "Captain America: New world Order", icon: "./pics/movies/Captain_America_New_world_Order.jpg", universe: "mcu" },
+    "Captain_America_New_world_Order_Movie": { name: "Captain America: New world Order", icon: "./pics/movies/Captain_America_New_World_Order.jpg", universe: "mcu" },
     "Thunderbolts_Movie": { name: "Thunderbolts", icon: "./pics/movies/Thunderbolts.png", universe: "mcu" },
 
 
