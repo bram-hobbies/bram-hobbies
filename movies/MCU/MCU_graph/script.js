@@ -210,6 +210,8 @@ var nodes = {
     "Kurt": {name: "Kurt", icon: "./pics/ant_man/Kurt.jpeg", universe: "mcu" },
     "JanetVanDyne": {name: "Janet van Dyne/Wasp", icon: "./pics/ant_man/JanetVanDyne.jpeg", universe: "mcu" },
     "MODOK": {name: "M.O.D.O.K.", icon: "./pics/ant_man/MODOK.png", universe: "mcu" },
+    "Krylar": {name: "Krylar", icon: "./pics/ant_man/Krylar.webp", universe: "mcu" },
+
 
     // Doctor Strange Characters
     "DoctorStrange": {name: "Stephen Strange - Doctor Strange", icon: "./pics/doctor_strange/DoctorStrange.jpeg", universe: "mcu" },
@@ -492,17 +494,22 @@ var nodes = {
     "Zeus": {name: "Zeus, God of War", icon: "./pics/thor/Zeus.jpeg", universe: "mcu" },
 
 
-    // Secret Invasion
-    // "Ms_Marvel": {name: "Kamala Khan - Ms. Marvel", icon: "./pics/series/msmarvel/Kamala.jpeg", universe: "mcu" },
-
     // She-Hulk
     "She_Hulk": {name: "Jennifer Walters - She-Hulk", icon: "./pics/series/shehulk/shehulk.png", universe: "mcu" },
     "Titania": {name: "Titania", icon: "./pics/series/shehulk/Titania.png", universe: "mcu" },
 
 
+    // Black Panther 2: Wakanda Forever
+    "Namora": {name: "Namora", icon: "./pics/black_panther/Namora.png", universe: "mcu" },
+    "Attuma": {name: "Attuma", icon: "./pics/black_panther/Attuma.png", universe: "mcu" },
+
+
     // Ironheart
     "Ironheart": {name: "Riri Williams Ironheart", icon: "./pics/series/ironheart/Ironheart.png", universe: "mcu" },
 
+
+    // Secret Invasion
+    // "Ms_Marvel": {name: "Kamala Khan - Ms. Marvel", icon: "./pics/series/msmarvel/Kamala.jpeg", universe: "mcu" },
 
     // Agatha, Coven of Chaos
 
@@ -1377,8 +1384,10 @@ var links = [
     { source: "Ramonda", target: "BlackPanther_2_Movie" },
     { source: "Namor", target: "BlackPanther_2_Movie" },
     { source: "Ironheart", target: "BlackPanther_2_Movie" },
-    // { source: "", target: "BlackPanther_2_Movie" },
-    // { source: "", target: "BlackPanther_2_Movie" },
+    { source: "Ayo", target: "BlackPanther_2_Movie" },
+    // ??? Wie is dit? { source: "Makita", target: "BlackPanther_2_Movie" }, ???
+    { source: "Namora", target: "BlackPanther_2_Movie" },
+    { source: "Attuma", target: "BlackPanther_2_Movie" },
     // ??? { source: "Nakia", target: "BlackPanther_Movie" },
     // ??? { source: "WKabi", target: "BlackPanther_Movie" },
     // ??? { source: "Zuri", target: "BlackPanther_Movie" },
@@ -1400,12 +1409,14 @@ var links = [
     { source: "JimPaxton", target: "AntMan_3_Movie" },
     { source: "Kang", target: "AntMan_3_Movie" },
     { source: "MODOK", target: "AntMan_3_Movie" },
+    { source: "Krylar", target: "AntMan_3_Movie" },
 
     // Ironheart
     { source: "Ironheart", target: "Ironheart_Series" },
 
     // Secret Invasion
     { source: "NickFury", target: "SecretInvasion_Series" },
+    { source: "MariaHill", target: "SecretInvasion_Series" },
     { source: "WarMachine", target: "SecretInvasion_Series" }, // Confirmed at 2022-07-23
     { source: "Talos", target: "SecretInvasion_Series" },
     { source: "Hawkeye", target: "SecretInvasion_Series" },
