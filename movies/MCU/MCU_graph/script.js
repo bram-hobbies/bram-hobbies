@@ -117,6 +117,7 @@ var nodes = {
     "Hulk": {name: "Bruce Banner - Hulk", icon: "./pics/hulk/Hulk.jpeg", universe: "mcu" },
     "ThaddeusRoss": {name: "Thaddeus Ross", icon: "./pics/hulk/ThaddeusRoss.png", universe: "mcu" },
     "Abomination": {name: "Blonsky - Abomination", icon: "./pics/hulk/Abomination.jpeg", universe: "mcu" },
+    "TheLeader": {name: "Samuel Sterns - Abomination", icon: "./pics/hulk/TheLeader.jpeg", universe: "mcu" },
 
     // Thor Characters
     "Thor": {name: "Thor", icon: "./pics/thor/Thor.jpeg", universe: "mcu" },
@@ -607,6 +608,7 @@ var nodes = {
 
 var links = [
 
+    // Iron Man
     { source: "IronMan", target: "IronMan_Movie" },
     { source: "WarMachine", target: "IronMan_Movie" },
     { source: "IronMonger", target: "IronMan_Movie" },
@@ -618,6 +620,7 @@ var links = [
     { source: "NickFury", target: "IronMan_Movie" },
     { source: "WilliamGinterRiva", target: "IronMan_Movie" },
 
+    // Iron Man 2
     { source: "IronMan", target: "IronMan2_Movie" },
     { source: "WarMachine", target: "IronMan2_Movie" },
     { source: "PepperPotts", target: "IronMan2_Movie" },
@@ -633,6 +636,7 @@ var links = [
     { source: "Stern", target: "IronMan2_Movie" },
 
 
+    // Iron Man 3
     { source: "IronMan", target: "IronMan3_Movie" },
     { source: "PepperPotts", target: "IronMan3_Movie" },
     { source: "WarMachine", target: "IronMan3_Movie" },
@@ -642,11 +646,14 @@ var links = [
     { source: "TrevorSlattery", target: "IronMan3_Movie" },
     { source: "PatKiernan", target: "IronMan3_Movie" },
 
+    // Iron Man 4
     { source: "IronMan", target: "Hulk_Movie" },
     { source: "Hulk", target: "Hulk_Movie" },
     { source: "Abomination", target: "Hulk_Movie" },
     { source: "ThaddeusRoss", target: "Hulk_Movie" },
+    { source: "TheLeader", target: "Hulk_Movie" },
 
+    // Thor
     { source: "Thor", target: "Thor_Movie" },
     { source: "JaneFoster", target: "Thor_Movie" },
     { source: "Loki", target: "Thor_Movie" },
@@ -665,6 +672,7 @@ var links = [
     { source: "PhilCoulson", target: "Thor_Movie" },
     { source: "NickFury", target: "Thor_Movie" },
 
+    // Captain America
     { source: "NickFury", target: "CaptainAmerica_Movie" },
     { source: "HowardStark", target: "CaptainAmerica_Movie" },
     { source: "CaptainAmerica", target: "CaptainAmerica_Movie" },
@@ -676,6 +684,7 @@ var links = [
     { source: "ArnimZola", target: "CaptainAmerica_Movie" },
     { source: "DumDumDugan", target: "CaptainAmerica_Movie" },
 
+    // Avengers
     { source: "IronMan", target: "Avengers_Movie" },
     { source: "CaptainAmerica", target: "Avengers_Movie" },
     { source: "Hulk", target: "Avengers_Movie" },
@@ -695,6 +704,7 @@ var links = [
     { source: "Hawley", target: "Avengers_Movie" },
     { source: "PatKiernan", target: "Avengers_Movie" },
 
+    // Thor 2
     { source: "Thor", target: "Thor2_Movie" },
     { source: "JaneFoster", target: "Thor2_Movie" },
     { source: "Loki", target: "Thor2_Movie" },
@@ -1401,6 +1411,7 @@ var links = [
     // "AntMan_3_Movie": { name: "Ant-Man & The Wasp: Quantumania", icon: "./pics/movies/AntMan_3.jpeg" },
     { source: "AntMan", target: "AntMan_3_Movie" },
     { source: "TheWasp", target: "AntMan_3_Movie" },
+    { source: "JimmyWoo", target: "AntMan_3_Movie" },
     { source: "HankPym", target: "AntMan_3_Movie" },
     { source: "JanetVanDyne", target: "AntMan_3_Movie" },
     { source: "Stature", target: "AntMan_3_Movie" },
@@ -1413,12 +1424,15 @@ var links = [
 
     // Ironheart
     { source: "Ironheart", target: "Ironheart_Series" },
+    // { source: "MIT teacher from Civil War", target: "Ironheart_Series" },
+    // { source: "The Hood", target: "Ironheart_Series" },
 
     // Secret Invasion
     { source: "NickFury", target: "SecretInvasion_Series" },
     { source: "MariaHill", target: "SecretInvasion_Series" },
     { source: "WarMachine", target: "SecretInvasion_Series" }, // Confirmed at 2022-07-23
     { source: "Talos", target: "SecretInvasion_Series" },
+    { source: "EverettRoss", target: "SecretInvasion_Series" },
     { source: "Hawkeye", target: "SecretInvasion_Series" },
     { source: "Falcon", target: "SecretInvasion_Series" },
 
@@ -1441,6 +1455,7 @@ var links = [
     // Echo_Series
     { source: "Echo", target: "Echo_Series" },
     { source: "Kingpin", target: "Echo_Series" },
+    { source: "Daredevil", target: "Echo_Series" },
 
 
     // Loki Season 2
@@ -1454,6 +1469,8 @@ var links = [
     { source: "CaptainMarvel", target: "The_Marvels_Movie" },
     { source: "Ms_Marvel", target: "The_Marvels_Movie" },
     { source: "MonicaRambeau", target: "The_Marvels_Movie" },
+    { source: "Goose", target: "The_Marvels_Movie" },
+    { source: "NickFury", target: "The_Marvels_Movie" },
 
     // Blade
     { source: "Blade", target: "Blade_Movie" },
@@ -1465,12 +1482,18 @@ var links = [
 
     // Captain_America_New_world_Order_Movie
     { source: "Falcon", target: "Captain_America_New_world_Order_Movie" },
+    { source: "Joaquin_Torres", target: "Captain_America_New_world_Order_Movie" },
+    { source: "Isaiah_Bradley", target: "Captain_America_New_world_Order_Movie" },
+    { source: "TheLeader", target: "Captain_America_New_world_Order_Movie" },
 
     // Thunderbolts
-    { source: "Val", target: "Thunderbolts_Movie" }, // Educated guess
-    { source: "Abomination", target: "Thunderbolts_Movie" }, // Educated guess
-    { source: "YelenaBelova", target: "Thunderbolts_Movie" }, // Educated guess
-    { source: "US_Agent", target: "Thunderbolts_Movie" }, // Educated guess
+    { source: "Val", target: "Thunderbolts_Movie" },
+    { source: "YelenaBelova", target: "Thunderbolts_Movie" },
+    { source: "RedGuardian", target: "Thunderbolts_Movie" },
+    { source: "Ghost", target: "Thunderbolts_Movie" },
+    { source: "Task_Master", target: "Thunderbolts_Movie" },
+    { source: "WinterSoldier", target: "Thunderbolts_Movie" },
+    { source: "US_Agent", target: "Thunderbolts_Movie" },
     { source: "Zemo", target: "Thunderbolts_Movie" }, // Wild guess
 
 
