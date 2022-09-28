@@ -582,8 +582,9 @@ var nodes = {
     "XMen_Days_of_Future_Past": { name: "X-Men: Days of Future Past", icon: "./pics/fox/movies/XMen_Days_of_Future_Past.jpeg", universe: "fox" },
     "XMen_Apocalypse": { name: "X-Men: Apocalypse", icon: "./pics/fox/movies/XMen_Apocalypse.jpeg", universe: "fox" },
     "XMen_Dark_Phoenix": { name: "X-Men: Dark Phoenix", icon: "./pics/fox/movies/XMen_Dark_Phoenix.png", universe: "fox" },
-    "Deadpool": { name: "Deadpool", icon: "./pics/fox/movies/Deadpool.png", universe: "fox" },
+    "Deadpool_Movie": { name: "Deadpool", icon: "./pics/fox/movies/Deadpool.png", universe: "fox" },
     "Deadpool_2": { name: "Deadpool 2", icon: "./pics/fox/movies/Deadpool_2.jpeg", universe: "fox" },
+    "Deadpool_3": { name: "Deadpool 3", icon: "./pics/movies/deadpool_3.jpeg", universe: "mcu" },
     "The_New_Mutants": { name: "The New Mutants", icon: "./pics/fox/movies/The_New_Mutants.jpeg", universe: "fox" },
 
     "Wolverine": { name: "Logan - Wolverine", icon: "./pics/fox/wolverine.jpeg", universe: "fox" },
@@ -602,6 +603,27 @@ var nodes = {
     "Toad_Evan_Jonigkeit": { name: "Toad", icon: "./pics/fox/toad_evan_jonigkeit.jpg", universe: "fox" },
     "Mystique_Rebecca_Romijn_Stamos": { name: "Raven Darkholme - Mystique", icon: "./pics/fox/Mystique_Rebecca_Romijn_Stamos.jpeg", universe: "fox" },
     "Mystique_Jennifer_Lawrence": { name: "Raven Darkholme - Mystique", icon: "./pics/fox/mystique_jennifer_lawrence.png", universe: "fox" },
+
+    // Deadpool
+    "Deadpool": { name: "Wade - Wilson - Deadpool", icon: "./pics/deadpool/deadpool.png", universe: "fox" },
+    "Vanessa": { name: "Vanessa", icon: "./pics/deadpool/vanessa.png", universe: "fox" },
+    "Ajax": { name: "Francis Freeman - Ajax", icon: "./pics/deadpool/ajax.png", universe: "fox" },
+    "Weasel": { name: "Weasel", icon: "./pics/deadpool/weasel.png", universe: "fox" },
+    "Angel_Dust": { name: "Angel Dust", icon: "./pics/deadpool/angel_dust.png", universe: "fox" },
+    "Negasonic_Teenage_Warhead": { name: "Negasonic Teenage Warhead", icon: "./pics/deadpool/ntw.png", universe: "fox" },
+    "Colossus": { name: "Piotr Rasputin - Colossus", icon: "./pics/deadpool/colossus.png", universe: "fox" },
+    "Blind_Al": { name: "Blind Al", icon: "./pics/deadpool/blind_al.png", universe: "fox" },
+
+    "Cable": { name: "Nathan Summers - Cable", icon: "./pics/deadpool/cable.png", universe: "fox" },
+    "Vanessa": { name: "Vanessa", icon: "./pics/deadpool/vanessa.png", universe: "fox" },
+    "Blind_Al": { name: "Blind Al", icon: "./pics/deadpool/blind_al.png", universe: "fox" },
+    "Weasel": { name: "Weasel", icon: "./pics/deadpool/weasel.png", universe: "fox" },
+    "Negasonic_Teenage_Warhead": { name: "Negasonic Teenage Warhead", icon: "./pics/deadpool/ntw.png", universe: "fox" },
+    "Firefist": { name: "Russell Collins - Firefist", icon: "./pics/deadpool/firefist.png", universe: "fox" },
+    "Domino": { name: "Domino", icon: "./pics/deadpool/domino.png", universe: "fox" },
+    "Black_Tom_Cassidy": { name: "Black Tom Cassidy", icon: "./pics/deadpool/black_tom.png", universe: "fox" },
+    "Juggernaut": { name: "Juggernaut", icon: "./pics/deadpool/juggernaut.png", universe: "fox" },
+
 
 };
 
@@ -1658,8 +1680,31 @@ var links = [
     { source: "Storm", target: "Logan"},
 
     // Deadpool
-    { source: "Wolverine", target: "Deadpool"},
+    { source: "Deadpool", target: "Deadpool_Movie"},
+    { source: "Vanessa", target: "Deadpool_Movie"},
+    { source: "Ajax", target: "Deadpool_Movie"},
+    { source: "Weasel", target: "Deadpool_Movie"},
+    { source: "Angel_Dust", target: "Deadpool_Movie"},
+    { source: "Negasonic_Teenage_Warhead", target: "Deadpool_Movie"},
+    { source: "Colossus", target: "Deadpool_Movie"},
+    { source: "Blind_Al", target: "Deadpool_Movie"},
+    { source: "Wolverine", target: "Deadpool_Movie"},
+
     { source: "Wolverine", target: "Deadpool_2"},
+    { source: "Deadpool", target: "Deadpool_2"},
+    { source: "Cable", target: "Deadpool_2"},
+    { source: "Vanessa", target: "Deadpool_2"},
+    { source: "Blind_Al", target: "Deadpool_2"},
+    { source: "Weasel", target: "Deadpool_2"},
+    { source: "Negasonic_Teenage_Warhead", target: "Deadpool_2"},
+    { source: "Firefist", target: "Deadpool_2"},
+    { source: "Domino", target: "Deadpool_2"},
+    { source: "Black_Tom_Cassidy", target: "Deadpool_2"},
+    { source: "Juggernaut", target: "Deadpool_2"},
+
+    // Deadpool
+    { source: "Deadpool", target: "Deadpool_3"},
+    { source: "Wolverine", target: "Deadpool_3"}
 
 
 
