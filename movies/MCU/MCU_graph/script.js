@@ -133,6 +133,9 @@ node.append("text")
             if (d.labels.includes("movie")) {
                 return "100px";
             }
+            if (d.labels.includes("network")) {
+                return "100px";
+            }
             if (d.labels.includes("character")) {
                 return "35px";
             }

@@ -85,12 +85,14 @@
   { "label": "Agents_of_SHIELD", "r": 15, "name": "Agents of S.H.I.E.L.D.", "icon": "./pics/abc/agents_of_shield.jpeg", "universe": "abc", "labels": "series" },
   { "label": "Agent_Carter", "r": 15, "name": "Agent Carter", "icon": "./pics/abc/agent_carter.jpeg", "universe": "abc", "labels": "series" },
   { "label": "Inhumans", "r": 15, "name": "Inhumans", "icon": "./pics/abc/inhumans.jpg", "universe": "abc", "labels": "series" },
+  { "label": "ABC", "r": 15, "name": "ABC", "icon": "./pics/abc/abc.png", "universe": "abc", "labels": "network" },
 
   { "label": "Cloak_Dagger", "r": 15, "name": "Cloak \\& Dagger", "icon": "./pics/abc/cloak_dagger.jpg", "universe": "abc", "labels": "series" },
 
   { "label": "Runaways", "r": 15, "name": "Runaways", "icon": "./pics/hulu/runaways.jpg", "universe": "hulu", "labels": "series" },
   { "label": "Helstrom", "r": 15, "name": "Helstrom", "icon": "./pics/hulu/helstrom.jpg", "universe": "hulu", "labels": "series" },
 
+  { "label": "Fox", "r": 15, "name": "Fox", "icon": "./pics/fox/fox.jpeg", "universe": "fox", "labels": "network" },
   { "label": "XMen", "r": 15, "name": "X-Men", "icon": "./pics/fox/movies/XMen.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "X2", "r": 15, "name": "X2: X-Men United", "icon": "./pics/fox/movies/X2.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "XMen3_Last_Stand", "r": 15, "name": "X-Men: Last Stand", "icon": "./pics/fox/movies/XMen_Last_Stand.jpeg", "universe": "fox", "labels": "movie" },
@@ -101,8 +103,9 @@
   { "label": "XMen_Days_of_Future_Past", "r": 15, "name": "X-Men: Days of Future Past", "icon": "./pics/fox/movies/XMen_Days_of_Future_Past.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "XMen_Apocalypse", "r": 15, "name": "X-Men: Apocalypse", "icon": "./pics/fox/movies/XMen_Apocalypse.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "XMen_Dark_Phoenix", "r": 15, "name": "X-Men: Dark Phoenix", "icon": "./pics/fox/movies/XMen_Dark_Phoenix.png", "universe": "fox", "labels": "movie" },
-  { "label": "Deadpool", "r": 15, "name": "Deadpool", "icon": "./pics/fox/movies/Deadpool.png", "universe": "fox", "labels": "movie" },
+  { "label": "Deadpool_Movie", "r": 15, "name": "Deadpool", "icon": "./pics/fox/movies/Deadpool.png", "universe": "fox", "labels": "movie" },
   { "label": "Deadpool_2", "r": 15, "name": "Deadpool 2", "icon": "./pics/fox/movies/Deadpool_2.jpeg", "universe": "fox", "labels": "movie" },
+  { "label": "Deadpool_3", "r": 15, "name": "Deadpool 3", "icon": "./pics/movies/deadpool_3.jpeg", "universe": "mcu", "labels": "movie" },
   { "label": "The_New_Mutants", "r": 15, "name": "The New Mutants", "icon": "./pics/fox/movies/The_New_Mutants.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "The_Gifted", "r": 15, "name": "The Gifted", "icon": "./pics/fox/series/the_gifted.jpg", "universe": "fox", "labels": "series" },
   { "label": "Legion", "r": 15, "name": "Lgion", "icon": "./pics/fox/series/legion.jpeg", "universe": "fox", "labels": "series" }

@@ -30,14 +30,14 @@ body { background: rgb(204,204,204); /* Old browsers */
     /*padding: 5px;*/
 }
 
-.node.movie image {
+.node.movie image, .node.network image {
     width: 76px;
     height: 116px;
     x: -19;
     y: -30;
     border: 110px solid #ddd;
 }
-.node.movie .container {
+.node.movie .container, .node.network .container {
     width: 84px;
     height: 124px;
     x: -23;

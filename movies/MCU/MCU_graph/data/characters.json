@@ -2355,10 +2355,11 @@
     "icon": "./pics/abc/black_bolt.png",
     "universe": "abc"
   },
+
   {
     "label": "Medusa",
     "r": 15,
-    "name": "Medusa",
+    "name": "Medusalith Amaquelin - Medusa",
     "icon": "./pics/abc/medusa.png",
     "universe": "abc"
   },
@@ -2372,14 +2373,14 @@
   {
     "label": "Crystal",
     "r": 15,
-    "name": "Crystal",
+    "name": "Crystalia Amaquelin - Crystal",
     "icon": "./pics/abc/crystal.png",
     "universe": "abc"
   },
   {
     "label": "Louise",
     "r": 15,
-    "name": "Louise",
+    "name": "Louise Fisher",
     "icon": "./pics/abc/louise.png",
     "universe": "abc"
   },
@@ -2507,6 +2508,97 @@
     "r": 15,
     "name": "Raven Darkholme - Mystique",
     "icon": "./pics/fox/mystique_jennifer_lawrence.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Deadpool",
+    "r": 15,
+    "name": "Wade Wilson - Deadpool",
+    "icon": "./pics/deadpool/deadpool.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Vanessa",
+    "r": 15,
+    "name": "Vanessa",
+    "icon": "./pics/deadpool/vanessa.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Ajax",
+    "r": 15,
+    "name": "Francis Freeman - Ajax",
+    "icon": "./pics/deadpool/ajax.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Weasel",
+    "r": 15,
+    "name": "Weasel",
+    "icon": "./pics/deadpool/weasel.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Angel_Dust",
+    "r": 15,
+    "name": "Angel Dust",
+    "icon": "./pics/deadpool/angel_dust.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Negasonic_Teenage_Warhead",
+    "r": 15,
+    "name": "Negasonic Teenage Warhead",
+    "icon": "./pics/deadpool/ntw.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Colossus",
+    "r": 15,
+    "name": "Colossus",
+    "icon": "./pics/deadpool/colossus.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Blind_Al",
+    "r": 15,
+    "name": "Blind Al",
+    "icon": "./pics/deadpool/blind_al.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Cable",
+    "r": 15,
+    "name": "Nathan Summers - Cable",
+    "icon": "./pics/deadpool/cable.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Firefist",
+    "r": 15,
+    "name": "Russell Collins - Firefist",
+    "icon": "./pics/deadpool/firefist.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Domino",
+    "r": 15,
+    "name": "Domino",
+    "icon": "./pics/deadpool/domino.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Black_Tom_Cassidy",
+    "r": 15,
+    "name": "Black Tom Cassidy",
+    "icon": "./pics/deadpool/black_tom.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Juggernaut",
+    "r": 15,
+    "name": "Juggernaut",
+    "icon": "./pics/deadpool/juggernaut.png",
     "universe": "fox"
   }
 ]
