@@ -104,7 +104,7 @@
   { "label": "Deadpool", "r": 15, "name": "Deadpool", "icon": "./pics/fox/movies/Deadpool.png", "universe": "fox", "labels": "movie" },
   { "label": "Deadpool_2", "r": 15, "name": "Deadpool 2", "icon": "./pics/fox/movies/Deadpool_2.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "The_New_Mutants", "r": 15, "name": "The New Mutants", "icon": "./pics/fox/movies/The_New_Mutants.jpeg", "universe": "fox", "labels": "movie" },
-  { "label": "The_Gifted", "r": 15, "name": "The Gifted", "icon": "./pics/fox/movies/the_gifted.jpg", "universe": "fox", "labels": "series" },
-  { "label": "Legion", "r": 15, "name": "Lgion", "icon": "./pics/fox/movies/legion.jpeg", "universe": "fox", "labels": "series" }
+  { "label": "The_Gifted", "r": 15, "name": "The Gifted", "icon": "./pics/fox/series/the_gifted.jpg", "universe": "fox", "labels": "series" },
+  { "label": "Legion", "r": 15, "name": "Lgion", "icon": "./pics/fox/series/legion.jpeg", "universe": "fox", "labels": "series" }
 
 ]
