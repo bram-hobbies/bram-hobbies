@@ -30,6 +30,31 @@ body { background: rgb(204,204,204); /* Old browsers */
     /*padding: 5px;*/
 }
 
+.node.movie image {
+    width: 76px;
+    height: 116px;
+    x: -19;
+    y: -30;
+    border: 110px solid #ddd;
+}
+.node.movie .container {
+    width: 84px;
+    height: 124px;
+    x: -23;
+    y: -34;
+}
+.node.series image {
+    width: 56px;
+    height: 85px;
+    x: -16;
+    y: -25;
+    border: 110px solid #ddd;
+}
+.node.series .container {
+    width: 64px;
+    height: 93px;
+}
+
 .node rect.container {
     width: 40px;
     height: 60px;
@@ -61,6 +86,14 @@ body { background: rgb(204,204,204); /* Old browsers */
 
 .node rect.fox {
     fill: #cc0;
+}
+
+.node rect.abc {
+    fill: #08f;
+}
+
+.node rect.hulu {
+    fill: #7f7;
 }
 
 .node rect._838 {
