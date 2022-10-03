@@ -48,7 +48,7 @@ function getLinks() {
         $.ajax({
             'async': false,
             'global': false,
-            'url': "./test/connections.json",
+            'url': "./data/connections.json",
             'dataType': "json",
             'success': function(data) {
                 json = data;
@@ -56,7 +56,6 @@ function getLinks() {
         });
         return json;
     })();
-    console.log("Stringify connections: " + JSON.stringify(connections));
     return connections;
 }
 

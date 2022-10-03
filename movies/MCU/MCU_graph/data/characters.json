@@ -2031,7 +2031,7 @@
     "universe": "_838"
   },
   {
-    "label": "Black_Bolt",
+    "label": "838_Black_Bolt",
     "r": 15,
     "name": "Blackagar Boltagon - Black Bolt",
     "icon": "./pics/doctor_strange/black_bolt.png",
@@ -2346,6 +2346,55 @@
     "r": 15,
     "name": "Daisy 'Skye' Johnson - Quake",
     "icon": "./pics/abc/quake.png",
+    "universe": "abc"
+  },
+  {
+    "label": "Black_Bolt",
+    "r": 15,
+    "name": "Blackagar Boltagon - Black Bolt",
+    "icon": "./pics/abc/black_bolt.png",
+    "universe": "abc"
+  },
+  {
+    "label": "Medusa",
+    "r": 15,
+    "name": "Medusa",
+    "icon": "./pics/abc/medusa.png",
+    "universe": "abc"
+  },
+  {
+    "label": "Karnak",
+    "r": 15,
+    "name": "Karnak",
+    "icon": "./pics/abc/karnak.png",
+    "universe": "abc"
+  },
+  {
+    "label": "Crystal",
+    "r": 15,
+    "name": "Crystal",
+    "icon": "./pics/abc/crystal.png",
+    "universe": "abc"
+  },
+  {
+    "label": "Louise",
+    "r": 15,
+    "name": "Louise",
+    "icon": "./pics/abc/louise.png",
+    "universe": "abc"
+  },
+  {
+    "label": "Maximus",
+    "r": 15,
+    "name": "Maximus",
+    "icon": "./pics/abc/maximus.png",
+    "universe": "abc"
+  },
+  {
+    "label": "Lockjaw",
+    "r": 15,
+    "name": "Lockjaw",
+    "icon": "./pics/abc/lockjaw.png",
     "universe": "abc"
   },
   {

@@ -684,7 +684,7 @@
   { "source": "Professor_X", "target": "DoctorStrange_2_Movie" },
   { "source": "Captain_Carter", "target": "DoctorStrange_2_Movie" },
   { "source": "Reed_Richards", "target": "DoctorStrange_2_Movie" },
-  { "source": "Black_Bolt", "target": "DoctorStrange_2_Movie" },
+  { "source": "838_Black_Bolt", "target": "DoctorStrange_2_Movie" },
   { "source": "Captain_Marvel_Rambeau", "target": "DoctorStrange_2_Movie" },
   { "source": "Hamir", "target": "DoctorStrange_2_Movie" },
   { "source": "Gargantos", "target": "DoctorStrange_2_Movie" },
@@ -867,6 +867,13 @@
   { "source": "HowardStark", "target": "Agent_Carter" },
   { "source": "EdwinJarvis", "target": "Agent_Carter" },
   { "source": "Quake", "target": "Inhumans" },
+  { "source": "Black_Bolt", "target": "Inhumans" },
+  { "source": "Medusa", "target": "Inhumans" },
+  { "source": "Karnak", "target": "Inhumans" },
+  { "source": "Crystal", "target": "Inhumans" },
+  { "source": "Louise", "target": "Inhumans" },
+  { "source": "Maximus", "target": "Inhumans" },
+  { "source": "Lockjaw", "target": "Inhumans" },
 
 
   { "source": "Wolverine", "target": "XMen"},
