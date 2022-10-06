@@ -87,7 +87,8 @@
   { "label": "Inhumans", "r": 15, "name": "Inhumans", "icon": "./pics/abc/inhumans.jpg", "universe": "abc", "labels": "series" },
   { "label": "ABC", "r": 15, "name": "ABC", "icon": "./pics/abc/abc.png", "universe": "abc", "labels": "network" },
 
-  { "label": "Cloak_Dagger", "r": 15, "name": "Cloak \\& Dagger", "icon": "./pics/abc/cloak_dagger.jpg", "universe": "abc", "labels": "series" },
+  { "label": "Cloak_Dagger", "r": 15, "name": "Cloak \\& Dagger", "icon": "./pics/abc/cloak_dagger.jpg", "universe": "hulu", "labels": "series" },
+  { "label": "Hulu", "r": 15, "name": "Hulu", "icon": "./pics/hulu/hulu.jpeg", "universe": "hulu", "labels": "network" },
 
   { "label": "Runaways", "r": 15, "name": "Runaways", "icon": "./pics/hulu/runaways.jpg", "universe": "hulu", "labels": "series" },
   { "label": "Helstrom", "r": 15, "name": "Helstrom", "icon": "./pics/hulu/helstrom.jpg", "universe": "hulu", "labels": "series" },

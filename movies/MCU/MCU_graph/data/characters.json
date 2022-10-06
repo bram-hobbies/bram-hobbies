@@ -1050,13 +1050,6 @@
     "universe": "mcu"
   },
   {
-    "label": "BradDavis",
-    "r": 15,
-    "name": "Brad Davis",
-    "icon": "./pics/spiderman/Brad_Davis.png",
-    "universe": "mcu"
-  },
-  {
     "label": "JuliusDell",
     "r": 15,
     "name": "Julius Dell",
@@ -2600,5 +2593,22 @@
     "name": "Juggernaut",
     "icon": "./pics/deadpool/juggernaut.png",
     "universe": "fox"
+  },
+  {
+    "label": "Dagger",
+    "r": 15,
+    "name": "Tandy Bowen - Dagger",
+    "icon": "./pics/abc/dagger.png",
+    "universe": "hulu"
+  },
+  {
+    "label": "Cloak",
+    "r": 15,
+    "name": "Tyrone Johnson - Cloak",
+    "icon": "./pics/abc/cloak.png",
+    "universe": "hulu"
   }
+
+
+
 ]

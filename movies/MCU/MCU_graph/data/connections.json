@@ -648,6 +648,7 @@
   { "source": "MayParker", "target": "Spider_Man_3_Movie" },
   { "source": "FlashThompson", "target": "Spider_Man_3_Movie" },
   { "source": "BettyBrant", "target": "Spider_Man_3_Movie" },
+  { "source": "BradDavis", "target": "Spider_Man_3_Movie" },
   { "source": "AndreWilson", "target": "Spider_Man_3_Movie" },
   { "source": "RogerHarrington", "target": "Spider_Man_3_Movie" },
   { "source": "JJonahJameson", "target": "Spider_Man_3_Movie" },
@@ -884,6 +885,12 @@
   { "source": "Maximus", "target": "Inhumans" },
   { "source": "Lockjaw", "target": "Inhumans" },
 
+  { "source": "Cloak", "target": "Cloak_Dagger" },
+  { "source": "Dagger", "target": "Cloak_Dagger" },
+  { "source": "Cloak", "target": "Runaways" },
+  { "source": "Dagger", "target": "Runaways" },
+  { "source": "Runaways", "target": "Hulu" },
+  { "source": "Helstrom", "target": "Hulu" },
 
   { "source": "XMen", "target": "Fox"},
   { "source": "X2", "target": "Fox"},
