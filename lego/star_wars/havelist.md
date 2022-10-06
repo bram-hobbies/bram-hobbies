@@ -28,6 +28,8 @@
 - [x] 75309: Republic Gunship
 - [x] 75313: AT-AT
 - [x] 75341: Luke Skywalker's Landspeeder
+- [x] 75331: Razor Crest (October 2022)
+- [ ] 75355: UCS (May 2023)
 
 ## Helmets & Busts
 - [ ] 7194: Yoda
@@ -58,7 +60,7 @@
 - [x] 75278: D-O
 - [x] 75318: Baby Yoda
 - [x] 75308: R2-D2
-- [ ] 75335: BD-1
+- [x] 75335: BD-1
 
 
 ## Not considered UCS
