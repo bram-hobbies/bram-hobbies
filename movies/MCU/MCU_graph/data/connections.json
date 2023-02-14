@@ -523,7 +523,7 @@
   { "source": "MissMinutes", "target": "Loki_Series" },
   { "source": "ClassicLoki", "target": "Loki_Series" },
   { "source": "HunterD-90", "target": "Loki_Series" },
-  { "source": "Kang", "target": "Loki_Series" },
+  { "source": "HeWhoRemains", "target": "Loki_Series" },
   { "source": "BlackWidow", "target": "BlackWidow_Movie" },
 
   { "source": "YelenaBelova", "target": "BlackWidow_Movie" },
@@ -681,7 +681,9 @@
   { "source": "America_Chavez", "target": "DoctorStrange_2_Movie" },
   { "source": "Rintrah", "target": "DoctorStrange_2_Movie" },
   { "source": "Strange_Supreme", "target": "DoctorStrange_2_Movie" },
+  { "source": "Strange_Supreme", "target": "DoctorStrange" },
   { "source": "Defender_Strange", "target": "DoctorStrange_2_Movie" },
+  { "source": "Defender_Strange", "target": "DoctorStrange" },
   { "source": "Professor_X", "target": "DoctorStrange_2_Movie" },
   { "source": "Captain_Carter", "target": "DoctorStrange_2_Movie" },
   { "source": "Reed_Richards", "target": "DoctorStrange_2_Movie" },
@@ -690,7 +692,9 @@
   { "source": "Hamir", "target": "DoctorStrange_2_Movie" },
   { "source": "Gargantos", "target": "DoctorStrange_2_Movie" },
   { "source": "838_Palmer", "target": "DoctorStrange_2_Movie" },
+  { "source": "838_Palmer", "target": "ChristinePalmer" },
   { "source": "838_Wanda", "target": "DoctorStrange_2_Movie" },
+  { "source": "838_Wanda", "target": "ScarletWitch" },
 
   { "source": "Ms_Marvel", "target": "MsMarvel_Series" },
   { "source": "Bruno_Carrelli", "target": "MsMarvel_Series" },
@@ -743,6 +747,7 @@
   { "source": "Ayo", "target": "BlackPanther_2_Movie" },
   { "source": "Namora", "target": "BlackPanther_2_Movie" },
   { "source": "Attuma", "target": "BlackPanther_2_Movie" },
+
   { "source": "AntMan", "target": "AntMan_3_Movie" },
   { "source": "TheWasp", "target": "AntMan_3_Movie" },
   { "source": "JimmyWoo", "target": "AntMan_3_Movie" },
@@ -753,9 +758,13 @@
   { "source": "YellowJacket", "target": "AntMan_3_Movie" },
   { "source": "JimPaxton", "target": "AntMan_3_Movie" },
   { "source": "Kang", "target": "AntMan_3_Movie" },
+  { "source": "Kang", "target": "HeWhoRemains" },
   { "source": "MODOK", "target": "AntMan_3_Movie" },
   { "source": "Krylar", "target": "AntMan_3_Movie" },
+
   { "source": "Ironheart", "target": "Ironheart_Series" },
+  { "source": "The_Hood", "target": "Ironheart_Series" },
+
   { "source": "NickFury", "target": "SecretInvasion_Series" },
   { "source": "MariaHill", "target": "SecretInvasion_Series" },
   { "source": "WarMachine", "target": "SecretInvasion_Series" },
@@ -763,6 +772,7 @@
   { "source": "EverettRoss", "target": "SecretInvasion_Series" },
   { "source": "Hawkeye", "target": "SecretInvasion_Series" },
   { "source": "Falcon", "target": "SecretInvasion_Series" },
+
   { "source": "StarLord", "target": "Guardians_ot_Galaxy_3_Movie" },
   { "source": "Gamora", "target": "Guardians_ot_Galaxy_3_Movie" },
   { "source": "Drax", "target": "Guardians_ot_Galaxy_3_Movie" },
@@ -773,27 +783,38 @@
   { "source": "Adam_Warlock", "target": "Guardians_ot_Galaxy_3_Movie" },
   { "source": "High_Evolutionary", "target": "Guardians_ot_Galaxy_3_Movie" },
   { "source": "Cosmo", "target": "Guardians_ot_Galaxy_3_Movie" },
+
   { "source": "Agnes", "target": "Agatha_Series" },
+
   { "source": "Echo", "target": "Echo_Series" },
   { "source": "Kingpin", "target": "Echo_Series" },
   { "source": "Daredevil", "target": "Echo_Series" },
+
   { "source": "Loki", "target": "Loki_S2_Series" },
   { "source": "Mobius", "target": "Loki_S2_Series" },
   { "source": "SylvieLaufeydottir", "target": "Loki_S2_Series" },
   { "source": "Kang", "target": "Loki_S2_Series" },
+
   { "source": "CaptainMarvel", "target": "The_Marvels_Movie" },
   { "source": "Ms_Marvel", "target": "The_Marvels_Movie" },
   { "source": "MonicaRambeau", "target": "The_Marvels_Movie" },
   { "source": "Goose", "target": "The_Marvels_Movie" },
   { "source": "NickFury", "target": "The_Marvels_Movie" },
+
   { "source": "Blade", "target": "Blade_Movie" },
   { "source": "Black_Knight", "target": "Blade_Movie" },
+
   { "source": "Daredevil", "target": "DareDevil_Born_Again_Series" },
   { "source": "Kingpin", "target": "DareDevil_Born_Again_Series" },
+
   { "source": "Falcon", "target": "Captain_America_New_world_Order_Movie" },
   { "source": "Joaquin_Torres", "target": "Captain_America_New_world_Order_Movie" },
   { "source": "Isaiah_Bradley", "target": "Captain_America_New_world_Order_Movie" },
   { "source": "TheLeader", "target": "Captain_America_New_world_Order_Movie" },
+  { "source": "ThaddeusRoss", "target": "Captain_America_New_world_Order_Movie" },
+  { "source": "Sabra", "target": "Captain_America_New_world_Order_Movie" },
+  { "source": "Val", "target": "Captain_America_New_world_Order_Movie" },
+
   { "source": "Val", "target": "Thunderbolts_Movie" },
   { "source": "YelenaBelova", "target": "Thunderbolts_Movie" },
   { "source": "RedGuardian", "target": "Thunderbolts_Movie" },

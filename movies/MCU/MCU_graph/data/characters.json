@@ -612,7 +612,7 @@
     "label": "TheWasp",
     "r": 15,
     "name": "Hope van Dyne, The Wasp",
-    "icon": "./pics/ant_man/TheWasp.jpeg",
+    "icon": "./pics/ant_man/TheWasp.png",
     "universe": "mcu"
   },
   {
@@ -668,7 +668,7 @@
     "label": "JanetVanDyne",
     "r": 15,
     "name": "Janet van Dyne/Wasp",
-    "icon": "./pics/ant_man/JanetVanDyne.jpeg",
+    "icon": "./pics/ant_man/JanetVanDyne.png",
     "universe": "mcu"
   },
   {
@@ -682,7 +682,7 @@
     "label": "Krylar",
     "r": 15,
     "name": "Krylar",
-    "icon": "./pics/ant_man/Krylar.webp",
+    "icon": "./pics/ant_man/Krylar.png",
     "universe": "mcu"
   },
   {
@@ -1485,10 +1485,17 @@
     "universe": "mcu"
   },
   {
+    "label": "HeWhoRemains",
+    "r": 15,
+    "name": "He, who remains",
+    "icon": "./pics/series/loki/Kang.jpeg",
+    "universe": "mcu"
+  },
+  {
     "label": "Kang",
     "r": 15,
     "name": "Kang",
-    "icon": "./pics/series/loki/Kang.jpeg",
+    "icon": "./pics/ant_man/Kang.png",
     "universe": "mcu"
   },
   {
@@ -2182,6 +2189,12 @@
     "universe": "mcu"
   },
   {
+    "label": "The_Hood",
+    "name": "The Hood",
+    "icon": "./pics/series/ironheart/The_Hood.png",
+    "universe": "mcu"
+  },
+  {
     "label": "Blade",
     "name": "Blade",
     "icon": "./pics/blade/Blade.png",
@@ -2235,6 +2248,13 @@
     "name": "Dr. Curt Connors - Lizard",
     "icon": "./pics/webb/Lizard.png",
     "universe": "webb"
+  },
+  {
+    "label": "Sabra",
+    "r": 15,
+    "name": "Ruth Bat-Seraph - Sabra",
+    "icon": "",
+    "universe": "mcu"
   },
   {
     "label": "Daredevil",

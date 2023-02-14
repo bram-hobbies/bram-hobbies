@@ -50,7 +50,7 @@
   { "label": "BlackPanther_2_Movie", "r": 15, "name": "Black Panther: Wakanda Forever", "icon": "./pics/movies/Black_Panther_2.jpeg", "universe": "mcu", "labels": "phase4 movie" },
 
 
-  { "label": "AntMan_3_Movie", "r": 15, "name": "Ant-Man & The Wasp: Quantumania", "icon": "./pics/movies/AntMan_3.jpeg", "universe": "mcu", "labels": "phase5 movie" },
+  { "label": "AntMan_3_Movie", "r": 15, "name": "Ant-Man & The Wasp: Quantumania", "icon": "./pics/movies/AntMan_3.png", "universe": "mcu", "labels": "phase5 movie" },
   { "label": "SecretInvasion_Series", "r": 15, "name": "Secret Invasion", "icon": "./pics/series/Secret_Invasion.jpg", "universe": "mcu", "labels": "phase5 series" },
   { "label": "Guardians_ot_Galaxy_3_Movie", "r": 15, "name": "Guardians of the Galaxy Volume 3", "icon": "./pics/movies/Guardians_ot_Galaxy_3.jpeg", "universe": "mcu", "labels": "phase5 movie" },
   { "label": "Echo_Series", "r": 15, "name": "Echo", "icon": "./pics/series/echo.jpeg", "universe": "mcu", "labels": "phase5 series" },
