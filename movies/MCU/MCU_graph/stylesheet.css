@@ -50,7 +50,19 @@ body { background: rgb(204,204,204); /* Old browsers */
     y: -25;
     border: 110px solid #ddd;
 }
+.node.special image {
+    width: 56px;
+    height: 85px;
+    x: -16;
+    y: -25;
+    border: 110px solid #ddd;
+}
 .node.series .container {
+    width: 64px;
+    height: 93px;
+}
+
+.node.special .container {
     width: 64px;
     height: 93px;
 }

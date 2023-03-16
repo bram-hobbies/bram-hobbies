@@ -2201,6 +2201,60 @@
     "universe": "mcu"
   },
   {
+    "label": "Jack_Russell",
+    "name": "Jack Russell",
+    "icon": "./pics/series/werewolf_by_night/Jack_Russell.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Elsa_Bloodstone",
+    "name": "Elsa Bloodstone",
+    "icon": "./pics/series/werewolf_by_night/Elsa_Bloodstone.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Verussa_Bloodstone",
+    "name": "Verussa Bloodstone",
+    "icon": "./pics/series/werewolf_by_night/Verussa_Bloodstone.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Joshua_Jovan",
+    "name": "Joshua Jovan",
+    "icon": "./pics/series/werewolf_by_night/Joshua_Jovan.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Azarel",
+    "name": "Azarel",
+    "icon": "./pics/series/werewolf_by_night/Azarel.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Liorn",
+    "name": "Liorn",
+    "icon": "./pics/series/werewolf_by_night/Liorn.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Barasso",
+    "name": "Barasso",
+    "icon": "./pics/series/werewolf_by_night/Barasso.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Swan",
+    "name": "Swan",
+    "icon": "./pics/series/werewolf_by_night/Swan.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Man_Thing",
+    "name": "Ted Sallis - Man-Thing",
+    "icon": "./pics/series/werewolf_by_night/Man_Thing.png",
+    "universe": "mcu"
+  },
+  {
     "label": "Spider-Man_Tobey",
     "r": 15,
     "name": "Spider-Man (Tobey)",

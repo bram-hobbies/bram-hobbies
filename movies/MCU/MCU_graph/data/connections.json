@@ -748,6 +748,29 @@
   { "source": "Namora", "target": "BlackPanther_2_Movie" },
   { "source": "Attuma", "target": "BlackPanther_2_Movie" },
 
+
+  { "source": "Jack_Russell", "target": "Werewolf_by_Night" },
+  { "source": "Elsa_Bloodstone", "target": "Werewolf_by_Night" },
+  { "source": "Verussa_Bloodstone", "target": "Werewolf_by_Night" },
+  { "source": "Joshua_Jovan", "target": "Werewolf_by_Night" },
+  { "source": "Azarel", "target": "Werewolf_by_Night" },
+  { "source": "Liorn", "target": "Werewolf_by_Night" },
+  { "source": "Barasso", "target": "Werewolf_by_Night" },
+  { "source": "Swan", "target": "Werewolf_by_Night" },
+  { "source": "Man_Thing", "target": "Werewolf_by_Night" },
+
+
+  { "source": "StarLord", "target": "Guardians_Holiday_special" },
+  { "source": "Drax", "target": "Guardians_Holiday_special" },
+  { "source": "Nebula", "target": "Guardians_Holiday_special" },
+  { "source": "Mantis", "target": "Guardians_Holiday_special" },
+  { "source": "Groot", "target": "Guardians_Holiday_special" },
+  { "source": "RocketRaccoon", "target": "Guardians_Holiday_special" },
+  { "source": "Gamora", "target": "Guardians_Holiday_special" },
+  { "source": "Cosmo", "target": "Guardians_Holiday_special" },
+
+
+
   { "source": "AntMan", "target": "AntMan_3_Movie" },
   { "source": "TheWasp", "target": "AntMan_3_Movie" },
   { "source": "JimmyWoo", "target": "AntMan_3_Movie" },
