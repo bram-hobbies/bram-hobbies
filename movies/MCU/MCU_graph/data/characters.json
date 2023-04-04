@@ -2183,6 +2183,13 @@
     "universe": "mcu"
   },
   {
+    "label": "Aneka",
+    "r": 15,
+    "name": "Aneka",
+    "icon": "./pics/black_panther/Aneka.png",
+    "universe": "mcu"
+  },
+  {
     "label": "Ironheart",
     "name": "Riri Williams Ironheart",
     "icon": "./pics/series/ironheart/Ironheart.png",
@@ -2302,6 +2309,48 @@
     "name": "Dr. Curt Connors - Lizard",
     "icon": "./pics/webb/Lizard.png",
     "universe": "webb"
+  },
+  {
+    "label": "Gravik",
+    "r": 15,
+    "name": "Gravik",
+    "icon": "./pics/series/secret_invasion/Gravik.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Priscilla_Fury",
+    "r": 15,
+    "name": "Priscilla_Fury",
+    "icon": "./pics/series/secret_invasion/Priscilla_Fury.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Fiz",
+    "r": 15,
+    "name": "Fiz",
+    "icon": "./pics/series/secret_invasion/Fiz.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Ritson",
+    "r": 15,
+    "name": "Ritson",
+    "icon": "./pics/series/secret_invasion/Ritson.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Giah",
+    "r": 15,
+    "name": "Giah",
+    "icon": "./pics/series/secret_invasion/Giah.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Sonya_Falsworth",
+    "r": 15,
+    "name": "Sonya_Falsworth",
+    "icon": "./pics/series/secret_invasion/Sonya_Falsworth.png",
+    "universe": "mcu"
   },
   {
     "label": "Sabra",

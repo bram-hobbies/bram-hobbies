@@ -47,7 +47,7 @@
   { "label": "Thor_4_Movie", "r": 15, "name": "Thor: Love & Thunder", "icon": "./pics/movies/Thor_4.png", "universe": "mcu", "labels": "phase4 movie" },
   { "label": "SheHulk_Series", "r": 15, "name": "She-Hulk", "icon": "./pics/series/she-hulk.jpeg", "universe": "mcu", "labels": "phase4 series" },
   { "label": "IamGroot_Series", "r": 15, "name": "I am Groot", "icon": "./pics/series/IamGroot.jpeg", "universe": "mcu", "labels": "phase4 series" },
-  { "label": "BlackPanther_2_Movie", "r": 15, "name": "Black Panther: Wakanda Forever", "icon": "./pics/movies/Black_Panther_2.jpeg", "universe": "mcu", "labels": "phase4 movie" },
+  { "label": "BlackPanther_2_Movie", "r": 15, "name": "Black Panther: Wakanda Forever", "icon": "./pics/movies/Black_Panther_2.png", "universe": "mcu", "labels": "phase4 movie" },
   { "label": "Werewolf_by_Night", "r": 15, "name": "Werewolf by Night", "icon": "./pics/series/Werewolf_by_Night.png", "universe": "mcu", "labels": "phase4 special" },
   { "label": "Guardians_Holiday_special", "r": 15, "name": "Guardians of the Galaxy: Holiday Special", "icon": "./pics/series/Guardians_Special.png", "universe": "mcu", "labels": "phase4 special" },
 

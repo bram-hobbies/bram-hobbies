@@ -747,6 +747,7 @@
   { "source": "Ayo", "target": "BlackPanther_2_Movie" },
   { "source": "Namora", "target": "BlackPanther_2_Movie" },
   { "source": "Attuma", "target": "BlackPanther_2_Movie" },
+  { "source": "Aneka", "target": "BlackPanther_2_Movie" },
 
 
   { "source": "Jack_Russell", "target": "Werewolf_by_Night" },
@@ -793,8 +794,13 @@
   { "source": "WarMachine", "target": "SecretInvasion_Series" },
   { "source": "Talos", "target": "SecretInvasion_Series" },
   { "source": "EverettRoss", "target": "SecretInvasion_Series" },
-  { "source": "Hawkeye", "target": "SecretInvasion_Series" },
-  { "source": "Falcon", "target": "SecretInvasion_Series" },
+  { "source": "Hawkeye", "target": "SecretInvasion_Series", "notes": "Niet zeker, want nergens in trailers" },
+  { "source": "Gravik", "target": "SecretInvasion_Series" },
+  { "source": "Priscilla_Fury", "target": "SecretInvasion_Series" },
+  { "source": "Fiz", "target": "SecretInvasion_Series" },
+  { "source": "Ritson", "target": "SecretInvasion_Series" },
+  { "source": "Giah", "target": "SecretInvasion_Series" },
+  { "source": "Sonya_Falsworth", "target": "SecretInvasion_Series" },
 
   { "source": "StarLord", "target": "Guardians_ot_Galaxy_3_Movie" },
   { "source": "Gamora", "target": "Guardians_ot_Galaxy_3_Movie" },
