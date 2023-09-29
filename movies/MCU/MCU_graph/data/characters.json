@@ -497,10 +497,24 @@
     "universe": "mcu"
   },
   {
+    "label": "Broker",
+    "r": 15,
+    "name": "Broker",
+    "icon": "./pics/guardians_ot_galaxy/Broker.png",
+    "universe": "mcu"
+  },
+  {
     "label": "MeredithQuill",
     "r": 15,
     "name": "Meredith Quill",
     "icon": "./pics/guardians_ot_galaxy/MeredithQuill.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "JasonQuill",
+    "r": 15,
+    "name": "Jason Quill",
+    "icon": "./pics/guardians_ot_galaxy/jason_quill.png",
     "universe": "mcu"
   },
   {
@@ -823,6 +837,20 @@
     "r": 15,
     "name": "Krugarr",
     "icon": "./pics/guardians_ot_galaxy/Krugarr.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Mainframe",
+    "r": 15,
+    "name": "Mainframe",
+    "icon": "./pics/guardians_ot_galaxy/mainframe.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Phyla",
+    "r": 15,
+    "name": "Phyla",
+    "icon": "./pics/guardians_ot_galaxy/phyla.png",
     "universe": "mcu"
   },
   {
@@ -1583,7 +1611,7 @@
     "universe": "whatif"
   },
   {
-    "label": "Yondu_Udonta_WI",
+    "label": "Yondu_Udonta",
     "r": 15,
     "name": "Yondu Udonta",
     "icon": "./pics/series/what_if/Yondu_Udonta_WI.png",
