@@ -1520,6 +1520,48 @@
     "universe": "mcu"
   },
   {
+    "label": "OB",
+    "r": 15,
+    "name": "Ouroborus",
+    "icon": "./pics/series/loki/OBLoki.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "HunterX-5",
+    "r": 15,
+    "name": "Brad Wolfe - Hunter X-5",
+    "icon": "./pics/series/loki/X5.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "General_Dox",
+    "r": 15,
+    "name": "General Dox",
+    "icon": "./pics/series/loki/Dox.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Judge_Gamble",
+    "r": 15,
+    "name": "Judge Gamble",
+    "icon": "./pics/series/loki/Judge_Gamble.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "McDonalds_Jack",
+    "r": 15,
+    "name": "Jack, McDonalds Manager",
+    "icon": "./pics/series/loki/Jack_McDonalds.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Victor_Timely",
+    "r": 15,
+    "name": "Victor Timely",
+    "icon": "./pics/series/loki/Victor_Timely.png",
+    "universe": "mcu"
+  },
+  {
     "label": "Kang",
     "r": 15,
     "name": "Kang",

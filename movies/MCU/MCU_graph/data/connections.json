@@ -811,9 +811,6 @@
   { "source": "Broker", "target": "Guardians_ot_Galaxy_3_Movie" },
   { "source": "HowardTheDuck", "target": "Guardians_ot_Galaxy_3_Movie" },
 
-  { "source": "Ironheart", "target": "Ironheart_Series" },
-  { "source": "The_Hood", "target": "Ironheart_Series" },
-
   { "source": "NickFury", "target": "SecretInvasion_Series" },
   { "source": "MariaHill", "target": "SecretInvasion_Series" },
   { "source": "WarMachine", "target": "SecretInvasion_Series" },
@@ -827,22 +824,41 @@
   { "source": "Giah", "target": "SecretInvasion_Series" },
   { "source": "Sonya_Falsworth", "target": "SecretInvasion_Series" },
 
-  { "source": "Agnes", "target": "Agatha_Series" },
-
-  { "source": "Echo", "target": "Echo_Series" },
-  { "source": "Kingpin", "target": "Echo_Series" },
-  { "source": "Daredevil", "target": "Echo_Series" },
-
   { "source": "Loki", "target": "Loki_S2_Series" },
   { "source": "Mobius", "target": "Loki_S2_Series" },
   { "source": "SylvieLaufeydottir", "target": "Loki_S2_Series" },
-  { "source": "Kang", "target": "Loki_S2_Series" },
+  { "source": "RavonnaRenslayer", "target": "Loki_S2_Series" },
+  { "source": "HunterB-15", "target": "Loki_S2_Series" },
+  { "source": "HunterK-5E", "target": "Loki_S2_Series" },
+  { "source": "MissMinutes", "target": "Loki_S2_Series" },
+  { "source": "HunterD-90", "target": "Loki_S2_Series" },
+  { "source": "OB", "target": "Loki_S2_Series" },
+  { "source": "HunterX-5", "target": "Loki_S2_Series" },
+  { "source": "General_Dox", "target": "Loki_S2_Series" },
+  { "source": "Judge_Gamble", "target": "Loki_S2_Series" },
+  { "source": "McDonalds_Jack", "target": "Loki_S2_Series" },
+  { "source": "Victor_Timely", "target": "Loki_S2_Series" },
+  { "source": "Victor_Timely", "target": "Kang" },
+  { "source": "Victor_Timely", "target": "HeWhoRemains" },
+
 
   { "source": "CaptainMarvel", "target": "The_Marvels_Movie" },
   { "source": "Ms_Marvel", "target": "The_Marvels_Movie" },
   { "source": "MonicaRambeau", "target": "The_Marvels_Movie" },
   { "source": "Goose", "target": "The_Marvels_Movie" },
   { "source": "NickFury", "target": "The_Marvels_Movie" },
+
+  { "source": "Echo", "target": "Echo_Series" },
+  { "source": "Kingpin", "target": "Echo_Series" },
+  { "source": "Daredevil", "target": "Echo_Series" },
+
+
+  { "source": "Agnes", "target": "Agatha_Series" },
+
+
+  { "source": "Ironheart", "target": "Ironheart_Series" },
+  { "source": "The_Hood", "target": "Ironheart_Series" },
+
 
   { "source": "Blade", "target": "Blade_Movie" },
   { "source": "Black_Knight", "target": "Blade_Movie" },
