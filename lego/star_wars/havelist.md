@@ -4,40 +4,41 @@
 
 These are genuine UCS Star Wars models I consider the must-haves for a UCS Star Wars collection
 
-| Have | Set number                                                                     | Name                           | Released   | Availability |
-|------|--------------------------------------------------------------------------------|--------------------------------|------------|--------------|
-| X    | 7181                                                                           | TIE Interceptor                | 2000-08    | Set          |
-| X    | 7191                                                                           | X-Wing Fighter                 | 2000-08    | Set          |
-| X    | 10019                                                                          | Rebel Blockade Runner          | 2001       | Set          |
-| X    | 10030                                                                          | Imperial Star Destroyer        | 2002       | Set          |
-| X    | 10129                                                                          | Rebel Snowspeeder              | 2003       | Set          |
-| X    | 10134                                                                          | Y-Wing Attack Starfighter      | 2004       | Set          |
-| X    | 10143                                                                          | Death Star II                  | 2005       | Set          |
-| X    | 10174                                                                          | Imperial AT-ST                 | 2006       | Set          |
-| X    | 10175                                                                          | Vader's TIE Advanced           | 2006-10-24 | Set          |
-| X    | 10179                                                                          | Millennium Falcon              | 2007-07    | Set          |
-| X    | 10212                                                                          | Imperial Shuttle               | 2010-09-03 | Set          |
-| X    | 10215                                                                          | Obi-Wan's Jedi Starfighter     | 2010-11-01 | Set          |
-| X    | [10221](https://www.bricklink.com/v2/catalog/catalogitem.page?S=10221)         | Super Star Destroyer           | 2011-09-11 | Set          |
-| X    | [10227](https://www.lego.com/en-us/product/b-wing-starfighter-10227)           | B-Wing Starfighter             | 2012-10-01 | Set          |
-| X    | [10240](https://www.lego.com/en-us/product/red-five-x-wing-starfighter-10240)  | Red Five X-Wing Starfighter    | 2013-05-04 | Set          |
-| X    | [75060](https://www.lego.com/en-us/product/slave-i-75060)                      | Slave I                        | 2015-01-01 | Set          |
-| X    | [75095](https://www.lego.com/en-us/product/tie-fighter-75095)                  | TIE Fighter                    | 2015-05-02 | Set          |
-| X    | [75144](https://www.lego.com/en-us/product/snowspeeder-75144)                  | Snowspeeder                    | 2017       | Set          |
-| X    | [75192](https://www.lego.com/en-us/product/millennium-falcon-75192)            | Millennium Falcon              | 2017-10    | Set          |
-| X    | [75181](https://www.lego.com/en-us/product/y-wing-starfighter-75181)           | Y-Wing Starfighter             | 2018       | Set          |
-| X    | [75252](https://www.lego.com/en-us/product/imperial-star-destroyer-75252)      | Imperial Star Destroyer        | 2019       | Set          |
-| X    | [75275](https://www.lego.com/en-us/product/a-wing-starfighter-75275)           | A-Wing Starfighter             | 2020-05-01 | Set          |
-| X    | [75309](https://www.lego.com/en-us/product/republic-gunship-75309)             | Republic Gunship               | 2021-08-01 | Set          |
-| X    | [75313](https://www.lego.com/en-us/product/at-at-75313)                        | AT-AT                          | 2021-11-26 | Set          |
-| X    | [75341](https://www.lego.com/en-us/product/luke-skywalker-s-landspeeder-75341) | Luke Skywalker's Landspeeder   | 2022-05-04 | Set          |
-| X    | [75331](https://www.lego.com/en-us/product/the-razor-crest-75331)              | Razor Crest (October 2022)     | 2022-10-03 | Set          |
-| X    | [75355](https://www.lego.com/en-us/product/x-wing-starfighter-75355)           | X-Wing Starfighter             | 2023-05-04 | Set          |
-|      | [75367]()                                                                      | Venator Star Destroyer         | 2023-10    | Set          |
+| Have | Set number                                                                              | Name                            | Released   | Availability |
+|------|-----------------------------------------------------------------------------------------|---------------------------------|------------|--------------|
+| X    | 7181                                                                                    | TIE Interceptor                 | 2000-08    | Set          |
+| X    | 7191                                                                                    | X-Wing Fighter                  | 2000-08    | Set          |
+| X    | 10019                                                                                   | Rebel Blockade Runner           | 2001       | Set          |
+| X    | 10030                                                                                   | Imperial Star Destroyer         | 2002       | Set          |
+| X    | 10129                                                                                   | Rebel Snowspeeder               | 2003       | Set          |
+| X    | 10134                                                                                   | Y-Wing Attack Starfighter       | 2004       | Set          |
+| X    | 10143                                                                                   | Death Star II                   | 2005       | Set          |
+| X    | 10174                                                                                   | Imperial AT-ST                  | 2006       | Set          |
+| X    | 10175                                                                                   | Vader's TIE Advanced            | 2006-10-24 | Set          |
+| X    | 10179                                                                                   | Millennium Falcon               | 2007-07    | Set          |
+| X    | 10212                                                                                   | Imperial Shuttle                | 2010-09-03 | Set          |
+| X    | 10215                                                                                   | Obi-Wan's Jedi Starfighter      | 2010-11-01 | Set          |
+| X    | [10221](https://www.bricklink.com/v2/catalog/catalogitem.page?S=10221)                  | Super Star Destroyer            | 2011-09-11 | Set          |
+| X    | [10227](https://www.lego.com/en-us/product/b-wing-starfighter-10227)                    | B-Wing Starfighter              | 2012-10-01 | Set          |
+| X    | [10240](https://www.lego.com/en-us/product/red-five-x-wing-starfighter-10240)           | Red Five X-Wing Starfighter     | 2013-05-04 | Set          |
+| X    | [75060](https://www.lego.com/en-us/product/slave-i-75060)                               | Slave I                         | 2015-01-01 | Set          |
+| X    | [75095](https://www.lego.com/en-us/product/tie-fighter-75095)                           | TIE Fighter                     | 2015-05-02 | Set          |
+| X    | [75144](https://www.lego.com/en-us/product/snowspeeder-75144)                           | Snowspeeder                     | 2017       | Set          |
+| X    | [75192](https://www.lego.com/en-us/product/millennium-falcon-75192)                     | Millennium Falcon               | 2017-10    | Set          |
+| X    | [75181](https://www.lego.com/en-us/product/y-wing-starfighter-75181)                    | Y-Wing Starfighter              | 2018       | Set          |
+| X    | [75252](https://www.lego.com/en-us/product/imperial-star-destroyer-75252)               | Imperial Star Destroyer         | 2019       | Set          |
+| X    | [75275](https://www.lego.com/en-us/product/a-wing-starfighter-75275)                    | A-Wing Starfighter              | 2020-05-01 | Set          |
+| X    | [75309](https://www.lego.com/en-us/product/republic-gunship-75309)                      | Republic Gunship                | 2021-08-01 | Set          |
+| X    | [75313](https://www.lego.com/en-us/product/at-at-75313)                                 | AT-AT                           | 2021-11-26 | Set          |
+| X    | [75341](https://www.lego.com/en-us/product/luke-skywalker-s-landspeeder-75341)          | Luke Skywalker's Landspeeder    | 2022-05-04 | Set          |
+| X    | [75331](https://www.lego.com/en-us/product/the-razor-crest-75331)                       | Razor Crest (October 2022)      | 2022-10-03 | Set          |
+| X    | [75355](https://www.lego.com/en-us/product/x-wing-starfighter-75355)                    | X-Wing Starfighter              | 2023-05-04 | Set          |
+| X    | [75367](https://www.lego.com/en-us/product/venator-class-republic-attack-cruiser-75367) | Venator Republic Attack Cruiser | 2023-10-04 | Set          |
+|      | [75382]()                                                                               | TIE Interceptor (rumoured)      | 2024-05-04 | Set          |
 
 ## Characters & Droids
 
-These are characters and Droids from the movies. The characters are more of a stretch than the Droids to consider for a UCS collection. The 7194 Yoda set, similar to the Darth Maul bust (set 10018) are very brick-built. Other UCS models in contrast are much more complex to build. I therefor do not consider them as a must-have for UCS collections, but this is highly subjective. The newer characters in Porg, Yoda (75255) and The Child (Baby Yoda) and Chewbacca are debatable, since they are much more detailed and less bricky builds. As for the Droids, including the 10186 General Grievous, these are much more complex and fun to build, so I'll gladly collect them for their separate section in a UCS collection. Note that the 75306 Imperial Probe Droid was released in the Helmets line in wave 2 (see next section).
+These are characters and Droids from the movies. The characters are more of a stretch than the Droids to consider for a UCS collection. The 7194 Yoda set, similar to the Darth Maul bust (set 10018) are very brick-built, as in built with basic Lego bricks. Other UCS models in contrast are much more complex to build, using lots of Technic for play functionality. I therefor do not consider them as a must-have for UCS collections, but this is highly subjective. The newer characters in Porg, Yoda (75255) and The Child (Baby Yoda) and Chewbacca are debatable, since they are much more detailed and less bricky builds. As for the Droids, including the 10186 General Grievous, these are much more complex and fun to build, so I'll gladly collect them for their separate section in a UCS collection. Note that the 75306 Imperial Probe Droid was released in the Helmets line in wave 2 (see next section).
 
 | Have | Set number                                                              | Name                  | Released | Availability |
 |------|-------------------------------------------------------------------------|-----------------------|----------|--------------|
@@ -79,18 +80,21 @@ This line, apart from the early Darth Maul and promotional sets, are much easier
 
 This line started with special promotional sets. The Micro Scale sets have several diorama-like sets as well, which seem to have evolved into the line of movie-scene dioramas with but was expanded to a line of black-base movie dioramas, each with a movie-quote tile characterised by the scene.
 
-| Have | Set number                                                                           | Name                                      | Released   | Availability               |
-|------|--------------------------------------------------------------------------------------|-------------------------------------------|------------|----------------------------|
-|      |                                                                                      | Detention Block Rescue                    | 2017-04-01 | Star Wars Celebration 2017 |
-|      | 75512                                                                                | Millennium Falcon Cockpit                 | 2018       | SDCC 2018                  |
-|      | 75294                                                                                | Bespin Duel                               | 2020-08-01 | Star Wars Celebration 2020 |
-|      | [75296](https://www.lego.com/nl-nl/product/darth-vader-meditation-chamber-75296)     | Darth Vader Meditation Chamber            | 2021-06    | Set                        |
-|      | [75329](https://www.lego.com/en-us/product/death-star-trench-run-diorama-75329)      | Death Star Trench Run Diorama             | 2022-03    | Set                        |
-|      | [75330](https://www.lego.com/en-us/product/dagobah-jedi-training-diorama-75330)      | Dagobah Jedi Training Diorama             | 2022-04-26 | Set                        |
-|      | [75339](https://www.lego.com/en-us/product/death-star-trash-compactor-diorama-75339) | Death Star Trash Compactor Diorama        | 2022-03    | Set                        |
-|      | 40531                                                                                | Lars Family Homestead Kitchen             | 2022-05-01 | GWP                        |
-|      | [75352](https://www.lego.com/en-us/product/emperor-s-throne-room-diorama-75352)      | Emperor's Throne Room Diorama             | 2023-04    | Set                        |
+| Have | Set number                                                                           | Name                               | Released   | Availability               |
+|------|--------------------------------------------------------------------------------------|------------------------------------|------------|----------------------------|
+|      |                                                                                      | Detention Block Rescue             | 2017-04-01 | Star Wars Celebration 2017 |
+|      | 75512                                                                                | Millennium Falcon Cockpit          | 2018       | SDCC 2018                  |
+|      | 75294                                                                                | Bespin Duel                        | 2020-08-01 | Star Wars Celebration 2020 |
+|      | [75296](https://www.lego.com/nl-nl/product/darth-vader-meditation-chamber-75296)     | Darth Vader Meditation Chamber     | 2021-06    | Set                        |
+|      | [75329](https://www.lego.com/en-us/product/death-star-trench-run-diorama-75329)      | Death Star Trench Run Diorama      | 2022-03    | Set                        |
+|      | [75330](https://www.lego.com/en-us/product/dagobah-jedi-training-diorama-75330)      | Dagobah Jedi Training Diorama      | 2022-04-26 | Set                        |
+|      | [75339](https://www.lego.com/en-us/product/death-star-trash-compactor-diorama-75339) | Death Star Trash Compactor Diorama | 2022-03    | Set                        |
+|      | 40531                                                                                | Lars Family Homestead Kitchen      | 2022-05-01 | GWP                        |
+|      | [75352](https://www.lego.com/en-us/product/emperor-s-throne-room-diorama-75352)      | Emperor's Throne Room Diorama      | 2023-04    | Set                        |
+|      | [75387]()                                                                            | Tantive IV Boarding Diorama (*)    | 2024-03-01 | Set                        |
+|      | [75380]()                                                                            | Boonta Eve Podrace Diorama (*)     | 2024-05-01 | Set                        |
 
+(*) rumoured
 
 ## Micro Scale sets
 
@@ -139,21 +143,26 @@ These are sets that I consider more playset-like and therefor am not considering
 
 Since 2011, Lego Group has released an Advent Calendar with 24 mini-sets, including an average of 3-5 minifigs per Advent calendar.
 
-| Have | Set number                                                                       | Name | Released | Availability |
-|------|----------------------------------------------------------------------------------|------|----------|--------------|
-|      |                                                                                  | 2011 |          | Set          |
-|      |                                                                                  | 2012 |          | Set          |
-|      |                                                                                  | 2013 |          | Set          |
-|      |                                                                                  | 2014 |          | Set          |
-|      |                                                                                  | 2015 |          | Set          |
-|      |                                                                                  | 2016 |          | Set          |
-| X    |                                                                                  | 2017 |          | Set          |
-| X    |                                                                                  | 2018 |          | Set          |
-| X    |                                                                                  | 2019 |          | Set          |
-| X    |                                                                                  | 2020 |          | Set          |
-| X    |                                                                                  | 2021 |          | Set          |
-| X    | [75366](https://www.lego.com/en-us/product/lego-star-wars-advent-calendar-75366) | 2022 |          | Set          |
-|      |                                                                                  | 2023 |          | Set          |
+| Have | Set number                                                                            | Name | Released | Availability |
+|------|---------------------------------------------------------------------------------------|------|----------|--------------|
+|      | [7958](https://www.lego.com/en-gb/service/buildinginstructions/7958)                  | 2011 |          | Set          |
+|      | [9509](https://www.lego.com/en-gb/service/buildinginstructions/9509)                  | 2012 |          | Set          |
+|      | [75023](https://www.lego.com/en-us/service/buildinginstructions/75023)                | 2013 |          | Set          |
+|      | [75056](https://www.lego.com/en-gb/service/buildinginstructions/75056)                | 2014 |          | Set          |
+|      | [75097](https://www.lego.com/en-my/service/buildinginstructions/75097)                | 2015 |          | Set          |
+|      | [75146](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-75146)      | 2016 |          | Set          |
+| X    | [75184](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-75184)      | 2017 |          | Set          |
+| X    | [75213](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-75213)      | 2018 |          | Set          |
+| X    | [75245](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-75245)      | 2019 |          | Set          |
+| X    | [75279](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-75279)      | 2020 |          | Set          |
+| X    | [75307](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-2021-75307) | 2021 |          | Set          |
+| X    | [75340](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-75340)      | 2022 |          | Set          |
+|      | [75366](https://www.lego.com/en-us/product/lego-star-wars-advent-calendar-75366)      | 2023 |          | Set          |
+|      |                                                                                       | 2024 |          | Set          |
+
+
+
+
 
 ## Modular Figures
 
@@ -199,4 +208,5 @@ These Bionicle-style buildable figures are hardly as popular as the Bionicle set
 * [BrickLink](https://www.bricklink.com/catalogList.asp?pg=1&catString=65&catType=I&v=1)
 * [BrickWatch](https://www.brickwatch.net/nl-NL/sets/theme/13/Star-Wars)
 * [Lego.com](https://www.lego.com/en-us/themes/star-wars)
+* [Coleka](https://www.coleka.com/en/lego-advent-calendar_t1028?id_rubrique=55) Advent calendars
 
