@@ -78,22 +78,23 @@ links.forEach(function(link) {
 });
 
 
+
+
 var force = d3.layout.force()
     .nodes(d3.values(nodes))
     .links(links)
     .size([width, height])
-    .linkDistance(220)
+    .linkDistance(80)
+    .distance(200)
     // .charge(-300)
     // .charge(function(d, i) { return i==0 ? -10000 : -500; })
     .charge(function(d, i) {
         if (i == 0) return -1000;
-        if (i < 23) return -500;
-        return -650;
+        if (i < 23) return -1500;
+        return -350;
     })
     .on("tick", tick)
     .start();
-
-
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)

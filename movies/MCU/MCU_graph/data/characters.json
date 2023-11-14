@@ -2115,6 +2115,27 @@
     "universe": "_838"
   },
   {
+    "label": "Binary",
+    "r": 15,
+    "name": "Maria Rambeau - Binary",
+    "icon": "./pics/the_marvels/Binary.png",
+    "universe": "fox"
+  },
+  {
+    "label": "Prince_Yan",
+    "r": 15,
+    "name": "Prince Yan",
+    "icon": "./pics/the_marvels/Prince_Yan.png",
+    "universe": "mcu"
+  },
+  {
+    "label": "Dar_Benn",
+    "r": 15,
+    "name": "Dar-Benn",
+    "icon": "./pics/the_marvels/Dar_Benn.png",
+    "universe": "mcu"
+  },
+  {
     "label": "838_Palmer",
     "r": 15,
     "name": "Doctor Palmer (838)",
@@ -2589,6 +2610,13 @@
     "r": 15,
     "name": "Logan - Wolverine",
     "icon": "./pics/fox/wolverine.jpeg",
+    "universe": "fox"
+  },
+  {
+    "label": "Beast",
+    "r": 15,
+    "name": "Hank McCoy - Beast",
+    "icon": "./pics/fox/Beast.png",
     "universe": "fox"
   },
   {

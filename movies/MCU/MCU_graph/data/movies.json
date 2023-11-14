@@ -57,7 +57,7 @@
   { "label": "Guardians_ot_Galaxy_3_Movie", "r": 15, "name": "Guardians of the Galaxy Volume 3", "icon": "./pics/movies/Guardians_ot_Galaxy_3.png", "universe": "mcu", "labels": "phase5 movie" },
   { "label": "Echo_Series", "r": 15, "name": "Echo", "icon": "./pics/series/echo.jpeg", "universe": "mcu", "labels": "phase5 series" },
   { "label": "Loki_S2_Series", "r": 15, "name": "Loki S2", "icon": "./pics/series/Loki_S2.jpg", "universe": "mcu", "labels": "phase5 series" },
-  { "label": "The_Marvels_Movie", "r": 15, "name": "The Marvels", "icon": "./pics/movies/The_Marvels.jpeg", "universe": "mcu", "labels": "phase5 movie" },
+  { "label": "The_Marvels_Movie", "r": 15, "name": "The Marvels", "icon": "./pics/movies/The_Marvels.png", "universe": "mcu", "labels": "phase5 movie" },
   { "label": "Blade_Movie", "r": 15, "name": "Blade", "icon": "./pics/movies/Blade.jpg", "universe": "mcu", "labels": "phase5 movie" },
   { "label": "Ironheart_Series", "r": 15, "name": "Ironheart", "icon": "./pics/series/Ironheart.jpeg", "universe": "mcu", "labels": "phase5 series" },
   { "label": "Agatha_Series", "r": 15, "name": "Agatha, Coven of Chaos", "icon": "./pics/series/agatha.jpeg", "universe": "mcu", "labels": "phase5 series" },
