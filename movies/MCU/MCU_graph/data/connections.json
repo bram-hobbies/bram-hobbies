@@ -901,6 +901,14 @@
   { "source": "Kang", "target": "Avengers_Kang_Dynasty_Movie" },
 
 
+  { "source": "Daredevil_Series", "target": "Netflix" },
+  { "source": "Jessica_Jones_Series", "target": "Netflix" },
+  { "source": "Luke_Cage_Series", "target": "Netflix" },
+  { "source": "Iron_Fist_Series", "target": "Netflix" },
+  { "source": "Punisher_Series", "target": "Netflix" },
+  { "source": "Defenders_Series", "target": "Netflix" },
+
+
   { "source": "Daredevil", "target": "Daredevil_Series" },
   { "source": "Karen_Page", "target": "Daredevil_Series" },
   { "source": "Punisher", "target": "Daredevil_Series" },

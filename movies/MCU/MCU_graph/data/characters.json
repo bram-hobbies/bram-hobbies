@@ -38,7 +38,7 @@
     "label": "JARVIS",
     "r": 15,
     "name": "J.A.R.V.I.S.",
-    "icon": "./pics/iron_man/JARVIS.png",
+    "icon": "./pics/iron_man/JARVIS.jpeg",
     "universe": "mcu"
   },
   {
@@ -52,7 +52,7 @@
     "label": "HowardStark",
     "r": 15,
     "name": "Howard Stark",
-    "icon": "./pics/iron_man/HowardStark.png",
+    "icon": "./pics/iron_man/HowardStark.jpeg",
     "universe": "mcu"
   },
   {
@@ -80,14 +80,14 @@
     "label": "Whiplash",
     "r": 15,
     "name": "Ivan Vanko/Whiplash",
-    "icon": "./pics/iron_man/Whiplash.png",
+    "icon": "./pics/iron_man/Whiplash.jpeg",
     "universe": "mcu"
   },
   {
     "label": "AntonVanko",
     "r": 15,
     "name": "Anton Vanko",
-    "icon": "./pics/iron_man/AntonVanko.png",
+    "icon": "./pics/iron_man/AntonVanko.jpeg",
     "universe": "mcu"
   },
   {
@@ -115,7 +115,7 @@
     "label": "ThaddeusRoss",
     "r": 15,
     "name": "Thaddeus Ross",
-    "icon": "./pics/hulk/ThaddeusRoss.png",
+    "icon": "./pics/hulk/ThaddeusRoss.jpeg",
     "universe": "mcu"
   },
   {
@@ -213,7 +213,7 @@
     "label": "Frigga",
     "r": 15,
     "name": "Frigga",
-    "icon": "./pics/thor/Frigga.png",
+    "icon": "./pics/thor/Frigga.jpeg",
     "universe": "mcu"
   },
   {
@@ -262,42 +262,42 @@
     "label": "WinterSoldier",
     "r": 15,
     "name": "Bucky Barnes - Winter Soldier",
-    "icon": "./pics/captain_america/WinterSoldier.png",
+    "icon": "./pics/captain_america/WinterSoldier.jpeg",
     "universe": "mcu"
   },
   {
     "label": "ChesterPhillips",
     "r": 15,
     "name": "Chester Phillips",
-    "icon": "./pics/captain_america/ChesterPhillips.png",
+    "icon": "./pics/captain_america/ChesterPhillips.jpeg",
     "universe": "mcu"
   },
   {
     "label": "RedSkull",
     "r": 15,
     "name": "Red Skull",
-    "icon": "./pics/captain_america/RedSkull.png",
+    "icon": "./pics/captain_america/RedSkull.jpeg",
     "universe": "mcu"
   },
   {
     "label": "AbrahamErskine",
     "r": 15,
     "name": "Abraham Erskine",
-    "icon": "./pics/captain_america/AbrahamErskine.png",
+    "icon": "./pics/captain_america/AbrahamErskine.jpeg",
     "universe": "mcu"
   },
   {
     "label": "ArnimZola",
     "r": 15,
     "name": "Arnim Zola",
-    "icon": "./pics/captain_america/ArnimZola.png",
+    "icon": "./pics/captain_america/ArnimZola.jpeg",
     "universe": "mcu"
   },
   {
     "label": "DumDumDugan",
     "r": 15,
     "name": "Dum Dum Dugan",
-    "icon": "./pics/captain_america/DumDumDugan.png",
+    "icon": "./pics/captain_america/DumDumDugan.jpeg",
     "universe": "mcu"
   },
   {
@@ -311,14 +311,14 @@
     "label": "AlexanderPierce",
     "r": 15,
     "name": "Alexander Pierce",
-    "icon": "./pics/captain_america/AlexanderPierce.png",
+    "icon": "./pics/captain_america/AlexanderPierce.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Falcon",
     "r": 15,
     "name": "Sam Wilson - Falcon",
-    "icon": "./pics/captain_america/Falcon.png",
+    "icon": "./pics/captain_america/Falcon.jpeg",
     "universe": "mcu"
   },
   {
@@ -332,28 +332,28 @@
     "label": "SharonCarter",
     "r": 15,
     "name": "Sharon Carter",
-    "icon": "./pics/series/falcon_winter/Sharon_Carter.png",
+    "icon": "./pics/series/falcon_winter/Sharon_Carter.jpeg",
     "universe": "mcu"
   },
   {
     "label": "JackRollins",
     "r": 15,
     "name": "Jack Rollins",
-    "icon": "./pics/captain_america/JackRollins.png",
+    "icon": "./pics/captain_america/JackRollins.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Hawley",
     "r": 15,
     "name": "Hawley",
-    "icon": "./pics/captain_america/Hawley.png",
+    "icon": "./pics/captain_america/Hawley.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Stern",
     "r": 15,
     "name": "Stern",
-    "icon": "./pics/iron_man/Stern.png",
+    "icon": "./pics/iron_man/Stern.jpeg",
     "universe": "mcu"
   },
   {
@@ -374,14 +374,14 @@
     "label": "Zemo",
     "r": 15,
     "name": "Helmut Zemo",
-    "icon": "./pics/series/falcon_winter/Baron_Zemo.png",
+    "icon": "./pics/series/falcon_winter/Baron_Zemo.jpeg",
     "universe": "mcu"
   },
   {
     "label": "MariaStarke",
     "r": 15,
     "name": "MariaStarke",
-    "icon": "./pics/iron_man/MariaStarke.png",
+    "icon": "./pics/iron_man/MariaStarke.jpeg",
     "universe": "mcu"
   },
   {
@@ -416,7 +416,7 @@
     "label": "Thanos",
     "r": 15,
     "name": "Thanos",
-    "icon": "./pics/guardians_ot_galaxy/Thanos.png",
+    "icon": "./pics/guardians_ot_galaxy/Thanos.jpeg",
     "universe": "mcu"
   },
   {
@@ -465,7 +465,7 @@
     "label": "Carina",
     "r": 15,
     "name": "Carina",
-    "icon": "./pics/guardians_ot_galaxy/Carina.png",
+    "icon": "./pics/guardians_ot_galaxy/Carina.jpeg",
     "universe": "mcu"
   },
   {
@@ -479,7 +479,7 @@
     "label": "YonduUdonta",
     "r": 15,
     "name": "Yondu Udonta",
-    "icon": "./pics/guardians_ot_galaxy/YonduUdonta.png",
+    "icon": "./pics/guardians_ot_galaxy/YonduUdonta.jpeg",
     "universe": "mcu"
   },
   {
@@ -500,21 +500,21 @@
     "label": "Broker",
     "r": 15,
     "name": "Broker",
-    "icon": "./pics/guardians_ot_galaxy/Broker.png",
+    "icon": "./pics/guardians_ot_galaxy/Broker.jpeg",
     "universe": "mcu"
   },
   {
     "label": "MeredithQuill",
     "r": 15,
     "name": "Meredith Quill",
-    "icon": "./pics/guardians_ot_galaxy/MeredithQuill.png",
+    "icon": "./pics/guardians_ot_galaxy/MeredithQuill.jpeg",
     "universe": "mcu"
   },
   {
     "label": "JasonQuill",
     "r": 15,
     "name": "Jason Quill",
-    "icon": "./pics/guardians_ot_galaxy/jason_quill.png",
+    "icon": "./pics/guardians_ot_galaxy/jason_quill.jpeg",
     "universe": "mcu"
   },
   {
@@ -528,7 +528,7 @@
     "label": "MrQuill",
     "r": 15,
     "name": "Peter Quill's Grandfather",
-    "icon": "./pics/guardians_ot_galaxy/MrQuill.png",
+    "icon": "./pics/guardians_ot_galaxy/MrQuill.jpeg",
     "universe": "mcu"
   },
   {
@@ -542,14 +542,14 @@
     "label": "HowardTheDuck",
     "r": 15,
     "name": "Howard the Duck",
-    "icon": "./pics/guardians_ot_galaxy/HowardTheDuck.png",
+    "icon": "./pics/guardians_ot_galaxy/HowardTheDuck.jpeg",
     "universe": "mcu"
   },
   {
     "label": "LauraBarton",
     "r": 15,
     "name": "Laura Barton",
-    "icon": "./pics/series/hawkeye/LauraBarton.png",
+    "icon": "./pics/series/hawkeye/LauraBarton.jpeg",
     "universe": "mcu"
   },
   {
@@ -570,7 +570,7 @@
     "label": "CooperBarton",
     "r": 15,
     "name": "Cooper Barton",
-    "icon": "./pics/series/hawkeye/CooperBarton.png",
+    "icon": "./pics/series/hawkeye/CooperBarton.jpeg",
     "universe": "mcu"
   },
   {
@@ -584,21 +584,21 @@
     "label": "CameronKlein",
     "r": 15,
     "name": "Cameron Klein",
-    "icon": "./pics/captain_america/CameronKlein.png",
+    "icon": "./pics/captain_america/CameronKlein.jpeg",
     "universe": "mcu"
   },
   {
     "label": "FRIDAY",
     "r": 15,
     "name": "F.R.I.D.A.Y.",
-    "icon": "./pics/iron_man/FRIDAY.png",
+    "icon": "./pics/iron_man/FRIDAY.jpeg",
     "universe": "mcu"
   },
   {
     "label": "NathanielBarton",
     "r": 15,
     "name": "Nathaniel Barton",
-    "icon": "./pics/series/hawkeye/NathanielBarton.png",
+    "icon": "./pics/series/hawkeye/NathanielBarton.jpeg",
     "universe": "mcu"
   },
   {
@@ -626,7 +626,7 @@
     "label": "TheWasp",
     "r": 15,
     "name": "Hope van Dyne, The Wasp",
-    "icon": "./pics/ant_man/TheWasp.png",
+    "icon": "./pics/ant_man/TheWasp.jpeg",
     "universe": "mcu"
   },
   {
@@ -640,7 +640,7 @@
     "label": "JimPaxton",
     "r": 15,
     "name": "Jim Paxton",
-    "icon": "./pics/ant_man/JimPaxton.png",
+    "icon": "./pics/ant_man/JimPaxton.jpeg",
     "universe": "mcu"
   },
   {
@@ -661,14 +661,14 @@
     "label": "MaggieLang",
     "r": 15,
     "name": "Maggie Lang",
-    "icon": "./pics/ant_man/MaggieLang.png",
+    "icon": "./pics/ant_man/MaggieLang.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Stature",
     "r": 15,
     "name": "Stature - Cassie Lang",
-    "icon": "./pics/ant_man/CassieLang.png",
+    "icon": "./pics/ant_man/CassieLang.jpeg",
     "universe": "mcu"
   },
   {
@@ -682,21 +682,21 @@
     "label": "JanetVanDyne",
     "r": 15,
     "name": "Janet van Dyne/Wasp",
-    "icon": "./pics/ant_man/JanetVanDyne.png",
+    "icon": "./pics/ant_man/JanetVanDyne.jpeg",
     "universe": "mcu"
   },
   {
     "label": "MODOK",
     "r": 15,
     "name": "M.O.D.O.K.",
-    "icon": "./pics/ant_man/MODOK.png",
+    "icon": "./pics/ant_man/MODOK.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Krylar",
     "r": 15,
     "name": "Krylar",
-    "icon": "./pics/ant_man/Krylar.png",
+    "icon": "./pics/ant_man/Krylar.jpeg",
     "universe": "mcu"
   },
   {
@@ -710,7 +710,7 @@
     "label": "Dormammu",
     "r": 15,
     "name": "Dormammu",
-    "icon": "./pics/doctor_strange/Dormammu.png",
+    "icon": "./pics/doctor_strange/Dormammu.jpeg",
     "universe": "mcu"
   },
   {
@@ -724,7 +724,7 @@
     "label": "ChristinePalmer",
     "r": 15,
     "name": "Christine Palmer",
-    "icon": "./pics/doctor_strange/ChristinePalmer.png",
+    "icon": "./pics/doctor_strange/ChristinePalmer.jpeg",
     "universe": "mcu"
   },
   {
@@ -738,14 +738,14 @@
     "label": "Kaecilius",
     "r": 15,
     "name": "Kaecilius",
-    "icon": "./pics/doctor_strange/Kaecilius.png",
+    "icon": "./pics/doctor_strange/Kaecilius.jpeg",
     "universe": "mcu"
   },
   {
     "label": "AncientOne",
     "r": 15,
     "name": "Ancient One",
-    "icon": "./pics/doctor_strange/AncientOne.png",
+    "icon": "./pics/doctor_strange/AncientOne.jpeg",
     "universe": "mcu"
   },
   {
@@ -759,21 +759,21 @@
     "label": "Ego",
     "r": 15,
     "name": "Ego",
-    "icon": "./pics/guardians_ot_galaxy/Ego.png",
+    "icon": "./pics/guardians_ot_galaxy/Ego.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Ayesha",
     "r": 15,
     "name": "Ayesha",
-    "icon": "./pics/guardians_ot_galaxy/Ayesha.png",
+    "icon": "./pics/guardians_ot_galaxy/Ayesha.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Zylak",
     "r": 15,
     "name": "Zylak",
-    "icon": "./pics/guardians_ot_galaxy/Zylak.png",
+    "icon": "./pics/guardians_ot_galaxy/Zylak.jpeg",
     "universe": "mcu"
   },
   {
@@ -787,21 +787,21 @@
     "label": "Gef",
     "r": 15,
     "name": "Gef",
-    "icon": "./pics/guardians_ot_galaxy/Gef.png",
+    "icon": "./pics/guardians_ot_galaxy/Gef.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Tullk",
     "r": 15,
     "name": "Tullk",
-    "icon": "./pics/guardians_ot_galaxy/Tullk.png",
+    "icon": "./pics/guardians_ot_galaxy/Tullk.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Retch",
     "r": 15,
     "name": "Retch",
-    "icon": "./pics/guardians_ot_galaxy/Retch.png",
+    "icon": "./pics/guardians_ot_galaxy/Retch.jpeg",
     "universe": "mcu"
   },
   {
@@ -843,14 +843,14 @@
     "label": "Mainframe",
     "r": 15,
     "name": "Mainframe",
-    "icon": "./pics/guardians_ot_galaxy/mainframe.png",
+    "icon": "./pics/guardians_ot_galaxy/mainframe.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Phyla",
     "r": 15,
     "name": "Phyla",
-    "icon": "./pics/guardians_ot_galaxy/phyla.png",
+    "icon": "./pics/guardians_ot_galaxy/phyla.jpeg",
     "universe": "mcu"
   },
   {
@@ -885,7 +885,7 @@
     "label": "Executioner",
     "r": 15,
     "name": "Skurge - Executioner",
-    "icon": "./pics/thor/Executioner.png",
+    "icon": "./pics/thor/Executioner.jpeg",
     "universe": "mcu"
   },
   {
@@ -913,14 +913,14 @@
     "label": "Miek",
     "r": 15,
     "name": "Miek",
-    "icon": "./pics/thor/Miek.png",
+    "icon": "./pics/thor/Miek.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Surtur",
     "r": 15,
     "name": "Surtur",
-    "icon": "./pics/thor/Surtur.png",
+    "icon": "./pics/thor/Surtur.jpeg",
     "universe": "mcu"
   },
   {
@@ -941,14 +941,14 @@
     "label": "BradDavis",
     "r": 15,
     "name": "Brad Davis",
-    "icon": "./pics/spiderman/Brad_Davis.png",
+    "icon": "./pics/spiderman/Brad_Davis.jpeg",
     "universe": "mcu"
   },
   {
     "label": "MayParker",
     "r": 15,
     "name": "May Parker",
-    "icon": "./pics/spiderman/MayParker.png",
+    "icon": "./pics/spiderman/MayParker.jpeg",
     "universe": "mcu"
   },
   {
@@ -969,14 +969,14 @@
     "label": "Prowler",
     "r": 15,
     "name": "Aaron Davis - Prowler",
-    "icon": "./pics/spiderman/Prowler.png",
+    "icon": "./pics/spiderman/Prowler.jpeg",
     "universe": "mcu"
   },
   {
     "label": "RogerHarrington",
     "r": 15,
     "name": "Roger Harrington",
-    "icon": "./pics/spiderman/RogerHarrington.png",
+    "icon": "./pics/spiderman/RogerHarrington.jpeg",
     "universe": "mcu"
   },
   {
@@ -997,14 +997,14 @@
     "label": "LizToomes",
     "r": 15,
     "name": "Liz Toomes",
-    "icon": "./pics/spiderman/LizToomes.png",
+    "icon": "./pics/spiderman/LizToomes.jpeg",
     "universe": "mcu"
   },
   {
     "label": "FlashThompson",
     "r": 15,
     "name": "Flash Thompson",
-    "icon": "./pics/spiderman/FlashThompson.png",
+    "icon": "./pics/spiderman/FlashThompson.jpeg",
     "universe": "mcu"
   },
   {
@@ -1018,70 +1018,70 @@
     "label": "CindyMoon",
     "r": 15,
     "name": "Cindy Moon",
-    "icon": "./pics/spiderman/CindyMoon.png",
+    "icon": "./pics/spiderman/CindyMoon.jpeg",
     "universe": "mcu"
   },
   {
     "label": "AndreWilson",
     "r": 15,
     "name": "Andre Wilson",
-    "icon": "./pics/spiderman/AndreWilson.png",
+    "icon": "./pics/spiderman/AndreWilson.jpeg",
     "universe": "mcu"
   },
   {
     "label": "BettyBrant",
     "r": 15,
     "name": "Betty Brant",
-    "icon": "./pics/spiderman/BettyBrant.png",
+    "icon": "./pics/spiderman/BettyBrant.jpeg",
     "universe": "mcu"
   },
   {
     "label": "CharlesMurphy",
     "r": 15,
     "name": "Charles Murphy",
-    "icon": "./pics/spiderman/CharlesMurphy.png",
+    "icon": "./pics/spiderman/CharlesMurphy.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Delmar",
     "r": 15,
     "name": "Delmar",
-    "icon": "./pics/spiderman/Delmar.png",
+    "icon": "./pics/spiderman/Delmar.jpeg",
     "universe": "mcu"
   },
   {
     "label": "JasonIonello",
     "r": 15,
     "name": "Jason Ionello",
-    "icon": "./pics/spiderman/JasonIonello.png",
+    "icon": "./pics/spiderman/JasonIonello.jpeg",
     "universe": "mcu"
   },
   {
     "label": "SallyAvrill",
     "r": 15,
     "name": "Sally Avrill",
-    "icon": "./pics/spiderman/SallyAvrill.png",
+    "icon": "./pics/spiderman/SallyAvrill.jpeg",
     "universe": "mcu"
   },
   {
     "label": "TinyMcKeever",
     "r": 15,
     "name": "Tiny McKeever",
-    "icon": "./pics/spiderman/TinyMcKeever.png",
+    "icon": "./pics/spiderman/TinyMcKeever.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Mysterio",
     "r": 15,
     "name": "Quentin Beck - Mysterio",
-    "icon": "./pics/spiderman/Mysterio.png",
+    "icon": "./pics/spiderman/Mysterio.jpeg",
     "universe": "mcu"
   },
   {
     "label": "JuliusDell",
     "r": 15,
     "name": "Julius Dell",
-    "icon": "./pics/spiderman/Julius_Dell.png",
+    "icon": "./pics/spiderman/Julius_Dell.jpeg",
     "universe": "mcu"
   },
   {
@@ -1095,21 +1095,21 @@
     "label": "JJonahJameson",
     "r": 15,
     "name": "J. Jonah Jameson",
-    "icon": "./pics/spiderman/J._Jonah_Jameson.png",
+    "icon": "./pics/spiderman/J._Jonah_Jameson.jpeg",
     "universe": "mcu"
   },
   {
     "label": "WilliamGinterRiva",
     "r": 15,
     "name": "William Ginter Riva",
-    "icon": "./pics/spiderman/William_Ginter_Riva.png",
+    "icon": "./pics/spiderman/William_Ginter_Riva.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Seamstress",
     "r": 15,
     "name": "Seamstress",
-    "icon": "./pics/spiderman/Seamstress.png",
+    "icon": "./pics/spiderman/Seamstress.jpeg",
     "universe": "mcu"
   },
 
@@ -1180,7 +1180,7 @@
     "label": "NJobu",
     "r": 15,
     "name": "N'Jobu",
-    "icon": "./pics/black_panther/NJobu.png",
+    "icon": "./pics/black_panther/NJobu.jpeg",
     "universe": "mcu"
   },
   {
@@ -1194,35 +1194,35 @@
     "label": "TChaka",
     "r": 15,
     "name": "T'Chaka",
-    "icon": "./pics/black_panther/TChaka.png",
+    "icon": "./pics/black_panther/TChaka.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Yama",
     "r": 15,
     "name": "Yama",
-    "icon": "./pics/black_panther/Yama.png",
+    "icon": "./pics/black_panther/Yama.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Nomble",
     "r": 15,
     "name": "Nomble",
-    "icon": "./pics/black_panther/Nomble.png",
+    "icon": "./pics/black_panther/Nomble.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Namor",
     "r": 15,
     "name": "Namor",
-    "icon": "./pics/black_panther/Namor.png",
+    "icon": "./pics/black_panther/Namor.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Eitri",
     "r": 15,
     "name": "Eitri",
-    "icon": "./pics/avengers/Eitri.png",
+    "icon": "./pics/avengers/Eitri.jpeg",
     "universe": "mcu"
   },
   {
@@ -1243,7 +1243,7 @@
     "label": "CorvusGlaive",
     "r": 15,
     "name": "Corvus Glaive",
-    "icon": "./pics/avengers/CorvusGlaive.png",
+    "icon": "./pics/avengers/CorvusGlaive.jpeg",
     "universe": "mcu"
   },
   {
@@ -1257,7 +1257,7 @@
     "label": "BillFoster",
     "r": 15,
     "name": "Bill Foster",
-    "icon": "./pics/ant_man/BillFoster.png",
+    "icon": "./pics/ant_man/BillFoster.jpeg",
     "universe": "mcu"
   },
   {
@@ -1334,7 +1334,7 @@
     "label": "SupremeIntelligence",
     "r": 15,
     "name": "Supreme Intelligence",
-    "icon": "./pics/captain_marvel/SupremeIntelligence.png",
+    "icon": "./pics/captain_marvel/SupremeIntelligence.jpeg",
     "universe": "mcu"
   },
   {
@@ -1355,7 +1355,7 @@
     "label": "Soren",
     "r": 15,
     "name": "Soren",
-    "icon": "./pics/captain_marvel/Soren.png",
+    "icon": "./pics/captain_marvel/Soren.jpeg",
     "universe": "mcu"
   },
   {
@@ -1369,14 +1369,14 @@
     "label": "MorganStark",
     "r": 15,
     "name": "MorganStark",
-    "icon": "./pics/avengers/MorganStark.png",
+    "icon": "./pics/avengers/MorganStark.jpeg",
     "universe": "mcu"
   },
   {
     "label": "EdwinJarvis",
     "r": 15,
     "name": "Edwin Jarvis",
-    "icon": "./pics/avengers/EdwinJarvis.png",
+    "icon": "./pics/avengers/EdwinJarvis.jpeg",
     "universe": "mcu"
   },
   {
@@ -1390,7 +1390,7 @@
     "label": "TylerHayward",
     "r": 15,
     "name": "Tyler Hayward",
-    "icon": "./pics/series/wandavision/Tyler_Hayward.png",
+    "icon": "./pics/series/wandavision/Tyler_Hayward.jpeg",
     "universe": "mcu"
   },
   {
@@ -1411,28 +1411,28 @@
     "label": "Joaquin_Torres",
     "r": 15,
     "name": "Joaquin Torres",
-    "icon": "./pics/series/falcon_winter/Joaquin_Torres.png",
+    "icon": "./pics/series/falcon_winter/Joaquin_Torres.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Battlestar",
     "r": 15,
     "name": "Lemar Hoskins - Battlestar",
-    "icon": "./pics/series/falcon_winter/Battlestar.png",
+    "icon": "./pics/series/falcon_winter/Battlestar.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Isaiah_Bradley",
     "r": 15,
     "name": "Isaiah Bradley",
-    "icon": "./pics/series/falcon_winter/Isaiah_Bradley.png",
+    "icon": "./pics/series/falcon_winter/Isaiah_Bradley.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Mobius",
     "r": 15,
     "name": "Mobius",
-    "icon": "./pics/series/loki/Mobius_M._Mobius.png",
+    "icon": "./pics/series/loki/Mobius_M._Mobius.jpeg",
     "universe": "mcu"
   },
   {
@@ -1446,28 +1446,28 @@
     "label": "SylvieLaufeydottir",
     "r": 15,
     "name": "Sylvie Laufeydottir",
-    "icon": "./pics/series/loki/Sylvie.png",
+    "icon": "./pics/series/loki/Sylvie.jpeg",
     "universe": "mcu"
   },
   {
     "label": "RavonnaRenslayer",
     "r": 15,
     "name": "Ravonna Renslayer",
-    "icon": "./pics/series/loki/Judge_Renslayer.png",
+    "icon": "./pics/series/loki/Judge_Renslayer.jpeg",
     "universe": "mcu"
   },
   {
     "label": "HunterB-15",
     "r": 15,
     "name": "Hunter B-15",
-    "icon": "./pics/series/loki/Hunter_B15.png",
+    "icon": "./pics/series/loki/Hunter_B15.jpeg",
     "universe": "mcu"
   },
   {
     "label": "HunterK-5E",
     "r": 15,
     "name": "Casey - Hunter K-5E",
-    "icon": "./pics/series/loki/Casey.png",
+    "icon": "./pics/series/loki/Casey.jpeg",
     "universe": "mcu"
   },
   {
@@ -1495,7 +1495,7 @@
     "label": "MissMinutes",
     "r": 15,
     "name": "Miss Minutes",
-    "icon": "./pics/series/loki/Miss_Minutes.png",
+    "icon": "./pics/series/loki/Miss_Minutes.jpeg",
     "universe": "mcu"
   },
   {
@@ -1509,7 +1509,7 @@
     "label": "HunterD-90",
     "r": 15,
     "name": "HunterD-90",
-    "icon": "./pics/series/loki/Hunter_D-90.png",
+    "icon": "./pics/series/loki/Hunter_D-90.jpeg",
     "universe": "mcu"
   },
   {
@@ -1523,21 +1523,21 @@
     "label": "OB",
     "r": 15,
     "name": "Ouroborus",
-    "icon": "./pics/series/loki/OBLoki.png",
+    "icon": "./pics/series/loki/OBLoki.jpeg",
     "universe": "mcu"
   },
   {
     "label": "HunterX-5",
     "r": 15,
     "name": "Brad Wolfe - Hunter X-5",
-    "icon": "./pics/series/loki/X5.png",
+    "icon": "./pics/series/loki/X5.jpeg",
     "universe": "mcu"
   },
   {
     "label": "General_Dox",
     "r": 15,
     "name": "General Dox",
-    "icon": "./pics/series/loki/Dox.png",
+    "icon": "./pics/series/loki/Dox.jpeg",
     "universe": "mcu"
   },
   {
@@ -1551,21 +1551,21 @@
     "label": "McDonalds_Jack",
     "r": 15,
     "name": "Jack, McDonalds Manager",
-    "icon": "./pics/series/loki/Jack_McDonalds.png",
+    "icon": "./pics/series/loki/Jack_McDonalds.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Victor_Timely",
     "r": 15,
     "name": "Victor Timely",
-    "icon": "./pics/series/loki/Victor_Timely.png",
+    "icon": "./pics/series/loki/Victor_Timely.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Kang",
     "r": 15,
     "name": "Kang",
-    "icon": "./pics/ant_man/Kang.png",
+    "icon": "./pics/ant_man/Kang.jpeg",
     "universe": "mcu"
   },
   {
@@ -1593,7 +1593,7 @@
     "label": "Dreykov",
     "r": 15,
     "name": "Dreykov",
-    "icon": "./pics/black_widow/Dreykov.png",
+    "icon": "./pics/black_widow/Dreykov.jpeg",
     "universe": "mcu"
   },
   {
@@ -1614,14 +1614,14 @@
     "label": "Val",
     "r": 15,
     "name": "Contessa Valentina Allegra de Fontaine",
-    "icon": "./pics/black_widow/Val.png",
+    "icon": "./pics/black_widow/Val.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Watcher",
     "r": 15,
     "name": "Uatu, The Watcher",
-    "icon": "./pics/series/what_if/Uatu_the_Watcher.png",
+    "icon": "./pics/series/what_if/Uatu_the_Watcher.jpeg",
     "universe": "whatif"
   },
   {
@@ -1635,7 +1635,7 @@
     "label": "Bucky_Barns_WI",
     "r": 15,
     "name": "Bucky_Barns",
-    "icon": "./pics/series/what_if/Bucky_Barnes_WI.png",
+    "icon": "./pics/series/what_if/Bucky_Barnes_WI.jpeg",
     "universe": "whatif"
   },
   {
@@ -1649,98 +1649,98 @@
     "label": "TChalla_Starlord",
     "r": 15,
     "name": "T'Challa - Star-Lord",
-    "icon": "./pics/series/what_if/TChalla_Star-Lord.png",
+    "icon": "./pics/series/what_if/TChalla_Star-Lord.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Yondu_Udonta",
     "r": 15,
     "name": "Yondu Udonta",
-    "icon": "./pics/series/what_if/Yondu_Udonta_WI.png",
+    "icon": "./pics/series/what_if/Yondu_Udonta_WI.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Zola_WI",
     "r": 15,
     "name": "Arnim Zola",
-    "icon": "./pics/series/what_if/Zola_WI.png",
+    "icon": "./pics/series/what_if/Zola_WI.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Thanos_WI",
     "r": 15,
     "name": "Thanos",
-    "icon": "./pics/series/what_if/Thanos_WI.png",
+    "icon": "./pics/series/what_if/Thanos_WI.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Zombie_Thanos",
     "r": 15,
     "name": "Zombie Thanos",
-    "icon": "./pics/series/what_if/Zombie_Thanos.png",
+    "icon": "./pics/series/what_if/Zombie_Thanos.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Zombie_Wanda",
     "r": 15,
     "name": "Zombie Wanda",
-    "icon": "./pics/series/what_if/Zombie_Wanda.webp",
+    "icon": "./pics/series/what_if/Zombie_Wanda.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Zombie_Strange",
     "r": 15,
     "name": "Zombie Strange",
-    "icon": "./pics/series/what_if/Zombie_Strange.webp",
+    "icon": "./pics/series/what_if/Zombie_Strange.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Killmonger_WI",
     "r": 15,
     "name": "Killmonger",
-    "icon": "./pics/series/what_if/Killmonger_WI.png",
+    "icon": "./pics/series/what_if/Killmonger_WI.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Party_Thor",
     "r": 15,
     "name": "Party_Thor",
-    "icon": "./pics/series/what_if/Party_Thor.png",
+    "icon": "./pics/series/what_if/Party_Thor.jpeg",
     "universe": "whatif"
   },
   {
     "label": "UltraVision",
     "r": 15,
     "name": "UltraVision",
-    "icon": "./pics/series/what_if/UltraVision.png",
+    "icon": "./pics/series/what_if/UltraVision.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Hawkeye_WI",
     "r": 15,
     "name": "Hawkeye",
-    "icon": "./pics/series/what_if/Hawkeye_WI.png",
+    "icon": "./pics/series/what_if/Hawkeye_WI.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Captain_Marvel_WI",
     "r": 15,
     "name": "Captain Marvel",
-    "icon": "./pics/series/what_if/Captain_Marvel_WI.png",
+    "icon": "./pics/series/what_if/Captain_Marvel_WI.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Black_Widow_WI",
     "r": 15,
     "name": "Apocalyptic Black Widow",
-    "icon": "./pics/series/what_if/Black_Widow_WI.png",
+    "icon": "./pics/series/what_if/Black_Widow_WI.jpeg",
     "universe": "whatif"
   },
   {
     "label": "Gamora_WI",
     "r": 15,
     "name": "Gamora",
-    "icon": "./pics/series/what_if/Gamora_WI.png",
+    "icon": "./pics/series/what_if/Gamora_WI.jpeg",
     "universe": "whatif"
   },
   {
@@ -1796,7 +1796,7 @@
     "label": "JonJon",
     "r": 15,
     "name": "Jon Jon",
-    "icon": "./pics/shang_chi/Jon_Jon.png",
+    "icon": "./pics/shang_chi/Jon_Jon.jpeg",
     "universe": "mcu"
   },
   {
@@ -1866,7 +1866,7 @@
     "label": "Black_Knight",
     "r": 15,
     "name": "Dane Whitman - Black Knight",
-    "icon": "./pics/eternals/Black_Knight.png",
+    "icon": "./pics/eternals/Black_Knight.jpeg",
     "universe": "mcu"
   },
   {
@@ -1887,14 +1887,14 @@
     "label": "Karun",
     "r": 15,
     "name": "Karun",
-    "icon": "./pics/eternals/Karun.png",
+    "icon": "./pics/eternals/Karun.jpeg",
     "universe": "mcu"
   },
   {
     "label": "General_Kro",
     "r": 15,
     "name": "General Kro",
-    "icon": "./pics/eternals/Kro.png",
+    "icon": "./pics/eternals/Kro.jpeg",
     "universe": "mcu"
   },
   {
@@ -1908,14 +1908,14 @@
     "label": "Eleanor_Bishop",
     "r": 15,
     "name": "Eleanor Bishop",
-    "icon": "./pics/series/hawkeye/Eleanor_Bishop.png",
+    "icon": "./pics/series/hawkeye/Eleanor_Bishop.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Derek_Bishop",
     "r": 15,
     "name": "Derek Bishop",
-    "icon": "./pics/series/hawkeye/Derek_Bishop.png",
+    "icon": "./pics/series/hawkeye/Derek_Bishop.jpeg",
     "universe": "mcu"
   },
   {
@@ -1936,7 +1936,7 @@
     "label": "Armand_Duquesne",
     "r": 15,
     "name": "Armand Duquesne III",
-    "icon": "./pics/series/hawkeye/Armand_Duquesne.png",
+    "icon": "./pics/series/hawkeye/Armand_Duquesne.jpeg",
     "universe": "mcu"
   },
   {
@@ -1950,35 +1950,35 @@
     "label": "Ivan_Banionis",
     "r": 15,
     "name": "Ivan Banionis",
-    "icon": "./pics/series/hawkeye/Ivan_Banionis.png",
+    "icon": "./pics/series/hawkeye/Ivan_Banionis.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Tomas",
     "r": 15,
     "name": "Tomas",
-    "icon": "./pics/series/hawkeye/Tomas.png",
+    "icon": "./pics/series/hawkeye/Tomas.jpeg",
     "universe": "mcu"
   },
   {
     "label": "William_Lopez",
     "r": 15,
     "name": "William Lopez",
-    "icon": "./pics/series/hawkeye/William_Lopez.png",
+    "icon": "./pics/series/hawkeye/William_Lopez.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Enrique",
     "r": 15,
     "name": "Enrique",
-    "icon": "./pics/series/hawkeye/Enrique.png",
+    "icon": "./pics/series/hawkeye/Enrique.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Grills",
     "r": 15,
     "name": "Grills",
-    "icon": "./pics/series/hawkeye/Grills.png",
+    "icon": "./pics/series/hawkeye/Grills.jpeg",
     "universe": "mcu"
   },
   {
@@ -1992,14 +1992,14 @@
     "label": "Moon_Knight",
     "r": 15,
     "name": "Marc Spector - Moon Knight",
-    "icon": "./pics/series/moon_knight/Moon_Knight.png",
+    "icon": "./pics/series/moon_knight/Moon_Knight.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Khonshu",
     "r": 15,
     "name": "Khonshu",
-    "icon": "./pics/series/moon_knight/khonshu.png",
+    "icon": "./pics/series/moon_knight/khonshu.jpeg",
     "universe": "mcu"
   },
   {
@@ -2013,21 +2013,21 @@
     "label": "Arthur_Harrow",
     "r": 15,
     "name": "Arthur Harrow",
-    "icon": "./pics/series/moon_knight/Arthur_Harrow.png",
+    "icon": "./pics/series/moon_knight/Arthur_Harrow.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Tawaret",
     "r": 15,
     "name": "Tawaret",
-    "icon": "./pics/series/moon_knight/Tawaret.png",
+    "icon": "./pics/series/moon_knight/Tawaret.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Donna",
     "r": 15,
     "name": "Donna",
-    "icon": "./pics/series/moon_knight/Donna.png",
+    "icon": "./pics/series/moon_knight/Donna.jpeg",
     "universe": "mcu"
   },
   {
@@ -2041,105 +2041,105 @@
     "label": "America_Chavez",
     "r": 15,
     "name": "America Chavez",
-    "icon": "./pics/doctor_strange/America_Chavez.png",
+    "icon": "./pics/doctor_strange/America_Chavez.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Gargantos",
     "r": 15,
     "name": "Gargantos",
-    "icon": "./pics/doctor_strange/Gargantos.png",
+    "icon": "./pics/doctor_strange/Gargantos.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Hamir",
     "r": 15,
     "name": "Hamir",
-    "icon": "./pics/doctor_strange/Hamir.png",
+    "icon": "./pics/doctor_strange/Hamir.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Rintrah",
     "r": 15,
     "name": "Rintrah",
-    "icon": "./pics/doctor_strange/Rintrah.png",
+    "icon": "./pics/doctor_strange/Rintrah.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Defender_Strange",
     "r": 15,
     "name": "Defender Strange",
-    "icon": "./pics/doctor_strange/Defender_Strange.png",
+    "icon": "./pics/doctor_strange/Defender_Strange.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Strange_Supreme",
     "r": 15,
     "name": "Strange Supreme",
-    "icon": "./pics/doctor_strange/Strange_Supreme.png",
+    "icon": "./pics/doctor_strange/Strange_Supreme.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Professor_X",
     "r": 15,
     "name": "Professor X",
-    "icon": "./pics/doctor_strange/Professor_X.png",
+    "icon": "./pics/doctor_strange/Professor_X.jpeg",
     "universe": "fox"
   },
   {
     "label": "BaronMordo",
     "r": 15,
     "name": "Baron Mordo",
-    "icon": "./pics/doctor_strange/baron_mordo.png",
+    "icon": "./pics/doctor_strange/baron_mordo.jpeg",
     "universe": "_838"
   },
   {
     "label": "Reed_Richards",
     "r": 15,
     "name": "Reed Richards - Mister Fantastic",
-    "icon": "./pics/doctor_strange/Reed_Richards.png",
+    "icon": "./pics/doctor_strange/Reed_Richards.jpeg",
     "universe": "_838"
   },
   {
     "label": "838_Black_Bolt",
     "r": 15,
     "name": "Blackagar Boltagon - Black Bolt",
-    "icon": "./pics/doctor_strange/black_bolt.png",
+    "icon": "./pics/doctor_strange/black_bolt.jpeg",
     "universe": "_838"
   },
   {
     "label": "Captain_Marvel_Rambeau",
     "r": 15,
     "name": "Maria Rambeau - Captain Marvel",
-    "icon": "./pics/doctor_strange/Maria_Rambeau_Captain_Marvel.png",
+    "icon": "./pics/doctor_strange/Maria_Rambeau_Captain_Marvel.jpeg",
     "universe": "_838"
   },
   {
     "label": "Binary",
     "r": 15,
     "name": "Maria Rambeau - Binary",
-    "icon": "./pics/the_marvels/Binary.png",
+    "icon": "./pics/the_marvels/Binary.jpeg",
     "universe": "fox"
   },
   {
     "label": "Prince_Yan",
     "r": 15,
     "name": "Prince Yan",
-    "icon": "./pics/the_marvels/Prince_Yan.png",
+    "icon": "./pics/the_marvels/Prince_Yan.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Dar_Benn",
     "r": 15,
     "name": "Dar-Benn",
-    "icon": "./pics/the_marvels/Dar_Benn.png",
+    "icon": "./pics/the_marvels/Dar_Benn.jpeg",
     "universe": "mcu"
   },
   {
     "label": "838_Palmer",
     "r": 15,
     "name": "Doctor Palmer (838)",
-    "icon": "./pics/doctor_strange/838_Palmer.png",
+    "icon": "./pics/doctor_strange/838_Palmer.jpeg",
     "universe": "_838"
   },
   {
@@ -2160,84 +2160,84 @@
     "label": "Bruno_Carrelli",
     "r": 15,
     "name": "Bruno Carrelli",
-    "icon": "./pics/series/msmarvel/Bruno_Carrelli.webp",
+    "icon": "./pics/series/msmarvel/Bruno_Carrelli.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Nakia_Bahadir",
     "r": 15,
     "name": "Nakia Bahadir",
-    "icon": "./pics/series/msmarvel/Nakia_Bahadir.webp",
+    "icon": "./pics/series/msmarvel/Nakia_Bahadir.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Muneeba_Khan",
     "r": 15,
     "name": "Muneeba Khan",
-    "icon": "./pics/series/msmarvel/Muneeba_Khan.webp",
+    "icon": "./pics/series/msmarvel/Muneeba_Khan.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Yusuf_Khan",
     "r": 15,
     "name": "Yusuf Khan",
-    "icon": "./pics/series/msmarvel/Yusuf_Khan.webp",
+    "icon": "./pics/series/msmarvel/Yusuf_Khan.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Aamir_Khan",
     "r": 15,
     "name": "Aamir Khan",
-    "icon": "./pics/series/msmarvel/Aamir_Khan.webp",
+    "icon": "./pics/series/msmarvel/Aamir_Khan.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Zoe_Zimmer",
     "r": 15,
     "name": "Zoe Zimmer",
-    "icon": "./pics/series/msmarvel/Zoe_Zimmer.webp",
+    "icon": "./pics/series/msmarvel/Zoe_Zimmer.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Kamran",
     "r": 15,
     "name": "Kamran",
-    "icon": "./pics/series/msmarvel/Kamran.webp",
+    "icon": "./pics/series/msmarvel/Kamran.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Agent_Cleary",
     "r": 15,
     "name": "Agent Cleary",
-    "icon": "./pics/series/msmarvel/Agent_Cleary.webp",
+    "icon": "./pics/series/msmarvel/Agent_Cleary.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Sadie_Deever",
     "r": 15,
     "name": "Sadie Deever",
-    "icon": "./pics/series/msmarvel/Sadie_Deever.webp",
+    "icon": "./pics/series/msmarvel/Sadie_Deever.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Najma",
     "r": 15,
     "name": "Najma",
-    "icon": "./pics/series/msmarvel/Najma.webp",
+    "icon": "./pics/series/msmarvel/Najma.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Tyesha_Hillman",
     "r": 15,
     "name": "Tyesha Hillman",
-    "icon": "./pics/series/msmarvel/Tyesha_Hillman.webp",
+    "icon": "./pics/series/msmarvel/Tyesha_Hillman.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Gorr",
     "r": 15,
     "name": "Gorr, the God Butcher",
-    "icon": "./pics/thor/Gorr.png",
+    "icon": "./pics/thor/Gorr.jpeg",
     "universe": "mcu"
   },
   {
@@ -2251,119 +2251,119 @@
     "label": "She_Hulk",
     "r": 15,
     "name": "Jennifer Walters - She-Hulk",
-    "icon": "./pics/series/shehulk/shehulk.png",
+    "icon": "./pics/series/shehulk/shehulk.jpg",
     "universe": "mcu"
   },
   {
     "label": "Titania",
     "r": 15,
     "name": "Titania",
-    "icon": "./pics/series/shehulk/Titania.png",
+    "icon": "./pics/series/shehulk/Titania.jpg",
     "universe": "mcu"
   },
   {
     "label": "Namora",
     "name": "Namora",
-    "icon": "./pics/black_panther/Namora.png",
+    "icon": "./pics/black_panther/Namora.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Attuma",
     "name": "Attuma",
-    "icon": "./pics/black_panther/Attuma.png",
+    "icon": "./pics/black_panther/Attuma.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Aneka",
     "r": 15,
     "name": "Aneka",
-    "icon": "./pics/black_panther/Aneka.png",
+    "icon": "./pics/black_panther/Aneka.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Ironheart",
     "name": "Riri Williams Ironheart",
-    "icon": "./pics/series/ironheart/Ironheart.png",
+    "icon": "./pics/series/ironheart/Ironheart.jpeg",
     "universe": "mcu"
   },
   {
     "label": "The_Hood",
     "name": "The Hood",
-    "icon": "./pics/series/ironheart/The_Hood.png",
+    "icon": "./pics/series/ironheart/The_Hood.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Blade",
     "name": "Blade",
-    "icon": "./pics/blade/Blade.png",
+    "icon": "./pics/blade/Blade.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Jack_Russell",
     "name": "Jack Russell",
-    "icon": "./pics/series/werewolf_by_night/Jack_Russell.png",
+    "icon": "./pics/series/werewolf_by_night/Jack_Russell.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Elsa_Bloodstone",
     "name": "Elsa Bloodstone",
-    "icon": "./pics/series/werewolf_by_night/Elsa_Bloodstone.png",
+    "icon": "./pics/series/werewolf_by_night/Elsa_Bloodstone.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Verussa_Bloodstone",
     "name": "Verussa Bloodstone",
-    "icon": "./pics/series/werewolf_by_night/Verussa_Bloodstone.png",
+    "icon": "./pics/series/werewolf_by_night/Verussa_Bloodstone.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Joshua_Jovan",
     "name": "Joshua Jovan",
-    "icon": "./pics/series/werewolf_by_night/Joshua_Jovan.png",
+    "icon": "./pics/series/werewolf_by_night/Joshua_Jovan.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Azarel",
     "name": "Azarel",
-    "icon": "./pics/series/werewolf_by_night/Azarel.png",
+    "icon": "./pics/series/werewolf_by_night/Azarel.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Liorn",
     "name": "Liorn",
-    "icon": "./pics/series/werewolf_by_night/Liorn.png",
+    "icon": "./pics/series/werewolf_by_night/Liorn.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Barasso",
     "name": "Barasso",
-    "icon": "./pics/series/werewolf_by_night/Barasso.png",
+    "icon": "./pics/series/werewolf_by_night/Barasso.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Swan",
     "name": "Swan",
-    "icon": "./pics/series/werewolf_by_night/Swan.png",
+    "icon": "./pics/series/werewolf_by_night/Swan.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Man_Thing",
     "name": "Ted Sallis - Man-Thing",
-    "icon": "./pics/series/werewolf_by_night/Man_Thing.png",
+    "icon": "./pics/series/werewolf_by_night/Man_Thing.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Spider-Man_Tobey",
     "r": 15,
     "name": "Spider-Man (Tobey)",
-    "icon": "./pics/raimi/Spider-Man_Tobey.png",
+    "icon": "./pics/raimi/Spider-Man_Tobey.jpeg",
     "universe": "raimi"
   },
   {
     "label": "Doctor_Octopus",
     "r": 15,
     "name": "Otto Octavius - Doctor Octopus",
-    "icon": "./pics/raimi/Doctor_Octopus.png",
+    "icon": "./pics/raimi/Doctor_Octopus.jpeg",
     "universe": "raimi"
   },
   {
@@ -2384,7 +2384,7 @@
     "label": "Spider-Man_Andrew",
     "r": 15,
     "name": "Spider-Man (Andrew)",
-    "icon": "./pics/webb/Spider-Man_Andrew.png",
+    "icon": "./pics/webb/Spider-Man_Andrew.jpeg",
     "universe": "webb"
   },
   {
@@ -2398,49 +2398,49 @@
     "label": "Lizard",
     "r": 15,
     "name": "Dr. Curt Connors - Lizard",
-    "icon": "./pics/webb/Lizard.png",
+    "icon": "./pics/webb/Lizard.jpeg",
     "universe": "webb"
   },
   {
     "label": "Gravik",
     "r": 15,
     "name": "Gravik",
-    "icon": "./pics/series/secret_invasion/Gravik.png",
+    "icon": "./pics/series/secret_invasion/Gravik.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Priscilla_Fury",
     "r": 15,
     "name": "Priscilla_Fury",
-    "icon": "./pics/series/secret_invasion/Priscilla_Fury.png",
+    "icon": "./pics/series/secret_invasion/Priscilla_Fury.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Fiz",
     "r": 15,
     "name": "Fiz",
-    "icon": "./pics/series/secret_invasion/Fiz.png",
+    "icon": "./pics/series/secret_invasion/Fiz.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Ritson",
     "r": 15,
     "name": "Ritson",
-    "icon": "./pics/series/secret_invasion/Ritson.png",
+    "icon": "./pics/series/secret_invasion/Ritson.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Giah",
     "r": 15,
     "name": "Giah",
-    "icon": "./pics/series/secret_invasion/Giah.png",
+    "icon": "./pics/series/secret_invasion/Giah.jpeg",
     "universe": "mcu"
   },
   {
     "label": "Sonya_Falsworth",
     "r": 15,
     "name": "Sonya_Falsworth",
-    "icon": "./pics/series/secret_invasion/Sonya_Falsworth.png",
+    "icon": "./pics/series/secret_invasion/Sonya_Falsworth.jpeg",
     "universe": "mcu"
   },
   {
@@ -2468,21 +2468,21 @@
     "label": "Claire_Temple",
     "r": 15,
     "name": "Claire Temple",
-    "icon": "./pics/netflix/daredevil/Claire_Temple.png",
+    "icon": "./pics/netflix/daredevil/Claire_Temple.jpeg",
     "universe": "netflix"
   },
   {
     "label": "Karen_Page",
     "r": 15,
     "name": "Karen Page",
-    "icon": "./pics/netflix/daredevil/Karen_Page.png",
+    "icon": "./pics/netflix/daredevil/Karen_Page.jpeg",
     "universe": "netflix"
   },
   {
     "label": "Jessica_Jones",
     "r": 15,
     "name": "Jessica Jones",
-    "icon": "./pics/netflix/jessica_jones/Jessica_Jones.png",
+    "icon": "./pics/netflix/jessica_jones/Jessica_Jones.jpeg",
     "universe": "netflix"
   },
   {
@@ -2503,7 +2503,7 @@
     "label": "Luke_Cage",
     "r": 15,
     "name": "Luke Cage",
-    "icon": "./pics/netflix/luke_cage/Luke_cage.png",
+    "icon": "./pics/netflix/luke_cage/Luke_cage.jpeg",
     "universe": "netflix"
   },
   {
@@ -2517,21 +2517,21 @@
     "label": "Misty_Knight",
     "r": 15,
     "name": "Misty Knight",
-    "icon": "./pics/netflix/luke_cage/Misty_knight.png",
+    "icon": "./pics/netflix/luke_cage/Misty_knight.jpeg",
     "universe": "netflix"
   },
   {
     "label": "Shades",
     "r": 15,
     "name": "Shades",
-    "icon": "./pics/netflix/luke_cage/Shades.png",
+    "icon": "./pics/netflix/luke_cage/Shades.jpeg",
     "universe": "netflix"
   },
   {
     "label": "Black_Mariah",
     "r": 15,
     "name": "Black Mariah",
-    "icon": "./pics/netflix/luke_cage/Black_Mariah.png",
+    "icon": "./pics/netflix/luke_cage/Black_Mariah.jpeg",
     "universe": "netflix"
   },
   {
@@ -2552,14 +2552,14 @@
     "label": "Quake",
     "r": 15,
     "name": "Daisy 'Skye' Johnson - Quake",
-    "icon": "./pics/abc/quake.png",
+    "icon": "./pics/abc/quake.jpeg",
     "universe": "abc"
   },
   {
     "label": "Black_Bolt",
     "r": 15,
     "name": "Blackagar Boltagon - Black Bolt",
-    "icon": "./pics/abc/black_bolt.png",
+    "icon": "./pics/abc/black_bolt.jpeg",
     "universe": "abc"
   },
 
@@ -2567,42 +2567,42 @@
     "label": "Medusa",
     "r": 15,
     "name": "Medusalith Amaquelin - Medusa",
-    "icon": "./pics/abc/medusa.png",
+    "icon": "./pics/abc/medusa.jpeg",
     "universe": "abc"
   },
   {
     "label": "Karnak",
     "r": 15,
     "name": "Karnak",
-    "icon": "./pics/abc/karnak.png",
+    "icon": "./pics/abc/karnak.jpeg",
     "universe": "abc"
   },
   {
     "label": "Crystal",
     "r": 15,
     "name": "Crystalia Amaquelin - Crystal",
-    "icon": "./pics/abc/crystal.png",
+    "icon": "./pics/abc/crystal.jpeg",
     "universe": "abc"
   },
   {
     "label": "Louise",
     "r": 15,
     "name": "Louise Fisher",
-    "icon": "./pics/abc/louise.png",
+    "icon": "./pics/abc/louise.jpeg",
     "universe": "abc"
   },
   {
     "label": "Maximus",
     "r": 15,
     "name": "Maximus",
-    "icon": "./pics/abc/maximus.png",
+    "icon": "./pics/abc/maximus.jpeg",
     "universe": "abc"
   },
   {
     "label": "Lockjaw",
     "r": 15,
     "name": "Lockjaw",
-    "icon": "./pics/abc/lockjaw.png",
+    "icon": "./pics/abc/lockjaw.jpeg",
     "universe": "abc"
   },
   {
@@ -2616,7 +2616,7 @@
     "label": "Beast",
     "r": 15,
     "name": "Hank McCoy - Beast",
-    "icon": "./pics/fox/Beast.png",
+    "icon": "./pics/fox/Beast.jpeg",
     "universe": "fox"
   },
   {
@@ -2672,14 +2672,14 @@
     "label": "Storm",
     "r": 15,
     "name": "Ororo Munroe - Storm",
-    "icon": "./pics/fox/storm.png",
+    "icon": "./pics/fox/storm.jpeg",
     "universe": "fox"
   },
   {
     "label": "Rogue",
     "r": 15,
     "name": "Marie - Rogue",
-    "icon": "./pics/fox/rogue.png",
+    "icon": "./pics/fox/rogue.jpeg",
     "universe": "fox"
   },
   {
@@ -2721,112 +2721,112 @@
     "label": "Mystique_Jennifer_Lawrence",
     "r": 15,
     "name": "Raven Darkholme - Mystique",
-    "icon": "./pics/fox/mystique_jennifer_lawrence.png",
+    "icon": "./pics/fox/mystique_jennifer_lawrence.jpeg",
     "universe": "fox"
   },
   {
     "label": "Deadpool",
     "r": 15,
     "name": "Wade Wilson - Deadpool",
-    "icon": "./pics/deadpool/deadpool.png",
+    "icon": "./pics/deadpool/deadpool.jpeg",
     "universe": "fox"
   },
   {
     "label": "Vanessa",
     "r": 15,
     "name": "Vanessa",
-    "icon": "./pics/deadpool/vanessa.png",
+    "icon": "./pics/deadpool/vanessa.jpeg",
     "universe": "fox"
   },
   {
     "label": "Ajax",
     "r": 15,
     "name": "Francis Freeman - Ajax",
-    "icon": "./pics/deadpool/ajax.png",
+    "icon": "./pics/deadpool/ajax.jpeg",
     "universe": "fox"
   },
   {
     "label": "Weasel",
     "r": 15,
     "name": "Weasel",
-    "icon": "./pics/deadpool/weasel.png",
+    "icon": "./pics/deadpool/weasel.jpeg",
     "universe": "fox"
   },
   {
     "label": "Angel_Dust",
     "r": 15,
     "name": "Angel Dust",
-    "icon": "./pics/deadpool/angel_dust.png",
+    "icon": "./pics/deadpool/angel_dust.jpeg",
     "universe": "fox"
   },
   {
     "label": "Negasonic_Teenage_Warhead",
     "r": 15,
     "name": "Negasonic Teenage Warhead",
-    "icon": "./pics/deadpool/ntw.png",
+    "icon": "./pics/deadpool/ntw.jpeg",
     "universe": "fox"
   },
   {
     "label": "Colossus",
     "r": 15,
     "name": "Colossus",
-    "icon": "./pics/deadpool/colossus.png",
+    "icon": "./pics/deadpool/colossus.jpeg",
     "universe": "fox"
   },
   {
     "label": "Blind_Al",
     "r": 15,
     "name": "Blind Al",
-    "icon": "./pics/deadpool/blind_al.png",
+    "icon": "./pics/deadpool/blind_al.jpeg",
     "universe": "fox"
   },
   {
     "label": "Cable",
     "r": 15,
     "name": "Nathan Summers - Cable",
-    "icon": "./pics/deadpool/cable.png",
+    "icon": "./pics/deadpool/cable.jpeg",
     "universe": "fox"
   },
   {
     "label": "Firefist",
     "r": 15,
     "name": "Russell Collins - Firefist",
-    "icon": "./pics/deadpool/firefist.png",
+    "icon": "./pics/deadpool/firefist.jpeg",
     "universe": "fox"
   },
   {
     "label": "Domino",
     "r": 15,
     "name": "Domino",
-    "icon": "./pics/deadpool/domino.png",
+    "icon": "./pics/deadpool/domino.jpeg",
     "universe": "fox"
   },
   {
     "label": "Black_Tom_Cassidy",
     "r": 15,
     "name": "Black Tom Cassidy",
-    "icon": "./pics/deadpool/black_tom.png",
+    "icon": "./pics/deadpool/black_tom.jpeg",
     "universe": "fox"
   },
   {
     "label": "Juggernaut",
     "r": 15,
     "name": "Juggernaut",
-    "icon": "./pics/deadpool/juggernaut.png",
+    "icon": "./pics/deadpool/juggernaut.jpeg",
     "universe": "fox"
   },
   {
     "label": "Dagger",
     "r": 15,
     "name": "Tandy Bowen - Dagger",
-    "icon": "./pics/abc/dagger.png",
+    "icon": "./pics/abc/dagger.jpeg",
     "universe": "hulu"
   },
   {
     "label": "Cloak",
     "r": 15,
     "name": "Tyrone Johnson - Cloak",
-    "icon": "./pics/abc/cloak.png",
+    "icon": "./pics/abc/cloak.jpeg",
     "universe": "hulu"
   }
 
