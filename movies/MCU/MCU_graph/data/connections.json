@@ -491,9 +491,18 @@
   { "source": "ScarletWitch", "target": "WandaVision_Series" },
   { "source": "JimmyWoo", "target": "WandaVision_Series" },
   { "source": "DarcyLewis", "target": "WandaVision_Series" },
-  { "source": "Agnes", "target": "WandaVision_Series" },
+  { "source": "Agatha", "target": "WandaVision_Series" },
   { "source": "TylerHayward", "target": "WandaVision_Series" },
   { "source": "MonicaRambeau", "target": "WandaVision_Series" },
+  { "source": "Wiccan", "target": "WandaVision_Series" },
+  { "source": "Speed", "target": "WandaVision_Series" },
+  { "source": "Sharon_Davis", "target": "WandaVision_Series" },
+  { "source": "Sarah_Proctor", "target": "WandaVision_Series" },
+  { "source": "Harold_Proctor", "target": "WandaVision_Series" },
+  { "source": "John_Collins", "target": "WandaVision_Series" },
+  { "source": "Abilash_Tandon", "target": "WandaVision_Series" },
+  { "source": "Dennis_Delivery_Man", "target": "WandaVision_Series" },
+
 
   { "source": "Falcon", "target": "FalconWinterSoldier_Series" },
   { "source": "WinterSoldier", "target": "FalconWinterSoldier_Series" },
@@ -867,7 +876,20 @@
   { "source": "Daredevil", "target": "Echo_Series" },
 
 
-  { "source": "Agnes", "target": "Agatha_Series" },
+  { "source": "Agatha", "target": "Agatha_Series" },
+  { "source": "Sharon_Davis", "target": "Agatha_Series" },
+  { "source": "Sarah_Proctor", "target": "Agatha_Series" },
+  { "source": "Harold_Proctor", "target": "Agatha_Series" },
+  { "source": "John_Collins", "target": "Agatha_Series" },
+  { "source": "Abilash_Tandon", "target": "Agatha_Series" },
+  { "source": "Dennis_Delivery_Man", "target": "Agatha_Series" },
+  { "source": "Wiccan", "target": "Agatha_Series" },
+  { "source": "Speed", "target": "Agatha_Series" },
+  { "source": "Hulkling", "target": "Agatha_Series" },
+  { "source": "Lilia_Calderu", "target": "Agatha_Series" },
+  { "source": "Rio_Vidal", "target": "Agatha_Series" },
+  { "source": "Jennifer_Kale", "target": "Agatha_Series" },
+  { "source": "Alice_Gulliver", "target": "Agatha_Series" },
 
 
   { "source": "Ironheart", "target": "Ironheart_Series" },
@@ -976,9 +998,11 @@
   { "source": "PeggyCarter", "target": "Agents_of_SHIELD" },
   { "source": "DumDumDugan", "target": "Agents_of_SHIELD" },
   { "source": "WolfgangVonStrucker", "target": "Agents_of_SHIELD" },
+
   { "source": "PeggyCarter", "target": "Agent_Carter" },
   { "source": "HowardStark", "target": "Agent_Carter" },
   { "source": "EdwinJarvis", "target": "Agent_Carter" },
+
   { "source": "Black_Bolt", "target": "Inhumans" },
   { "source": "Medusa", "target": "Inhumans" },
   { "source": "Karnak", "target": "Inhumans" },
@@ -1101,5 +1125,17 @@
 
 
   { "source": "Deadpool", "target": "Deadpool_3"},
-  { "source": "Wolverine", "target": "Deadpool_3"}
+  { "source": "Wolverine", "target": "Deadpool_3"},
+
+  { "source": "Sony", "target": "Spiderverse_688"},
+  { "source": "Sony", "target": "Spiderverse_Sony"},
+  { "source": "Sony", "target": "SpiderMan_Movie"},
+  { "source": "Sony", "target": "SpiderMan2_Movie"},
+  { "source": "Sony", "target": "Spider_Man_3_Movie"},
+  { "source": "Venom", "target": "Spiderverse_688"},
+  { "source": "Venom_2", "target": "Spiderverse_688"},
+  { "source": "Morbius_Movie", "target": "Spiderverse_Sony"},
+  { "source": "Kraven_Movie", "target": "Spiderverse_Sony"},
+  { "source": "Madame_Web", "target": "Spiderverse_Sony"}
+
 ]

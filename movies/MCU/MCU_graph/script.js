@@ -84,14 +84,14 @@ var force = d3.layout.force()
     .nodes(d3.values(nodes))
     .links(links)
     .size([width, height])
-    .linkDistance(80)
-    .distance(200)
+    .linkDistance(100)
+    .distance(300)
     // .charge(-300)
     // .charge(function(d, i) { return i==0 ? -10000 : -500; })
     .charge(function(d, i) {
-        if (i == 0) return -1000;
-        if (i < 23) return -1500;
-        return -350;
+        if (i == 0) return -400;
+        if (i < 23) return -500;
+        return -700;
     })
     .on("tick", tick)
     .start();
@@ -120,6 +120,7 @@ var rect = node.append("rect")
 ;
 
 node.append("image")
+    // .attr("xlink:href", function(d) { return ""; })
     .attr("xlink:href", function(d) { return d.icon; })
     .attr("class", function(d) { return d.universe; })
     .attr("border", "55px red");

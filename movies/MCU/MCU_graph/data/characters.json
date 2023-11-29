@@ -1380,7 +1380,7 @@
     "universe": "mcu"
   },
   {
-    "label": "Agnes",
+    "label": "Agatha",
     "r": 15,
     "name": "Agatha Harkness \/ Agnes",
     "icon": "./pics/series/wandavision/Agatha_Harkness.jpeg",
@@ -1393,6 +1393,63 @@
     "icon": "./pics/series/wandavision/Tyler_Hayward.jpeg",
     "universe": "mcu"
   },
+  {
+    "label": "Sharon_Davis",
+    "r": 15,
+    "name": "Sharon Davis - Mrs. Hart",
+    "icon": "./pics/series/wandavision/Mrs_Hart.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Sarah_Proctor",
+    "r": 15,
+    "name": "Sarah Proctor - Dottie Jones",
+    "icon": "./pics/series/wandavision/Dottie_Jones.jpg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Harold_Proctor",
+    "r": 15,
+    "name": "Harold Proctor - Phil Jones",
+    "icon": "./pics/series/wandavision/Phil_Jones.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "John_Collins",
+    "r": 15,
+    "name": "John Collins - Herb",
+    "icon": "./pics/series/wandavision/Herb.jpg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Abilash_Tandon",
+    "r": 15,
+    "name": "Abilash Tandon - Norm",
+    "icon": "./pics/series/wandavision/Norm.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Dennis_Delivery_Man",
+    "r": 15,
+    "name": "Dennis, the Delivery Man",
+    "icon": "./pics/series/wandavision/Dennis.jpg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Wiccan",
+    "r": 15,
+    "name": "Wiccan - Billy Kaplan",
+    "icon": "./pics/series/wandavision/Billy.jpg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Speed",
+    "r": 15,
+    "name": "Speed - Tommy Maximov",
+    "icon": "./pics/series/wandavision/Tommy.jpeg",
+    "universe": "mcu"
+  },
+
   {
     "label": "US_Agent",
     "r": 15,
@@ -2439,10 +2496,47 @@
   {
     "label": "Sonya_Falsworth",
     "r": 15,
-    "name": "Sonya_Falsworth",
+    "name": "Sonya Falsworth",
     "icon": "./pics/series/secret_invasion/Sonya_Falsworth.jpeg",
     "universe": "mcu"
   },
+  {
+    "label": "Lilia_Calderu",
+    "r": 15,
+    "name": "Lilia Calderu",
+    "icon": "./pics/series/agatha_darkhold_diaries/Lilia_Calderu.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Rio_Vidal",
+    "r": 15,
+    "name": "Rio Vidal",
+    "icon": "./pics/series/agatha_darkhold_diaries/Rio_Vidal.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Jennifer_Kale",
+    "r": 15,
+    "name": "Jennifer Kale",
+    "icon": "./pics/series/agatha_darkhold_diaries/Jennifer_Kale.jpg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Alice_Gulliver",
+    "r": 15,
+    "name": "Alice Gulliver",
+    "icon": "./pics/series/agatha_darkhold_diaries/Alice_Gulliver.jpeg",
+    "universe": "mcu"
+  },
+  {
+    "label": "Hulkling",
+    "r": 15,
+    "name": "Hulkling - Teddy Altman",
+    "icon": "./pics/series/agatha_darkhold_diaries/Hulkling.jpeg",
+    "universe": "mcu"
+  },
+
+
   {
     "label": "Sabra",
     "r": 15,
@@ -2829,7 +2923,5 @@
     "icon": "./pics/abc/cloak.jpeg",
     "universe": "hulu"
   }
-
-
 
 ]

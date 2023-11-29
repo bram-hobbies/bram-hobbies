@@ -112,6 +112,19 @@
   { "label": "Deadpool_3", "r": 15, "name": "Deadpool 3", "icon": "./pics/movies/deadpool_3.jpeg", "universe": "mcu", "labels": "movie" },
   { "label": "The_New_Mutants", "r": 15, "name": "The New Mutants", "icon": "./pics/fox/movies/The_New_Mutants.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "The_Gifted", "r": 15, "name": "The Gifted", "icon": "./pics/fox/series/the_gifted.jpg", "universe": "fox", "labels": "series" },
-  { "label": "Legion", "r": 15, "name": "Lgion", "icon": "./pics/fox/series/legion.jpeg", "universe": "fox", "labels": "series" }
+  { "label": "Legion", "r": 15, "name": "Legion", "icon": "./pics/fox/series/legion.jpeg", "universe": "fox", "labels": "series" },
+
+  { "label": "Spiderverse_688", "r": 15, "name": "688 - Spiderverse", "icon": "./pics/", "universe": "688", "labels": "network" },
+  { "label": "Spiderverse_Sony", "r": 15, "name": "Sony - Spiderverse", "icon": "./pics/", "universe": "Sony", "labels": "network" },
+  { "label": "Sony", "r": 15, "name": "Sony Pictures", "icon": "./pics/spiderverse/sony_pictures.png", "universe": "Sony", "labels": "network" },
+
+
+  { "label": "Venom", "r": 15, "name": "Venom", "icon": "./pics/spiderverse/venom.jpg", "universe": "688", "labels": "movie" },
+  { "label": "Venom_2", "r": 15, "name": "Venom 2", "icon": "./pics/spiderverse/venom_carnage.jpg", "universe": "688", "labels": "movie" },
+  { "label": "Morbius_Movie", "r": 15, "name": "Morbius", "icon": "./pics/spiderverse/morbius.jpg", "universe": "Sony", "labels": "movie" },
+  { "label": "Kraven_Movie", "r": 15, "name": "Kraven the Hunter", "icon": "./pics/spiderverse/kraven.jpg", "universe": "Sony", "labels": "movie" },
+  { "label": "Madame_Web", "r": 15, "name": "Madame Web", "icon": "./pics/spiderverse/madame_web.jpeg", "universe": "Sony", "labels": "movie" }
+
+
 
 ]
