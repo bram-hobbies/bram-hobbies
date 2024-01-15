@@ -34,7 +34,11 @@ These are genuine UCS Star Wars models I consider the must-haves for a UCS Star 
 | X    | [75331](https://www.lego.com/en-us/product/the-razor-crest-75331)                       | Razor Crest (October 2022)      | 2022-10-03 | Set          |
 | X    | [75355](https://www.lego.com/en-us/product/x-wing-starfighter-75355)                    | X-Wing Starfighter              | 2023-05-04 | Set          |
 | X    | [75367](https://www.lego.com/en-us/product/venator-class-republic-attack-cruiser-75367) | Venator Republic Attack Cruiser | 2023-10-04 | Set          |
-|      | [75382]()                                                                               | TIE Interceptor (rumoured)      | 2024-05-04 | Set          |
+|      | [75382]()                                                                               | TIE Interceptor (*)             | 2024-05-04 | Set          |
+|      | [75397]()                                                                               | Sail Barge (*)                  | 2024-10-04 | Set          |
+
+(*) rumoured
+
 
 ## Characters & Droids
 
