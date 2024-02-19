@@ -476,7 +476,7 @@
     "universe": "mcu"
   },
   {
-    "label": "YonduUdonta",
+    "label": "Yondu_Udonta",
     "r": 15,
     "name": "Yondu Udonta",
     "icon": "./pics/guardians_ot_galaxy/YonduUdonta.jpeg",
@@ -1710,7 +1710,7 @@
     "universe": "whatif"
   },
   {
-    "label": "Yondu_Udonta",
+    "label": "Yondu_Udonta_WI",
     "r": 15,
     "name": "Yondu Udonta",
     "icon": "./pics/series/what_if/Yondu_Udonta_WI.jpeg",
@@ -1798,6 +1798,62 @@
     "r": 15,
     "name": "Gamora",
     "icon": "./pics/series/what_if/Gamora_WI.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "Nebula_WI_S1",
+    "r": 15,
+    "name": "Nebula",
+    "icon": "./pics/series/what_if/nebula_WI_S1.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "Nebula_WI_S2",
+    "r": 15,
+    "name": "Nebula",
+    "icon": "./pics/series/what_if/nebula_WI_S2.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "Hank_Pym_WI",
+    "r": 15,
+    "name": "Hank Pym - Ant-Man",
+    "icon": "./pics/series/what_if/ant-man_WI_S1.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "The_Wasp_WI",
+    "r": 15,
+    "name": "Hope van Dyn - The Wasp",
+    "icon": "./pics/series/what_if/wasp_WI.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "Happy_WI",
+    "r": 15,
+    "name": "Happy Hogan - The Freak",
+    "icon": "./pics/series/what_if/happy_freak.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "Darcy_Lewis_WI",
+    "r": 15,
+    "name": "Darcy Lewis",
+    "icon": "./pics/series/what_if/darcy_WI.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "Iron_Man_WI",
+    "r": 15,
+    "name": "Tony Stark - Iron Man",
+    "icon": "./pics/series/what_if/iron_man_WI_S2.jpeg",
+    "universe": "whatif"
+  },
+  {
+    "label": "Hulk_WI",
+    "r": 15,
+    "name": "Bruce Banner - Hulk",
+    "icon": "./pics/series/what_if/hulk_WI_S2.jpeg",
     "universe": "whatif"
   },
   {
@@ -2791,6 +2847,13 @@
     "universe": "fox"
   },
   {
+    "label": "Pyro",
+    "r": 15,
+    "name": "John Allerdyce - Pyro",
+    "icon": "./pics/fox/pyro.jpg",
+    "universe": "fox"
+  },
+  {
     "label": "Toad_Ray_Park",
     "r": 15,
     "name": "Toad",
@@ -2889,6 +2952,34 @@
     "universe": "fox"
   },
   {
+    "label": "Shatterstar",
+    "r": 15,
+    "name": "Shatterstar",
+    "icon": "./pics/deadpool/shatterstar.jpg",
+    "universe": "fox"
+  },
+  {
+    "label": "Buck",
+    "r": 15,
+    "name": "Buck",
+    "icon": "./pics/deadpool/buck.jpeg",
+    "universe": "fox"
+  },
+  {
+    "label": "Peter",
+    "r": 15,
+    "name": "Peter",
+    "icon": "./pics/deadpool/peter.jpg",
+    "universe": "fox"
+  },
+  {
+    "label": "Dopinder",
+    "r": 15,
+    "name": "Dopinder",
+    "icon": "./pics/deadpool/dopinder.jpeg",
+    "universe": "fox"
+  },
+  {
     "label": "Domino",
     "r": 15,
     "name": "Domino",
@@ -2907,6 +2998,27 @@
     "r": 15,
     "name": "Juggernaut",
     "icon": "./pics/deadpool/juggernaut.jpeg",
+    "universe": "fox"
+  },
+  {
+    "label": "Yukio",
+    "r": 15,
+    "name": "Yukio",
+    "icon": "./pics/fox/yukio.jpg",
+    "universe": "fox"
+  },
+  {
+    "label": "Paradox",
+    "r": 15,
+    "name": "Paradox",
+    "icon": "./pics/deadpool/paradox.jpeg",
+    "universe": "fox"
+  },
+  {
+    "label": "Elektra",
+    "r": 15,
+    "name": "Elektra",
+    "icon": "./pics/deadpool/elektra.jpeg",
     "universe": "fox"
   },
   {

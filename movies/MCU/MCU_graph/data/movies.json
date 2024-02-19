@@ -71,6 +71,18 @@
   { "label": "Marvel_Zombies_Series", "r": 15, "name": "Marvel Zombies", "icon": "./pics/series/marvel_zombies.jpeg", "universe": "mcu", "labels": "phase6 series" },
   { "label": "WhatIf2_Series", "r": 15, "name": "What if... S2", "icon": "./pics/series/whatif_S2.jpeg", "universe": "mcu", "labels": "phase6 series" },
 
+  { "label": "WhatIf_Series_S2E1", "r": 15, "name": "What if Nebula joined the Nova Corps? - S2E1", "icon": "./pics/series/what_if/What_If_S2E1.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E2", "r": 15, "name": "What if Peter Quill Attacked Earth's Mightiest Heroes? - S2E2", "icon": "./pics/series/what_if/What_If_S2E2.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E3", "r": 15, "name": "What if Happy Hogan saved Christmas? - S2E3", "icon": "./pics/series/what_if/What_If_S2E3.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E4", "r": 15, "name": "What if Iron Mac Crashed into the Grandmaster? - S2E4", "icon": "./pics/series/what_if/What_If_S2E4.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E5", "r": 15, "name": "What if Captain Carter fought the Hydra Stomper? - S2E5", "icon": "./pics/series/what_if/What_If_S2E5.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E6", "r": 15, "name": "What if Kahhori reshaped the world? - S2E6", "icon": "./pics/series/what_if/What_If_S2E6.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E7", "r": 15, "name": "What if Hela found the Ten Rings? - S2E7", "icon": "./pics/series/what_if/What_If_S2E7.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E8", "r": 15, "name": "What if the Avengers assembled in 1602? - S2E8", "icon": "./pics/series/what_if/What_If_S2E8.jpeg", "universe": "whatif", "labels": "phase4 series" },
+  { "label": "WhatIf_Series_S2E9", "r": 15, "name": "What if Strange Supreme intervened? - S2E9", "icon": "./pics/series/what_if/What_If_S2E9.jpeg", "universe": "whatif", "labels": "phase4 series" },
+
+
+
   { "label": "Spider-Man_2002", "r": 15, "name": "Spider-Man (2002)", "icon": "./pics/raimi/Spider-Man_2002.jpeg", "universe": "raimi", "labels": "movie" },
   { "label": "Spider-Man_2_2004", "r": 15, "name": "Spider-Man 2 (2004)", "icon": "./pics/raimi/Spider-Man_2_2004.jpeg", "universe": "raimi", "labels": "movie" },
   { "label": "Spider-Man_3_2007", "r": 15, "name": "Spider-Man 3 (2007)", "icon": "./pics/raimi/Spider-Man_3_2007.jpeg", "universe": "raimi", "labels": "movie" },
@@ -109,13 +121,12 @@
   { "label": "XMen_Dark_Phoenix", "r": 15, "name": "X-Men: Dark Phoenix", "icon": "./pics/fox/movies/XMen_Dark_Phoenix.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "Deadpool_Movie", "r": 15, "name": "Deadpool", "icon": "./pics/fox/movies/Deadpool.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "Deadpool_2", "r": 15, "name": "Deadpool 2", "icon": "./pics/fox/movies/Deadpool_2.jpeg", "universe": "fox", "labels": "movie" },
-  { "label": "Deadpool_3", "r": 15, "name": "Deadpool 3", "icon": "./pics/movies/deadpool_3.jpeg", "universe": "mcu", "labels": "movie" },
+  { "label": "Deadpool_Wolverine", "r": 15, "name": "Deadpool & Wolverine", "icon": "./pics/movies/deadpool_3.jpeg", "universe": "mcu", "labels": "movie" },
   { "label": "The_New_Mutants", "r": 15, "name": "The New Mutants", "icon": "./pics/fox/movies/The_New_Mutants.jpeg", "universe": "fox", "labels": "movie" },
   { "label": "The_Gifted", "r": 15, "name": "The Gifted", "icon": "./pics/fox/series/the_gifted.jpg", "universe": "fox", "labels": "series" },
   { "label": "Legion", "r": 15, "name": "Legion", "icon": "./pics/fox/series/legion.jpeg", "universe": "fox", "labels": "series" },
 
-  { "label": "Spiderverse_688", "r": 15, "name": "688 - Spiderverse", "icon": "./pics/", "universe": "688", "labels": "network" },
-  { "label": "Spiderverse_Sony", "r": 15, "name": "Sony - Spiderverse", "icon": "./pics/", "universe": "Sony", "labels": "network" },
+  { "label": "Spiderverse_Sony", "r": 15, "name": "Sony - 688 Spiderverse", "icon": "./pics/spiderverse/spiderverse.jpeg", "universe": "Sony", "labels": "network" },
   { "label": "Sony", "r": 15, "name": "Sony Pictures", "icon": "./pics/spiderverse/sony_pictures.png", "universe": "Sony", "labels": "network" },
 
 
