@@ -595,9 +595,6 @@
   { "source": "Zombie_Thanos", "target": "WhatIf_Series_S1E9" },
   { "source": "Zombie_Wanda", "target": "WhatIf_Series_S1E9" },
 
-  { "source": "Watcher", "target": "WhatIf2_Series" },
-  { "source": "Captain_Carter", "target": "WhatIf2_Series" },
-
   { "source": "Zombie_Strange", "target": "Marvel_Zombies_Series" },
   { "source": "Zombie_Wanda", "target": "Marvel_Zombies_Series" },
 
@@ -868,6 +865,16 @@
   { "source": "Binary", "target": "MariaRambeau" },
   { "source": "Binary", "target": "Captain_Marvel_Rambeau" },
   { "source": "Captain_Marvel_Rambeau", "target": "MariaRambeau" },
+
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E1" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E2" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E3" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E4" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E5" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E6" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E7" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E8" },
+  { "source": "WhatIf2_Series", "target": "WhatIf_Series_S2E9" },
 
   { "source": "Watcher", "target": "WhatIf_Series_S2E1" },
   { "source": "Watcher", "target": "WhatIf_Series_S2E2" },
