@@ -130,23 +130,23 @@
   { "label": "Sony", "r": 15, "name": "Sony Pictures", "icon": "./pics/spiderverse/sony_pictures.png", "universe": "Sony", "labels": "network" },
 
 
-  { "label": "Venom", "r": 15, "name": "Venom", "icon": "./pics/spiderverse/venom.jpg", "universe": "688", "labels": "movie" },
-  { "label": "Venom_2", "r": 15, "name": "Venom 2", "icon": "./pics/spiderverse/venom_carnage.jpg", "universe": "688", "labels": "movie" },
-  { "label": "Morbius_Movie", "r": 15, "name": "Morbius", "icon": "./pics/spiderverse/morbius.jpg", "universe": "Sony", "labels": "movie" },
-  { "label": "Kraven_Movie", "r": 15, "name": "Kraven the Hunter", "icon": "./pics/spiderverse/kraven.jpg", "universe": "Sony", "labels": "movie" },
-  { "label": "Madame_Web", "r": 15, "name": "Madame Web", "icon": "./pics/spiderverse/madame_web.jpeg", "universe": "Sony", "labels": "movie" },
+  { "label": "Venom", "r": 15, "name": "Venom", "icon": "./pics/spiderverse/venom.jpg", "universe": "_688", "labels": "movie" },
+  { "label": "Venom_2", "r": 15, "name": "Venom 2", "icon": "./pics/spiderverse/venom_carnage.jpg", "universe": "_688", "labels": "movie" },
+  { "label": "Morbius_Movie", "r": 15, "name": "Morbius", "icon": "./pics/spiderverse/morbius.jpg", "universe": "sony", "labels": "movie" },
+  { "label": "Kraven_Movie", "r": 15, "name": "Kraven the Hunter", "icon": "./pics/spiderverse/kraven.jpg", "universe": "sony", "labels": "movie" },
+  { "label": "Madame_Web", "r": 15, "name": "Madame Web", "icon": "./pics/spiderverse/madame_web.jpeg", "universe": "sony", "labels": "movie" },
 
 
-  { "label": "Blade_1998", "r": 15, "name": "Blade", "icon": "./pics/classic/blade_1998.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Blade_2002", "r": 15, "name": "Blade II", "icon": "./pics/classic/blade_2.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Blade_Trinity", "r": 15, "name": "Blade Trinity", "icon": "./pics/classic/blade_trinity.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Howard_the_Duck", "r": 15, "name": "Howard the Duck", "icon": "./pics/classic/howard_the_duck.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Punisher_1989", "r": 15, "name": "The Punisher", "icon": "./pics/classic/punisher_1989.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Punisher_2004", "r": 15, "name": "The Punisher", "icon": "./pics/classic/punisher_2004.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Ghost_Rider_Movie", "r": 15, "name": "Ghost Rider", "icon": "./pics/classic/ghost_rider_2007.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Ghost_Rider_Spirit_of_Vengeance", "r": 15, "name": "Ghost Rider: Spirit of Vengeance", "icon": "./pics/classic/ghost_rider_spirit.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Daredevil_2003", "r": 15, "name": "Daredevil", "icon": "./pics/classic/daredevil.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Elektra_Movie", "r": 15, "name": "Elektra", "icon": "./pics/classic/elektra.jpeg", "universe": "Old", "labels": "movie" },
-  { "label": "Old_Movies", "r": 15, "name": "Old movies", "icon": "./pics/classic/classic_marvel.png", "universe": "Old", "labels": "movie" }
+  { "label": "Blade_1998", "r": 15, "name": "Blade", "icon": "./pics/classic/blade_1998.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Blade_2002", "r": 15, "name": "Blade II", "icon": "./pics/classic/blade_2.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Blade_Trinity", "r": 15, "name": "Blade Trinity", "icon": "./pics/classic/blade_trinity.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Howard_the_Duck_1986", "r": 15, "name": "Howard the Duck", "icon": "./pics/classic/howard_the_duck.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Punisher_1989", "r": 15, "name": "The Punisher", "icon": "./pics/classic/punisher_1989.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Punisher_2004", "r": 15, "name": "The Punisher", "icon": "./pics/classic/punisher_2004.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Ghost_Rider_Movie", "r": 15, "name": "Ghost Rider", "icon": "./pics/classic/ghost_rider_2007.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Ghost_Rider_Spirit_of_Vengeance", "r": 15, "name": "Ghost Rider: Spirit of Vengeance", "icon": "./pics/classic/ghost_rider_spirit.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Daredevil_2003", "r": 15, "name": "Daredevil", "icon": "./pics/classic/daredevil.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Elektra_Movie", "r": 15, "name": "Elektra", "icon": "./pics/classic/elektra.jpeg", "universe": "Old classic", "labels": "movie" },
+  { "label": "Old_Movies", "r": 15, "name": "Old movies", "icon": "./pics/classic/classic_marvel.png", "universe": "Old classic", "labels": "movie" }
 
 ]

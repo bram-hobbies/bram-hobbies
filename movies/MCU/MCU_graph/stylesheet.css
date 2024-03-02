@@ -80,6 +80,15 @@ body { background: rgb(204,204,204); /* Old browsers */
     fill: #0f0;
 }
 
+.node rect._688 {
+    fill: #127012
+;
+}
+
+.node rect.sony {
+    fill: #054b05;
+}
+
 .node rect.webb {
     fill: #00f;
 }
@@ -110,6 +119,10 @@ body { background: rgb(204,204,204); /* Old browsers */
 
 .node rect._838 {
     fill: #c0c;
+}
+
+.node rect.classic {
+    fill: #00ccbb;
 }
 
 text {

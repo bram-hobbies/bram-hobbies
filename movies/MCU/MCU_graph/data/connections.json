@@ -557,8 +557,10 @@
   { "source": "Thanos_WI", "target": "WhatIf_Series_S1E2" },
   { "source": "Zola_WI", "target": "WhatIf_Series_S1E2" },
   { "source": "Cosmo", "target": "WhatIf_Series_S1E2" },
+  { "source": "HowardTheDuck_WI", "target": "WhatIf_Series_S1E2" },
 
   { "source": "Watcher", "target": "WhatIf_Series_S1E3" },
+  { "source": "Hank_Pym_WI", "target": "WhatIf_Series_S1E3" },
 
   { "source": "Watcher", "target": "WhatIf_Series_S1E4" },
   { "source": "Strange_Supreme", "target": "WhatIf_Series_S1E4" },
@@ -567,12 +569,16 @@
   { "source": "Zombie_Thanos", "target": "WhatIf_Series_S1E5" },
   { "source": "Zombie_Wanda", "target": "WhatIf_Series_S1E5" },
   { "source": "Zombie_Strange", "target": "WhatIf_Series_S1E5" },
+  { "source": "Hank_Pym_WI", "target": "WhatIf_Series_S1E5" },
+  { "source": "The_Wasp_WI", "target": "WhatIf_Series_S1E5" },
 
   { "source": "Watcher", "target": "WhatIf_Series_S1E6" },
   { "source": "Killmonger_WI", "target": "WhatIf_Series_S1E6" },
 
   { "source": "Watcher", "target": "WhatIf_Series_S1E7" },
   { "source": "Party_Thor", "target": "WhatIf_Series_S1E7" },
+  { "source": "HowardTheDuck_WI", "target": "WhatIf_Series_S1E7" },
+  { "source": "Darcy_Lewis_WI", "target": "WhatIf_Series_S1E7" },
 
   { "source": "Watcher", "target": "WhatIf_Series_S1E8" },
   { "source": "UltraVision", "target": "WhatIf_Series_S1E8" },
@@ -886,39 +892,37 @@
   { "source": "Watcher", "target": "WhatIf_Series_S2E8" },
   { "source": "Watcher", "target": "WhatIf_Series_S2E9" },
 
-  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E2" },
-  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E5" },
-  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E8" },
-  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E9" },
-  { "source": "Hydra_Stomper", "target": "WhatIf_Series_S2E5" },
-  { "source": "Yondu_Udonta_WI", "target": "WhatIf_Series_S2E1" },
-  { "source": "Thanos_WI", "target": "WhatIf_Series_S2E4" },
-  { "source": "Strange_Supreme", "target": "WhatIf_Series_S2E6" },
-  { "source": "Strange_Supreme", "target": "WhatIf_Series_S2E8" },
-  { "source": "Strange_Supreme", "target": "WhatIf_Series_S2E9" },
-  { "source": "Zombie_Wanda", "target": "WhatIf_Series_S2E9" },
-  { "source": "Killmonger_WI", "target": "WhatIf_Series_S2E9" },
-  { "source": "Gamora_WI", "target": "WhatIf_Series_S2E4" },
-
+  { "source": "HowardTheDuck_WI", "target": "WhatIf_Series_S2E1" },
   { "source": "Nebula_WI_S2", "target": "WhatIf_Series_S2E1" },
+  { "source": "Yondu_Udonta_WI", "target": "WhatIf_Series_S2E1" },
 
-  { "source": "Hank_Pym_WI", "target": "WhatIf_Series_S1E3" },
-  { "source": "Hank_Pym_WI", "target": "WhatIf_Series_S1E5" },
+  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E2" },
   { "source": "Hank_Pym_WI", "target": "WhatIf_Series_S2E2" },
 
-  { "source": "The_Wasp_WI", "target": "WhatIf_Series_S1E5" },
-
   { "source": "Iron_Man_WI", "target": "WhatIf_Series_S2E3" },
-  { "source": "Iron_Man_WI", "target": "WhatIf_Series_S2E4" },
-
   { "source": "Hulk_WI", "target": "WhatIf_Series_S2E3" },
-  { "source": "Hulk_WI", "target": "WhatIf_Series_S2E8" },
-
   { "source": "Happy_WI", "target": "WhatIf_Series_S2E3" },
+  { "source": "Darcy_Lewis_WI", "target": "WhatIf_Series_S2E3" },
+
+  { "source": "Iron_Man_WI", "target": "WhatIf_Series_S2E4" },
+  { "source": "Thanos_WI", "target": "WhatIf_Series_S2E4" },
+  { "source": "Gamora_WI", "target": "WhatIf_Series_S2E4" },
+
+  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E5" },
+  { "source": "Hydra_Stomper", "target": "WhatIf_Series_S2E5" },
+
+  { "source": "Strange_Supreme", "target": "WhatIf_Series_S2E6" },
+
+  { "source": "Strange_Supreme", "target": "WhatIf_Series_S2E8" },
+  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E8" },
+  { "source": "Hulk_WI", "target": "WhatIf_Series_S2E8" },
   { "source": "Happy_WI", "target": "WhatIf_Series_S2E8" },
 
-  { "source": "Darcy_Lewis_WI", "target": "WhatIf_Series_S1E7" },
-  { "source": "Darcy_Lewis_WI", "target": "WhatIf_Series_S2E3" },
+  { "source": "Strange_Supreme", "target": "WhatIf_Series_S2E9" },
+  { "source": "Captain_Carter", "target": "WhatIf_Series_S2E9" },
+  { "source": "Zombie_Wanda", "target": "WhatIf_Series_S2E9" },
+  { "source": "Killmonger_WI", "target": "WhatIf_Series_S2E9" },
+
 
   { "source": "Echo", "target": "Echo_Series" },
   { "source": "Kingpin", "target": "Echo_Series" },
@@ -1212,21 +1216,25 @@
   { "source": "Kraven_Movie", "target": "Spiderverse_Sony"},
   { "source": "Madame_Web", "target": "Spiderverse_Sony"},
 
-  { "source": "Blade", "target": "Blade_1998" },
-  { "source": "Blade", "target": "Blade_2002" },
-  { "source": "Blade", "target": "Blade_Trinity" },
+  { "source": "Blade_Snipes", "target": "Blade_1998" },
+  { "source": "Blade_Snipes", "target": "Blade_2002" },
+  { "source": "Blade_Snipes", "target": "Blade_Trinity" },
+  { "source": "Blade", "target": "Blade_Snipes" },
 
 
   { "source": "Blade_1998", "target": "Old_Movies"},
   { "source": "Blade_2002", "target": "Old_Movies"},
   { "source": "Blade_Trinity", "target": "Old_Movies"},
-  { "source": "Howard_the_Duck", "target": "Old_Movies"},
+  { "source": "Howard_the_Duck_1986", "target": "Old_Movies"},
   { "source": "Punisher_1989", "target": "Old_Movies"},
   { "source": "Punisher_2004", "target": "Old_Movies"},
   { "source": "Ghost_Rider_Movie", "target": "Old_Movies"},
   { "source": "Ghost_Rider_Spirit_of_Vengeance", "target": "Old_Movies"},
   { "source": "Daredevil_2003", "target": "Old_Movies"},
-  { "source": "Elektra_Movie", "target": "Old_Movies"}
+  { "source": "Elektra_Movie", "target": "Old_Movies"},
 
-
+  { "source": "HowardTheDuck_Classic", "target": "HowardTheDuck"},
+  { "source": "HowardTheDuck_WI", "target": "HowardTheDuck"},
+  { "source": "HowardTheDuck_WI", "target": "HowardTheDuck_Classic"},
+  { "source": "HowardTheDuck_Classic", "target": "Howard_the_Duck_1986"}
 ]

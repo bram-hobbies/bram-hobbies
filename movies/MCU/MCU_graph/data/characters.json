@@ -1682,6 +1682,13 @@
     "universe": "whatif"
   },
   {
+    "label": "HowardTheDuck_WI",
+    "r": 15,
+    "name": "Howard the Duck",
+    "icon": "./pics/series/what_if/howard_the_duck_WI.jpg",
+    "universe": "mcu"
+  },
+  {
     "label": "Captain_Carter",
     "r": 15,
     "name": "Peggy Carter - Captain Carter",
@@ -3026,7 +3033,7 @@
     "r": 15,
     "name": "Elektra",
     "icon": "./pics/deadpool/elektra.jpeg",
-    "universe": "fox"
+    "universe": "classic"
   },
   {
     "label": "Dagger",
@@ -3041,6 +3048,17 @@
     "name": "Tyrone Johnson - Cloak",
     "icon": "./pics/abc/cloak.jpeg",
     "universe": "hulu"
+  },
+  {
+    "label": "Blade_Snipes",
+    "name": "Blade",
+    "icon": "./pics/blade/snipes_blade.jpeg",
+    "universe": "classic"
+  },
+  {
+    "label": "HowardTheDuck_Classic",
+    "name": "Howard the Duck",
+    "icon": "./pics/classic/characters/howard_the_duck_classic.jpeg",
+    "universe": "classic"
   }
-
 ]
