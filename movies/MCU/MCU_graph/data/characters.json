@@ -3015,6 +3015,13 @@
     "universe": "fox"
   },
   {
+    "label": "Cassandra_Nova",
+    "r": 15,
+    "name": "Cassandra Nova",
+    "icon": "./pics/deadpool/cassandra_nova.jpg",
+    "universe": "fox"
+  },
+  {
     "label": "Elektra",
     "r": 15,
     "name": "Elektra",

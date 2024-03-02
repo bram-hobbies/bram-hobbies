@@ -1195,8 +1195,12 @@
   { "source": "Dopinder", "target": "Deadpool_Wolverine"},
   { "source": "Shatterstar", "target": "Deadpool_Wolverine"},
   { "source": "Paradox", "target": "Deadpool_Wolverine"},
+  { "source": "Cassandra_Nova", "target": "Deadpool_Wolverine"},
   { "source": "Elektra", "target": "Deadpool_Wolverine"},
+  { "source": "Elektra", "target": "Elektra_Movie"},
 
+  { "source": "Elektra", "target": "Daredevil_2003"},
+  { "source": "Daredevil", "target": "Daredevil_2003"},
 
   { "source": "Sony", "target": "Spiderverse_Sony"},
   { "source": "Sony", "target": "SpiderMan_Movie"},
@@ -1206,6 +1210,23 @@
   { "source": "Venom_2", "target": "Spiderverse_Sony"},
   { "source": "Morbius_Movie", "target": "Spiderverse_Sony"},
   { "source": "Kraven_Movie", "target": "Spiderverse_Sony"},
-  { "source": "Madame_Web", "target": "Spiderverse_Sony"}
+  { "source": "Madame_Web", "target": "Spiderverse_Sony"},
+
+  { "source": "Blade", "target": "Blade_1998" },
+  { "source": "Blade", "target": "Blade_2002" },
+  { "source": "Blade", "target": "Blade_Trinity" },
+
+
+  { "source": "Blade_1998", "target": "Old_Movies"},
+  { "source": "Blade_2002", "target": "Old_Movies"},
+  { "source": "Blade_Trinity", "target": "Old_Movies"},
+  { "source": "Howard_the_Duck", "target": "Old_Movies"},
+  { "source": "Punisher_1989", "target": "Old_Movies"},
+  { "source": "Punisher_2004", "target": "Old_Movies"},
+  { "source": "Ghost_Rider_Movie", "target": "Old_Movies"},
+  { "source": "Ghost_Rider_Spirit_of_Vengeance", "target": "Old_Movies"},
+  { "source": "Daredevil_2003", "target": "Old_Movies"},
+  { "source": "Elektra_Movie", "target": "Old_Movies"}
+
 
 ]

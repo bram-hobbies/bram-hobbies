@@ -64,7 +64,7 @@ let links = getLinks();
 
 
 
-var width = 3600,
+var width = 4000,
     height = 4000;
 
 // Compute the distinct nodes from the links.
