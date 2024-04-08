@@ -554,6 +554,7 @@
   { "source": "Watcher", "target": "WhatIf_Series_S1E2" },
   { "source": "TChalla_Starlord", "target": "WhatIf_Series_S1E2" },
   { "source": "Yondu_Udonta_WI", "target": "WhatIf_Series_S1E2" },
+  { "source": "Nebula_WI_S1", "target": "WhatIf_Series_S1E2" },
   { "source": "Thanos_WI", "target": "WhatIf_Series_S1E2" },
   { "source": "Zola_WI", "target": "WhatIf_Series_S1E2" },
   { "source": "Cosmo", "target": "WhatIf_Series_S1E2" },
@@ -954,6 +955,8 @@
 
   { "source": "Daredevil", "target": "DareDevil_Born_Again_Series" },
   { "source": "Kingpin", "target": "DareDevil_Born_Again_Series" },
+  { "source": "Punisher", "target": "DareDevil_Born_Again_Series" },
+  { "source": "Karen_Page", "target": "DareDevil_Born_Again_Series" },
 
   { "source": "Falcon", "target": "Captain_America_New_world_Order_Movie" },
   { "source": "Joaquin_Torres", "target": "Captain_America_New_world_Order_Movie" },
