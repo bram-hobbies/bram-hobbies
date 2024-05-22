@@ -1112,6 +1112,7 @@
   { "source": "Rogue", "target": "X2"},
   { "source": "Mystique_Rebecca_Romijn_Stamos", "target": "X2"},
   { "source": "Pyro", "target": "X2"},
+  { "source": "Lady_Deathstrike", "target": "X2"},
 
   { "source": "Wolverine", "target": "XMen3_Last_Stand"},
   { "source": "Beast", "target": "XMen3_Last_Stand"},
@@ -1123,6 +1124,7 @@
   { "source": "Rogue", "target": "XMen3_Last_Stand"},
   { "source": "Mystique_Rebecca_Romijn_Stamos", "target": "XMen3_Last_Stand"},
   { "source": "Pyro", "target": "XMen3_Last_Stand"},
+  { "source": "Callisto", "target": "XMen3_Last_Stand"},
 
 
   { "source": "Wolverine", "target": "XMen_First_Class"},
@@ -1130,6 +1132,7 @@
   { "source": "Young_Prof_X", "target": "XMen_First_Class"},
   { "source": "Storm", "target": "XMen_First_Class"},
   { "source": "Mystique_Jennifer_Lawrence", "target": "XMen_First_Class"},
+  { "source": "Azazel", "target": "XMen_First_Class"},
 
   { "source": "Wolverine", "target": "XMen_Days_of_Future_Past"},
   { "source": "Professor_X", "target": "XMen_Days_of_Future_Past"},
@@ -1189,7 +1192,9 @@
   { "source": "Dopinder", "target": "Deadpool_2"},
   { "source": "Shatterstar", "target": "Deadpool_2"},
   { "source": "Peter", "target": "Deadpool_2"},
+  { "source": "Negasonic_Teenage_Warhead", "target": "Deadpool_2"},
   { "source": "Yukio", "target": "Deadpool_2"},
+  { "source": "Blind_Al", "target": "Deadpool_2"},
   { "source": "Buck", "target": "Deadpool_2"},
 
 
@@ -1204,10 +1209,23 @@
   { "source": "Paradox", "target": "Deadpool_Wolverine"},
   { "source": "Cassandra_Nova", "target": "Deadpool_Wolverine"},
   { "source": "Elektra", "target": "Deadpool_Wolverine"},
-  { "source": "Elektra", "target": "Elektra_Movie"},
+  { "source": "Negasonic_Teenage_Warhead", "target": "Deadpool_Wolverine"},
+  { "source": "Yukio", "target": "Deadpool_Wolverine"},
+  { "source": "Colossus", "target": "Deadpool_Wolverine"},
+  { "source": "Blind_Al", "target": "Deadpool_Wolverine"},
+  { "source": "Toad_Ray_Park", "target": "Deadpool_Wolverine"},
+  { "source": "Azazel", "target": "Deadpool_Wolverine"},
+  { "source": "Lady_Deathstrike", "target": "Deadpool_Wolverine"},
+  { "source": "Dogpool", "target": "Deadpool_Wolverine"},
+  { "source": "Callisto", "target": "Deadpool_Wolverine"},
+  { "source": "Alioth", "target": "Deadpool_Wolverine"},
+  { "source": "The_Russian", "target": "Deadpool_Wolverine"},
+  { "source": "Sabretooth_Tyler_Mane", "target": "Deadpool_Wolverine"},
 
   { "source": "Elektra", "target": "Daredevil_2003"},
   { "source": "Daredevil", "target": "Daredevil_2003"},
+
+  { "source": "Elektra", "target": "Elektra_Movie"},
 
   { "source": "Sony", "target": "Spiderverse_Sony"},
   { "source": "Sony", "target": "SpiderMan_Movie"},

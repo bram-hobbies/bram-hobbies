@@ -3015,6 +3015,50 @@
     "universe": "fox"
   },
   {
+    "label": "Azazel",
+    "r": 15,
+    "name": "Azazel",
+    "icon": "./pics/fox/azazel.jpg",
+    "universe": "fox"
+  },
+  {
+    "label": "Lady_Deathstrike",
+    "r": 15,
+    "name": "Lady_Deathstrike",
+    "icon": "./pics/fox/lady_deathstrike.jpeg",
+    "universe": "fox"
+  },
+  {
+    "label": "Dogpool",
+    "r": 15,
+    "name": "Dogpool",
+    "icon": "./pics/deadpool/dogpool.jpg",
+    "universe": "fox"
+  },
+  {
+    "label": "Callisto",
+    "r": 15,
+    "name": "Callisto",
+    "icon": "./pics/fox/callisto.jpeg",
+    "universe": "fox"
+  },
+  {
+    "label": "Alioth",
+    "r": 15,
+    "name": "Alioth",
+    "icon": "./pics/series/loki/alioth.jpeg",
+    "universe": "fox"
+  },
+  {
+    "label": "The_Russian",
+    "r": 15,
+    "name": "The Russian",
+    "icon": "./pics/netflix/the_russian.jpeg",
+    "universe": "fox"
+  },
+
+
+  {
     "label": "Paradox",
     "r": 15,
     "name": "Paradox",
