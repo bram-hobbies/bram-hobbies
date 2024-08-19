@@ -3,11 +3,33 @@
     <head>
         <meta charset="utf-8">
         <title>MCU Character diagram</title>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js"></script>
-        <script src="jquery.min.js"></script>
-        <link rel="stylesheet" href="stylesheet.css" />
     </head>
     <body>
+        <div id="controls">
+            <label><input checked id="movies" type="checkbox" class="filter"> Movies</label>
+            <label><input unchecked id="series" type="checkbox" class="filter"> Series</label>
+            <label><input unchecked id="specials" type="checkbox" class="filter"> Specials</label>
+            <label><input checked id="characters" type="checkbox" class="filter"> Characters</label>
+            <label><input checked id="phase1" type="checkbox" class="filter"> Phase 1</label>
+            <label><input checked id="phase2" type="checkbox" class="filter"> Phase 2</label>
+            <label><input checked id="phase3" type="checkbox" class="filter"> Phase 3</label>
+            <label><input checked id="phase4" type="checkbox" class="filter"> Phase 4</label>
+            <label><input checked id="phase5" type="checkbox" class="filter"> Phase 5</label>
+            <label><input checked id="phase6" type="checkbox" class="filter"> Phase 6</label>
+            <label><input unchecked id="whatif" type="checkbox" class="filter"> What if...</label>
+            <label><input unchecked id="netflix" type="checkbox" class="filter"> Netflix</label>
+            <label><input unchecked id="fox" type="checkbox" class="filter"> Fox</label>
+            <label><input unchecked id="abc" type="checkbox" class="filter"> ABC</label>
+            <label><input unchecked id="hulu" type="checkbox" class="filter"> Hulu</label>
+            <label><input unchecked id="sony" type="checkbox" class="filter"> Sony-verse</label>
+            <label><input unchecked id="raimi" type="checkbox" class="filter"> Raimi-verse</label>
+            <label><input unchecked id="webb" type="checkbox" class="filter"> Webbi-verse</label>
+            <label><input unchecked id="classic" type="checkbox" class="filter"> Marvel Classic movies</label>
+        </div>
+        <div id="graph-container"></div>
+        <script src="jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js"></script>
         <script src="script.js"></script>
+        <link rel="stylesheet" href="stylesheet.css" />
     </body>
 </html>

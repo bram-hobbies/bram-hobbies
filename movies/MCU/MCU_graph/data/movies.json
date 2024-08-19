@@ -207,7 +207,7 @@
     "labels": "phase3 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WandaVision_Series",
     "r": 15,
     "name": "WandaVision",
@@ -216,7 +216,7 @@
     "labels": "phase4 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "FalconWinterSoldier_Series",
     "r": 15,
     "name": "The Falcon & The Winter Soldier",
@@ -225,7 +225,7 @@
     "labels": "phase4 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Loki_Series",
     "r": 15,
     "name": "Loki",
@@ -243,85 +243,85 @@
     "labels": "phase4 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E1",
     "r": 15,
     "name": "What if Captain Cater was the First Avenger? - S1E1",
     "icon": "./pics/series/what_if/What_If_S1E1.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E2",
     "r": 15,
     "name": "What if T'Challa became a Star-Lord? - S1E2",
     "icon": "./pics/series/what_if/What_If_S1E2.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E3",
     "r": 15,
     "name": "What if the world lost its Mightiest Heroes? - S1E3",
     "icon": "./pics/series/what_if/What_If_S1E3.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E4",
     "r": 15,
     "name": "What if Doctor Strange lost hist heart instead of his hands? - S1E4",
     "icon": "./pics/series/what_if/What_If_S1E4.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E5",
     "r": 15,
     "name": "What if Zombies? - S1E5",
     "icon": "./pics/series/what_if/What_If_S1E5.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E6",
     "r": 15,
     "name": "What if Killmonger rescued Tony Stark? - S1E6",
     "icon": "./pics/series/what_if/What_If_S1E6.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E7",
     "r": 15,
     "name": "What if Thor were an only child? - S1E7",
     "icon": "./pics/series/what_if/What_If_S1E7.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E8",
     "r": 15,
     "name": "What if Ultron won? - S1E8",
     "icon": "./pics/series/what_if/What_If_S1E8.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S1E9",
     "r": 15,
     "name": "What if The Watcher broak his oath? - S1E9",
     "icon": "./pics/series/what_if/What_If_S1E9.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
     "type": "movie",
@@ -342,7 +342,7 @@
     "labels": "phase4 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Hawkeye_Series",
     "r": 15,
     "name": "Hawkeye",
@@ -369,7 +369,7 @@
     "labels": "phase4 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Moonknight_Series",
     "r": 15,
     "name": "Moon Knight",
@@ -378,7 +378,7 @@
     "labels": "phase4 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "MsMarvel_Series",
     "r": 15,
     "name": "Ms. Marvel",
@@ -396,7 +396,7 @@
     "labels": "phase4 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "SheHulk_Series",
     "r": 15,
     "name": "She-Hulk",
@@ -405,7 +405,7 @@
     "labels": "phase4 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "IamGroot_Series",
     "r": 15,
     "name": "I am Groot",
@@ -423,7 +423,7 @@
     "labels": "phase4 movie"
   },
   {
-    "type": "movie",
+    "type": "special",
     "label": "Werewolf_by_Night",
     "r": 15,
     "name": "Werewolf by Night",
@@ -432,7 +432,7 @@
     "labels": "phase4 special"
   },
   {
-    "type": "movie",
+    "type": "special",
     "label": "Guardians_Holiday_special",
     "r": 15,
     "name": "Guardians of the Galaxy: Holiday Special",
@@ -450,7 +450,7 @@
     "labels": "phase5 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "SecretInvasion_Series",
     "r": 15,
     "name": "Secret Invasion",
@@ -468,7 +468,7 @@
     "labels": "phase5 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Echo_Series",
     "r": 15,
     "name": "Echo",
@@ -477,7 +477,7 @@
     "labels": "phase5 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Loki_S2_Series",
     "r": 15,
     "name": "Loki S2",
@@ -501,10 +501,10 @@
     "name": "Blade",
     "icon": "./pics/movies/Blade.jpg",
     "universe": "mcu",
-    "labels": "phase5 movie"
+    "labels": "phase6 movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Ironheart_Series",
     "r": 15,
     "name": "Ironheart",
@@ -513,16 +513,16 @@
     "labels": "phase5 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Agatha_Series",
     "r": 15,
-    "name": "Agatha, Coven of Chaos",
+    "name": "Agatha All Along",
     "icon": "./pics/series/agatha.jpeg",
     "universe": "mcu",
     "labels": "phase5 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "DareDevil_Born_Again_Series",
     "r": 15,
     "name": "DareDevil: Born Again",
@@ -532,7 +532,7 @@
   },
   {
     "type": "movie",
-    "label": "Captain_America_New_world_Order_Movie",
+    "label": "Captain_America_Brave_New_World_Movie",
     "r": 15,
     "name": "Captain America: New world Order",
     "icon": "./pics/movies/Captain_America_New_World_Order.jpg",
@@ -559,9 +559,9 @@
   },
   {
     "type": "movie",
-    "label": "Avengers_Kang_Dynasty_Movie",
+    "label": "Avengers5_Movie",
     "r": 15,
-    "name": "Avengers: The Kang Dynasty",
+    "name": "Avengers 5: Doomsday",
     "icon": "./pics/movies/Avengers_Kang_Dynasty.jpg",
     "universe": "mcu",
     "labels": "phase6 movie"
@@ -570,7 +570,7 @@
     "type": "movie",
     "label": "Avengers_Secret_Wars_Movie",
     "r": 15,
-    "name": "Avengers: Secret Wars",
+    "name": "Avengers 6: Secret Wars",
     "icon": "./pics/movies/Avengers_Secret_Wars.jpg",
     "universe": "mcu",
     "labels": "phase6 movie"
@@ -585,7 +585,7 @@
     "labels": "phase6 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Marvel_Zombies_Series",
     "r": 15,
     "name": "Marvel Zombies",
@@ -594,94 +594,94 @@
     "labels": "phase6 series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf2_Series",
     "r": 15,
     "name": "What if... S2",
     "icon": "./pics/series/whatif_S2.jpeg",
     "universe": "mcu",
-    "labels": "phase6 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E1",
     "r": 15,
     "name": "What if Nebula joined the Nova Corps? - S2E1",
     "icon": "./pics/series/what_if/What_If_S2E1.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E2",
     "r": 15,
     "name": "What if Peter Quill Attacked Earth's Mightiest Heroes? - S2E2",
     "icon": "./pics/series/what_if/What_If_S2E2.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E3",
     "r": 15,
     "name": "What if Happy Hogan saved Christmas? - S2E3",
     "icon": "./pics/series/what_if/What_If_S2E3.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E4",
     "r": 15,
     "name": "What if Iron Mac Crashed into the Grandmaster? - S2E4",
     "icon": "./pics/series/what_if/What_If_S2E4.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E5",
     "r": 15,
     "name": "What if Captain Carter fought the Hydra Stomper? - S2E5",
     "icon": "./pics/series/what_if/What_If_S2E5.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E6",
     "r": 15,
     "name": "What if Kahhori reshaped the world? - S2E6",
     "icon": "./pics/series/what_if/What_If_S2E6.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E7",
     "r": 15,
     "name": "What if Hela found the Ten Rings? - S2E7",
     "icon": "./pics/series/what_if/What_If_S2E7.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E8",
     "r": 15,
     "name": "What if the Avengers assembled in 1602? - S2E8",
     "icon": "./pics/series/what_if/What_If_S2E8.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "WhatIf_Series_S2E9",
     "r": 15,
     "name": "What if Strange Supreme intervened? - S2E9",
     "icon": "./pics/series/what_if/What_If_S2E9.jpeg",
     "universe": "whatif",
-    "labels": "phase4 series"
+    "labels": "series"
   },
   {
     "type": "movie",
@@ -729,7 +729,7 @@
     "labels": "movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Iron_Fist_Series",
     "r": 15,
     "name": "Danny Rand - Iron Fist",
@@ -738,7 +738,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Luke_Cage_Series",
     "r": 15,
     "name": "Luke Cage",
@@ -747,7 +747,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Daredevil_Series",
     "r": 15,
     "name": "Daredevil",
@@ -756,7 +756,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Jessica_Jones_Series",
     "r": 15,
     "name": "Jessica Jones",
@@ -765,7 +765,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Punisher_Series",
     "r": 15,
     "name": "Punisher",
@@ -774,7 +774,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Defenders_Series",
     "r": 15,
     "name": "Defenders",
@@ -783,7 +783,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Netflix",
     "r": 15,
     "name": "Netflix",
@@ -792,7 +792,7 @@
     "labels": "network"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Agents_of_SHIELD",
     "r": 15,
     "name": "Agents of S.H.I.E.L.D.",
@@ -801,7 +801,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Agent_Carter",
     "r": 15,
     "name": "Agent Carter",
@@ -810,7 +810,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Inhumans",
     "r": 15,
     "name": "Inhumans",
@@ -819,7 +819,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "ABC",
     "r": 15,
     "name": "ABC",
@@ -828,7 +828,7 @@
     "labels": "network"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Cloak_Dagger",
     "r": 15,
     "name": "Cloak \\& Dagger",
@@ -837,7 +837,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Hulu",
     "r": 15,
     "name": "Hulu",
@@ -846,7 +846,7 @@
     "labels": "network"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Runaways",
     "r": 15,
     "name": "Runaways",
@@ -855,7 +855,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Helstrom",
     "r": 15,
     "name": "Helstrom",
@@ -878,7 +878,7 @@
     "r": 15,
     "name": "X-Men",
     "icon": "./pics/fox/movies/XMen.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -887,7 +887,7 @@
     "r": 15,
     "name": "X2: X-Men United",
     "icon": "./pics/fox/movies/X2.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -896,7 +896,7 @@
     "r": 15,
     "name": "X-Men: Last Stand",
     "icon": "./pics/fox/movies/XMen_Last_Stand.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -905,7 +905,7 @@
     "r": 15,
     "name": "X-Men: Wolverine",
     "icon": "./pics/fox/movies/XMen_Wolverine.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -914,7 +914,7 @@
     "r": 15,
     "name": "The Wolverine",
     "icon": "./pics/fox/movies/The_Wolverine.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -923,7 +923,7 @@
     "r": 15,
     "name": "Logan",
     "icon": "./pics/fox/movies/Logan.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -932,7 +932,7 @@
     "r": 15,
     "name": "X-Men: First Class",
     "icon": "./pics/fox/movies/XMen_First_Class.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -941,7 +941,7 @@
     "r": 15,
     "name": "X-Men: Days of Future Past",
     "icon": "./pics/fox/movies/XMen_Days_of_Future_Past.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -950,7 +950,7 @@
     "r": 15,
     "name": "X-Men: Apocalypse",
     "icon": "./pics/fox/movies/XMen_Apocalypse.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -959,7 +959,7 @@
     "r": 15,
     "name": "X-Men: Dark Phoenix",
     "icon": "./pics/fox/movies/XMen_Dark_Phoenix.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -968,7 +968,7 @@
     "r": 15,
     "name": "Deadpool",
     "icon": "./pics/fox/movies/Deadpool.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -977,7 +977,7 @@
     "r": 15,
     "name": "Deadpool 2",
     "icon": "./pics/fox/movies/Deadpool_2.jpeg",
-    "universe": "fox",
+    "universe": "fox 10005",
     "labels": "movie"
   },
   {
@@ -999,7 +999,7 @@
     "labels": "movie"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "The_Gifted",
     "r": 15,
     "name": "The Gifted",
@@ -1008,7 +1008,7 @@
     "labels": "series"
   },
   {
-    "type": "movie",
+    "type": "series",
     "label": "Legion",
     "r": 15,
     "name": "Legion",
@@ -1094,7 +1094,7 @@
     "r": 15,
     "name": "Blade",
     "icon": "./pics/classic/blade_1998.jpeg",
-    "universe": "classic",
+    "universe": "classic 26320",
     "labels": "movie"
   },
   {
@@ -1103,7 +1103,7 @@
     "r": 15,
     "name": "Blade II",
     "icon": "./pics/classic/blade_2.jpeg",
-    "universe": "classic",
+    "universe": "classic 26320",
     "labels": "movie"
   },
   {
@@ -1112,7 +1112,7 @@
     "r": 15,
     "name": "Blade Trinity",
     "icon": "./pics/classic/blade_trinity.jpeg",
-    "universe": "classic",
+    "universe": "classic 26320",
     "labels": "movie"
   },
   {
@@ -1166,7 +1166,7 @@
     "r": 15,
     "name": "Daredevil",
     "icon": "./pics/classic/daredevil.jpeg",
-    "universe": "classic",
+    "universe": "classic 701306",
     "labels": "movie"
   },
   {
@@ -1175,7 +1175,7 @@
     "r": 15,
     "name": "Elektra",
     "icon": "./pics/classic/elektra.jpeg",
-    "universe": "classic",
+    "universe": "classic 701306",
     "labels": "movie"
   },
   {
