@@ -3225,6 +3225,20 @@
     "type": "character", "universe": "fox"
   },
   {
+    "label": "X23",
+    "r": 15,
+    "name": "X23 - Laura",
+    "icon": "./pics/fox/x23.jpg",
+    "type": "character", "universe": "fox"
+  },
+  {
+    "label": "Caliban",
+    "r": 15,
+    "name": "Caliban",
+    "icon": "./pics/fox/caliban.jpg",
+    "type": "character", "universe": "fox"
+  },
+  {
     "label": "Deadpool",
     "r": 15,
     "name": "Wade Wilson - Deadpool",
@@ -3392,8 +3406,6 @@
     "icon": "./pics/netflix/the_russian.jpeg",
     "type": "character", "universe": "fox"
   },
-
-
   {
     "label": "Paradox",
     "r": 15,
@@ -3414,6 +3426,13 @@
     "name": "Elektra",
     "icon": "./pics/deadpool/elektra.jpeg",
     "type": "character", "universe": "classic"
+  },
+  {
+    "label": "Gambit",
+    "r": 15,
+    "name": "Gambit - Remi LeBeau",
+    "icon": "./pics/deadpool/gambit.jpg",
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dagger",

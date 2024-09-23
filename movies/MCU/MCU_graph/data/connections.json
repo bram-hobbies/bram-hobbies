@@ -1167,7 +1167,8 @@
 
   { "source": "Wolverine", "target": "Logan"},
   { "source": "Professor_X", "target": "Logan"},
-  { "source": "Storm", "target": "Logan"},
+  { "source": "X23", "target": "Logan"},
+  { "source": "Caliban", "target": "Logan"},
 
   { "source": "Deadpool", "target": "Deadpool_Movie"},
   { "source": "Vanessa", "target": "Deadpool_Movie"},
@@ -1206,7 +1207,6 @@
   { "source": "Shatterstar", "target": "Deadpool_Wolverine"},
   { "source": "Paradox", "target": "Deadpool_Wolverine"},
   { "source": "Cassandra_Nova", "target": "Deadpool_Wolverine"},
-  { "source": "Elektra", "target": "Deadpool_Wolverine"},
   { "source": "Negasonic_Teenage_Warhead", "target": "Deadpool_Wolverine"},
   { "source": "Yukio", "target": "Deadpool_Wolverine"},
   { "source": "Colossus", "target": "Deadpool_Wolverine"},
@@ -1219,6 +1219,10 @@
   { "source": "Alioth", "target": "Deadpool_Wolverine"},
   { "source": "The_Russian", "target": "Deadpool_Wolverine"},
   { "source": "Sabretooth_Tyler_Mane", "target": "Deadpool_Wolverine"},
+  { "source": "Elektra", "target": "Deadpool_Wolverine"},
+  { "source": "Blade_Snipes", "target": "Deadpool_Wolverine" },
+  { "source": "X23", "target": "Deadpool_Wolverine"},
+  { "source": "Gambit", "target": "Deadpool_Wolverine"},
 
   { "source": "Elektra", "target": "Daredevil_2003"},
   { "source": "Daredevil", "target": "Daredevil_2003"},
