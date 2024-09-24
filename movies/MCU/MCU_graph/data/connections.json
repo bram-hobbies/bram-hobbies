@@ -1223,6 +1223,7 @@
   { "source": "Blade_Snipes", "target": "Deadpool_Wolverine" },
   { "source": "X23", "target": "Deadpool_Wolverine"},
   { "source": "Gambit", "target": "Deadpool_Wolverine"},
+  { "source": "HunterB-15", "target": "Deadpool_Wolverine" },
 
   { "source": "Elektra", "target": "Daredevil_2003"},
   { "source": "Daredevil", "target": "Daredevil_2003"},
