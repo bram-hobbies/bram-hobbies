@@ -4,38 +4,38 @@
 
 These are genuine UCS Star Wars models I consider the must-haves for a UCS Star Wars collection
 
-| Have | Set number                                                                              | Name                            | Released   | Availability |
-|------|-----------------------------------------------------------------------------------------|---------------------------------|------------|--------------|
-| X    | 7181                                                                                    | TIE Interceptor                 | 2000-08    | Set          |
-| X    | 7191                                                                                    | X-Wing Fighter                  | 2000-08    | Set          |
-| X    | 10019                                                                                   | Rebel Blockade Runner           | 2001       | Set          |
-| X    | 10030                                                                                   | Imperial Star Destroyer         | 2002       | Set          |
-| X    | 10129                                                                                   | Rebel Snowspeeder               | 2003       | Set          |
-| X    | 10134                                                                                   | Y-Wing Attack Starfighter       | 2004       | Set          |
-| X    | 10143                                                                                   | Death Star II                   | 2005       | Set          |
-| X    | 10174                                                                                   | Imperial AT-ST                  | 2006       | Set          |
-| X    | 10175                                                                                   | Vader's TIE Advanced            | 2006-10-24 | Set          |
-| X    | 10179                                                                                   | Millennium Falcon               | 2007-07    | Set          |
-| X    | 10212                                                                                   | Imperial Shuttle                | 2010-09-03 | Set          |
-| X    | 10215                                                                                   | Obi-Wan's Jedi Starfighter      | 2010-11-01 | Set          |
-| X    | [10221](https://www.bricklink.com/v2/catalog/catalogitem.page?S=10221)                  | Super Star Destroyer            | 2011-09-11 | Set          |
-| X    | [10227](https://www.lego.com/en-us/product/b-wing-starfighter-10227)                    | B-Wing Starfighter              | 2012-10-01 | Set          |
-| X    | [10240](https://www.lego.com/en-us/product/red-five-x-wing-starfighter-10240)           | Red Five X-Wing Starfighter     | 2013-05-04 | Set          |
-| X    | [75060](https://www.lego.com/en-us/product/slave-i-75060)                               | Slave I                         | 2015-01-01 | Set          |
-| X    | [75095](https://www.lego.com/en-us/product/tie-fighter-75095)                           | TIE Fighter                     | 2015-05-02 | Set          |
-| X    | [75144](https://www.lego.com/en-us/product/snowspeeder-75144)                           | Snowspeeder                     | 2017       | Set          |
-| X    | [75192](https://www.lego.com/en-us/product/millennium-falcon-75192)                     | Millennium Falcon               | 2017-10    | Set          |
-| X    | [75181](https://www.lego.com/en-us/product/y-wing-starfighter-75181)                    | Y-Wing Starfighter              | 2018       | Set          |
-| X    | [75252](https://www.lego.com/en-us/product/imperial-star-destroyer-75252)               | Imperial Star Destroyer         | 2019       | Set          |
-| X    | [75275](https://www.lego.com/en-us/product/a-wing-starfighter-75275)                    | A-Wing Starfighter              | 2020-05-01 | Set          |
-| X    | [75309](https://www.lego.com/en-us/product/republic-gunship-75309)                      | Republic Gunship                | 2021-08-01 | Set          |
-| X    | [75313](https://www.lego.com/en-us/product/at-at-75313)                                 | AT-AT                           | 2021-11-26 | Set          |
-| X    | [75341](https://www.lego.com/en-us/product/luke-skywalker-s-landspeeder-75341)          | Luke Skywalker's Landspeeder    | 2022-05-04 | Set          |
-| X    | [75331](https://www.lego.com/en-us/product/the-razor-crest-75331)                       | Razor Crest (October 2022)      | 2022-10-03 | Set          |
-| X    | [75355](https://www.lego.com/en-us/product/x-wing-starfighter-75355)                    | X-Wing Starfighter              | 2023-05-04 | Set          |
-| X    | [75367](https://www.lego.com/en-us/product/venator-class-republic-attack-cruiser-75367) | Venator Republic Attack Cruiser | 2023-10-04 | Set          |
-|      | [75382]()                                                                               | TIE Interceptor (*)             | 2024-05-04 | Set          |
-|      | [75397]()                                                                               | Sail Barge (*)                  | 2024-10-04 | Set          |
+| Have | Set number                                                                              | Name                            | Released   | Retired    | Availability |
+|------|-----------------------------------------------------------------------------------------|---------------------------------|------------|------------|--------------|
+| X    | 7181                                                                                    | TIE Interceptor                 | 2000-08    |            | Set          |
+| X    | 7191                                                                                    | X-Wing Fighter                  | 2000-08    |            | Set          |
+| X    | 10019                                                                                   | Rebel Blockade Runner           | 2001       |            | Set          |
+| X    | 10030                                                                                   | Imperial Star Destroyer         | 2002       |            | Set          |
+| X    | 10129                                                                                   | Rebel Snowspeeder               | 2003       |            | Set          |
+| X    | 10134                                                                                   | Y-Wing Attack Starfighter       | 2004       |            | Set          |
+| X    | 10143                                                                                   | Death Star II                   | 2005       |            | Set          |
+| X    | 10174                                                                                   | Imperial AT-ST                  | 2006       |            | Set          |
+| X    | 10175                                                                                   | Vader's TIE Advanced            | 2006-10-24 |            | Set          |
+| X    | 10179                                                                                   | Millennium Falcon               | 2007-07    |            | Set          |
+| X    | 10212                                                                                   | Imperial Shuttle                | 2010-09-03 |            | Set          |
+| X    | 10215                                                                                   | Obi-Wan's Jedi Starfighter      | 2010-11-01 |            | Set          |
+| X    | [10221](https://www.bricklink.com/v2/catalog/catalogitem.page?S=10221)                  | Super Star Destroyer            | 2011-09-11 | 2014-12-31 | Set          |
+| X    | [10227](https://www.lego.com/en-us/product/b-wing-starfighter-10227)                    | B-Wing Starfighter              | 2012-10-01 | 2013-12-31 | Set          |
+| X    | [10240](https://www.lego.com/en-us/product/red-five-x-wing-starfighter-10240)           | Red Five X-Wing Starfighter     | 2013-05-04 | 2015-12-31 | Set          |
+| X    | [75060](https://www.lego.com/en-us/product/slave-i-75060)                               | Slave I                         | 2015-01-01 | 2018-12-31 | Set          |
+| X    | [75095](https://www.lego.com/en-us/product/tie-fighter-75095)                           | TIE Fighter                     | 2015-05-02 | 2017-12-31 | Set          |
+| X    | [75144](https://www.lego.com/en-us/product/snowspeeder-75144)                           | Snowspeeder                     | 2017-05-04 | 2018-12-31 | Set          |
+| X    | [75192](https://www.lego.com/en-us/product/millennium-falcon-75192)                     | Millennium Falcon               | 2017-10-01 |            | Set          |
+| X    | [75181](https://www.lego.com/en-us/product/y-wing-starfighter-75181)                    | Y-Wing Starfighter              | 2018-05-04 | 2019-12-31 | Set          |
+| X    | [75252](https://www.lego.com/en-us/product/imperial-star-destroyer-75252)               | Imperial Star Destroyer         | 2019-10-01 | 2022-12-31 | Set          |
+| X    | [75275](https://www.lego.com/en-us/product/a-wing-starfighter-75275)                    | A-Wing Starfighter              | 2020-05-01 | 2021-12-31 | Set          |
+| X    | [75309](https://www.lego.com/en-us/product/republic-gunship-75309)                      | Republic Gunship                | 2021-08-01 | 2023-12-31 | Set          |
+| X    | [75313](https://www.lego.com/en-us/product/at-at-75313)                                 | AT-AT                           | 2021-11-26 | 2024-12-31 | Set          |
+| X    | [75341](https://www.lego.com/en-us/product/luke-skywalker-s-landspeeder-75341)          | Luke Skywalker's Landspeeder    | 2022-05-04 | 2024-12-31 | Set          |
+| X    | [75331](https://www.lego.com/en-us/product/the-razor-crest-75331)                       | Razor Crest (October 2022)      | 2022-10-03 |            | Set          |
+| X    | [75355](https://www.lego.com/en-us/product/x-wing-starfighter-75355)                    | X-Wing Starfighter              | 2023-05-04 |            | Set          |
+| X    | [75367](https://www.lego.com/en-us/product/venator-class-republic-attack-cruiser-75367) | Venator Republic Attack Cruiser | 2023-10-04 |            | Set          |
+| X    | [75382](https://www.lego.com/en-us/product/tie-interceptor-75382)                       | TIE Interceptor                 | 2024-05-04 |            | Set          |
+|      | [75397](https://www.lego.com/en-us/product/jabba-s-sail-barge-75397)                    | Sail Barge                      | 2024-10-03 |            | Set          |
 
 (*) rumoured
 
@@ -44,20 +44,20 @@ These are genuine UCS Star Wars models I consider the must-haves for a UCS Star 
 
 These are characters and Droids from the movies. The characters are more of a stretch than the Droids to consider for a UCS collection. The 7194 Yoda set, similar to the Darth Maul bust (set 10018) are very brick-built, as in built with basic Lego bricks. Other UCS models in contrast are much more complex to build, using lots of Technic for play functionality. I therefor do not consider them as a must-have for UCS collections, but this is highly subjective. The newer characters in Porg, Yoda (75255) and The Child (Baby Yoda) and Chewbacca are debatable, since they are much more detailed and less bricky builds. As for the Droids, including the 10186 General Grievous, these are much more complex and fun to build, so I'll gladly collect them for their separate section in a UCS collection. Note that the 75306 Imperial Probe Droid was released in the Helmets line in wave 2 (see next section).
 
-| Have | Set number                                                              | Name                  | Released | Availability |
-|------|-------------------------------------------------------------------------|-----------------------|----------|--------------|
-|      | 7194                                                                    | Yoda                  | 2002     | Set          |
-| X    | 10186                                                                   | General Grievous      | 2008     | Set          |
-| X    | 10225                                                                   | R2-D2                 |          | Set          |
-| X    | 75187                                                                   | BB-8                  |          | Set          |
-| X    | 75230                                                                   | Porg                  |          | Set          |
-| X    | 75255                                                                   | Yoda                  |          | Set          |
-| X    | 75278                                                                   | D-O                   |          | Set          |
-| X    | [75306](https://www.lego.com/nl-nl/product/imperial-probe-droid-75306)  | Imperial Probe Droid  | 2021-03  | Set          |
-| X    | [75318](https://www.lego.com/en-us/product/the-child-75318)             | The Child (Baby Yoda) |          | Set          |
-| X    | [75308](https://www.lego.com/en-us/product/r2-d2-75308)                 | R2-D2                 |          | Set          |
-| X    | [75335](https://www.lego.com/en-us/product/bd-1-75335)                  | BD-1                  |          | Set          |
-|      | [75371](https://www.lego.com/en-us/product/chewbacca-75371)             | Chewbacca             |          | Set          |
+| Have | Set number                                                              | Name                  | Released    | Retired     | Availability |
+|------|-------------------------------------------------------------------------|-----------------------|-------------|-------------|--------------|
+|      | 7194                                                                    | Yoda                  | 2002        |             | Set          |
+| X    | 10186                                                                   | General Grievous      | 2008        |             | Set          |
+| X    | 10225                                                                   | R2-D2                 |             |             | Set          |
+| X    | 75187                                                                   | BB-8                  |             |             | Set          |
+| X    | 75230                                                                   | Porg                  |             |             | Set          |
+| X    | 75255                                                                   | Yoda                  |             |             | Set          |
+| X    | 75278                                                                   | D-O                   |             |             | Set          |
+| X    | [75306](https://www.lego.com/nl-nl/product/imperial-probe-droid-75306)  | Imperial Probe Droid  | 2021-03     |             | Set          |
+| X    | [75318](https://www.lego.com/en-us/product/the-child-75318)             | The Child (Baby Yoda) | 2020-09     | 2023-12     | Set          |
+| X    | [75308](https://www.lego.com/en-us/product/r2-d2-75308)                 | R2-D2                 | 2021-05-01  | 2024-12-31  | Set          |
+| X    | [75335](https://www.lego.com/en-us/product/bd-1-75335)                  | BD-1                  | 2022-08-01  | 2023-12-31  | Set          |
+|      | [75371](https://www.lego.com/en-us/product/chewbacca-75371)             | Chewbacca             | 2023-09-01  | 2024-12-31  | Set          |
 
 ## Helmets & Busts
 
