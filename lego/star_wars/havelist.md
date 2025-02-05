@@ -36,7 +36,9 @@ These are genuine UCS Star Wars models I consider the real line for a UCS Star W
 | X    | [75367](https://www.lego.com/en-us/product/venator-class-republic-attack-cruiser-75367) | Venator Republic Attack Cruiser | 2023-10-04 |            | Set          |
 | X    | [75382](https://www.lego.com/en-us/product/tie-interceptor-75382)                       | TIE Interceptor                 | 2024-05-04 |            | Set          |
 |      | [75397](https://www.lego.com/en-us/product/jabba-s-sail-barge-75397)                    | Sail Barge                      | 2024-10-03 |            | Set          |
-|      | [75409]()                                                                               | ??                              | 2025-xx-xx |            | Set          |
+|      | [75409]()                                                                               | Jango Fett's Starship (*)       | 2025-05-01 |            | Set          |
+|      | [75417]()                                                                               | AT-ST Walker (*)                | 2025-08-01 |            | Set          |
+|      | [75419]()                                                                               | Death Star (*)                  | 2025-10-01 |            | Set          |
 
 (*) rumoured
 
@@ -45,21 +47,29 @@ These are genuine UCS Star Wars models I consider the real line for a UCS Star W
 
 These are characters and Droids from the movies. The characters are more of a stretch than the Droids to consider for a UCS collection. The 7194 Yoda set, similar to the Darth Maul bust (set 10018) are very brick-built, as in built with basic Lego bricks. Other UCS models in contrast are much more complex to build, using lots of Technic for play functionality. I therefor do not consider them as a must-have for UCS collections, but this is highly subjective. The newer characters in Porg, Yoda (75255) and The Child (Baby Yoda) and Chewbacca are debatable, since they are much more detailed and less bricky builds. As for the Droids, including the 10186 General Grievous, these are much more complex and fun to build, so I'll gladly collect them for their separate section in a UCS collection. Note that the 75306 Imperial Probe Droid was released in the Helmets line in wave 2 (see next section).
 
-| Have | Set number                                                             | Name                  | Released   | Retired    | Availability |
-|------|------------------------------------------------------------------------|-----------------------|------------|------------|--------------|
-|      | 7194                                                                   | Yoda                  | 2002-01-01 | 2003-12-31 | Set          |
-| X    | 10186                                                                  | General Grievous      | 2008-05-01 | 2008-12-31 | Set          |
-| X    | 10225                                                                  | R2-D2                 | 2012-05-01 | 2014-12-31 | Set          |
-| X    | 75187                                                                  | BB-8                  | 2017-09-01 | 2019-07-31 | Set          |
-| X    | 75230                                                                  | Porg                  | 2018-10-01 | 2019-12-31 | Set          |
-| X    | 75255                                                                  | Yoda                  | 2019-10-04 | 2022-12-31 | Set          |
-| X    | 75278                                                                  | D-O                   | 2020-04-19 | 2021-07-31 | Set          |
-| X    | [75306](https://www.lego.com/en-us/product/imperial-probe-droid-75306) | Imperial Probe Droid  | 2021-04-21 | 2022-12-31 | Set          |
-| X    | [75318](https://www.lego.com/en-us/product/the-child-75318)            | The Child (Baby Yoda) | 2020-09    | 2023-12    | Set          |
-| X    | [75308](https://www.lego.com/en-us/product/r2-d2-75308)                | R2-D2                 | 2021-05-01 | 2024-12-31 | Set          |
-| X    | [75335](https://www.lego.com/en-us/product/bd-1-75335)                 | BD-1                  | 2022-08-01 | 2023-12-31 | Set          |
-|      | [75371](https://www.lego.com/en-us/product/chewbacca-75371)            | Chewbacca             | 2023-09-01 | 2024-12-31 | Set          |
-| X    | [75381](https://www.lego.com/en-us/product/droideka-75381)             | Droideka              | 2024-05-01 |            | Set          |
+| Have | Set number                                                              | Name                  | Released   | Retired    | Availability |
+|------|-------------------------------------------------------------------------|-----------------------|------------|------------|--------------|
+|      | 7194                                                                    | Yoda                  | 2002-01-01 | 2003-12-31 | Set          |
+| X    | 10186                                                                   | General Grievous      | 2008-05-01 | 2008-12-31 | Set          |
+| X    | 10225                                                                   | R2-D2                 | 2012-05-01 | 2014-12-31 | Set          |
+| X    | 75187                                                                   | BB-8                  | 2017-09-01 | 2019-07-31 | Set          |
+| X    | 75230                                                                   | Porg                  | 2018-10-01 | 2019-12-31 | Set          |
+| X    | 75255                                                                   | Yoda                  | 2019-10-04 | 2022-12-31 | Set          |
+| X    | 75278                                                                   | D-O                   | 2020-04-19 | 2021-07-31 | Set          |
+| X    | [75318](https://www.lego.com/en-us/product/the-child-75318)             | The Child (Baby Yoda) | 2020-10-30 | 2023-12-31 | Set          |
+| X    | [75306](https://www.lego.com/en-us/product/imperial-probe-droid-75306)  | Imperial Probe Droid  | 2021-04-21 | 2022-12-31 | Set          |
+| X    | [75308](https://www.lego.com/en-us/product/r2-d2-75308)                 | R2-D2                 | 2021-05-01 | 2024-12-31 | Set          |
+| X    | [75335](https://www.lego.com/en-us/product/bd-1-75335)                  | BD-1                  | 2022-08-01 | 2023-12-31 | Set          |
+|      | [75371](https://www.lego.com/en-us/product/chewbacca-75371)             | Chewbacca             | 2023-09-01 | 2024-12-31 | Set          |
+|      | [75379](https://www.lego.com/nl-nl/product/r2-d2-75379)                 | R2-D2                 | 2024-03-01 |            | Set          |
+| X    | [75381](https://www.lego.com/en-us/product/droideka-75381)              | Droideka              | 2024-05-01 |            | Set          |
+|      | [75398](https://www.lego.com/nl-nl/product/c-3po-75398)                 | C-3PO                 | 2024-08-01 |            | Set          |
+|      | [75403](https://www.lego.com/nl-nl/product/grogu-with-hover-pram-75403) | Grogu with Hover Pram | 2025-01-01 |            | Set          |
+|      | [75416]()                                                               | Chopper (*)           | 2025-05-01 |            | Set          |
+|      | [75434]()                                                               | K-2SO (*)             | 2025-08-01 |            | Set          |
+|      | [75428]()                                                               | Battle Droid (*)      | 2025-08-01 |            | Set          |
+|      | [75430]()                                                               | Ewok (*)              | 2025-08-01 |            | Set          |
+|      |                                                                         |                       | 2025-xx-xx |            | Set          |
 
 ## Helmets & Busts
 
@@ -81,6 +91,9 @@ This line, apart from the early Darth Maul and promotional sets, is much easier 
 | X    | [75349](https://www.lego.com/en-us/product/captain-rex-helmet-75349)             | Captain Rex Helmet     | 2023-03-01 |            | Set                                |
 | X    | [75350](https://www.lego.com/en-us/product/clone-commander-cody-helmet-75350)    | Clone Commander Cody   | 2023-03-01 | 2024-12-31 | Set                                |
 | X    | [75351](https://www.lego.com/en-us/product/princess-leia-boushh-helmet-75351)    | Princess Leia (Boushh) | 2023-03-01 | 2024-12-31 | Set                                |
+|      | [75429](https://www.lego.com/nl-nl/product/at-at-driver-helmet-75429)            | AT-AT Driver           | 2025-03-01 |            | Set                                |
+|      | [75408]()                                                                        | Jango Fett (*)         | 2025-05-01 |            |                                    |
+|      | [75415]()                                                                        | Kylo Ren (*)           | 2025-05-01 |            |                                    |
 |      |                                                                                  |                        |            |            |                                    |
 
 ## Movie Diorama's
@@ -129,8 +142,8 @@ The 75356 Executor Super Star Destroyer SSD started a new midi-scale UCS line wi
 | X    | [75375](https://www.lego.com/en-us/product/millennium-falcon-75375)             | Millennium Falcon              | 2024-03-01 |         | Set          |
 | X    | [75376](https://www.lego.com/en-us/product/tantive-iv-75376)                    | Tantive IV                     | 2024-03-01 |         | Set          |
 | X    | [75377](https://www.lego.com/en-us/product/invisible-hand-75377)                | Invisible Hand                 | 2024-03-01 |         | Set          |
-|      | [75405](https://www.lego.com/en-us/product/home-one-starcruiser-75405)          | Home One Starcruiser           | 2025-01-01 |         | Set          |
 |      | [75404](https://www.lego.com/en-us/product/acclamator-class-assault-ship-75404) | Acclamator-Class Assault Ship  | 2025-01-01 |         | Set          |
+|      | [75405](https://www.lego.com/en-us/product/home-one-starcruiser-75405)          | Home One Starcruiser           | 2025-01-01 |         | Set          |
 |      |                                                                                 |                                |            |         | Set          |
 
 ## Lightsabers
@@ -179,7 +192,7 @@ Since 2011, Lego Group has released an Advent Calendar with 24 mini-sets, includ
 | X    | [75340](https://www.lego.com/en-gb/product/lego-star-wars-advent-calendar-75340)      | 2022     | Set          |
 | x    | [75366](https://www.lego.com/en-us/product/lego-star-wars-advent-calendar-75366)      | 2023     | Set          |
 | X    | [75395](https://www.lego.com/en-us/product/lego-star-wars-advent-calendar-2024-75395) | 2024     | Set          |
-|      |                                                                                       | 2025     | Set          |
+|      | [75418]()                                                                             | 2025     | Set          |
 
 
 
