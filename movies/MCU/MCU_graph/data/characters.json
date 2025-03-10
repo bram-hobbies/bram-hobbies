@@ -1136,7 +1136,7 @@
     "labels": "phase3 phase4"
   },
   {
-    "label": "LizAllan",
+    "label": "LizToomes",
     "r": 15,
     "name": "Liz Allan",
     "icon": "./pics/spiderman/LizAllan.jpeg",
@@ -2972,7 +2972,7 @@
     "type": "character", "universe": "netflix"
   },
   {
-    "label": "Foggy",
+    "label": "Foggy_Nelson",
     "r": 15,
     "name": "Foggy Nelson",
     "icon": "./pics/netflix/daredevil/.jpeg",
