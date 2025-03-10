@@ -959,7 +959,8 @@
   { "source": "Karen_Page", "target": "DareDevil_Born_Again_Series" },
   { "source": "Foggy_Nelson", "target": "DareDevil_Born_Again_Series" },
   { "source": "Kingpin", "target": "DareDevil_Born_Again_Series" },
-  { "source": "Vanessa", "target": "DareDevil_Born_Again_Series" },
+  { "source": "Vanessa_Fisk", "target": "DareDevil_Born_Again_Series" },
+  { "source": "Poindexter", "target": "DareDevil_Born_Again_Series" },
 
   { "source": "Falcon", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "Joaquin_Torres", "target": "Captain_America_Brave_New_World_Movie" },
@@ -971,7 +972,6 @@
   { "source": "BettyRoss", "target": "Captain_America_Brave_New_World_Movie" },
 
   { "source": "Val", "target": "Thunderbolts_Movie" },
-  { "source": "YelenaBelova", "target": "Thunderbolts_Movie" },
   { "source": "YelenaBelova", "target": "Thunderbolts_Movie" },
   { "source": "RedGuardian", "target": "Thunderbolts_Movie" },
   { "source": "Ghost", "target": "Thunderbolts_Movie" },
@@ -991,12 +991,14 @@
   { "source": "Punisher_Series", "target": "Netflix" },
   { "source": "Defenders_Series", "target": "Netflix" },
 
-
   { "source": "Daredevil", "target": "Daredevil_Series" },
   { "source": "Karen_Page", "target": "Daredevil_Series" },
+  { "source": "Foggy_Nelson", "target": "Daredevil_Series" },
   { "source": "Punisher", "target": "Daredevil_Series" },
   { "source": "Kingpin", "target": "Daredevil_Series" },
   { "source": "Claire_Temple", "target": "Daredevil_Series" },
+  { "source": "Vanessa_Fisk", "target": "Daredevil_Series" },
+  { "source": "Poindexter", "target": "Daredevil_Series" },
 
   { "source": "Jessica_Jones", "target": "Jessica_Jones_Series" },
   { "source": "Luke_Cage", "target": "Jessica_Jones_Series" },
@@ -1190,6 +1192,7 @@
   { "source": "Dopinder", "target": "Deadpool_Movie"},
 
   { "source": "Deadpool", "target": "Deadpool_2"},
+  { "source": "Vanessa", "target": "Deadpool_2"},
   { "source": "Cable", "target": "Deadpool_2"},
   { "source": "Firefist", "target": "Deadpool_2"},
   { "source": "Domino", "target": "Deadpool_2"},
