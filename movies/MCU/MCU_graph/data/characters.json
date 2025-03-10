@@ -620,8 +620,8 @@
     "r": 15,
     "name": "Howard the Duck",
     "icon": "./pics/guardians_ot_galaxy/HowardTheDuck.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase5"
+    "universe": "mcu",
+    "labels": "phase2 phase3 phase5 whatif"
   },
   {
     "label": "LauraBarton",
@@ -2969,6 +2969,27 @@
     "r": 15,
     "name": "Karen Page",
     "icon": "./pics/netflix/daredevil/Karen_Page.jpeg",
+    "type": "character", "universe": "netflix"
+  },
+  {
+    "label": "Foggy",
+    "r": 15,
+    "name": "Foggy Nelson",
+    "icon": "./pics/netflix/daredevil/.jpeg",
+    "type": "character", "universe": "netflix"
+  },
+  {
+    "label": "Vanessa",
+    "r": 15,
+    "name": "Vanessa",
+    "icon": "./pics/netflix/daredevil/.jpeg",
+    "type": "character", "universe": "netflix"
+  },
+  {
+    "label": "Poindexter",
+    "r": 15,
+    "name": "Benjami 'Dex' Poindexter - Bullseye",
+    "icon": "./pics/netflix/daredevil/.jpeg",
     "type": "character", "universe": "netflix"
   },
   {
