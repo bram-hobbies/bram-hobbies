@@ -2948,14 +2948,14 @@
     "r": 15,
     "name": "Matt Murdock - Daredevil",
     "icon": "./pics/netflix/daredevil/Daredevil.jpeg",
-    "type": "character", "universe": "netflix"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Punisher",
     "r": 15,
     "name": "Frank Castle - Punisher",
     "icon": "./pics/netflix/daredevil/Punisher.jpeg",
-    "type": "character", "universe": "netflix"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Claire_Temple",
@@ -2969,28 +2969,52 @@
     "r": 15,
     "name": "Karen Page",
     "icon": "./pics/netflix/daredevil/Karen_Page.jpeg",
-    "type": "character", "universe": "netflix"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Foggy_Nelson",
     "r": 15,
     "name": "Foggy Nelson",
-    "icon": "./pics/netflix/daredevil/.jpeg",
-    "type": "character", "universe": "netflix"
+    "icon": "./pics/series/daredevil/Foggy.png",
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Vanessa_Fisk",
     "r": 15,
     "name": "Vanessa Marianna-Fisk",
-    "icon": "./pics/netflix/daredevil/.jpeg",
-    "type": "character", "universe": "netflix"
+    "icon": "./pics/series/daredevil/Vanessa.png",
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Poindexter",
     "r": 15,
     "name": "Benjami 'Dex' Poindexter - Bullseye",
-    "icon": "./pics/netflix/daredevil/.jpeg",
-    "type": "character", "universe": "netflix"
+    "icon": "./pics/series/daredevil/Poindexter.png",
+    "type": "character", "universe": "netflix, mcu"
+  },
+  {
+    "label": "Mephisto",
+    "r": 15,
+    "name": "Mephisto",
+    "icon": "./pics/series/ironheart/Mephisto.png",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5"
+  },
+  {
+    "label": "Zelma",
+    "r": 15,
+    "name": "Zelma",
+    "icon": "./pics/series/ironheart/Zelma.png",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5"
+  },
+  {
+    "label": "Zeke_Stane",
+    "r": 15,
+    "name": "Zeke Stane",
+    "icon": "./pics/series/ironheart/Zeke_Stane.png",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5"
   },
   {
     "label": "Jessica_Jones",

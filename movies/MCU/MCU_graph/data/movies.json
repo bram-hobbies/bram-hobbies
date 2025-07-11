@@ -531,6 +531,15 @@
     "labels": "phase5 series"
   },
   {
+    "type": "series",
+    "label": "DareDevil_Born_Again_Series_S2",
+    "r": 15,
+    "name": "Daredevil Born Again",
+    "icon": "./pics/series/DareDevil_Born_Again.jpg",
+    "universe": "mcu",
+    "labels": "series phase6"
+  },
+  {
     "type": "movie",
     "label": "Captain_America_Brave_New_World_Movie",
     "r": 15,
@@ -556,6 +565,15 @@
     "icon": "./pics/movies/Fantastic_Four.jpg",
     "universe": "mcu",
     "labels": "phase6 movie"
+  },
+  {
+    "type": "movie",
+    "label": "Spider_Man_4_Movie",
+    "r": 15,
+    "name": "Spider-Man: Brand New Day",
+    "icon": "./pics/movies/Spiderman_4.jpg",
+    "universe": "mcu",
+    "labels": "phase4 movie"
   },
   {
     "type": "movie",

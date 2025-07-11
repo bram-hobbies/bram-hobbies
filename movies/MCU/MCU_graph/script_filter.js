@@ -204,6 +204,7 @@ function updateGraph() {
         if (d.labels.includes("phase4") && showPhase4)              { return true; }
         if (d.labels.includes("phase5") && showPhase5)              { return true; }
         if (d.labels.includes("phase6") && showPhase6)              { return true; }
+        if (d.universe.includes("mcu"))                        { return true; }
         if (d.universe.includes("whatif") && showWhatIf)       { return true; }
         if (d.universe.includes("netflix") && showNetflix)     { return true; }
         if (d.universe.includes("fox") && showFox)             { return true; }

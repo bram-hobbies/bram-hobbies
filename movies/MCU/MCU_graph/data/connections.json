@@ -946,10 +946,16 @@
   { "source": "Jennifer_Kale", "target": "Agatha_Series" },
   { "source": "Alice_Gulliver", "target": "Agatha_Series" },
 
-
   { "source": "Ironheart", "target": "Ironheart_Series" },
   { "source": "The_Hood", "target": "Ironheart_Series" },
+  { "source": "Mephisto", "target": "Ironheart_Series" },
+  { "source": "Zelma", "target": "Ironheart_Series" },
+  { "source": "Zeke_Stane", "target": "Ironheart_Series" },
 
+  { "source": "SpiderMan", "target": "Spider_Man_4_Movie" },
+  { "source": "NedLeeds", "target": "Spider_Man_4_Movie" },
+  { "source": "MichelleJones", "target": "Spider_Man_4_Movie" },
+  { "source": "Punisher", "target": "Spider_Man_4_Movie" },
 
   { "source": "Blade", "target": "Blade_Movie" },
   { "source": "Black_Knight", "target": "Blade_Movie" },
@@ -961,6 +967,11 @@
   { "source": "Kingpin", "target": "DareDevil_Born_Again_Series" },
   { "source": "Vanessa_Fisk", "target": "DareDevil_Born_Again_Series" },
   { "source": "Poindexter", "target": "DareDevil_Born_Again_Series" },
+
+  { "source": "Daredevil", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Punisher", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Karen_Page", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Jessica_Jones", "target": "DareDevil_Born_Again_Series_S2" },
 
   { "source": "Falcon", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "Joaquin_Torres", "target": "Captain_America_Brave_New_World_Movie" },
