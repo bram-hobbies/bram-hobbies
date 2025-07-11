@@ -979,8 +979,8 @@
   { "source": "TheLeader", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "ThaddeusRoss", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "Sabra", "target": "Captain_America_Brave_New_World_Movie" },
-  { "source": "Val", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "BettyRoss", "target": "Captain_America_Brave_New_World_Movie" },
+  { "source": "Sidewinder", "target": "Captain_America_Brave_New_World_Movie" },
 
   { "source": "Val", "target": "Thunderbolts_Movie" },
   { "source": "YelenaBelova", "target": "Thunderbolts_Movie" },
@@ -989,7 +989,8 @@
   { "source": "Task_Master", "target": "Thunderbolts_Movie" },
   { "source": "WinterSoldier", "target": "Thunderbolts_Movie" },
   { "source": "US_Agent", "target": "Thunderbolts_Movie" },
-  { "source": "Zemo", "target": "Thunderbolts_Movie" },
+  { "source": "Sentry", "target": "Thunderbolts_Movie" },
+
   { "source": "WarMachine", "target": "ArmorWars_Series" },
   { "source": "Groot", "target": "IamGroot_Series" },
   { "source": "DoctorStrange", "target": "Avengers5_Movie" },

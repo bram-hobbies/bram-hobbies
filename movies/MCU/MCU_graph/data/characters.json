@@ -2804,6 +2804,20 @@
     "labels": "phase4"
   },
   {
+    "label": "Sidewinder",
+    "name": "Sidewinder",
+    "icon": "./pics/captain_america/Sidewinder.png",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5"
+  },
+  {
+    "label": "Sentry",
+    "name": "Robert Reynolds - Sentry",
+    "icon": "./pics/thunderbolts/Sentry.png",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5"
+  },
+  {
     "label": "Spider-Man_Tobey",
     "r": 15,
     "name": "Spider-Man (Tobey)",
