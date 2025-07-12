@@ -72,9 +72,18 @@ nodes.forEach(node => nodeMap[node.label] = node);
 
 // Update links to use actual node references
 links.forEach(link => {
+    if (!nodeMap[link.source]) {
+        console.log("Could not find source: ", link.source);
+    }
+    if (!nodeMap[link.target]) {
+        console.log("Could not find target: ", link.target);
+    }
     link.source = nodeMap[link.source];
     link.target = nodeMap[link.target];
 });
+
+const zoom = d3.behavior.zoom()
+    .scaleExtent([0.1, 5]);
 
 // D3.js code to create the Force-directed graph
 const svg = d3.select("#graph-container")
@@ -82,11 +91,23 @@ const svg = d3.select("#graph-container")
     .attr("width", "100%")
     .attr("height", "90%")
     .attr("viewBox", `-${width / 32} ${height / 4} ${width} ${height}`) // Center and fit graph in viewport
-    .attr("preserveAspectRatio", "xMidYMid meet")
-    .call(d3.behavior.zoom().on("zoom", function() {
-        svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+    .call(d3.behavior.zoom().on("zoom", (event) => {
+        applyZoom(d3.event.scale, d3.event.translate)
+        d3.select("#zoomSlider").property("value", d3.event.scale);
     }))
+    .attr("id", "graph")
     .append("g");
+
+// Apply manual zoom logic
+function applyZoom(scale, translate) {
+    svg.attr("transform", `translate(${translate}) scale(${scale})`);
+}
+
+// Slider input controls the zoom
+d3.select("#zoomSlider").on("input", function() {
+    zoom.scale(+this.value);
+    applyZoom(zoom.scale(), zoom.translate());
+});
 
 const linkGroup = svg.append("g").attr("class", "links");
 const nodeGroup = svg.append("g").attr("class", "nodes");
@@ -102,6 +123,22 @@ let link = linkGroup.selectAll(".link")
 let node = svg.append("g")
     .attr("class", "nodes")
     .selectAll("g");
+
+function resizeSVG() {
+    const container = document.getElementById("graph-container");
+    const svg = document.getElementById("graph");
+
+    // Calculate available space
+    const width = container.clientWidth - 2
+
+    // Set the SVG size dynamically
+    svg.setAttribute("width", window.innerWidth - 20);
+    svg.setAttribute("height", window.innerHeight - 145);
+}
+
+// Call resizeSVG on load and window resize
+window.addEventListener("resize", resizeSVG);
+window.addEventListener("DOMContentLoaded", resizeSVG);
 
 // Create the force layout
 const force = d3.layout.force()
@@ -171,9 +208,10 @@ function renderGraph(nodes, links) {
         .attr("text-anchor", "middle")
         .attr("y", 40)
         .text(d => d.name);
+
+    // Store the selection for later use
+    window.currentNodes = nodeSelection;
 }
-
-
 
 function ticked() {
     // Update links
@@ -365,6 +403,77 @@ function updateGraph() {
         })
         .start();
 }
+
+let searchTimeout; // To manage the debounce timeout
+
+// Trigger search on "Enter" or debounce when typing
+document.getElementById("searchInput").addEventListener("keyup", (event) => {
+    const query = event.target.value.trim().toLowerCase();
+
+    // Trigger search on "Enter" key press
+    if (event.key === "Enter") {
+        triggerSearch(query);
+        return;
+    }
+
+    // Debounce search for 500ms after typing at least 3 characters
+    clearTimeout(searchTimeout); // Clear any existing timeout
+    if (query.length >= 3) {
+        searchTimeout = setTimeout(() => {
+            console.log("Search triggered by debounce.");
+            triggerSearch(query);
+        }, 500);
+    } else {
+        // Reset highlights if query is less than 3 characters
+        resetHighlights();
+    }
+});
+
+// Trigger search on button click
+document.getElementById("searchButton").addEventListener("click", () => {
+    const query = document.getElementById("searchInput").value.trim().toLowerCase();
+    triggerSearch(query);
+});
+
+// Reset highlights
+function resetHighlights() {
+    window.currentNodes.classed("highlighted", false).attr("opacity", 1);
+}
+
+// Search logic
+function triggerSearch(query) {
+    if (!query) {
+        resetHighlights();
+        return;
+}
+
+    let foundAny = false;
+
+    window.currentNodes.classed("highlighted", d => {
+        const isMatch = d.label.toLowerCase().includes(query) ||
+            d.name.toLowerCase().includes(query) ||
+            (d.tags && d.tags.toLowerCase().includes(query));
+        if (isMatch) foundAny = true;
+        return isMatch;
+    });
+
+    window.currentNodes.attr("opacity", d => {
+        return d.label.toLowerCase().includes(query) ||
+        d.name.toLowerCase().includes(query) ||
+        (d.tags && d.tags.toLowerCase().includes(query)) ? 1 : 0.2;
+    });
+
+    if (!foundAny) {
+        console.log(`No nodes found matching '${query}'`);
+    }
+}
+
+
+// Reset highlights when clicking outside the graph
+svg.on("click", () => {
+    node.classed("highlighted", false).attr("opacity", 1); // Reset styles
+});
+
 
 // Initial call to render the graph
 renderGraph(nodes, links);

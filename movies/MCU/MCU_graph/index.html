@@ -5,6 +5,9 @@
         <title>MCU Character diagram</title>
     </head>
     <body>
+        <div id="help">
+            Zoom with mouse-scroll, move graph with mouse-drag, enable / disable node-types with checkboxes
+        </div>
         <div id="controls">
             <label><input checked id="movies" type="checkbox" class="filter"> Movies</label>
             <label><input checked id="series" type="checkbox" class="filter"> Series</label>
@@ -25,6 +28,12 @@
             <label><input checked id="raimi" type="checkbox" class="filter"> Raimi-verse</label>
             <label><input checked id="webb" type="checkbox" class="filter"> Webbi-verse</label>
             <label><input checked id="classic" type="checkbox" class="filter"> Marvel Classic movies</label>
+            <button>Reset Zoom</button>
+            <input id="zoomSlider" type="range" min="0.1" max="5" step="0.01" value="1" style="width: 99%;">
+        </div>
+        <div id="search-bar">
+            <input id="searchInput" type="text" placeholder="Search for a node..." />
+            <button id="searchButton">Search</button>
         </div>
         <div id="graph-container"></div>
         <script src="jquery.min.js"></script>
