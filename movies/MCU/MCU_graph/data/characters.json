@@ -1643,7 +1643,7 @@
   {
     "label": "Wiccan",
     "r": 15,
-    "name": "Wiccan - Billy Kaplan",
+    "name": "Wiccan - Billy Maximoff / William Kaplan",
     "icon": "./pics/series/wandavision/Billy.jpg",
     "type": "character", "universe": "mcu",
     "labels": "phase4"
@@ -2911,15 +2911,15 @@
     "label": "Lilia_Calderu",
     "r": 15,
     "name": "Lilia Calderu",
-    "icon": "./pics/series/agatha_darkhold_diaries/Lilia_Calderu.jpeg",
+    "icon": "./pics/series/agatha_all_along/Lilia_Calderu.jpeg",
     "type": "character", "universe": "mcu",
     "labels": "phase5"
   },
   {
     "label": "Rio_Vidal",
     "r": 15,
-    "name": "Rio Vidal",
-    "icon": "./pics/series/agatha_darkhold_diaries/Rio_Vidal.jpeg",
+    "name": "Rio Vidal - Death",
+    "icon": "./pics/series/agatha_all_along/Death.jpg",
     "type": "character", "universe": "mcu",
     "labels": "phase5"
   },
@@ -2927,28 +2927,35 @@
     "label": "Jennifer_Kale",
     "r": 15,
     "name": "Jennifer Kale",
-    "icon": "./pics/series/agatha_darkhold_diaries/Jennifer_Kale.jpg",
+    "icon": "./pics/series/agatha_all_along/Jennifer_Kale.jpg",
     "type": "character", "universe": "mcu",
     "labels": "phase5"
   },
+  {
+    "label": "Vertigo",
+    "r": 15,
+    "name": "Vertigo",
+    "icon": "./pics/series/agatha_all_along/Vertigo.jpg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5"
+  },
+  {
+    "label": "Ralph_Bohner",
+    "r": 15,
+    "name": "Ralph Bohner",
+    "icon": "./pics/series/wandavision/Ralph_Bohner.jpg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase4"
+  },
+
   {
     "label": "Alice_Gulliver",
     "r": 15,
-    "name": "Alice Gulliver",
-    "icon": "./pics/series/agatha_darkhold_diaries/Alice_Gulliver.jpeg",
+    "name": "Alice Wu-Gulliver",
+    "icon": "./pics/series/agatha_all_along/Alice_Gulliver.jpeg",
     "type": "character", "universe": "mcu",
     "labels": "phase5"
   },
-  {
-    "label": "Hulkling",
-    "r": 15,
-    "name": "Hulkling - Teddy Altman",
-    "icon": "./pics/series/agatha_darkhold_diaries/Hulkling.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
-  },
-
-
   {
     "label": "Sabra",
     "r": 15,

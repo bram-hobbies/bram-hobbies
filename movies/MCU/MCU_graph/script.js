@@ -108,11 +108,8 @@ const force = d3.layout.force()
     .nodes(nodes)
     .links(links)
     .size([width, height])
-    // .linkDistance(100)
     .charge(function(i) {
-        if (i == 0) return -400;
-        if (i < 23) return -500;
-        return -700;
+        return -1300;
     })
     .on("tick", ticked);
 

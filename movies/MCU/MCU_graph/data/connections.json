@@ -502,6 +502,7 @@
   { "source": "John_Collins", "target": "WandaVision_Series" },
   { "source": "Abilash_Tandon", "target": "WandaVision_Series" },
   { "source": "Dennis_Delivery_Man", "target": "WandaVision_Series" },
+  { "source": "Ralph_Bohner", "target": "WandaVision_Series" },
 
 
   { "source": "Falcon", "target": "FalconWinterSoldier_Series" },
@@ -932,19 +933,20 @@
 
 
   { "source": "Agatha", "target": "Agatha_Series" },
+  { "source": "Wiccan", "target": "Agatha_Series" },
   { "source": "Sharon_Davis", "target": "Agatha_Series" },
+  { "source": "Rio_Vidal", "target": "Agatha_Series" },
+  { "source": "Jennifer_Kale", "target": "Agatha_Series" },
+  { "source": "Alice_Gulliver", "target": "Agatha_Series" },
+  { "source": "Vertigo", "target": "Agatha_Series" },
+  { "source": "Lilia_Calderu", "target": "Agatha_Series" },
   { "source": "Sarah_Proctor", "target": "Agatha_Series" },
   { "source": "Harold_Proctor", "target": "Agatha_Series" },
   { "source": "John_Collins", "target": "Agatha_Series" },
   { "source": "Abilash_Tandon", "target": "Agatha_Series" },
   { "source": "Dennis_Delivery_Man", "target": "Agatha_Series" },
-  { "source": "Wiccan", "target": "Agatha_Series" },
   { "source": "Speed", "target": "Agatha_Series" },
-  { "source": "Hulkling", "target": "Agatha_Series" },
-  { "source": "Lilia_Calderu", "target": "Agatha_Series" },
-  { "source": "Rio_Vidal", "target": "Agatha_Series" },
-  { "source": "Jennifer_Kale", "target": "Agatha_Series" },
-  { "source": "Alice_Gulliver", "target": "Agatha_Series" },
+  { "source": "Ralph_Bohner", "target": "Agatha_Series" },
 
   { "source": "Ironheart", "target": "Ironheart_Series" },
   { "source": "The_Hood", "target": "Ironheart_Series" },
