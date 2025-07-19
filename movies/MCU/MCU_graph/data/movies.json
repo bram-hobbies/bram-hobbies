@@ -573,14 +573,14 @@
     "name": "Spider-Man: Brand New Day",
     "icon": "./pics/movies/Spiderman_4.jpg",
     "universe": "mcu",
-    "labels": "phase4 movie"
+    "labels": "phase6 movie"
   },
   {
     "type": "movie",
     "label": "Avengers5_Movie",
     "r": 15,
     "name": "Avengers 5: Doomsday",
-    "icon": "./pics/movies/Avengers_Kang_Dynasty.jpg",
+    "icon": "./pics/movies/Avengers_Doomsday.jpg",
     "universe": "mcu",
     "labels": "phase6 movie"
   },

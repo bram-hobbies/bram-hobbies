@@ -40,6 +40,10 @@ rect.mcu {
     fill: #ccc;
 }
 
+rect._828 {
+    fill: #999999;
+}
+
 rect.whatif {
     fill: #94f;
 }

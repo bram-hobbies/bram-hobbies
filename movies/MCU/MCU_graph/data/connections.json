@@ -701,7 +701,7 @@
   { "source": "Defender_Strange", "target": "DoctorStrange" },
   { "source": "Professor_X", "target": "DoctorStrange_2_Movie" },
   { "source": "Captain_Carter", "target": "DoctorStrange_2_Movie" },
-  { "source": "Reed_Richards", "target": "DoctorStrange_2_Movie" },
+  { "source": "Mister_Fantastic_838", "target": "DoctorStrange_2_Movie" },
   { "source": "838_Black_Bolt", "target": "DoctorStrange_2_Movie" },
   { "source": "Captain_Marvel_Rambeau", "target": "DoctorStrange_2_Movie" },
   { "source": "Hamir", "target": "DoctorStrange_2_Movie" },
@@ -785,8 +785,6 @@
   { "source": "RocketRaccoon", "target": "Guardians_Holiday_special" },
   { "source": "Gamora", "target": "Guardians_Holiday_special" },
   { "source": "Cosmo", "target": "Guardians_Holiday_special" },
-
-
 
   { "source": "AntMan", "target": "AntMan_3_Movie" },
   { "source": "TheWasp", "target": "AntMan_3_Movie" },
@@ -954,14 +952,6 @@
   { "source": "Zelma", "target": "Ironheart_Series" },
   { "source": "Zeke_Stane", "target": "Ironheart_Series" },
 
-  { "source": "SpiderMan", "target": "Spider_Man_4_Movie" },
-  { "source": "NedLeeds", "target": "Spider_Man_4_Movie" },
-  { "source": "MichelleJones", "target": "Spider_Man_4_Movie" },
-  { "source": "Punisher", "target": "Spider_Man_4_Movie" },
-
-  { "source": "Blade", "target": "Blade_Movie" },
-  { "source": "Black_Knight", "target": "Blade_Movie" },
-
   { "source": "Daredevil", "target": "DareDevil_Born_Again_Series" },
   { "source": "Punisher", "target": "DareDevil_Born_Again_Series" },
   { "source": "Karen_Page", "target": "DareDevil_Born_Again_Series" },
@@ -993,9 +983,60 @@
   { "source": "US_Agent", "target": "Thunderbolts_Movie" },
   { "source": "Sentry", "target": "Thunderbolts_Movie" },
 
+  { "source": "Mister_Fantastic_828", "target": "Fantastic_Four_Movie" },
+  { "source": "Mister_Fantastic_828", "target": "Mister_Fantastic_838" },
+  { "source": "Invisible_Woman_828", "target": "Fantastic_Four_Movie" },
+  { "source": "Human_Torch_828", "target": "Fantastic_Four_Movie" },
+  { "source": "Thing_828", "target": "Fantastic_Four_Movie" },
+  { "source": "Silver_Surfer_828", "target": "Fantastic_Four_Movie" },
+  { "source": "Galactus_828", "target": "Fantastic_Four_Movie" },
+  { "source": "Herbie_828", "target": "Fantastic_Four_Movie" },
+  { "source": "Mole_Man_828", "target": "Fantastic_Four_Movie" },
+
+  { "source": "SpiderMan", "target": "Spider_Man_4_Movie" },
+  { "source": "NedLeeds", "target": "Spider_Man_4_Movie" },
+  { "source": "MichelleJones", "target": "Spider_Man_4_Movie" },
+  { "source": "Punisher", "target": "Spider_Man_4_Movie" },
+
+
+  { "source": "Mister_Fantastic_828", "target": "Avengers5_Movie" },
+  { "source": "Invisible_Woman_828", "target": "Avengers5_Movie" },
+  { "source": "Human_Torch_828", "target": "Avengers5_Movie" },
+  { "source": "Thing_828", "target": "Avengers5_Movie" },
+  { "source": "Thor", "target": "Avengers5_Movie" },
+  { "source": "Falcon", "target": "Avengers5_Movie" },
+  { "source": "WinterSoldier", "target": "Avengers5_Movie" },
+  { "source": "Shuri", "target": "Avengers5_Movie" },
+  { "source": "AntMan", "target": "Avengers5_Movie" },
+  { "source": "US_Agent", "target": "Avengers5_Movie" },
+  { "source": "Namor", "target": "Avengers5_Movie" },
+  { "source": "ShangChi", "target": "Avengers5_Movie" },
+  { "source": "YelenaBelova", "target": "Avengers5_Movie" },
+  { "source": "Beast", "target": "Avengers5_Movie" },
+  { "source": "Sentry", "target": "Avengers5_Movie" },
+  { "source": "Joaquin_Torres", "target": "Avengers5_Movie" },
+  { "source": "RedGuardian", "target": "Avengers5_Movie" },
+  { "source": "Ghost", "target": "Avengers5_Movie" },
+  { "source": "Loki", "target": "Avengers5_Movie" },
+  { "source": "Professor_X", "target": "Avengers5_Movie" },
+  { "source": "Magneto", "target": "Avengers5_Movie" },
+  { "source": "Mystique_Rebecca_Romijn_Stamos", "target": "Avengers5_Movie" },
+  { "source": "Cyclops_James_Marsden", "target": "Avengers5_Movie" },
+  { "source": "Gambit", "target": "Avengers5_Movie" },
+  { "source": "Nightcrawler_Alan_Cumming", "target": "Avengers5_Movie"},
+
+
+  { "source": "DoctorStrange", "target": "Avengers5_Movie" },
+
+
+  { "source": "Blade", "target": "Blade_Movie" },
+  { "source": "Black_Knight", "target": "Blade_Movie" },
+
+
   { "source": "WarMachine", "target": "ArmorWars_Series" },
   { "source": "Groot", "target": "IamGroot_Series" },
-  { "source": "DoctorStrange", "target": "Avengers5_Movie" },
+
+
 
 
   { "source": "Daredevil_Series", "target": "Netflix" },
@@ -1134,6 +1175,7 @@
   { "source": "Mystique_Rebecca_Romijn_Stamos", "target": "X2"},
   { "source": "Pyro", "target": "X2"},
   { "source": "Lady_Deathstrike", "target": "X2"},
+  { "source": "Nightcrawler_Alan_Cumming", "target": "X2"},
 
   { "source": "Wolverine", "target": "XMen3_Last_Stand"},
   { "source": "Beast", "target": "XMen3_Last_Stand"},
@@ -1170,12 +1212,15 @@
   { "source": "Jean_Grey_Sophie_Turner", "target": "XMen_Apocalypse"},
   { "source": "Cyclops_Tye_Sheridan", "target": "XMen_Apocalypse"},
   { "source": "Mystique_Jennifer_Lawrence", "target": "XMen_Apocalypse"},
+  { "source": "Nightcrawler_Kodi_SmitMcPhee", "target": "XMen_Apocalypse"},
+  { "source": "Nightcrawler_Alan_Cumming", "target": "Nightcrawler_Kodi_SmitMcPhee"},
 
   { "source": "Wolverine", "target": "XMen_Dark_Phoenix"},
   { "source": "Young_Prof_X", "target": "XMen_Dark_Phoenix"},
   { "source": "Jean_Grey_Sophie_Turner", "target": "XMen_Dark_Phoenix"},
   { "source": "Cyclops_Tye_Sheridan", "target": "XMen_Dark_Phoenix"},
   { "source": "Mystique_Jennifer_Lawrence", "target": "XMen_Dark_Phoenix"},
+  { "source": "Nightcrawler_Kodi_SmitMcPhee", "target": "XMen_Dark_Phoenix"},
 
   { "source": "Wolverine", "target": "XMen_Wolverine"},
   { "source": "Professor_X", "target": "XMen_Wolverine"},
@@ -1219,6 +1264,7 @@
   { "source": "Yukio", "target": "Deadpool_2"},
   { "source": "Blind_Al", "target": "Deadpool_2"},
   { "source": "Buck", "target": "Deadpool_2"},
+  { "source": "Nightcrawler_Kodi_SmitMcPhee", "target": "Deadpool_2"},
 
 
   { "source": "Deadpool", "target": "Deadpool_Wolverine"},

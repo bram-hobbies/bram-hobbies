@@ -2506,7 +2506,7 @@
     "labels": "phase4"
   },
   {
-    "label": "Reed_Richards",
+    "label": "Mister_Fantastic_838",
     "r": 15,
     "name": "Reed Richards - Mister Fantastic",
     "icon": "./pics/doctor_strange/Reed_Richards.jpeg",
@@ -3038,6 +3038,78 @@
     "labels": "phase5"
   },
   {
+    "label": "Mister_Fantastic_828",
+    "r": 15,
+    "name": "Reed Richards - Mister Fantastic",
+    "icon": "./pics/fantastic_four/reed_richards.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Invisible_Woman_828",
+    "r": 15,
+    "name": "Sue Storm - The Invisible Woman",
+    "icon": "./pics/fantastic_four/sue_storm.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Human_Torch_828",
+    "r": 15,
+    "name": "Johnny Storm - The Human Torch",
+    "icon": "./pics/fantastic_four/johnny_storm.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Thing_828",
+    "r": 15,
+    "name": "Ben Grimm - The Thing",
+    "icon": "./pics/fantastic_four/ben_grimm.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Silver_Surfer_828",
+    "r": 15,
+    "name": "Shalla-Bal - Silver Surfer",
+    "icon": "./pics/fantastic_four/silver_surfer.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Galactus_828",
+    "r": 15,
+    "name": "Galactus",
+    "icon": "./pics/fantastic_four/galactus.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Herbie_828",
+    "r": 15,
+    "name": "Herbie",
+    "icon": "./pics/fantastic_four/herbie.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Mole_Man_828",
+    "r": 15,
+    "name": "Mole_Man",
+    "icon": "./pics/fantastic_four/mole_man.jpg",
+    "type": "character", "universe": "_828",
+    "labels": "phase6"
+  },
+  {
+    "label": "Victor Von Doom",
+    "r": 15,
+    "name": "Dr_Doom",
+    "icon": "./pics/avengers/dr_doom.jpg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+  },
+  {
     "label": "Jessica_Jones",
     "r": 15,
     "name": "Jessica Jones",
@@ -3288,6 +3360,20 @@
     "r": 15,
     "name": "Raven Darkholme - Mystique",
     "icon": "./pics/fox/mystique_jennifer_lawrence.jpeg",
+    "type": "character", "universe": "fox"
+  },
+  {
+    "label": "Nightcrawler_Alan_Cumming",
+    "r": 15,
+    "name": "Kurt Wagner - Nightcrawler",
+    "icon": "./pics/fox/nightcrawler_alan_cumming.jpg",
+    "type": "character", "universe": "fox"
+  },
+  {
+    "label": "Nightcrawler_Kodi_SmitMcPhee",
+    "r": 15,
+    "name": "Kurt Wagner - Nightcrawler",
+    "icon": "./pics/fox/nightcrawler_kodi_smitmcphee.jpg",
     "type": "character", "universe": "fox"
   },
   {
