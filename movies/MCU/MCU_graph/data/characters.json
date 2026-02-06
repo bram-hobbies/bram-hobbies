@@ -16,6 +16,13 @@
     "labels": "phase1 phase2 phase3 phase4 phase5"
   },
   {
+    "label": "Raza",
+    "name": "Raza",
+    "icon": "./pics/iron_man/",
+    "type": "character", "universe": "mcu",
+    "labels": "phase1"
+  },
+  {
     "label": "IronMonger",
     "r": 15,
     "name": "Obadiah Stane - Iron Monger",
@@ -371,6 +378,14 @@
     "label": "Falcon",
     "r": 15,
     "name": "Sam Wilson - Falcon",
+    "icon": "./pics/captain_america/Falcon.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase2 phase3 phase4 phase5"
+  },
+  {
+    "label": "Captain_Sam",
+    "r": 15,
+    "name": "Sam Wilson - Captain America",
     "icon": "./pics/captain_america/Falcon.jpeg",
     "type": "character", "universe": "mcu",
     "labels": "phase2 phase3 phase4 phase5"
@@ -1316,6 +1331,14 @@
     "label": "Shuri",
     "r": 15,
     "name": "Shuri",
+    "icon": "./pics/black_panther/Shuri.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase3 phase4"
+  },
+  {
+    "label": "Shuri_Black_Panther",
+    "r": 15,
+    "name": "Shuri - Black Panther",
     "icon": "./pics/black_panther/Shuri.jpeg",
     "type": "character", "universe": "mcu",
     "labels": "phase3 phase4"
@@ -2674,6 +2697,14 @@
     "labels": "phase4"
   },
   {
+    "label": "Love",
+    "r": 15,
+    "name": "Love, Daughter of Gorr",
+    "icon": "./pics/thor/Love.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase4"
+  },
+  {
     "label": "Zeus",
     "r": 15,
     "name": "Zeus, God of War",
@@ -2818,6 +2849,22 @@
     "labels": "phase5"
   },
   {
+    "label": "Paladin",
+    "name": "Paladin",
+    "icon": "./pics/series/vision_quest/Paladin.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+
+  },
+  {
+    "label": "Jocasta",
+    "name": "Jocasta",
+    "icon": "./pics/series/vision_quest/Jocasta.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+
+  },
+  {
     "label": "Spider-Man_Tobey",
     "r": 15,
     "name": "Spider-Man (Tobey)",
@@ -2947,7 +2994,13 @@
     "type": "character", "universe": "mcu",
     "labels": "phase4"
   },
-
+  {
+    "label": "White_Vision",
+    "name": "White Vision",
+    "icon": "./pics/series/wandavision/White_Vision.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5"
+  },
   {
     "label": "Alice_Gulliver",
     "r": 15,
@@ -3096,15 +3149,23 @@
   {
     "label": "Mole_Man_828",
     "r": 15,
-    "name": "Mole_Man",
+    "name": "Mole Man",
     "icon": "./pics/fantastic_four/mole_man.jpg",
     "type": "character", "universe": "_828",
     "labels": "phase6"
   },
   {
-    "label": "Victor Von Doom",
+    "label": "Wonder_Man",
     "r": 15,
-    "name": "Dr_Doom",
+    "name": "Simon Williams - Wonder Man",
+    "icon": "./pics/series/wonder_man/Wonder_Man.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+  },
+  {
+    "label": "Dr_Doom",
+    "r": 15,
+    "name": "Victor Von Doom",
     "icon": "./pics/avengers/dr_doom.jpg",
     "type": "character", "universe": "mcu",
     "labels": "phase6"

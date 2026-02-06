@@ -8,7 +8,8 @@
   { "source": "HappyHogan", "target": "IronMan_Movie" },
   { "source": "HowardStark", "target": "IronMan_Movie" },
   { "source": "WilliamGinterRiva", "target": "IronMan_Movie" },
-  
+  { "source": "Raza", "target": "IronMan_Movie" },
+
   { "source": "NickFury", "target": "IronMan_Movie" },
   { "source": "IronMan", "target": "IronMan2_Movie" },
   { "source": "WarMachine", "target": "IronMan2_Movie" },
@@ -503,9 +504,11 @@
   { "source": "Abilash_Tandon", "target": "WandaVision_Series" },
   { "source": "Dennis_Delivery_Man", "target": "WandaVision_Series" },
   { "source": "Ralph_Bohner", "target": "WandaVision_Series" },
+  { "source": "White_Vision", "target": "WandaVision_Series" },
 
 
-  { "source": "Falcon", "target": "FalconWinterSoldier_Series" },
+  { "source": "Captain_Sam", "target": "FalconWinterSoldier_Series" },
+  { "source": "Captain_Sam", "target": "Falcon" },
   { "source": "WinterSoldier", "target": "FalconWinterSoldier_Series" },
   { "source": "Val", "target": "FalconWinterSoldier_Series" },
   { "source": "US_Agent", "target": "FalconWinterSoldier_Series" },
@@ -742,6 +745,7 @@
   { "source": "Korg", "target": "Thor_4_Movie" },
   { "source": "Miek", "target": "Thor_4_Movie" },
   { "source": "Gorr", "target": "Thor_4_Movie" },
+  { "source": "Love", "target": "Thor_4_Movie" },
   { "source": "Zeus", "target": "Thor_4_Movie" },
 
   { "source": "She_Hulk", "target": "SheHulk_Series" },
@@ -752,7 +756,8 @@
   { "source": "Daredevil", "target": "SheHulk_Series" },
 
 
-  { "source": "Shuri", "target": "BlackPanther_2_Movie" },
+  { "source": "Shuri_Black_Panther", "target": "BlackPanther_2_Movie" },
+  { "source": "Shuri_Black_Panther", "target": "Shuri" },
   { "source": "EverettRoss", "target": "BlackPanther_2_Movie" },
   { "source": "Okoye", "target": "BlackPanther_2_Movie" },
   { "source": "MBaku", "target": "BlackPanther_2_Movie" },
@@ -965,7 +970,7 @@
   { "source": "Karen_Page", "target": "DareDevil_Born_Again_Series_S2" },
   { "source": "Jessica_Jones", "target": "DareDevil_Born_Again_Series_S2" },
 
-  { "source": "Falcon", "target": "Captain_America_Brave_New_World_Movie" },
+  { "source": "Captain_Sam", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "Joaquin_Torres", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "Isaiah_Bradley", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "TheLeader", "target": "Captain_America_Brave_New_World_Movie" },
@@ -993,26 +998,45 @@
   { "source": "Herbie_828", "target": "Fantastic_Four_Movie" },
   { "source": "Mole_Man_828", "target": "Fantastic_Four_Movie" },
 
+
+  { "source": "Wonder_Man", "target": "Wonder_Man_Series" },
+  { "source": "TrevorSlattery", "target": "Wonder_Man_Series" },
+
+
+  { "source": "Speed", "target": "VisionQuest" },
+  { "source": "Ultron", "target": "VisionQuest" },
+  { "source": "White_Vision", "target": "VisionQuest" },
+  { "source": "Paladin", "target": "VisionQuest" },
+  { "source": "Jocasta", "target": "VisionQuest" },
+  { "source": "Raza", "target": "VisionQuest" },
+
+
   { "source": "SpiderMan", "target": "Spider_Man_4_Movie" },
   { "source": "NedLeeds", "target": "Spider_Man_4_Movie" },
   { "source": "MichelleJones", "target": "Spider_Man_4_Movie" },
   { "source": "Punisher", "target": "Spider_Man_4_Movie" },
+  { "source": "Hulk", "target": "Spider_Man_4_Movie" },
 
 
+  { "source": "Dr_Doom", "target": "Avengers5_Movie" },
+  { "source": "CaptainAmerica", "target": "Avengers5_Movie" },
+  { "source": "Thor", "target": "Avengers5_Movie" },
   { "source": "Mister_Fantastic_828", "target": "Avengers5_Movie" },
   { "source": "Invisible_Woman_828", "target": "Avengers5_Movie" },
   { "source": "Human_Torch_828", "target": "Avengers5_Movie" },
   { "source": "Thing_828", "target": "Avengers5_Movie" },
-  { "source": "Thor", "target": "Avengers5_Movie" },
-  { "source": "Falcon", "target": "Avengers5_Movie" },
+  { "source": "Herbie_828", "target": "Avengers5_Movie"},
+  { "source": "Captain_Sam", "target": "Avengers5_Movie" },
+  { "source": "Captain_Carter", "target": "Avengers5_Movie" },
   { "source": "WinterSoldier", "target": "Avengers5_Movie" },
-  { "source": "Shuri", "target": "Avengers5_Movie" },
+  { "source": "Shuri_Black_Panther", "target": "Avengers5_Movie" },
   { "source": "AntMan", "target": "Avengers5_Movie" },
   { "source": "US_Agent", "target": "Avengers5_Movie" },
   { "source": "Namor", "target": "Avengers5_Movie" },
+  { "source": "Namora", "target": "Avengers5_Movie" },
+  { "source": "Attuma", "target": "Avengers5_Movie" },
   { "source": "ShangChi", "target": "Avengers5_Movie" },
   { "source": "YelenaBelova", "target": "Avengers5_Movie" },
-  { "source": "Beast", "target": "Avengers5_Movie" },
   { "source": "Sentry", "target": "Avengers5_Movie" },
   { "source": "Joaquin_Torres", "target": "Avengers5_Movie" },
   { "source": "RedGuardian", "target": "Avengers5_Movie" },
@@ -1022,9 +1046,13 @@
   { "source": "Magneto", "target": "Avengers5_Movie" },
   { "source": "Mystique_Rebecca_Romijn_Stamos", "target": "Avengers5_Movie" },
   { "source": "Cyclops_James_Marsden", "target": "Avengers5_Movie" },
+  { "source": "Beast", "target": "Avengers5_Movie" },
   { "source": "Gambit", "target": "Avengers5_Movie" },
   { "source": "Nightcrawler_Alan_Cumming", "target": "Avengers5_Movie"},
   { "source": "MBaku", "target": "Avengers5_Movie"},
+  { "source": "America_Chavez", "target": "Avengers5_Movie"},
+  { "source": "Deadpool", "target": "Avengers5_Movie"},
+  { "source": "Love", "target": "Avengers5_Movie"},
 
 
   { "source": "DoctorStrange", "target": "Avengers5_Movie" },

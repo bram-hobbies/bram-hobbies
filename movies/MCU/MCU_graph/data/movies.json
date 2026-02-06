@@ -567,6 +567,24 @@
     "labels": "phase6 movie"
   },
   {
+    "type": "series",
+    "label": "Wonder_Man_Series",
+    "r": 15,
+    "name": "Wonder Man",
+    "icon": "./pics/series/wonder_man/Wonder_Man_Poster.jpeg",
+    "universe": "mcu",
+    "labels": "phase6 series"
+  },
+  {
+    "type": "series",
+    "label": "VisionQuest",
+    "r": 15,
+    "name": "VisionQuest",
+    "icon": "./pics/series/vision_quest/Vision_Quest.jpeg",
+    "universe": "mcu",
+    "labels": "phase6 series"
+  },
+  {
     "type": "movie",
     "label": "Spider_Man_4_Movie",
     "r": 15,
