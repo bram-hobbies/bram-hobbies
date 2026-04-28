@@ -966,9 +966,12 @@
   { "source": "Poindexter", "target": "DareDevil_Born_Again_Series" },
 
   { "source": "Daredevil", "target": "DareDevil_Born_Again_Series_S2" },
-  { "source": "Punisher", "target": "DareDevil_Born_Again_Series_S2" },
   { "source": "Karen_Page", "target": "DareDevil_Born_Again_Series_S2" },
   { "source": "Jessica_Jones", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Foggy_Nelson", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Kingpin", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Vanessa_Fisk", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Poindexter", "target": "DareDevil_Born_Again_Series_S2" },
 
   { "source": "Captain_Sam", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "Joaquin_Torres", "target": "Captain_America_Brave_New_World_Movie" },
@@ -1001,7 +1004,6 @@
 
   { "source": "Wonder_Man", "target": "Wonder_Man_Series" },
   { "source": "TrevorSlattery", "target": "Wonder_Man_Series" },
-
 
   { "source": "Speed", "target": "VisionQuest" },
   { "source": "Ultron", "target": "VisionQuest" },
@@ -1053,10 +1055,7 @@
   { "source": "America_Chavez", "target": "Avengers5_Movie"},
   { "source": "Deadpool", "target": "Avengers5_Movie"},
   { "source": "Love", "target": "Avengers5_Movie"},
-
-
   { "source": "DoctorStrange", "target": "Avengers5_Movie" },
-
 
   { "source": "Blade", "target": "Blade_Movie" },
   { "source": "Black_Knight", "target": "Blade_Movie" },
