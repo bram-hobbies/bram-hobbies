@@ -292,6 +292,8 @@
   { "source": "JasonIonello", "target": "SpiderMan_Movie" },
   { "source": "SallyAvrill", "target": "SpiderMan_Movie" },
   { "source": "TinyMcKeever", "target": "SpiderMan_Movie" },
+  { "source": "Scorpion", "target": "SpiderMan_Movie" },
+
 
   { "source": "BlackPanther", "target": "BlackPanther_Movie" },
   { "source": "Killmonger", "target": "BlackPanther_Movie" },
@@ -964,6 +966,8 @@
   { "source": "Kingpin", "target": "DareDevil_Born_Again_Series" },
   { "source": "Vanessa_Fisk", "target": "DareDevil_Born_Again_Series" },
   { "source": "Poindexter", "target": "DareDevil_Born_Again_Series" },
+  { "source": "Jack_Duquesne", "target": "DareDevil_Born_Again_Series" },
+  { "source": "Sheila_Rivera", "target": "DareDevil_Born_Again_Series" },
 
   { "source": "Daredevil", "target": "DareDevil_Born_Again_Series_S2" },
   { "source": "Karen_Page", "target": "DareDevil_Born_Again_Series_S2" },
@@ -972,6 +976,8 @@
   { "source": "Kingpin", "target": "DareDevil_Born_Again_Series_S2" },
   { "source": "Vanessa_Fisk", "target": "DareDevil_Born_Again_Series_S2" },
   { "source": "Poindexter", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Jack_Duquesne", "target": "DareDevil_Born_Again_Series_S2" },
+  { "source": "Sheila_Rivera", "target": "DareDevil_Born_Again_Series_S2" },
 
   { "source": "Captain_Sam", "target": "Captain_America_Brave_New_World_Movie" },
   { "source": "Joaquin_Torres", "target": "Captain_America_Brave_New_World_Movie" },
@@ -1013,11 +1019,19 @@
   { "source": "Raza", "target": "VisionQuest" },
 
 
+  { "source": "Karen_Page", "target": "Punisher_special" },
+  { "source": "Punisher", "target": "Punisher_special" },
+
   { "source": "SpiderMan", "target": "Spider_Man_4_Movie" },
   { "source": "NedLeeds", "target": "Spider_Man_4_Movie" },
   { "source": "MichelleJones", "target": "Spider_Man_4_Movie" },
   { "source": "Punisher", "target": "Spider_Man_4_Movie" },
   { "source": "Hulk", "target": "Spider_Man_4_Movie" },
+  { "source": "Scorpion", "target": "Spider_Man_4_Movie" },
+  { "source": "Tombstone", "target": "Spider_Man_4_Movie" },
+  { "source": "Sheila_Rivera", "target": "Spider_Man_4_Movie" },
+  { "source": "FlashThompson", "target": "Spider_Man_4_Movie" },
+
 
 
   { "source": "Dr_Doom", "target": "Avengers5_Movie" },

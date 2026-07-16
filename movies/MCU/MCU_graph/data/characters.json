@@ -124,7 +124,7 @@
     "name": "Trevor Slattery",
     "icon": "./pics/iron_man/TrevorSlattery.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase2 phase4"
+    "labels": "phase2 phase4 phase6"
   },
   {
     "label": "Hulk",
@@ -132,7 +132,7 @@
     "name": "Bruce Banner - Hulk",
     "icon": "./pics/hulk/Hulk.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5"
+    "labels": "phase1 phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "ThaddeusRoss",
@@ -172,7 +172,7 @@
     "name": "Thor",
     "icon": "./pics/thor/Thor.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "labels": "phase1 phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "JaneFoster",
@@ -188,7 +188,7 @@
     "name": "Loki",
     "icon": "./pics/thor/Loki.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5"
+    "labels": "phase1 phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "Odin",
@@ -300,7 +300,7 @@
     "name": "Steve Rogers - Captain America",
     "icon": "./pics/captain_america/CaptainAmerica.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3"
+    "labels": "phase1 phase2 phase3 phase6"
   },
   {
     "label": "PeggyCarter",
@@ -316,7 +316,7 @@
     "name": "Bucky Barnes - Winter Soldier",
     "icon": "./pics/captain_america/WinterSoldier.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "labels": "phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "ChesterPhillips",
@@ -388,7 +388,7 @@
     "name": "Sam Wilson - Captain America",
     "icon": "./pics/captain_america/Falcon.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "labels": "phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "Crossbones",
@@ -716,7 +716,7 @@
     "name": "Scott Lang - Ant-Man",
     "icon": "./pics/ant_man/AntMan.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "labels": "phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "HankPym",
@@ -820,7 +820,7 @@
     "name": "Stephen Strange - Doctor Strange",
     "icon": "./pics/doctor_strange/DoctorStrange.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "labels": "phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "Dormammu",
@@ -1084,7 +1084,7 @@
     "name": "Peter Parker - Spider-Man",
     "icon": "./pics/spiderman/SpiderMan.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "labels": "phase2 phase3 phase4 phase5 phase6"
   },
   {
     "label": "BradDavis",
@@ -1116,7 +1116,7 @@
     "name": "Michelle Jones",
     "icon": "./pics/spiderman/MichelleJones.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "labels": "phase3 phase4 phase6"
   },
   {
     "label": "Prowler",
@@ -1148,7 +1148,7 @@
     "name": "Ned Leeds",
     "icon": "./pics/spiderman/NedLeeds.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "labels": "phase3 phase4 phase6"
   },
   {
     "label": "LizToomes",
@@ -1164,7 +1164,7 @@
     "name": "Flash Thompson",
     "icon": "./pics/spiderman/FlashThompson.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "labels": "phase3 phase4 phase6"
   },
   {
     "label": "Shocker",
@@ -1173,6 +1173,14 @@
     "icon": "./pics/spiderman/Shocker.jpeg",
     "type": "character", "universe": "mcu",
     "labels": "phase3"
+  },
+  {
+    "label": "Scorpion",
+    "r": 15,
+    "name": "Mac Gargan - Scorpion",
+    "icon": "./pics/spiderman/Scorpion.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase3 phase6"
   },
   {
     "label": "CindyMoon",
@@ -1247,6 +1255,14 @@
     "labels": "phase3"
   },
   {
+    "label": "Tombstone",
+    "r": 15,
+    "name": "Tombstone",
+    "icon": "./pics/spiderman/Tombstone.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+  },
+  {
     "label": "JuliusDell",
     "r": 15,
     "name": "Julius Dell",
@@ -1286,7 +1302,6 @@
     "type": "character", "universe": "mcu",
     "labels": "phase3"
   },
-
   {
     "label": "BlackPanther",
     "r": 15,
@@ -1341,7 +1356,7 @@
     "name": "Shuri - Black Panther",
     "icon": "./pics/black_panther/Shuri.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "labels": "phase3 phase4 phase6"
   },
   {
     "label": "MBaku",
@@ -1349,7 +1364,7 @@
     "name": "M'Baku",
     "icon": "./pics/black_panther/MBaku.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "labels": "phase3 phase4 phase6"
   },
   {
     "label": "Ramonda",
@@ -1413,7 +1428,7 @@
     "name": "Namor",
     "icon": "./pics/black_panther/Namor.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "Eitri",
@@ -1469,7 +1484,7 @@
     "name": "Ava Starr - Ghost",
     "icon": "./pics/ant_man/Ghost.jpg",
     "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5"
+    "labels": "phase3 phase5 phase6"
   },
   {
     "label": "JimmyWoo",
@@ -1686,7 +1701,7 @@
     "name": "John Walker - U.S. Agent",
     "icon": "./pics/series/falcon_winter/US_Agent.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "labels": "phase4 phase5 phase6"
   },
   {
     "label": "Karli",
@@ -1702,7 +1717,7 @@
     "name": "Joaquin Torres",
     "icon": "./pics/series/falcon_winter/Joaquin_Torres.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "Battlestar",
@@ -1886,7 +1901,7 @@
     "name": "Yelena Belova",
     "icon": "./pics/black_widow/YelenaBelova.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "labels": "phase4 phase5 phase6"
   },
   {
     "label": "MelinaVostokoff",
@@ -1902,7 +1917,7 @@
     "name": "Alexei Shostakov - Red Guardian",
     "icon": "./pics/black_widow/RedGuardian.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "labels": "phase4 phase5 phase6"
   },
   {
     "label": "Dreykov",
@@ -1958,7 +1973,7 @@
     "name": "Peggy Carter - Captain Carter",
     "icon": "./pics/series/what_if/Captain_Carter.jpeg",
     "type": "character", "universe": "whatif",
-    "labels": "phase4 phase5"
+    "labels": "phase4 phase5 phase6"
   },
   {
     "label": "Bucky_Barns_WI",
@@ -2134,7 +2149,7 @@
     "name": "Shang-Chi - Shaun",
     "icon": "./pics/shang_chi/Shang-Chi.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "KatyChen",
@@ -2339,10 +2354,10 @@
   {
     "label": "Jack_Duquesne",
     "r": 15,
-    "name": "Jack Duquesne",
+    "name": "Jack Duquesne - Swordsman",
     "icon": "./pics/series/hawkeye/Jack_Duquesne.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "Armand_Duquesne",
@@ -2406,7 +2421,7 @@
     "name": "Wilson Fisk - Kingpin",
     "icon": "./pics/series/hawkeye/Kingpin.jpeg",
     "type": "character", "universe": "netflix mcu",
-    "labels": "phase4 phase5"
+    "labels": "phase4 phase5 phase6"
   },
   {
     "label": "Moon_Knight",
@@ -2470,7 +2485,7 @@
     "name": "America Chavez",
     "icon": "./pics/doctor_strange/America_Chavez.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "Gargantos",
@@ -2518,7 +2533,7 @@
     "name": "Professor X",
     "icon": "./pics/doctor_strange/Professor_X.jpeg",
     "type": "character", "universe": "fox mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "BaronMordo",
@@ -2702,7 +2717,7 @@
     "name": "Love, Daughter of Gorr",
     "icon": "./pics/thor/Love.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "Zeus",
@@ -2733,14 +2748,14 @@
     "name": "Namora",
     "icon": "./pics/black_panther/Namora.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "Attuma",
     "name": "Attuma",
     "icon": "./pics/black_panther/Attuma.jpeg",
     "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "labels": "phase4 phase6"
   },
   {
     "label": "Aneka",
@@ -2846,7 +2861,7 @@
     "name": "Robert Reynolds - Sentry",
     "icon": "./pics/thunderbolts/Sentry.png",
     "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "labels": "phase5 phase6"
   },
   {
     "label": "Paladin",
@@ -3022,14 +3037,16 @@
     "r": 15,
     "name": "Matt Murdock - Daredevil",
     "icon": "./pics/netflix/daredevil/Daredevil.jpeg",
-    "type": "character", "universe": "netflix, mcu"
+    "type": "character", "universe": "netflix, mcu",
+    "labels": "phase5 phase6"
   },
   {
     "label": "Punisher",
     "r": 15,
     "name": "Frank Castle - Punisher",
     "icon": "./pics/netflix/daredevil/Punisher.jpeg",
-    "type": "character", "universe": "netflix, mcu"
+    "type": "character", "universe": "netflix, mcu",
+    "labels": "phase5 phase6"
   },
   {
     "label": "Claire_Temple",
@@ -3043,28 +3060,40 @@
     "r": 15,
     "name": "Karen Page",
     "icon": "./pics/netflix/daredevil/Karen_Page.jpeg",
-    "type": "character", "universe": "netflix, mcu"
+    "type": "character", "universe": "netflix, mcu",
+    "labels": "phase5 phase6"
   },
   {
     "label": "Foggy_Nelson",
     "r": 15,
     "name": "Foggy Nelson",
     "icon": "./pics/series/daredevil/Foggy.png",
-    "type": "character", "universe": "netflix, mcu"
+    "type": "character", "universe": "netflix, mcu",
+    "labels": "phase5 phase6"
   },
   {
     "label": "Vanessa_Fisk",
     "r": 15,
     "name": "Vanessa Marianna-Fisk",
     "icon": "./pics/series/daredevil/Vanessa.png",
-    "type": "character", "universe": "netflix, mcu"
+    "type": "character", "universe": "netflix, mcu",
+    "labels": "phase5 phase6"
   },
   {
     "label": "Poindexter",
     "r": 15,
     "name": "Benjami 'Dex' Poindexter - Bullseye",
     "icon": "./pics/series/daredevil/Poindexter.png",
-    "type": "character", "universe": "netflix, mcu"
+    "type": "character", "universe": "netflix, mcu",
+    "labels": "phase5 phase6"
+  },
+  {
+    "label": "Sheila_Rivera",
+    "r": 15,
+    "name": "Sheila Rivera",
+    "icon": "./pics/series/daredevil/Sheila_Rivera.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase5 phase6"
   },
   {
     "label": "Mephisto",
@@ -3175,7 +3204,8 @@
     "r": 15,
     "name": "Jessica Jones",
     "icon": "./pics/netflix/jessica_jones/Jessica_Jones.jpeg",
-    "type": "character", "universe": "netflix"
+    "type": "character", "universe": "netflix",
+    "labels": "phase6"
   },
   {
     "label": "Kilgrave",
@@ -3309,7 +3339,8 @@
     "r": 15,
     "name": "Hank McCoy - Beast",
     "icon": "./pics/fox/Beast.jpeg",
-    "type": "character", "universe": "fox"
+    "type": "character", "universe": "fox",
+    "labels": "phase6"
   },
   {
     "label": "Young_Prof_X",
@@ -3323,7 +3354,8 @@
     "r": 15,
     "name": "Magneto",
     "icon": "./pics/fox/magneto.jpg",
-    "type": "character", "universe": "fox"
+    "type": "character", "universe": "fox",
+    "labels": "phase6"
   },
   {
     "label": "Jean_Grey_Famke_Janssen",
@@ -3344,7 +3376,8 @@
     "r": 15,
     "name": "Scott Summers - Cyclops",
     "icon": "./pics/fox/cyclops_James_Marsden.jpeg",
-    "type": "character", "universe": "fox"
+    "type": "character", "universe": "fox",
+    "labels": "phase6"
   },
   {
     "label": "Cyclops_TimPocock",
@@ -3414,7 +3447,8 @@
     "r": 15,
     "name": "Raven Darkholme - Mystique",
     "icon": "./pics/fox/Mystique_Rebecca_Romijn_Stamos.jpeg",
-    "type": "character", "universe": "fox"
+    "type": "character", "universe": "fox",
+    "labels": "phase6"
   },
   {
     "label": "Mystique_Jennifer_Lawrence",
@@ -3428,7 +3462,8 @@
     "r": 15,
     "name": "Kurt Wagner - Nightcrawler",
     "icon": "./pics/fox/nightcrawler_alan_cumming.jpg",
-    "type": "character", "universe": "fox"
+    "type": "character", "universe": "fox",
+    "labels": "phase6"
   },
   {
     "label": "Nightcrawler_Kodi_SmitMcPhee",
@@ -3456,7 +3491,8 @@
     "r": 15,
     "name": "Wade Wilson - Deadpool",
     "icon": "./pics/deadpool/deadpool.jpeg",
-    "type": "character", "universe": "fox"
+    "type": "character", "universe": "fox",
+    "labels": "phase6"
   },
   {
     "label": "Vanessa",
@@ -3645,7 +3681,8 @@
     "r": 15,
     "name": "Gambit - Remi LeBeau",
     "icon": "./pics/deadpool/gambit.jpg",
-    "type": "character", "universe": "mcu"
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
   },
   {
     "label": "Dagger",

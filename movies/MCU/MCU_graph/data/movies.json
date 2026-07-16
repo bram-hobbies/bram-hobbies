@@ -720,6 +720,15 @@
     "labels": "series"
   },
   {
+    "type": "special",
+    "label": "Punisher_special",
+    "r": 15,
+    "name": "The Punisher: One Last Kill",
+    "icon": "./pics/series/Punisher_Special.jpeg",
+    "universe": "mcu",
+    "labels": "phase6 special"
+  },
+  {
     "type": "movie",
     "label": "Spider-Man_2002",
     "r": 15,
