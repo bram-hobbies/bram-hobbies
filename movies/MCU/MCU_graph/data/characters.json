@@ -1303,6 +1303,22 @@
     "labels": "phase3"
   },
   {
+    "label": "Jean_DeWolff",
+    "r": 15,
+    "name": "Jean DeWolff",
+    "icon": "./pics/spiderman/Jean_DeWolff.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+  },
+  {
+    "label": "Bill_Metzger",
+    "r": 15,
+    "name": "Bill Metzger",
+    "icon": "./pics/spiderman/Bill_Metzger.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+  },
+  {
     "label": "BlackPanther",
     "r": 15,
     "name": "T'Challa - Black Panther",
@@ -3188,6 +3204,14 @@
     "r": 15,
     "name": "Simon Williams - Wonder Man",
     "icon": "./pics/series/wonder_man/Wonder_Man.jpeg",
+    "type": "character", "universe": "mcu",
+    "labels": "phase6"
+  },
+  {
+    "label": "Jean_Grey_616",
+    "r": 15,
+    "name": "Jean Grey",
+    "icon": "./pics/xmen/jean_grey.jpg",
     "type": "character", "universe": "mcu",
     "labels": "phase6"
   },
