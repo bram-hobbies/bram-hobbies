@@ -141,7 +141,7 @@
     "name": "Spider-Man: Homecoming",
     "icon": "./pics/movies/Spider_Man.jpeg",
     "universe": "mcu",
-    "labels": "phase3 movie"
+    "labels": "phase3 movie sony"
   },
   {
     "type": "movie",
@@ -204,7 +204,7 @@
     "name": "Spider-Man: Far From Home",
     "icon": "./pics/movies/Spider_Man_2.jpeg",
     "universe": "mcu",
-    "labels": "phase3 movie"
+    "labels": "phase3 movie sony"
   },
   {
     "type": "series",
@@ -357,7 +357,7 @@
     "name": "Spider-Man: No Way Home",
     "icon": "./pics/movies/Spider_Man_3.jpeg",
     "universe": "mcu",
-    "labels": "phase4 movie"
+    "labels": "phase4 movie sony"
   },
   {
     "type": "movie",
@@ -591,7 +591,7 @@
     "name": "Spider-Man: Brand New Day",
     "icon": "./pics/movies/Spider-Man-4.jpg",
     "universe": "mcu",
-    "labels": "phase6 movie"
+    "labels": "phase6 movie sony"
   },
   {
     "type": "movie",
@@ -734,7 +734,7 @@
     "r": 15,
     "name": "Spider-Man (2002)",
     "icon": "./pics/raimi/Spider-Man_2002.jpeg",
-    "universe": "raimi",
+    "universe": "raimi sony",
     "labels": "movie"
   },
   {
@@ -743,7 +743,7 @@
     "r": 15,
     "name": "Spider-Man 2 (2004)",
     "icon": "./pics/raimi/Spider-Man_2_2004.jpeg",
-    "universe": "raimi",
+    "universe": "raimi sony",
     "labels": "movie"
   },
   {
@@ -752,7 +752,7 @@
     "r": 15,
     "name": "Spider-Man 3 (2007)",
     "icon": "./pics/raimi/Spider-Man_3_2007.jpeg",
-    "universe": "raimi",
+    "universe": "raimi sony",
     "labels": "movie"
   },
   {
@@ -761,7 +761,7 @@
     "r": 15,
     "name": "The Amazing Spider-Man (2012)",
     "icon": "./pics/webb/The_Amazing_Spider-Man.jpeg",
-    "universe": "webb",
+    "universe": "webb sony",
     "labels": "movie"
   },
   {
@@ -770,7 +770,7 @@
     "r": 15,
     "name": "The Amazing Spider-Man 2 (2014)",
     "icon": "./pics/webb/The_Amazing_Spiderman_2.jpeg",
-    "universe": "webb",
+    "universe": "webb sony",
     "labels": "movie"
   },
   {

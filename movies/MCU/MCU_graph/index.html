@@ -5,37 +5,60 @@
         <title>MCU Character diagram</title>
     </head>
     <body>
-        <div id="help">
-            Zoom with mouse-scroll, move graph with mouse-drag, enable / disable node-types with checkboxes
+        <div id="layout">
+            <div id="top-row">
+                <div id="zoom-search-panel">
+                    <div id="help">
+                        Zoom with mouse-scroll, move graph with mouse-drag, enable / disable node-types with checkboxes
+                    </div>
+                    <div class="controls-actions">
+                        <button>Reset Zoom</button>
+                        <input id="zoomSlider" type="range" min="0.1" max="5" step="0.01" value="1">
+                    </div>
+                    <div id="search-bar">
+                        <input id="searchInput" type="text" placeholder="Search for a node..." />
+                        <button id="searchButton">Search</button>
+                    </div>
+                </div>
+                <div id="controls">
+                    <div class="control-panel">
+                        <h3>Type</h3>
+                        <label><input checked id="movies" type="checkbox" class="filter"> Movies</label>
+                        <label><input checked id="series" type="checkbox" class="filter"> Series</label>
+                        <label><input checked id="specials" type="checkbox" class="filter"> Specials</label>
+                        <label><input checked id="characters" type="checkbox" class="filter"> Characters</label>
+                    </div>
+                    <div class="control-panel">
+                        <h3>Phases</h3>
+                        <label><input checked id="phase1" type="checkbox" class="filter"> 1</label>
+                        <label><input checked id="phase2" type="checkbox" class="filter"> 2</label>
+                        <label><input checked id="phase3" type="checkbox" class="filter"> 3</label>
+                        <label><input checked id="phase4" type="checkbox" class="filter"> 4</label>
+                        <label><input checked id="phase5" type="checkbox" class="filter"> 5</label>
+                        <label><input checked id="phase6" type="checkbox" class="filter"> 6</label>
+                    </div>
+                    <div class="control-panel">
+                        <h3>Networks</h3>
+                        <label><input checked id="disneyplus" type="checkbox" class="filter"> Disney+</label>
+                        <label><input checked id="netflix" type="checkbox" class="filter"> Netflix</label>
+                        <label><input checked id="abc" type="checkbox" class="filter"> ABC</label>
+                        <label><input checked id="hulu" type="checkbox" class="filter"> Hulu</label>
+                        <label><input checked id="fox" type="checkbox" class="filter"> Fox</label>
+                        <label><input checked id="sony" type="checkbox" class="filter"> Sony</label>
+                    </div>
+                    <div class="control-panel">
+                        <h3>Other</h3>
+                        <label><input checked id="mcu" type="checkbox" class="filter"> MCU</label>
+                        <label><input checked id="whatif" type="checkbox" class="filter"> What if...</label>
+                        <label><input checked id="classic" type="checkbox" class="filter"> Marvel Classic Movices</label>
+                        <label><input checked id="sonyverse" type="checkbox" class="filter"> Sony-verse</label>
+                        <label><input checked id="raimi" type="checkbox" class="filter"> Raimi-verse</label>
+                        <label><input checked id="webb" type="checkbox" class="filter"> Webbi-verse</label>
+                    </div>
+                </div>
+            </div>
+            <div id="graph-container"></div>
         </div>
-        <div id="controls">
-            <label><input checked id="movies" type="checkbox" class="filter"> Movies</label>
-            <label><input checked id="series" type="checkbox" class="filter"> Series</label>
-            <label><input checked id="specials" type="checkbox" class="filter"> Specials</label>
-            <label><input checked id="characters" type="checkbox" class="filter"> Characters</label>
-            <label><input checked id="phase1" type="checkbox" class="filter"> Phase 1</label>
-            <label><input checked id="phase2" type="checkbox" class="filter"> Phase 2</label>
-            <label><input checked id="phase3" type="checkbox" class="filter"> Phase 3</label>
-            <label><input checked id="phase4" type="checkbox" class="filter"> Phase 4</label>
-            <label><input checked id="phase5" type="checkbox" class="filter"> Phase 5</label>
-            <label><input checked id="phase6" type="checkbox" class="filter"> Phase 6</label>
-            <label><input checked id="whatif" type="checkbox" class="filter"> What if...</label>
-            <label><input checked id="netflix" type="checkbox" class="filter"> Netflix</label>
-            <label><input checked id="fox" type="checkbox" class="filter"> Fox</label>
-            <label><input checked id="abc" type="checkbox" class="filter"> ABC</label>
-            <label><input checked id="hulu" type="checkbox" class="filter"> Hulu</label>
-            <label><input checked id="sony" type="checkbox" class="filter"> Sony-verse</label>
-            <label><input checked id="raimi" type="checkbox" class="filter"> Raimi-verse</label>
-            <label><input checked id="webb" type="checkbox" class="filter"> Webbi-verse</label>
-            <label><input checked id="classic" type="checkbox" class="filter"> Marvel Classic movies</label>
-            <button>Reset Zoom</button>
-            <input id="zoomSlider" type="range" min="0.1" max="5" step="0.01" value="1" style="width: 99%;">
-        </div>
-        <div id="search-bar">
-            <input id="searchInput" type="text" placeholder="Search for a node..." />
-            <button id="searchButton">Search</button>
-        </div>
-        <div id="graph-container"></div>
         <script src="jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.1/d3.min.js"></script>
         <script src="script.js"></script>

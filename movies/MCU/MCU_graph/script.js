@@ -33,11 +33,19 @@ function getNodes() {
 
     let allNodes = [];
     for (var i in characters) {
-        characters[i].labels += " character";
-        allNodes.push(characters[i]);
+        const character = characters[i];
+        character.labels = addToken(character.labels, "character");
+        if (hasToken(character.universe, "mcu") && character.type === "character") {
+            character.labels = addToken(character.labels, "disneyplus");
+        }
+        allNodes.push(character);
     }
     for (var i in movies) {
-        allNodes.push(movies[i]);
+        const movie = movies[i];
+        if (hasToken(movie.universe, "mcu") && movie.type === "movie") {
+            movie.labels = addToken(movie.labels, "disneyplus");
+        }
+        allNodes.push(movie);
     }
     return allNodes;
 }
@@ -58,6 +66,17 @@ function getLinks() {
     })();
     return connections;
 }
+
+function hasToken(value, token) {
+    return (` ${value || ""} `).includes(` ${token} `);
+}
+
+function addToken(value, token) {
+    if (hasToken(value, token)) { return value || ""; }
+    return `${value || ""} ${token}`.trim();
+}
+
+const dependencyStateMemory = {};
 
 let nodes = getNodes();
 let links = getLinks();
@@ -128,14 +147,13 @@ let node = svg.append("g")
 
 function resizeSVG() {
     const container = document.getElementById("graph-container");
-    const svg = document.getElementById("graph");
+    const graphSvg = document.getElementById("graph");
+    if (!container || !graphSvg) { return; }
 
-    // Calculate available space
-    const width = container.clientWidth - 2
-
-    // Set the SVG size dynamically
-    svg.setAttribute("width", window.innerWidth - 20);
-    svg.setAttribute("height", window.innerHeight - 145);
+    const width = Math.max(container.clientWidth - 2, 100);
+    const height = Math.max(container.clientHeight - 2, 100);
+    graphSvg.setAttribute("width", width);
+    graphSvg.setAttribute("height", height);
 }
 
 // Call resizeSVG on load and window resize
@@ -445,8 +463,58 @@ function dragended(d) {
 
 // Toggle event listeners
 d3.selectAll(".filter").on("change", () => {
+    enforceFilterDependencies();
     updateGraph();
 });
+
+function setCheckboxState(id, disabled) {
+    const checkbox = document.getElementById(id);
+    if (!checkbox) { return; }
+    checkbox.disabled = disabled;
+    if (disabled) {
+        checkbox.checked = false;
+    }
+}
+
+function setDependentState(groupKey, dependentIds, disabled) {
+    if (!dependencyStateMemory[groupKey]) {
+        dependencyStateMemory[groupKey] = {};
+    }
+
+    dependentIds.forEach(id => {
+        const checkbox = document.getElementById(id);
+        if (!checkbox) { return; }
+
+        if (disabled) {
+            if (!checkbox.disabled) {
+                dependencyStateMemory[groupKey][id] = checkbox.checked;
+            }
+            setCheckboxState(id, true);
+            return;
+        }
+
+        checkbox.disabled = false;
+        if (Object.prototype.hasOwnProperty.call(dependencyStateMemory[groupKey], id)) {
+            checkbox.checked = dependencyStateMemory[groupKey][id];
+        }
+    });
+}
+
+function enforceFilterDependencies() {
+    const disneyPlus = document.getElementById("disneyplus");
+    const mcu = document.getElementById("mcu");
+    const sony = document.getElementById("sony");
+    if (!disneyPlus || !mcu || !sony) { return; }
+
+    setDependentState("disneyplus", ["mcu"], !disneyPlus.checked);
+
+    const mcuChildren = ["whatif", "phase1", "phase2", "phase3", "phase4", "phase5", "phase6"];
+    const disableMcuChildren = !(disneyPlus.checked && mcu.checked);
+    setDependentState("mcu", mcuChildren, disableMcuChildren);
+
+    const sonyChildren = ["sonyverse", "raimi", "webb"];
+    setDependentState("sony", sonyChildren, !sony.checked);
+}
 
 // Example update function for nodes
 function updateNodes() {
@@ -494,37 +562,46 @@ function updateGraph() {
     const showPhase5 = d3.select("#phase5").property("checked");
     const showPhase6 = d3.select("#phase6").property("checked");
     const showWhatIf = d3.select("#whatif").property("checked");
+    const showDisneyPlus = d3.select("#disneyplus").property("checked");
     const showNetflix = d3.select("#netflix").property("checked");
     const showFox = d3.select("#fox").property("checked");
     const showAbc = d3.select("#abc").property("checked");
     const showHulu = d3.select("#hulu").property("checked");
     const showSony = d3.select("#sony").property("checked");
+    const showMcu = d3.select("#mcu").property("checked");
+    const showSonyVerse = d3.select("#sonyverse").property("checked");
     const showRaimi = d3.select("#raimi").property("checked");
     const showWebb = d3.select("#webb").property("checked");
     const showClassics = d3.select("#classic").property("checked");
 
     // Filter nodes and links based on the checkbox status
     const filteredNodes = nodes.filter(d => {
-        if (d.type === "movie" && !showMovies)                      { return false; }
-        if (d.type === "series" && !showSeries)                     { return false; }
-        if (d.type === "special" && !showSpecials)                  { return false; }
-        if (d.type === "character" && !showCharacters)              { return false; }
-        if (d.labels.includes("phase1") && showPhase1)              { return true; }
-        if (d.labels.includes("phase2") && showPhase2)              { return true; }
-        if (d.labels.includes("phase3") && showPhase3)              { return true; }
-        if (d.labels.includes("phase4") && showPhase4)              { return true; }
-        if (d.labels.includes("phase5") && showPhase5)              { return true; }
-        if (d.labels.includes("phase6") && showPhase6)              { return true; }
-        if (d.universe.includes("whatif") && showWhatIf)       { return true; }
-        if (d.universe.includes("netflix") && showNetflix)     { return true; }
-        if (d.universe.includes("fox") && showFox)             { return true; }
-        if (d.universe.includes("abc") && showAbc)             { return true; }
-        if (d.universe.includes("hulu") && showHulu)           { return true; }
-        if (d.universe.includes("sony") && showSony)           { return true; }
-        if (d.universe.includes("raimi") && showRaimi)         { return true; }
-        if (d.universe.includes("webb") && showWebb)           { return true; }
-        if (d.universe.includes("classic") && showClassics)    { return true; }
-        return false;
+        if (d.type === "movie" && !showMovies)         { return false; }
+        if (d.type === "series" && !showSeries)        { return false; }
+        if (d.type === "special" && !showSpecials)     { return false; }
+        if (d.type === "character" && !showCharacters) { return false; }
+
+        if (hasToken(d.labels, "disneyplus") && !showDisneyPlus) { return false; }
+        if (hasToken(d.labels, "phase1") && !showPhase1) { return false; }
+        if (hasToken(d.labels, "phase2") && !showPhase2) { return false; }
+        if (hasToken(d.labels, "phase3") && !showPhase3) { return false; }
+        if (hasToken(d.labels, "phase4") && !showPhase4) { return false; }
+        if (hasToken(d.labels, "phase5") && !showPhase5) { return false; }
+        if (hasToken(d.labels, "phase6") && !showPhase6) { return false; }
+
+        if (hasToken(d.universe, "mcu") && !showMcu) { return false; }
+        if (hasToken(d.universe, "whatif") && !showWhatIf) { return false; }
+        if (hasToken(d.universe, "netflix") && !showNetflix) { return false; }
+        if (hasToken(d.universe, "fox") && !showFox) { return false; }
+        if (hasToken(d.universe, "abc") && !showAbc) { return false; }
+        if (hasToken(d.universe, "hulu") && !showHulu) { return false; }
+        if (hasToken(d.universe, "sony") && !showSony) { return false; }
+        if (hasToken(d.universe, "sony") && !showSonyVerse) { return false; }
+        if (hasToken(d.universe, "raimi") && !showRaimi) { return false; }
+        if (hasToken(d.universe, "webb") && !showWebb) { return false; }
+        if (hasToken(d.universe, "classic") && !showClassics) { return false; }
+
+        return true;
     });
 
     const hiddenNodes = nodes
@@ -652,4 +729,5 @@ svg.on("click", () => {
 renderGraph(nodes, links);
 
 // Call updateGraph() whenever the data changes (e.g., due to filtering)
+enforceFilterDependencies();
 updateGraph();

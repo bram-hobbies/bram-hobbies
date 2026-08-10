@@ -1,14 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+#layout {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px;
+    height: 100vh;
+}
+
+#top-row {
+    display: flex;
+    gap: 10px;
+    align-items: stretch;
+    overflow-x: auto;
+}
+
+#zoom-search-panel {
+    flex: 0 0 calc(50vw - 32px);
+    max-width: calc(50vw - 32px);
+    border: 1px solid #d7d7d7;
+    border-radius: 6px;
+    background: #f9fafb;
+    padding: 8px 10px;
+}
+
 #graph-container {
+    flex: 1;
+    min-height: 0;
     border: 1px solid #ccc;
 }
 
+#help {
+    margin-bottom: 10px;
+    font: 14px Arial, Helvetica, sans-serif;
+}
+
 #controls {
-    margin-top: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
 }
 
 #controls label {
     margin-right: 10px;
     font: 14px Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+#controls .control-panel {
+    border: 1px solid #d7d7d7;
+    border-radius: 6px;
+    background: #f7f7f7;
+    padding: 8px 10px;
+    min-width: 170px;
+}
+
+#controls .control-panel h3 {
+    margin: 0 0 6px 0;
+    font: bold 13px Arial, Helvetica, sans-serif;
+}
+
+#zoomSlider {
+    width: 100%;
+}
+
+#search-bar {
+    margin-top: 10px;
+    display: flex;
+    gap: 8px;
+}
+
+#searchInput {
+    flex: 1;
+    min-width: 0;
+}
+
+#searchButton {
+    flex: 0 0 auto;
 }
 
 g text {
