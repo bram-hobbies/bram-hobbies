@@ -148,8 +148,9 @@ const force = d3.layout.force()
     .links(links)
     .size([width, height])
     .charge(function(i) {
-        return -1300;
+        return -3500;
     })
+    .gravity(0.12)
     .on("tick", ticked)
     .on("end", settleLayout);
 
