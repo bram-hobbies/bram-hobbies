@@ -98,6 +98,8 @@ const svg = d3.select("#graph-container")
     .attr("id", "graph")
     .append("g");
 
+const defs = svg.append("defs");
+
 // Apply manual zoom logic
 function applyZoom(scale, translate) {
     svg.attr("transform", `translate(${translate}) scale(${scale})`);
@@ -148,7 +150,8 @@ const force = d3.layout.force()
     .charge(function(i) {
         return -1300;
     })
-    .on("tick", ticked);
+    .on("tick", ticked)
+    .on("end", settleLayout);
 
 force.nodes(nodes)
     .links(links)
@@ -169,6 +172,217 @@ function validateData(nodes, links) {
 
 validateData(nodes, links);
 
+const NODE_FRAME = {
+    baseWidth: 60,
+    baseHeight: 100,
+    nonCharacterScale: 1.6,
+    outerRadius: 10,
+    imageRadius: 7,
+    imageTopPadding: 6,
+    labelBottomPadding: 8,
+    labelSidePadding: 7,
+    lineHeightEm: 1.15,
+    labelMaxLines: 3
+};
+
+function isCharacterNode(d) {
+    return d.type === "character" || (d.labels && d.labels.indexOf("character") !== -1);
+}
+
+function getNodeLayout(d) {
+    const scale = isCharacterNode(d) ? 1 : NODE_FRAME.nonCharacterScale;
+    const width = NODE_FRAME.baseWidth * scale;
+    const height = NODE_FRAME.baseHeight * scale;
+    const imageHeight = height * 0.68;
+    const imageWidth = Math.min(width * 0.8, imageHeight * 0.86);
+    const imageX = -imageWidth / 2;
+    const imageY = -height / 2 + (NODE_FRAME.imageTopPadding * scale);
+
+    return {
+        width,
+        height,
+        outerRadius: NODE_FRAME.outerRadius * scale,
+        imageX,
+        imageY,
+        imageWidth,
+        imageHeight,
+        imageRadius: NODE_FRAME.imageRadius * scale,
+        labelY: (height / 2) - (NODE_FRAME.labelBottomPadding * scale),
+        labelMaxWidth: width - (NODE_FRAME.labelSidePadding * 2 * scale),
+        labelMaxLines: NODE_FRAME.labelMaxLines
+    };
+}
+
+function getNodeCollisionRadius(d) {
+    const layout = getNodeLayout(d);
+    return Math.sqrt((layout.width * layout.width) + (layout.height * layout.height)) / 2;
+}
+
+function relaxNodeCollisions(activeNodes, alpha) {
+    const padding = 8;
+    const quadtree = d3.geom.quadtree(activeNodes);
+
+    activeNodes.forEach(d => {
+        const radius = getNodeCollisionRadius(d) + padding;
+        const nx1 = d.x - radius;
+        const nx2 = d.x + radius;
+        const ny1 = d.y - radius;
+        const ny2 = d.y + radius;
+
+        quadtree.visit((quad, x1, y1, x2, y2) => {
+            const point = quad.point;
+            if (point && point !== d) {
+                const minDistance = getNodeCollisionRadius(d) + getNodeCollisionRadius(point) + padding;
+                let dx = d.x - point.x;
+                let dy = d.y - point.y;
+                let distance = Math.sqrt((dx * dx) + (dy * dy));
+
+                if (distance === 0) {
+                    dx = (Math.random() - 0.5) * 0.01;
+                    dy = (Math.random() - 0.5) * 0.01;
+                    distance = Math.sqrt((dx * dx) + (dy * dy));
+                }
+
+                if (distance < minDistance) {
+                    const shift = ((minDistance - distance) / distance) * alpha * 0.6;
+                    const moveX = dx * shift;
+                    const moveY = dy * shift;
+                    d.x += moveX;
+                    d.y += moveY;
+                    point.x -= moveX;
+                    point.y -= moveY;
+                }
+            }
+            return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+        });
+    });
+}
+
+function settleLayout() {
+    const activeNodes = force.nodes();
+    for (let i = 0; i < 24; i++) {
+        relaxNodeCollisions(activeNodes, 0.45);
+    }
+    ticked();
+}
+
+function nodeClipId(d) {
+    const rawId = (d.label || d.name || String(d.id || "")).toLowerCase();
+    const nodeType = isCharacterNode(d) ? "char" : "nonchar";
+    return "node-image-clip-" + nodeType + "-" + rawId.replace(/[^a-z0-9_-]/g, "-");
+}
+
+function ensureNodeClipPath(d) {
+    const layout = getNodeLayout(d);
+    const clipId = nodeClipId(d);
+    if (!defs.select("#" + clipId).empty()) {
+        return clipId;
+    }
+
+    defs.append("clipPath")
+        .attr("id", clipId)
+        .append("rect")
+        .attr("x", layout.imageX)
+        .attr("y", layout.imageY)
+        .attr("width", layout.imageWidth)
+        .attr("height", layout.imageHeight)
+        .attr("rx", layout.imageRadius)
+        .attr("ry", layout.imageRadius);
+
+    return clipId;
+}
+
+function wrapNodeText(textSelection) {
+    textSelection.each(function(d) {
+        const text = d3.select(this);
+        const layout = getNodeLayout(d);
+        const maxWidth = layout.labelMaxWidth;
+        const maxLines = layout.labelMaxLines;
+        const words = (d.name || d.label || "").trim().split(/\s+/).filter(Boolean);
+
+        text.text(null);
+        if (!words.length) {
+            return;
+        }
+
+        let lines = [];
+        let lineWords = [];
+        let probeTspan = text.append("tspan")
+            .attr("x", 0)
+            .attr("dy", "0em");
+
+        for (let i = 0; i < words.length; i++) {
+            const word = words[i];
+            lineWords.push(word);
+            probeTspan.text(lineWords.join(" "));
+
+            if (probeTspan.node().getComputedTextLength() > maxWidth && lineWords.length > 1) {
+                lineWords.pop();
+                lines.push(lineWords.join(" "));
+                lineWords = [word];
+                probeTspan.text(word);
+            }
+        }
+
+        if (lineWords.length) {
+            lines.push(lineWords.join(" "));
+        }
+
+        lines = lines.slice(0, maxLines);
+        text.text(null);
+        text.attr("y", layout.labelY);
+
+        const startDy = -((lines.length - 1) * NODE_FRAME.lineHeightEm);
+        for (let i = 0; i < lines.length; i++) {
+            text.append("tspan")
+                .attr("x", 0)
+                .attr("dy", (i === 0 ? startDy : NODE_FRAME.lineHeightEm) + "em")
+                .text(lines[i]);
+        }
+    });
+}
+
+function appendNodeContents(nodeSelection) {
+    nodeSelection.append("rect")
+        .attr("x", d => -getNodeLayout(d).width / 2)
+        .attr("y", d => -getNodeLayout(d).height / 2)
+        .attr("width", d => getNodeLayout(d).width)
+        .attr("height", d => getNodeLayout(d).height)
+        .attr("rx", d => getNodeLayout(d).outerRadius)
+        .attr("ry", d => getNodeLayout(d).outerRadius)
+        .attr("class", function(d) { return "container " + d.labels + " " + d.universe; })
+        .style("stroke", "#1f2937")
+        .style("stroke-width", 1.5);
+
+    nodeSelection.append("rect")
+        .attr("x", d => getNodeLayout(d).imageX)
+        .attr("y", d => getNodeLayout(d).imageY)
+        .attr("width", d => getNodeLayout(d).imageWidth)
+        .attr("height", d => getNodeLayout(d).imageHeight)
+        .attr("rx", d => getNodeLayout(d).imageRadius)
+        .attr("ry", d => getNodeLayout(d).imageRadius)
+        .style("fill", "#ffffff")
+        .style("fill-opacity", 0.18)
+        .style("stroke", "rgba(15, 23, 42, 0.35)")
+        .style("stroke-width", 1);
+
+    nodeSelection.append("image")
+        .attr("x", d => getNodeLayout(d).imageX)
+        .attr("y", d => getNodeLayout(d).imageY)
+        .attr("width", d => getNodeLayout(d).imageWidth)
+        .attr("height", d => getNodeLayout(d).imageHeight)
+        .attr("preserveAspectRatio", "xMidYMid meet")
+        .attr("clip-path", d => "url(#" + ensureNodeClipPath(d) + ")")
+        .attr("xlink:href", d => d.icon);
+
+    nodeSelection.append("text")
+        .attr("text-anchor", "middle")
+        .attr("x", 0)
+        .style("font-size", "8px")
+        .text(d => d.name || d.label)
+        .call(wrapNodeText);
+}
+
 function renderGraph(nodes, links) {
     // Update links
     const linkSelection = linkGroup.selectAll(".link")
@@ -188,32 +402,17 @@ function renderGraph(nodes, links) {
             .on("drag", dragged)
             .on("dragend", dragended));
 
-    nodeSelection.append("rect")
-        .attr("dy", 30)
-        .attr("x", -40)
-        .attr("y", -50)
-        .attr("width", 80)
-        .attr("height", 100)
-        .attr("class", function(d) { return "container " + d.labels + " " + d.universe; });
-
-    nodeSelection.append("image")
-        .attr("x", -35)
-        .attr("y", -45)
-        .attr("width", 70)
-        .attr("height", 70)
-        .attr("preserveAspectRatio", "xMidYMid slice")
-        .attr("xlink:href", d => d.icon);
-
-    nodeSelection.append("text")
-        .attr("text-anchor", "middle")
-        .attr("y", 40)
-        .text(d => d.name);
+    appendNodeContents(nodeSelection);
 
     // Store the selection for later use
     window.currentNodes = nodeSelection;
 }
 
-function ticked() {
+function ticked(e) {
+    const activeNodes = force.nodes();
+    const alpha = (e && e.alpha) ? Math.max(e.alpha, 0.15) : 0.2;
+    relaxNodeCollisions(activeNodes, alpha);
+
     // Update links
     svg.selectAll(".link")
         .attr("x1", d => d.source.x)
@@ -364,26 +563,7 @@ function updateGraph() {
         .attr("class", "node")
         .call(force.drag);
 
-    nodeEnter.append("rect")
-        .attr("dy", 30)
-        .attr("x", -40)
-        .attr("y", -50)
-        .attr("width", 80)
-        .attr("height", 100)
-        .attr("class", function(d) { return "container " + d.labels + " " + d.universe; });
-
-    nodeEnter.append("image")
-        .attr("x", -35)
-        .attr("y", -45)
-        .attr("width", 70)
-        .attr("height", 70)
-        .attr("preserveAspectRatio", "xMidYMid slice")
-        .attr("xlink:href", d => d.icon);
-
-    nodeEnter.append("text")
-        .attr("dx", 12)
-        .attr("dy", ".35em")
-        .text(d => d.label);
+    appendNodeContents(nodeEnter);
 
 
     // Restart the force layout simulation with collision detection
@@ -391,16 +571,8 @@ function updateGraph() {
         .links(filteredLinks)
         // .charge(-20)
         .linkDistance(250)
-        .on("tick", function(e) {
-            // Update node positions
-            nodeUpdate.attr("transform", d => `translate(${d.x}, ${d.y})`);
-
-            // Update link positions
-            linkUpdate.attr("x1", d => d.source.x)
-                .attr("y1", d => d.source.y)
-                .attr("x2", d => d.target.x)
-                .attr("y2", d => d.target.y);
-        })
+        .on("tick", ticked)
+        .on("end", settleLayout)
         .start();
 }
 
@@ -480,5 +652,3 @@ renderGraph(nodes, links);
 
 // Call updateGraph() whenever the data changes (e.g., due to filtering)
 updateGraph();
-
-
