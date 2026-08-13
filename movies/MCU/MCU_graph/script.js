@@ -553,7 +553,6 @@ function updateGraph() {
     const showMovies = d3.select("#movies").property("checked");
     const showSeries = d3.select("#series").property("checked");
     const showSpecials = d3.select("#specials").property("checked");
-    const showCharacters = d3.select("#characters").property("checked");
     const showPhase1 = d3.select("#phase1").property("checked");
     const showPhase2 = d3.select("#phase2").property("checked");
     const showPhase3 = d3.select("#phase3").property("checked");
@@ -573,12 +572,10 @@ function updateGraph() {
     const showWebb = d3.select("#webb").property("checked");
     const showClassics = d3.select("#classic").property("checked");
 
-    // Filter nodes and links based on the checkbox status
-    const filteredNodes = nodes.filter(d => {
+    function passesNonCharacterFilters(d) {
         if (d.type === "movie" && !showMovies)         { return false; }
         if (d.type === "series" && !showSeries)        { return false; }
         if (d.type === "special" && !showSpecials)     { return false; }
-        if (d.type === "character" && !showCharacters) { return false; }
 
         if (hasToken(d.labels, "disneyplus") && !showDisneyPlus) { return false; }
         if (hasToken(d.labels, "phase1") && !showPhase1) { return false; }
@@ -601,7 +598,36 @@ function updateGraph() {
         if (hasToken(d.universe, "classic") && !showClassics) { return false; }
 
         return true;
-    });
+    }
+
+    // First pass: keep non-character nodes that pass regular filters.
+    const filteredNonCharacterNodes = nodes.filter(d => !isCharacterNode(d) && passesNonCharacterFilters(d));
+
+    // Characters are visible only if connected to at least one visible movie/series/special.
+    const visibleAnchorLabels = new Set(
+        filteredNonCharacterNodes
+            .filter(d => d.type === "movie" || d.type === "series" || d.type === "special")
+            .map(d => d.label)
+    );
+
+    const visibleCharacterLabels = new Set();
+    if (visibleAnchorLabels.size > 0) {
+        links.forEach(link => {
+            const sourceNode = link.source;
+            const targetNode = link.target;
+            if (!sourceNode || !targetNode) { return; }
+
+            if (isCharacterNode(sourceNode) && visibleAnchorLabels.has(targetNode.label)) {
+                visibleCharacterLabels.add(sourceNode.label);
+            }
+            if (isCharacterNode(targetNode) && visibleAnchorLabels.has(sourceNode.label)) {
+                visibleCharacterLabels.add(targetNode.label);
+            }
+        });
+    }
+
+    const filteredCharacterNodes = nodes.filter(d => isCharacterNode(d) && visibleCharacterLabels.has(d.label));
+    const filteredNodes = filteredNonCharacterNodes.concat(filteredCharacterNodes);
 
     const hiddenNodes = nodes
 

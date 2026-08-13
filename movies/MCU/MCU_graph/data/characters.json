@@ -4,1711 +4,1497 @@
     "r": 15,
     "name": "Tony Stark - Iron Man",
     "icon": "./pics/iron_man/IronMan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "WarMachine",
     "r": 15,
     "name": "James Rhodes - War Machine",
     "icon": "./pics/iron_man/WarMachine.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Raza",
     "name": "Raza",
-    "icon": "./pics/iron_man/",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1"
+    "icon": "./pics/iron_man/Raza.jpg",
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "IronMonger",
     "r": 15,
     "name": "Obadiah Stane - Iron Monger",
     "icon": "./pics/iron_man/IronMonger.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "PepperPotts",
     "r": 15,
     "name": "Pepper Potts",
     "icon": "./pics/iron_man/PepperPotts.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "PhilCoulson",
     "r": 15,
     "name": "Agent Phil Coulson",
     "icon": "./pics/series/shield/PhilCoulson.jpeg",
-    "type": "character", "universe": "mcu abc",
-    "labels": "phase1"
+    "type": "character", "universe": "mcu abc"
   },
   {
     "label": "JARVIS",
     "r": 15,
     "name": "J.A.R.V.I.S.",
     "icon": "./pics/iron_man/JARVIS.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HappyHogan",
     "r": 15,
     "name": "Happy Hogan",
     "icon": "./pics/iron_man/HappyHogan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 whatif"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HowardStark",
     "r": 15,
     "name": "Howard Stark",
     "icon": "./pics/iron_man/HowardStark.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "NickFury",
     "r": 15,
     "name": "Nick Fury",
     "icon": "./pics/series/shield/NickFury.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BlackWidow",
     "r": 15,
     "name": "Natasha Romanoff - Black Widow",
     "icon": "./pics/black_widow/BlackWidow.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JustinHammer",
     "r": 15,
     "name": "Justin Hammer",
     "icon": "./pics/iron_man/JustinHammer.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Whiplash",
     "r": 15,
     "name": "Ivan Vanko/Whiplash",
     "icon": "./pics/iron_man/Whiplash.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AntonVanko",
     "r": 15,
     "name": "Anton Vanko",
     "icon": "./pics/iron_man/AntonVanko.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AldrichKillian",
     "r": 15,
     "name": "Aldrich Killian",
     "icon": "./pics/iron_man/AldrichKillian.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TrevorSlattery",
     "r": 15,
     "name": "Trevor Slattery",
     "icon": "./pics/iron_man/TrevorSlattery.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Hulk",
     "r": 15,
     "name": "Bruce Banner - Hulk",
     "icon": "./pics/hulk/Hulk.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ThaddeusRoss",
     "r": 15,
     "name": "Thaddeus Ross",
     "icon": "./pics/hulk/ThaddeusRoss.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BettyRoss",
     "r": 15,
     "name": "Betty Ross",
     "icon": "./pics/hulk/Betty_Ross.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Abomination",
     "r": 15,
     "name": "Blonsky - Abomination",
     "icon": "./pics/hulk/Abomination.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TheLeader",
     "r": 15,
     "name": "Samuel Sterns - The Leader",
     "icon": "./pics/hulk/TheLeader.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Thor",
     "r": 15,
     "name": "Thor",
     "icon": "./pics/thor/Thor.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JaneFoster",
     "r": 15,
     "name": "Jane Foster",
     "icon": "./pics/thor/JaneFoster.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Loki",
     "r": 15,
     "name": "Loki",
     "icon": "./pics/thor/Loki.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Odin",
     "r": 15,
     "name": "Odin",
     "icon": "./pics/thor/Odin.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ErikSelvig",
     "r": 15,
     "name": "Erik Selvig",
     "icon": "./pics/thor/ErikSelvig.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "DarcyLewis",
     "r": 15,
     "name": "Darcy Lewis",
     "icon": "./pics/thor/DarcyLewis.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Heimdall",
     "r": 15,
     "name": "Heimdall",
     "icon": "./pics/thor/Heimdall.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Volstagg",
     "r": 15,
     "name": "Volstagg",
     "icon": "./pics/thor/Volstagg.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Hogun",
     "r": 15,
     "name": "Hogun",
     "icon": "./pics/thor/Hogun.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Fandral",
     "r": 15,
     "name": "Fandral",
     "icon": "./pics/thor/Fandral.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sif",
     "r": 15,
     "name": "Sif",
     "icon": "./pics/thor/Sif.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Frigga",
     "r": 15,
     "name": "Frigga",
     "icon": "./pics/thor/Frigga.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Laufey",
     "r": 15,
     "name": "Laufey",
     "icon": "./pics/thor/Laufey.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JasperSitwell",
     "r": 15,
     "name": "Jasper Sitwell",
     "icon": "./pics/captain_america/JasperSitwell.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Hawkeye",
     "r": 15,
     "name": "Clint Barton - Hawkeye",
     "icon": "./pics/series/hawkeye/Hawkeye.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Malekith",
     "r": 15,
     "name": "Malekith",
     "icon": "./pics/thor/Malekith.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CaptainAmerica",
     "r": 15,
     "name": "Steve Rogers - Captain America",
     "icon": "./pics/captain_america/CaptainAmerica.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "PeggyCarter",
     "r": 15,
     "name": "Peggy Carter",
     "icon": "./pics/captain_america/PeggyCarter.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "WinterSoldier",
     "r": 15,
     "name": "Bucky Barnes - Winter Soldier",
     "icon": "./pics/captain_america/WinterSoldier.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ChesterPhillips",
     "r": 15,
     "name": "Chester Phillips",
     "icon": "./pics/captain_america/ChesterPhillips.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "RedSkull",
     "r": 15,
     "name": "Red Skull",
     "icon": "./pics/captain_america/RedSkull.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AbrahamErskine",
     "r": 15,
     "name": "Abraham Erskine",
     "icon": "./pics/captain_america/AbrahamErskine.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ArnimZola",
     "r": 15,
     "name": "Arnim Zola",
     "icon": "./pics/captain_america/ArnimZola.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "DumDumDugan",
     "r": 15,
     "name": "Dum Dum Dugan",
     "icon": "./pics/captain_america/DumDumDugan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MariaHill",
     "r": 15,
     "name": "Maria Hill",
     "icon": "./pics/series/shield/MariaHill.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AlexanderPierce",
     "r": 15,
     "name": "Alexander Pierce",
     "icon": "./pics/captain_america/AlexanderPierce.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Falcon",
     "r": 15,
     "name": "Sam Wilson - Falcon",
     "icon": "./pics/captain_america/Falcon.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Captain_Sam",
     "r": 15,
     "name": "Sam Wilson - Captain America",
     "icon": "./pics/captain_america/Falcon.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Crossbones",
     "r": 15,
     "name": "Brock Rumlow - Crossbones",
     "icon": "./pics/captain_america/Crossbones.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "SharonCarter",
     "r": 15,
     "name": "Sharon Carter",
     "icon": "./pics/series/falcon_winter/Sharon_Carter.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JackRollins",
     "r": 15,
     "name": "Jack Rollins",
     "icon": "./pics/captain_america/JackRollins.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Hawley",
     "r": 15,
     "name": "Hawley",
     "icon": "./pics/captain_america/Hawley.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Stern",
     "r": 15,
     "name": "Stern",
     "icon": "./pics/iron_man/Stern.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "GeorgesBatroc",
     "r": 15,
     "name": "Georges Batroc",
     "icon": "./pics/captain_america/GeorgesBatroc.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "WolfgangVonStrucker",
     "r": 15,
     "name": "Wolfgang von Strucker",
     "icon": "./pics/captain_america/WolfgangVonStrucker.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Zemo",
     "r": 15,
     "name": "Helmut Zemo",
     "icon": "./pics/series/falcon_winter/Baron_Zemo.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MariaStarke",
     "r": 15,
     "name": "MariaStarke",
     "icon": "./pics/iron_man/MariaStarke.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "EverettRoss",
     "r": 15,
     "name": "Everett Ross",
     "icon": "./pics/captain_america/EverettRoss.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Quicksilver",
     "r": 15,
     "name": "Pietro Maximoff - Quicksilver",
     "icon": "./pics/Quicksilver.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ScarletWitch",
     "r": 15,
     "name": "Wanda Maximoff - Scarlet Witch",
     "icon": "./pics/ScarletWitch.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TheOther",
     "r": 15,
     "name": "The Other",
     "icon": "./pics/thor/TheOther.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Thanos",
     "r": 15,
     "name": "Thanos",
     "icon": "./pics/guardians_ot_galaxy/Thanos.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "StarLord",
     "r": 15,
     "name": "Peter Quill - Star-Lord",
     "icon": "./pics/guardians_ot_galaxy/StarLord.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Gamora",
     "r": 15,
     "name": "Gamora",
     "icon": "./pics/guardians_ot_galaxy/Gamora.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Drax",
     "r": 15,
     "name": "Drax, the Destroyer",
     "icon": "./pics/guardians_ot_galaxy/Drax.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Groot",
     "r": 15,
     "name": "Groot",
     "icon": "./pics/guardians_ot_galaxy/Groot.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "RocketRaccoon",
     "r": 15,
     "name": "Rocket Raccoon",
     "icon": "./pics/guardians_ot_galaxy/RocketRacoon.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TivanTheCollector",
     "r": 15,
     "name": "Tivan, the Collector",
     "icon": "./pics/guardians_ot_galaxy/TivanTheCollector.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Carina",
     "r": 15,
     "name": "Carina",
     "icon": "./pics/guardians_ot_galaxy/Carina.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "RonanTheAccuser",
     "r": 15,
     "name": "Ronan, the Accuser",
     "icon": "./pics/guardians_ot_galaxy/RonanTheAccuser.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Yondu_Udonta",
     "r": 15,
     "name": "Yondu Udonta",
     "icon": "./pics/guardians_ot_galaxy/YonduUdonta.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Nebula",
     "r": 15,
     "name": "Nebula",
     "icon": "./pics/guardians_ot_galaxy/Nebula.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "KorathThePursuer",
     "r": 15,
     "name": "Korath the Pursuer",
     "icon": "./pics/guardians_ot_galaxy/KorathThePursuer.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Broker",
     "r": 15,
     "name": "Broker",
     "icon": "./pics/guardians_ot_galaxy/Broker.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MeredithQuill",
     "r": 15,
     "name": "Meredith Quill",
     "icon": "./pics/guardians_ot_galaxy/MeredithQuill.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JasonQuill",
     "r": 15,
     "name": "Jason Quill",
     "icon": "./pics/guardians_ot_galaxy/jason_quill.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "KraglinObfonteri",
     "r": 15,
     "name": "Kraglin Obfonteri",
     "icon": "./pics/guardians_ot_galaxy/KraglinObfonteri.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Vorker",
     "r": 15,
     "name": "Vorker",
     "icon": "./pics/guardians_ot_galaxy/Vorker.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HowardTheDuck",
     "r": 15,
     "name": "Howard the Duck",
     "icon": "./pics/guardians_ot_galaxy/HowardTheDuck.jpeg",
-    "universe": "mcu",
-    "labels": "phase2 phase3 phase5 whatif"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "LauraBarton",
     "r": 15,
     "name": "Laura Barton",
     "icon": "./pics/series/hawkeye/LauraBarton.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ultron",
     "r": 15,
     "name": "Ultron",
     "icon": "./pics/Ultron.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "UlyssesKlaue",
     "r": 15,
     "name": "Ulysses Klaue",
     "icon": "./pics/black_panther/UlyssesKlaue.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CooperBarton",
     "r": 15,
     "name": "Cooper Barton",
     "icon": "./pics/series/hawkeye/CooperBarton.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "LilaBarton",
     "r": 15,
     "name": "Lila Barton",
     "icon": "./pics/series/hawkeye/LilaBarton.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CameronKlein",
     "r": 15,
     "name": "Cameron Klein",
     "icon": "./pics/captain_america/CameronKlein.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "FRIDAY",
     "r": 15,
     "name": "F.R.I.D.A.Y.",
     "icon": "./pics/iron_man/FRIDAY.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "NathanielBarton",
     "r": 15,
     "name": "Nathaniel Barton",
     "icon": "./pics/series/hawkeye/NathanielBarton.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Vision",
     "r": 15,
     "name": "Vision",
     "icon": "./pics/Vision.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AntMan",
     "r": 15,
     "name": "Scott Lang - Ant-Man",
     "icon": "./pics/ant_man/AntMan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HankPym",
     "r": 15,
     "name": "Doctor Hank Pym",
     "icon": "./pics/ant_man/HankPym.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TheWasp",
     "r": 15,
     "name": "Hope van Dyne, The Wasp",
     "icon": "./pics/ant_man/TheWasp.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "YellowJacket",
     "r": 15,
     "name": "Darren Cross - Yellow Jacket",
     "icon": "./pics/ant_man/YellowJacket.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JimPaxton",
     "r": 15,
     "name": "Jim Paxton",
     "icon": "./pics/ant_man/JimPaxton.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Luis",
     "r": 15,
     "name": "Luis",
     "icon": "./pics/ant_man/Luis.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dave",
     "r": 15,
     "name": "Dave",
     "icon": "./pics/ant_man/Dave.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MaggieLang",
     "r": 15,
     "name": "Maggie Lang",
     "icon": "./pics/ant_man/MaggieLang.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Stature",
     "r": 15,
     "name": "Stature - Cassie Lang",
     "icon": "./pics/ant_man/CassieLang.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kurt",
     "r": 15,
     "name": "Kurt",
     "icon": "./pics/ant_man/Kurt.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JanetVanDyne",
     "r": 15,
     "name": "Janet van Dyne/Wasp",
     "icon": "./pics/ant_man/JanetVanDyne.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MODOK",
     "r": 15,
     "name": "M.O.D.O.K.",
     "icon": "./pics/ant_man/MODOK.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Krylar",
     "r": 15,
     "name": "Krylar",
     "icon": "./pics/ant_man/Krylar.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "DoctorStrange",
     "r": 15,
     "name": "Stephen Strange - Doctor Strange",
     "icon": "./pics/doctor_strange/DoctorStrange.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dormammu",
     "r": 15,
     "name": "Dormammu",
     "icon": "./pics/doctor_strange/Dormammu.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "KarlMordo",
     "r": 15,
     "name": "Karl Mordo",
     "icon": "./pics/doctor_strange/KarlMordo.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ChristinePalmer",
     "r": 15,
     "name": "Christine Palmer",
     "icon": "./pics/doctor_strange/ChristinePalmer.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Wong",
     "r": 15,
     "name": "Wong",
     "icon": "./pics/doctor_strange/Wong.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kaecilius",
     "r": 15,
     "name": "Kaecilius",
     "icon": "./pics/doctor_strange/Kaecilius.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AncientOne",
     "r": 15,
     "name": "Ancient One",
     "icon": "./pics/doctor_strange/AncientOne.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Mantis",
     "r": 15,
     "name": "Mantis",
     "icon": "./pics/guardians_ot_galaxy/Mantis.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ego",
     "r": 15,
     "name": "Ego",
     "icon": "./pics/guardians_ot_galaxy/Ego.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ayesha",
     "r": 15,
     "name": "Ayesha",
     "icon": "./pics/guardians_ot_galaxy/Ayesha.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Zylak",
     "r": 15,
     "name": "Zylak",
     "icon": "./pics/guardians_ot_galaxy/Zylak.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Taserface",
     "r": 15,
     "name": "Taserface",
     "icon": "./pics/guardians_ot_galaxy/Taserface.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Gef",
     "r": 15,
     "name": "Gef",
     "icon": "./pics/guardians_ot_galaxy/Gef.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Tullk",
     "r": 15,
     "name": "Tullk",
     "icon": "./pics/guardians_ot_galaxy/Tullk.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Retch",
     "r": 15,
     "name": "Retch",
     "icon": "./pics/guardians_ot_galaxy/Retch.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "StakarOgord",
     "r": 15,
     "name": "Stakar Ogord",
     "icon": "./pics/guardians_ot_galaxy/StakarOgord.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Charlie27",
     "r": 15,
     "name": "Charlie-27",
     "icon": "./pics/guardians_ot_galaxy/Charlie27.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AletaOgord",
     "r": 15,
     "name": "Aleta Ogord",
     "icon": "./pics/guardians_ot_galaxy/AletaOgord.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Martinex",
     "r": 15,
     "name": "Martinex",
     "icon": "./pics/guardians_ot_galaxy/Martinex.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Krugarr",
     "r": 15,
     "name": "Krugarr",
     "icon": "./pics/guardians_ot_galaxy/Krugarr.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Mainframe",
     "r": 15,
     "name": "Mainframe",
     "icon": "./pics/guardians_ot_galaxy/Mainframe.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Phyla",
     "r": 15,
     "name": "Phyla",
     "icon": "./pics/guardians_ot_galaxy/phyla.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Grandmaster",
     "r": 15,
     "name": "Grandmaster",
     "icon": "./pics/thor/Grandmaster.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Cosmo",
     "r": 15,
     "name": "Cosmo - The Space Dog",
     "icon": "./pics/guardians_ot_galaxy/cosmo.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Adam_Warlock",
     "r": 15,
     "name": "Adam Warlock",
     "icon": "./pics/guardians_ot_galaxy/Adam_Warlock.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "High_Evolutionary",
     "r": 15,
     "name": "Herbert Edgar Wyndham - High Evolutionary",
     "icon": "./pics/guardians_ot_galaxy/High_Evolutionary.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Executioner",
     "r": 15,
     "name": "Skurge - Executioner",
     "icon": "./pics/thor/Executioner.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Topaz",
     "r": 15,
     "name": "Topaz",
     "icon": "./pics/thor/Topaz.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Hela",
     "r": 15,
     "name": "Hela",
     "icon": "./pics/thor/Hela.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Korg",
     "r": 15,
     "name": "Korg",
     "icon": "./pics/thor/Korg.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Miek",
     "r": 15,
     "name": "Miek",
     "icon": "./pics/thor/Miek.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Surtur",
     "r": 15,
     "name": "Surtur",
     "icon": "./pics/thor/Surtur.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Valkyrie",
     "r": 15,
     "name": "Valkyrie",
     "icon": "./pics/thor/Valkyrie.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "SpiderMan",
     "r": 15,
     "name": "Peter Parker - Spider-Man",
     "icon": "./pics/spiderman/SpiderMan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BradDavis",
     "r": 15,
     "name": "Brad Davis",
     "icon": "./pics/spiderman/Brad_Davis.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MayParker",
     "r": 15,
     "name": "May Parker",
     "icon": "./pics/spiderman/MayParker.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Vulture",
     "r": 15,
     "name": "Adrian Toomes - Vulture",
     "icon": "./pics/spiderman/Vulture.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MichelleJones",
     "r": 15,
     "name": "Michelle Jones",
     "icon": "./pics/spiderman/MichelleJones.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Prowler",
     "r": 15,
     "name": "Aaron Davis - Prowler",
     "icon": "./pics/spiderman/Prowler.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "RogerHarrington",
     "r": 15,
     "name": "Roger Harrington",
     "icon": "./pics/spiderman/RogerHarrington.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Tinkerer",
     "r": 15,
     "name": "Phineas Mason - Tinkerer",
     "icon": "./pics/spiderman/Tinkerer.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "NedLeeds",
     "r": 15,
     "name": "Ned Leeds",
     "icon": "./pics/spiderman/NedLeeds.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "LizToomes",
     "r": 15,
     "name": "Liz Allan",
     "icon": "./pics/spiderman/LizAllan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "FlashThompson",
     "r": 15,
     "name": "Flash Thompson",
     "icon": "./pics/spiderman/FlashThompson.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Shocker",
     "r": 15,
     "name": "Herman Schultz - Shocker",
     "icon": "./pics/spiderman/Shocker.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Scorpion",
     "r": 15,
     "name": "Mac Gargan - Scorpion",
     "icon": "./pics/spiderman/Scorpion.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CindyMoon",
     "r": 15,
     "name": "Cindy Moon",
     "icon": "./pics/spiderman/CindyMoon.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AndreWilson",
     "r": 15,
     "name": "Andre Wilson",
     "icon": "./pics/spiderman/AndreWilson.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BettyBrant",
     "r": 15,
     "name": "Betty Brant",
     "icon": "./pics/spiderman/BettyBrant.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CharlesMurphy",
     "r": 15,
     "name": "Charles Murphy",
     "icon": "./pics/spiderman/CharlesMurphy.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Delmar",
     "r": 15,
     "name": "Delmar",
     "icon": "./pics/spiderman/Delmar.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JasonIonello",
     "r": 15,
     "name": "Jason Ionello",
     "icon": "./pics/spiderman/JasonIonello.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "SallyAvrill",
     "r": 15,
     "name": "Sally Avril",
     "icon": "./pics/spiderman/SallyAvrill.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TinyMcKeever",
     "r": 15,
     "name": "Tiny McKeever",
     "icon": "./pics/spiderman/TinyMcKeever.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Mysterio",
     "r": 15,
     "name": "Quentin Beck - Mysterio",
     "icon": "./pics/spiderman/Mysterio.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Tombstone",
     "r": 15,
     "name": "Tombstone",
     "icon": "./pics/spiderman/Tombstone.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JuliusDell",
     "r": 15,
     "name": "Julius Dell",
     "icon": "./pics/spiderman/Julius_Dell.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "PatKiernan",
     "r": 15,
     "name": "Pat Kiernan",
     "icon": "./pics/spiderman/Patkiernan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase1 phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JJonahJameson",
     "r": 15,
     "name": "J. Jonah Jameson",
     "icon": "./pics/spiderman/J._Jonah_Jameson.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "WilliamGinterRiva",
     "r": 15,
     "name": "William Ginter Riva",
     "icon": "./pics/spiderman/William_Ginter_Riva.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Seamstress",
     "r": 15,
     "name": "Seamstress",
     "icon": "./pics/spiderman/Seamstress.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Jean_DeWolff",
     "r": 15,
     "name": "Jean DeWolff",
     "icon": "./pics/spiderman/Jean_DeWolff.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Bill_Metzger",
     "r": 15,
     "name": "Bill Metzger",
     "icon": "./pics/spiderman/Bill_Metzger.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BlackPanther",
     "r": 15,
     "name": "T'Challa - Black Panther",
     "icon": "./pics/black_panther/BlackPanther.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Killmonger",
     "r": 15,
     "name": "N'Jadaka - Erik Stevens - Killmonger",
     "icon": "./pics/black_panther/Killmonger.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Nakia",
     "r": 15,
     "name": "Nakia",
     "icon": "./pics/black_panther/Nakia.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Okoye",
     "r": 15,
     "name": "Okoye",
     "icon": "./pics/black_panther/Okoye.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "WKabi",
     "r": 15,
     "name": "W'Kabi",
     "icon": "./pics/black_panther/WKabi.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Shuri",
     "r": 15,
     "name": "Shuri",
     "icon": "./pics/black_panther/Shuri.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Shuri_Black_Panther",
     "r": 15,
     "name": "Shuri - Black Panther",
     "icon": "./pics/black_panther/Shuri.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MBaku",
     "r": 15,
     "name": "M'Baku",
     "icon": "./pics/black_panther/MBaku.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ramonda",
     "r": 15,
     "name": "Ramonda",
     "icon": "./pics/black_panther/Ramonda.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Zuri",
     "r": 15,
     "name": "Zuri",
     "icon": "./pics/black_panther/Zuri.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "NJobu",
     "r": 15,
     "name": "N'Jobu",
     "icon": "./pics/black_panther/NJobu.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ayo",
     "r": 15,
     "name": "Ayo",
     "icon": "./pics/series/falcon_winter/Ayo.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TChaka",
     "r": 15,
     "name": "T'Chaka",
     "icon": "./pics/black_panther/TChaka.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Yama",
     "r": 15,
     "name": "Yama",
     "icon": "./pics/black_panther/Yama.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Nomble",
     "r": 15,
     "name": "Nomble",
     "icon": "./pics/black_panther/Nomble.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Namor",
     "r": 15,
     "name": "Namor",
     "icon": "./pics/black_panther/Namor.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Eitri",
     "r": 15,
     "name": "Eitri",
     "icon": "./pics/avengers/Eitri.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "EbonyMaw",
     "r": 15,
     "name": "Ebony Maw",
     "icon": "./pics/avengers/EbonyMaw.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ProximaMidnight",
     "r": 15,
     "name": "Proxima Midnight",
     "icon": "./pics/avengers/ProximaMidnight.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CorvusGlaive",
     "r": 15,
     "name": "Corvus Glaive",
     "icon": "./pics/avengers/CorvusGlaive.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CullObsidian",
     "r": 15,
     "name": "Cull Obsidian",
     "icon": "./pics/avengers/CullObsidian.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BillFoster",
     "r": 15,
     "name": "Bill Foster",
     "icon": "./pics/ant_man/BillFoster.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ghost",
     "r": 15,
     "name": "Ava Starr - Ghost",
     "icon": "./pics/ant_man/Ghost.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JimmyWoo",
     "r": 15,
     "name": "Agent Jimmy Woo",
     "icon": "./pics/ant_man/JimmyWoo.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase2 phase3 phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "SonnyBurch",
     "r": 15,
     "name": "Sonny Burch",
     "icon": "./pics/ant_man/SonnyBurch.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "CaptainMarvel",
     "r": 15,
     "name": "Carol Danvers - Captain Marvel",
     "icon": "./pics/captain_marvel/CaptainMarvel.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Talos",
     "r": 15,
     "name": "Talos / Director Keller",
     "icon": "./pics/captain_marvel/Talos.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MariaRambeau",
     "r": 15,
     "name": "Maria Rambeau",
     "icon": "./pics/captain_marvel/MariaRambeau.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MonicaRambeau",
     "r": 15,
     "name": "Monica Rambeau - Photon",
     "icon": "./pics/captain_marvel/MonicaRambeau.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "AttLass",
     "r": 15,
     "name": "Att-Lass",
     "icon": "./pics/captain_marvel/AttLass.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "YonRogg",
     "r": 15,
     "name": "Yon-Rogg",
     "icon": "./pics/captain_marvel/YonRogg.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MarVell",
     "r": 15,
     "name": "Mar-Vell",
     "icon": "./pics/captain_marvel/MarVell.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "SupremeIntelligence",
     "r": 15,
     "name": "Supreme Intelligence",
     "icon": "./pics/captain_marvel/SupremeIntelligence.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MinnErva",
     "r": 15,
     "name": "Minn-Erva",
     "icon": "./pics/captain_marvel/MinnErva.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BronChar",
     "r": 15,
     "name": "Bron-Char",
     "icon": "./pics/captain_marvel/BronChar.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Soren",
     "r": 15,
     "name": "Soren",
     "icon": "./pics/captain_marvel/Soren.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Goose",
     "r": 15,
     "name": "Goose",
     "icon": "./pics/captain_marvel/Goose.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MorganStark",
     "r": 15,
     "name": "MorganStark",
     "icon": "./pics/avengers/MorganStark.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "EdwinJarvis",
     "r": 15,
     "name": "Edwin Jarvis",
     "icon": "./pics/avengers/EdwinJarvis.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase3"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Agatha",
     "r": 15,
     "name": "Agatha Harkness \/ Agnes",
     "icon": "./pics/series/wandavision/Agatha_Harkness.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "TylerHayward",
     "r": 15,
     "name": "Tyler Hayward",
     "icon": "./pics/series/wandavision/Tyler_Hayward.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sharon_Davis",
     "r": 15,
     "name": "Sharon Davis - Mrs. Hart",
     "icon": "./pics/series/wandavision/Mrs_Hart.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sarah_Proctor",
     "r": 15,
     "name": "Sarah Proctor - Dottie Jones",
     "icon": "./pics/series/wandavision/Dottie_Jones.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Harold_Proctor",
     "r": 15,
     "name": "Harold Proctor - Phil Jones",
     "icon": "./pics/series/wandavision/Phil_Jones.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "John_Collins",
     "r": 15,
     "name": "John Collins - Herb",
     "icon": "./pics/series/wandavision/Herb.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Abilash_Tandon",
     "r": 15,
     "name": "Abilash Tandon - Norm",
     "icon": "./pics/series/wandavision/Norm.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dennis_Delivery_Man",
     "r": 15,
     "name": "Dennis, the Delivery Man",
     "icon": "./pics/series/wandavision/Dennis.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Wiccan",
     "r": 15,
     "name": "Wiccan - Billy Maximoff / William Kaplan",
     "icon": "./pics/series/wandavision/Billy.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Speed",
     "r": 15,
     "name": "Speed - Tommy Maximov",
     "icon": "./pics/series/wandavision/Tommy.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
 
   {
@@ -1716,280 +1502,245 @@
     "r": 15,
     "name": "John Walker - U.S. Agent",
     "icon": "./pics/series/falcon_winter/US_Agent.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Karli",
     "r": 15,
     "name": "Karli Morgenthau",
     "icon": "./pics/series/falcon_winter/Karli.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Joaquin_Torres",
     "r": 15,
     "name": "Joaquin Torres",
     "icon": "./pics/series/falcon_winter/Joaquin_Torres.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Battlestar",
     "r": 15,
     "name": "Lemar Hoskins - Battlestar",
     "icon": "./pics/series/falcon_winter/Battlestar.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Isaiah_Bradley",
     "r": 15,
     "name": "Isaiah Bradley",
     "icon": "./pics/series/falcon_winter/Isaiah_Bradley.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Mobius",
     "r": 15,
     "name": "Mobius",
     "icon": "./pics/series/loki/Mobius_M._Mobius.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "PresidentLoki",
     "r": 15,
     "name": "President Loki",
     "icon": "./pics/series/loki/President_Loki.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "SylvieLaufeydottir",
     "r": 15,
     "name": "Sylvie Laufeydottir",
     "icon": "./pics/series/loki/Sylvie.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "RavonnaRenslayer",
     "r": 15,
     "name": "Ravonna Renslayer",
     "icon": "./pics/series/loki/Judge_Renslayer.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HunterB-15",
     "r": 15,
     "name": "Hunter B-15",
     "icon": "./pics/series/loki/Hunter_B15.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HunterK-5E",
     "r": 15,
     "name": "Casey - Hunter K-5E",
     "icon": "./pics/series/loki/Casey.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HunterC-20",
     "r": 15,
     "name": "Hunter C-20",
     "icon": "./pics/series/loki/Hunter_C-20.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "KidLoki",
     "r": 15,
     "name": "Kid Loki",
     "icon": "./pics/series/loki/Kid_Loki.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "BoastfulLoki",
     "r": 15,
     "name": "Boastful Loki",
     "icon": "./pics/series/loki/Boastful_Loki.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MissMinutes",
     "r": 15,
     "name": "Miss Minutes",
     "icon": "./pics/series/loki/Miss_Minutes.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "ClassicLoki",
     "r": 15,
     "name": "ClassicLoki",
     "icon": "./pics/series/loki/Classic_Loki.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HunterD-90",
     "r": 15,
     "name": "HunterD-90",
     "icon": "./pics/series/loki/Hunter_D-90.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HeWhoRemains",
     "r": 15,
     "name": "He, who remains",
     "icon": "./pics/series/loki/Kang.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "OB",
     "r": 15,
     "name": "Ouroborus",
     "icon": "./pics/series/loki/OBLoki.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "HunterX-5",
     "r": 15,
     "name": "Brad Wolfe - Hunter X-5",
     "icon": "./pics/series/loki/X5.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "General_Dox",
     "r": 15,
     "name": "General Dox",
     "icon": "./pics/series/loki/Dox.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Judge_Gamble",
     "r": 15,
     "name": "Judge Gamble",
     "icon": "./pics/series/loki/Judge_Gamble.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "McDonalds_Jack",
     "r": 15,
     "name": "Jack, McDonalds Manager",
     "icon": "./pics/series/loki/Jack_McDonalds.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Victor_Timely",
     "r": 15,
     "name": "Victor Timely",
     "icon": "./pics/series/loki/Victor_Timely.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kang",
     "r": 15,
     "name": "Kang",
     "icon": "./pics/ant_man/Kang.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "YelenaBelova",
     "r": 15,
     "name": "Yelena Belova",
     "icon": "./pics/black_widow/YelenaBelova.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "MelinaVostokoff",
     "r": 15,
     "name": "Melina Vostokoff",
     "icon": "./pics/black_widow/MelinaVostokoff.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "RedGuardian",
     "r": 15,
     "name": "Alexei Shostakov - Red Guardian",
     "icon": "./pics/black_widow/RedGuardian.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dreykov",
     "r": 15,
     "name": "Dreykov",
     "icon": "./pics/black_widow/Dreykov.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Rick_Mason",
     "r": 15,
     "name": "Rick Mason",
     "icon": "./pics/black_widow/Rick_Mason.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Task_Master",
     "r": 15,
     "name": "Task Master",
     "icon": "./pics/black_widow/Task_Master.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Val",
     "r": 15,
     "name": "Contessa Valentina Allegra de Fontaine",
     "icon": "./pics/black_widow/Val.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Watcher",
     "r": 15,
     "name": "Uatu, The Watcher",
     "icon": "./pics/series/what_if/Uatu_the_Watcher.jpeg",
-    "type": "character", "universe": "whatif",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "whatif"
   },
   {
     "label": "HowardTheDuck_WI",
     "r": 15,
     "name": "Howard the Duck",
     "icon": "./pics/series/what_if/howard_the_duck_WI.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Captain_Carter",
     "r": 15,
     "name": "Peggy Carter - Captain Carter",
     "icon": "./pics/series/what_if/Captain_Carter.jpeg",
-    "type": "character", "universe": "whatif",
-    "labels": "phase4 phase5 phase6"
+    "type": "character", "universe": "whatif"
   },
   {
     "label": "Bucky_Barns_WI",
@@ -2164,735 +1915,641 @@
     "r": 15,
     "name": "Shang-Chi - Shaun",
     "icon": "./pics/shang_chi/Shang-Chi.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "KatyChen",
     "r": 15,
     "name": "Katy Chen",
     "icon": "./pics/shang_chi/Katy.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Xialing",
     "r": 15,
     "name": "Xialing",
     "icon": "./pics/shang_chi/Xialing.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "YingLi",
     "r": 15,
     "name": "Ying Li",
     "icon": "./pics/shang_chi/Jiang_Li.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "RazorFist",
     "r": 15,
     "name": "Razor Fist",
     "icon": "./pics/shang_chi/Razor_Fist.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "YingNan",
     "r": 15,
     "name": "Ying Nan",
     "icon": "./pics/shang_chi/Jiang_Nan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Mandarin",
     "r": 15,
     "name": "Wenwu - Mandarin",
     "icon": "./pics/shang_chi/Wenwu.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "JonJon",
     "r": 15,
     "name": "Jon Jon",
     "icon": "./pics/shang_chi/Jon_Jon.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "DeathDealer",
     "r": 15,
     "name": "Death Dealer",
     "icon": "./pics/shang_chi/Death_Dealer.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sersi",
     "r": 15,
     "name": "Sersi",
     "icon": "./pics/eternals/Sersi.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ikaris",
     "r": 15,
     "name": "Ikaris",
     "icon": "./pics/eternals/Ikaris.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kingo",
     "r": 15,
     "name": "Kingo",
     "icon": "./pics/eternals/Kingo.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sprite",
     "r": 15,
     "name": "Sprite",
     "icon": "./pics/eternals/Sprite.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Phastos",
     "r": 15,
     "name": "Phastos",
     "icon": "./pics/eternals/Phastos.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Makkari",
     "r": 15,
     "name": "Makkari",
     "icon": "./pics/eternals/Makkari.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Druig",
     "r": 15,
     "name": "Druig",
     "icon": "./pics/eternals/Druig.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Gilgamesh",
     "r": 15,
     "name": "Gilgamesh",
     "icon": "./pics/eternals/Gilgamesh.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Black_Knight",
     "r": 15,
     "name": "Dane Whitman - Black Knight",
     "icon": "./pics/eternals/Black_Knight.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ajak",
     "r": 15,
     "name": "Ajak",
     "icon": "./pics/eternals/Ajak.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Thena",
     "r": 15,
     "name": "Thena",
     "icon": "./pics/eternals/Thena.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Karun",
     "r": 15,
     "name": "Karun",
     "icon": "./pics/eternals/Karun.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "General_Kro",
     "r": 15,
     "name": "General Kro",
     "icon": "./pics/eternals/Kro.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kate_Bishop",
     "r": 15,
     "name": "Kate Bishop",
     "icon": "./pics/series/hawkeye/KateBishop.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Eleanor_Bishop",
     "r": 15,
     "name": "Eleanor Bishop",
     "icon": "./pics/series/hawkeye/Eleanor_Bishop.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Derek_Bishop",
     "r": 15,
     "name": "Derek Bishop",
     "icon": "./pics/series/hawkeye/Derek_Bishop.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Echo",
     "r": 15,
     "name": "Maya Lopez - Echo",
     "icon": "./pics/series/hawkeye/Echo.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Jack_Duquesne",
     "r": 15,
     "name": "Jack Duquesne - Swordsman",
     "icon": "./pics/series/hawkeye/Jack_Duquesne.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Armand_Duquesne",
     "r": 15,
     "name": "Armand Duquesne III",
     "icon": "./pics/series/hawkeye/Armand_Duquesne.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kazi",
     "r": 15,
     "name": "Kazimierz Kazimierczak - Clown",
     "icon": "./pics/series/hawkeye/Clown.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ivan_Banionis",
     "r": 15,
     "name": "Ivan Banionis",
     "icon": "./pics/series/hawkeye/Ivan_Banionis.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Tomas",
     "r": 15,
     "name": "Tomas",
     "icon": "./pics/series/hawkeye/Tomas.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "William_Lopez",
     "r": 15,
     "name": "William Lopez",
     "icon": "./pics/series/hawkeye/William_Lopez.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Enrique",
     "r": 15,
     "name": "Enrique",
     "icon": "./pics/series/hawkeye/Enrique.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Grills",
     "r": 15,
     "name": "Grills",
     "icon": "./pics/series/hawkeye/Grills.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kingpin",
     "r": 15,
     "name": "Wilson Fisk - Kingpin",
     "icon": "./pics/series/hawkeye/Kingpin.jpeg",
-    "type": "character", "universe": "netflix mcu",
-    "labels": "phase4 phase5 phase6"
+    "type": "character", "universe": "netflix mcu"
   },
   {
     "label": "Moon_Knight",
     "r": 15,
     "name": "Marc Spector - Moon Knight",
     "icon": "./pics/series/moon_knight/Moon_Knight.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Khonshu",
     "r": 15,
     "name": "Khonshu",
     "icon": "./pics/series/moon_knight/khonshu.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Layla",
     "r": 15,
     "name": "Layla El-Faouly - Scarlet Scarab",
     "icon": "./pics/series/moon_knight/Layla_El_Faouly.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Arthur_Harrow",
     "r": 15,
     "name": "Arthur Harrow",
     "icon": "./pics/series/moon_knight/Arthur_Harrow.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Tawaret",
     "r": 15,
     "name": "Tawaret",
     "icon": "./pics/series/moon_knight/Tawaret.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Donna",
     "r": 15,
     "name": "Donna",
     "icon": "./pics/series/moon_knight/Donna.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Anthon_Mogart",
     "r": 15,
     "name": "Anthon Mogart",
     "icon": "./pics/series/moon_knight/Midnight_Man.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "America_Chavez",
     "r": 15,
     "name": "America Chavez",
     "icon": "./pics/doctor_strange/America_Chavez.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Gargantos",
     "r": 15,
     "name": "Gargantos",
     "icon": "./pics/doctor_strange/Gargantos.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Hamir",
     "r": 15,
     "name": "Hamir",
     "icon": "./pics/doctor_strange/Hamir.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Rintrah",
     "r": 15,
     "name": "Rintrah",
     "icon": "./pics/doctor_strange/Rintrah.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Defender_Strange",
     "r": 15,
     "name": "Defender Strange",
     "icon": "./pics/doctor_strange/Defender_Strange.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Strange_Supreme",
     "r": 15,
     "name": "Strange Supreme",
     "icon": "./pics/doctor_strange/Strange_Supreme.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Professor_X",
     "r": 15,
     "name": "Professor X",
     "icon": "./pics/doctor_strange/Professor_X.jpeg",
-    "type": "character", "universe": "fox mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "fox mcu"
   },
   {
     "label": "BaronMordo",
     "r": 15,
     "name": "Baron Mordo",
     "icon": "./pics/doctor_strange/baron_mordo.jpeg",
-    "type": "character", "universe": "_838 mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "_838 mcu"
   },
   {
     "label": "Mister_Fantastic_838",
     "r": 15,
     "name": "Reed Richards - Mister Fantastic",
     "icon": "./pics/doctor_strange/Reed_Richards.jpeg",
-    "type": "character", "universe": "_838",
-    "labels": "phase4"
+    "type": "character", "universe": "_838"
   },
   {
     "label": "838_Black_Bolt",
     "r": 15,
     "name": "Blackagar Boltagon - Black Bolt",
     "icon": "./pics/doctor_strange/black_bolt.jpeg",
-    "type": "character", "universe": "_838",
-    "labels": "phase4"
+    "type": "character", "universe": "_838"
   },
   {
     "label": "Captain_Marvel_Rambeau",
     "r": 15,
     "name": "Maria Rambeau - Captain Marvel",
     "icon": "./pics/doctor_strange/Maria_Rambeau_Captain_Marvel.jpeg",
-    "type": "character", "universe": "_838",
-    "labels": "phase4"
+    "type": "character", "universe": "_838"
   },
   {
     "label": "Binary",
     "r": 15,
     "name": "Maria Rambeau - Binary",
     "icon": "./pics/the_marvels/Binary.jpeg",
-    "type": "character", "universe": "fox",
-    "labels": "phase5"
+    "type": "character", "universe": "fox"
   },
   {
     "label": "Prince_Yan",
     "r": 15,
     "name": "Prince Yan",
     "icon": "./pics/the_marvels/Prince_Yan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dar_Benn",
     "r": 15,
     "name": "Dar-Benn",
     "icon": "./pics/the_marvels/Dar_Benn.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "838_Palmer",
     "r": 15,
     "name": "Doctor Palmer (838)",
     "icon": "./pics/doctor_strange/838_Palmer.jpeg",
-    "type": "character", "universe": "_838",
-    "labels": "phase4"
+    "type": "character", "universe": "_838"
   },
   {
     "label": "838_Wanda",
     "r": 15,
     "name": "Wanda Maximov (838)",
     "icon": "./pics/doctor_strange/838_Wanda.jpg",
-    "type": "character", "universe": "_838",
-    "labels": "phase4"
+    "type": "character", "universe": "_838"
   },
   {
     "label": "Ms_Marvel",
     "r": 15,
     "name": "Kamala Khan - Ms. Marvel",
     "icon": "./pics/series/msmarvel/Kamala.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Bruno_Carrelli",
     "r": 15,
     "name": "Bruno Carrelli",
     "icon": "./pics/series/msmarvel/Bruno_Carrelli.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Nakia_Bahadir",
     "r": 15,
     "name": "Nakia Bahadir",
     "icon": "./pics/series/msmarvel/Nakia_Bahadir.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Muneeba_Khan",
     "r": 15,
     "name": "Muneeba Khan",
     "icon": "./pics/series/msmarvel/Muneeba_Khan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Yusuf_Khan",
     "r": 15,
     "name": "Yusuf Khan",
     "icon": "./pics/series/msmarvel/Yusuf_Khan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Aamir_Khan",
     "r": 15,
     "name": "Aamir Khan",
     "icon": "./pics/series/msmarvel/Aamir_Khan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Zoe_Zimmer",
     "r": 15,
     "name": "Zoe Zimmer",
     "icon": "./pics/series/msmarvel/Zoe_Zimmer.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Kamran",
     "r": 15,
     "name": "Kamran",
     "icon": "./pics/series/msmarvel/Kamran.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Agent_Cleary",
     "r": 15,
     "name": "Agent Cleary",
     "icon": "./pics/series/msmarvel/Agent_Cleary.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sadie_Deever",
     "r": 15,
     "name": "Sadie Deever",
     "icon": "./pics/series/msmarvel/Sadie_Deever.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Najma",
     "r": 15,
     "name": "Najma",
     "icon": "./pics/series/msmarvel/Najma.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Tyesha_Hillman",
     "r": 15,
     "name": "Tyesha Hillman",
     "icon": "./pics/series/msmarvel/Tyesha_Hillman.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Gorr",
     "r": 15,
     "name": "Gorr, the God Butcher",
     "icon": "./pics/thor/Gorr.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Love",
     "r": 15,
     "name": "Love, Daughter of Gorr",
     "icon": "./pics/thor/Love.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Zeus",
     "r": 15,
     "name": "Zeus, God of War",
     "icon": "./pics/thor/Zeus.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "She_Hulk",
     "r": 15,
     "name": "Jennifer Walters - She-Hulk",
     "icon": "./pics/series/shehulk/shehulk.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Titania",
     "r": 15,
     "name": "Titania",
     "icon": "./pics/series/shehulk/Titania.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Namora",
     "name": "Namora",
     "icon": "./pics/black_panther/Namora.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Attuma",
     "name": "Attuma",
     "icon": "./pics/black_panther/Attuma.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Aneka",
     "r": 15,
     "name": "Aneka",
     "icon": "./pics/black_panther/Aneka.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ironheart",
     "name": "Riri Williams Ironheart",
     "icon": "./pics/series/ironheart/Ironheart.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "The_Hood",
     "name": "The Hood",
     "icon": "./pics/series/ironheart/The_Hood.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Blade",
     "name": "Blade",
     "icon": "./pics/blade/Blade.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Jack_Russell",
     "name": "Jack Russell",
     "icon": "./pics/series/werewolf_by_night/Jack_Russell.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Elsa_Bloodstone",
     "name": "Elsa Bloodstone",
     "icon": "./pics/series/werewolf_by_night/Elsa_Bloodstone.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Verussa_Bloodstone",
     "name": "Verussa Bloodstone",
     "icon": "./pics/series/werewolf_by_night/Verussa_Bloodstone.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Joshua_Jovan",
     "name": "Joshua Jovan",
     "icon": "./pics/series/werewolf_by_night/Joshua_Jovan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Azarel",
     "name": "Azarel",
     "icon": "./pics/series/werewolf_by_night/Azarel.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Liorn",
     "name": "Liorn",
     "icon": "./pics/series/werewolf_by_night/Liorn.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Barasso",
     "name": "Barasso",
     "icon": "./pics/series/werewolf_by_night/Barasso.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Swan",
     "name": "Swan",
     "icon": "./pics/series/werewolf_by_night/Swan.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Man_Thing",
     "name": "Ted Sallis - Man-Thing",
     "icon": "./pics/series/werewolf_by_night/Man_Thing.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sidewinder",
     "name": "Sidewinder",
     "icon": "./pics/captain_america/Sidewinder.png",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sentry",
     "name": "Robert Reynolds - Sentry",
     "icon": "./pics/thunderbolts/Sentry.png",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Paladin",
     "name": "Paladin",
     "icon": "./pics/series/vision_quest/Paladin.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
 
   },
   {
     "label": "Jocasta",
     "name": "Jocasta",
     "icon": "./pics/series/vision_quest/Jocasta.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
 
   },
   {
@@ -2949,16 +2606,14 @@
     "r": 15,
     "name": "Gravik",
     "icon": "./pics/series/secret_invasion/Gravik.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Priscilla_Fury",
     "r": 15,
     "name": "Priscilla_Fury",
     "icon": "./pics/series/secret_invasion/Priscilla_Fury.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
 
   {
@@ -2966,103 +2621,90 @@
     "r": 15,
     "name": "Ritson",
     "icon": "./pics/series/secret_invasion/Ritson.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4 phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Giah",
     "r": 15,
     "name": "Giah",
     "icon": "./pics/series/secret_invasion/Giah.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sonya_Falsworth",
     "r": 15,
     "name": "Sonya Falsworth",
     "icon": "./pics/series/secret_invasion/Sonya_Falsworth.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Lilia_Calderu",
     "r": 15,
     "name": "Lilia Calderu",
     "icon": "./pics/series/agatha_all_along/Lilia_Calderu.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Rio_Vidal",
     "r": 15,
     "name": "Rio Vidal - Death",
     "icon": "./pics/series/agatha_all_along/Death.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Jennifer_Kale",
     "r": 15,
     "name": "Jennifer Kale",
     "icon": "./pics/series/agatha_all_along/Jennifer_Kale.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Vertigo",
     "r": 15,
     "name": "Vertigo",
     "icon": "./pics/series/agatha_all_along/Vertigo.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Ralph_Bohner",
     "r": 15,
     "name": "Ralph Bohner",
     "icon": "./pics/series/wandavision/Ralph_Bohner.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase4"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "White_Vision",
     "name": "White Vision",
     "icon": "./pics/series/wandavision/White_Vision.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Alice_Gulliver",
     "r": 15,
     "name": "Alice Wu-Gulliver",
     "icon": "./pics/series/agatha_all_along/Alice_Gulliver.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Sabra",
     "r": 15,
     "name": "Ruth Bat-Seraph - Sabra",
     "icon": "./pics/captain_america/sabra.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Daredevil",
     "r": 15,
     "name": "Matt Murdock - Daredevil",
     "icon": "./pics/netflix/daredevil/Daredevil.jpeg",
-    "type": "character", "universe": "netflix, mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Punisher",
     "r": 15,
     "name": "Frank Castle - Punisher",
     "icon": "./pics/netflix/daredevil/Punisher.jpeg",
-    "type": "character", "universe": "netflix, mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Claire_Temple",
@@ -3076,160 +2718,140 @@
     "r": 15,
     "name": "Karen Page",
     "icon": "./pics/netflix/daredevil/Karen_Page.jpeg",
-    "type": "character", "universe": "netflix, mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Foggy_Nelson",
     "r": 15,
     "name": "Foggy Nelson",
     "icon": "./pics/series/daredevil/Foggy.png",
-    "type": "character", "universe": "netflix, mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Vanessa_Fisk",
     "r": 15,
     "name": "Vanessa Marianna-Fisk",
     "icon": "./pics/series/daredevil/Vanessa.png",
-    "type": "character", "universe": "netflix, mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Poindexter",
     "r": 15,
     "name": "Benjami 'Dex' Poindexter - Bullseye",
     "icon": "./pics/series/daredevil/Poindexter.png",
-    "type": "character", "universe": "netflix, mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "netflix, mcu"
   },
   {
     "label": "Sheila_Rivera",
     "r": 15,
     "name": "Sheila Rivera",
     "icon": "./pics/series/daredevil/Sheila_Rivera.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5 phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Mephisto",
     "r": 15,
     "name": "Mephisto",
     "icon": "./pics/series/ironheart/Mephisto.png",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Zelma",
     "r": 15,
     "name": "Zelma",
     "icon": "./pics/series/ironheart/Zelma.png",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Zeke_Stane",
     "r": 15,
     "name": "Zeke Stane",
     "icon": "./pics/series/ironheart/Zeke_Stane.png",
-    "type": "character", "universe": "mcu",
-    "labels": "phase5"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Mister_Fantastic_828",
     "r": 15,
     "name": "Reed Richards - Mister Fantastic",
     "icon": "./pics/fantastic_four/reed_richards.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Invisible_Woman_828",
     "r": 15,
     "name": "Sue Storm - The Invisible Woman",
     "icon": "./pics/fantastic_four/sue_storm.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Human_Torch_828",
     "r": 15,
     "name": "Johnny Storm - The Human Torch",
     "icon": "./pics/fantastic_four/johnny_storm.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Thing_828",
     "r": 15,
     "name": "Ben Grimm - The Thing",
     "icon": "./pics/fantastic_four/ben_grimm.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Silver_Surfer_828",
     "r": 15,
     "name": "Shalla-Bal - Silver Surfer",
     "icon": "./pics/fantastic_four/silver_surfer.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Galactus_828",
     "r": 15,
     "name": "Galactus",
     "icon": "./pics/fantastic_four/galactus.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Herbie_828",
     "r": 15,
     "name": "Herbie",
     "icon": "./pics/fantastic_four/herbie.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Mole_Man_828",
     "r": 15,
     "name": "Mole Man",
     "icon": "./pics/fantastic_four/mole_man.jpg",
-    "type": "character", "universe": "_828",
-    "labels": "phase6"
+    "type": "character", "universe": "_828"
   },
   {
     "label": "Wonder_Man",
     "r": 15,
     "name": "Simon Williams - Wonder Man",
     "icon": "./pics/series/wonder_man/Wonder_Man.jpeg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Jean_Grey_616",
     "r": 15,
     "name": "Jean Grey",
     "icon": "./pics/xmen/jean_grey.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dr_Doom",
     "r": 15,
     "name": "Victor Von Doom",
     "icon": "./pics/avengers/dr_doom.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Jessica_Jones",
     "r": 15,
     "name": "Jessica Jones",
     "icon": "./pics/netflix/jessica_jones/Jessica_Jones.jpeg",
-    "type": "character", "universe": "netflix",
-    "labels": "phase6"
+    "type": "character", "universe": "netflix"
   },
   {
     "label": "Kilgrave",
@@ -3363,8 +2985,7 @@
     "r": 15,
     "name": "Hank McCoy - Beast",
     "icon": "./pics/fox/Beast.jpeg",
-    "type": "character", "universe": "fox",
-    "labels": "phase6"
+    "type": "character", "universe": "fox"
   },
   {
     "label": "Young_Prof_X",
@@ -3378,8 +2999,7 @@
     "r": 15,
     "name": "Magneto",
     "icon": "./pics/fox/magneto.jpg",
-    "type": "character", "universe": "fox",
-    "labels": "phase6"
+    "type": "character", "universe": "fox"
   },
   {
     "label": "Jean_Grey_Famke_Janssen",
@@ -3400,8 +3020,7 @@
     "r": 15,
     "name": "Scott Summers - Cyclops",
     "icon": "./pics/fox/cyclops_James_Marsden.jpeg",
-    "type": "character", "universe": "fox",
-    "labels": "phase6"
+    "type": "character", "universe": "fox"
   },
   {
     "label": "Cyclops_TimPocock",
@@ -3471,8 +3090,7 @@
     "r": 15,
     "name": "Raven Darkholme - Mystique",
     "icon": "./pics/fox/Mystique_Rebecca_Romijn_Stamos.jpeg",
-    "type": "character", "universe": "fox",
-    "labels": "phase6"
+    "type": "character", "universe": "fox"
   },
   {
     "label": "Mystique_Jennifer_Lawrence",
@@ -3486,8 +3104,7 @@
     "r": 15,
     "name": "Kurt Wagner - Nightcrawler",
     "icon": "./pics/fox/nightcrawler_alan_cumming.jpg",
-    "type": "character", "universe": "fox",
-    "labels": "phase6"
+    "type": "character", "universe": "fox"
   },
   {
     "label": "Nightcrawler_Kodi_SmitMcPhee",
@@ -3515,8 +3132,7 @@
     "r": 15,
     "name": "Wade Wilson - Deadpool",
     "icon": "./pics/deadpool/deadpool.jpeg",
-    "type": "character", "universe": "fox",
-    "labels": "phase6"
+    "type": "character", "universe": "fox"
   },
   {
     "label": "Vanessa",
@@ -3705,8 +3321,7 @@
     "r": 15,
     "name": "Gambit - Remi LeBeau",
     "icon": "./pics/deadpool/gambit.jpg",
-    "type": "character", "universe": "mcu",
-    "labels": "phase6"
+    "type": "character", "universe": "mcu"
   },
   {
     "label": "Dagger",
