@@ -462,18 +462,18 @@ function dragended(d) {
 }
 
 // Toggle event listeners
-d3.selectAll(".filter").on("change", () => {
+d3.selectAll(".filter").on("change", function() {
     enforceFilterDependencies();
     updateGraph();
 });
 
-function setCheckboxState(id, disabled) {
+function setCheckboxDisabled(id) {
     const checkbox = document.getElementById(id);
-    if (!checkbox) { return; }
-    checkbox.disabled = disabled;
-    if (disabled) {
-        checkbox.checked = false;
+    if (!checkbox) {
+        return;
     }
+    checkbox.disabled = true;
+    checkbox.checked = false;
 }
 
 function setDependentState(groupKey, dependentIds, disabled) {
@@ -484,17 +484,18 @@ function setDependentState(groupKey, dependentIds, disabled) {
     dependentIds.forEach(id => {
         const checkbox = document.getElementById(id);
         if (!checkbox) { return; }
+        const wasDisabled = checkbox.disabled;
 
         if (disabled) {
-            if (!checkbox.disabled) {
+            if (!wasDisabled) {
                 dependencyStateMemory[groupKey][id] = checkbox.checked;
             }
-            setCheckboxState(id, true);
+            setCheckboxDisabled(id);
             return;
         }
 
         checkbox.disabled = false;
-        if (Object.prototype.hasOwnProperty.call(dependencyStateMemory[groupKey], id)) {
+        if (wasDisabled && Object.prototype.hasOwnProperty.call(dependencyStateMemory[groupKey], id)) {
             checkbox.checked = dependencyStateMemory[groupKey][id];
         }
     });
@@ -506,11 +507,9 @@ function enforceFilterDependencies() {
     const sony = document.getElementById("sony");
     if (!disneyPlus || !mcu || !sony) { return; }
 
-    setDependentState("disneyplus", ["mcu"], !disneyPlus.checked);
-
     const mcuChildren = ["whatif", "phase1", "phase2", "phase3", "phase4", "phase5", "phase6"];
-    const disableMcuChildren = !(disneyPlus.checked && mcu.checked);
-    setDependentState("mcu", mcuChildren, disableMcuChildren);
+    setDependentState("disneyplus", ["mcu"], !disneyPlus.checked);
+    setDependentState("mcu", mcuChildren, !disneyPlus.checked || !mcu.checked);
 
     const sonyChildren = ["sonyverse", "raimi", "webb"];
     setDependentState("sony", sonyChildren, !sony.checked);
